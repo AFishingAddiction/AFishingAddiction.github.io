@@ -1,0 +1,11 @@
+---
+1:
+  species: Largemouth Bass
+  lure: plastic worm on a shaky head
+  temperature: 79F
+  water_clarity: Clear
+  location:
+    description: Ohio Erie Canal south of Wilbeth Road
+    address: "2299 Nesmith Lake Boulevard, Akron, OH 44314, USA"
+    latitude: "41.03626542546072"
+    longitude: "-81.53875075526423"

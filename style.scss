@@ -269,6 +269,34 @@ nav {
     text-transform: uppercase;
     font-size: 15px;
   }
+  dl.gallery-item {
+    float: left;
+    margin: 5px;
+  }
+}
+
+.catch {
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #dddddd;
+    td {
+      border: 1px solid #dddddd;
+      padding: .8em;
+    }
+    .google-map {
+      position: relative;
+      padding-bottom: 75%;
+      overflow: hidden;
+      iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100% !important;
+        height: 100% !important;
+      }
+    }
+  }
 }
 
 .wrapper-footer {

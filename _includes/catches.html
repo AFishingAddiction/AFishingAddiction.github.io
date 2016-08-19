@@ -1,0 +1,43 @@
+{% if page.catch_ids %}
+  <h3>Catch Data</h3>
+  {% for catch_id in page.catch_ids %}
+    {% assign catch = site.data.catches[catch_id] %}
+
+    <div class="catch">
+      <table>
+        {% if catch.species %}
+        <tr>
+          <td class="label">Species</td>
+          <td>{{ catch.species }}</td>
+        </tr>
+        {% endif %}
+        {% if catch.lure %}
+        <tr>
+          <td class="label">Lure</td>
+          <td>{{ catch.lure }}</td>
+        </tr>
+        {% endif %}
+        {% if catch.temperature %}
+        <tr>
+          <td class="label">Air Temperature</td>
+          <td>{{ catch.temperature }}</td>
+        </tr>
+        {% endif %}
+        {% if catch.water_clarity %}
+        <tr>
+          <td class="label">Water Clarity</td>
+          <td>{{ catch.water_clarity }}</td>
+        </tr>
+        {% endif %}
+        {% if catch.location %}
+        <tr>
+          <td class="label" colspan="2">
+          Location: {{ catch.location.description }}<br/>
+          <div class="google-map"><iframe src="//maps.google.com/maps?t=p&amp;q={{ catch.location.latitude }}%2C{{ catch.location.longitude }}&amp;z=14&amp;output=embed"></iframe></div>
+          </td>
+        </tr>
+        {% endif %}
+      </table>
+    </div>
+  {% endfor %}
+{% endif %}
