@@ -2,7 +2,7 @@
 wp-id: 364
 title: 5 Bank Fishing Tips
 date: 2014-06-17T15:38:37+00:00
-author: Dan Schaefer
+author: dan
 excerpt: "Whether you are like me and walk along the bank, constantly trying to find good spots, or if you have that one spot that you fish all day, follow these bank fishing tips to make your experience much better."
 layout: post
 wp-guid: http://www.afishingaddiction.com/?p=364

@@ -2,6 +2,7 @@
 layout: default
 ---
 
+{% assign author = site.data.people[page.author] %}
 <article class="post">
   <h1>{{ page.title }}</h1>
 
@@ -10,7 +11,7 @@ layout: default
   </div>
 
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }} by {{ page.author }}
+    Written on {{ page.date | date: "%B %e, %Y" }} by {{ author.name }}
   </div>
 
   {% include disqus.html %}
