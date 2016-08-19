@@ -35,7 +35,7 @@ You&#8217;d be surprised how small of a fish you can catch on a larger lure. I w
 <div id='gallery-10' class='gallery galleryid-282 gallery-columns-3 gallery-size-medium'>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <img width="225" height="300" src="/images/a-canal-bass.jpg" class="attachment-medium" alt="A canal bass" />
+      <img width="225" height="300" src="/images/a-canal-bass-225x300.jpg" class="attachment-medium" alt="A canal bass" />
     </dt>
   </dl>
   

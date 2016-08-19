@@ -4,6 +4,8 @@
   lure: plastic worm on a shaky head
   temperature: 79F
   water_clarity: Clear
+  images:
+    - /images/a-canal-bass-225x300.jpg
   location:
     description: Ohio Erie Canal south of Wilbeth Road
     address: "2299 Nesmith Lake Boulevard, Akron, OH 44314, USA"
