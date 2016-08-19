@@ -24,7 +24,7 @@ It is also convenient when it comes to storage. In my garage, I have 2 bolts on 
 
 ## Tip #2: Carry a Tackle Bag
 
-<img class="aligncenter size-medium wp-image-392" src="../../../../images/green-tackle-bag.jpg" alt="Green Tackle Bag" width="300" height="300" />
+<img class="aligncenter size-medium wp-image-392" src="/images/green-tackle-bag.jpg" alt="Green Tackle Bag" width="300" height="300" />
 
 Along with carrying multiple rods, you will also want to carry a tackle bag. Having one of these will allow you to carry a multitude of lures, hooks, weights, jigs, etc. Rather than having to trek back to your vehicle for needed tackle or even having to cut your trip short, all of the necessities will be available to you at your fishing spot.
 
@@ -32,7 +32,7 @@ The bag I carry can hold up to 3 containers in the large section. It also has 3 
 
 ## Tip #3: Use Polarized Sunglasses
 
-<img class="aligncenter wp-image-385 size-medium" title="Polarized Sunglasses" src="../../../../images/polarized-sunglasses.jpg" alt="Polarized Sunglasses" width="300" height="192" />
+<img class="aligncenter wp-image-385 size-medium" title="Polarized Sunglasses" src="/images/polarized-sunglasses.jpg" alt="Polarized Sunglasses" width="300" height="192" />
 
 Polarized sunglasses are a must for _any_ type of fishing, but especially for bank fishing. Even on a cloudy day and in the evenings, they cut down on the glare from the water dramatically and allow you to see further into the water. This is crucial when _spot fishing_. You would be surprised at how many fish you can see or how much underwater detail you can see with the.
 
