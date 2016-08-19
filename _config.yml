@@ -9,7 +9,7 @@ name: A Fishing Addiction
 description: A blog about my fishing adventures
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars0.githubusercontent.com/u/533562
+avatar: 'https://avatars0.githubusercontent.com/u/533562'
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email: 
   facebook: 
   flickr:
-  github: afishingaddiction/afishingaddiction
+  github: afishingaddiction/afishingaddiction.github.io
   instagram:
   linkedin:
   pinterest:
