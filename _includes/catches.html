@@ -5,6 +5,12 @@
 
     <div class="catch">
       <table>
+        {% if catch.date %}
+        <tr>
+          <td class="label">Date</td>
+          <td>{{ catch.date | date: "%A, %B %d, %Y" }}</td>
+        </tr>
+        {% endif %}
         {% if catch.species %}
         <tr>
           <td class="label">Species</td>

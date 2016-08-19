@@ -1,8 +1,6 @@
 ---
 wp-id: 282
 title: 3 Largemouth Bass Observations
-date:
-  - 20140531
 author: dan
 excerpt: It was gorgeous weather on the last day of May and a great day to go fishing. During the little fishing time I had, I made a few observations about the largemouth bass I caught and was attempting to catch.
 layout: post

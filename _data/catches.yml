@@ -1,5 +1,6 @@
 ---
 1:
+  date: '2014-05-31'
   species: Largemouth Bass
   lure: plastic worm on a shaky head
   temperature: 79F
@@ -11,3 +12,16 @@
     address: "2299 Nesmith Lake Boulevard, Akron, OH 44314, USA"
     latitude: "41.03626542546072"
     longitude: "-81.53875075526423"
+2:
+  date: '2012-05-12'
+  species: Smallmouth Bass
+  lure: KVD sexy shad crankbait
+  temperature: High 73
+  water_clarity: Murky
+  images:
+    - /images/Mosquito-Lake-bass-300x534.jpg
+  location:
+    description: Mosquito Lake
+    address: "5238 Cottage Drive, Cortland, OH 44410, USA"
+    latitude: "41.349655974398864"
+    longitude: "-80.76247215270996"
