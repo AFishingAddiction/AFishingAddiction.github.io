@@ -40,3 +40,15 @@
     address: ""
     latitude: "41.1248428"
     longitude: "-81.52037150000001"
+
+4:
+  date: 2012-03-18
+  species: Muskie
+  lure: a small tube
+  temperature: Unknown
+  water_clarity: Clear
+  location:
+    description: Mogadore Reservoir
+    address: "1556 Saxe Road, Mogadore, OH 44260, USA"
+    latitude: "41.0616311804047"
+    longitude: "-81.33798837661743"
