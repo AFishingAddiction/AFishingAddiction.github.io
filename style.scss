@@ -151,6 +151,12 @@ img {
 //
 
 .wrapper-masthead {
+  max-width: 960px;
+  margin: auto;
+
+  .container {
+      padding: 0;
+  }
 }
 
 .masthead {
@@ -237,8 +243,8 @@ nav {
 }
 
 .main-nav {
-  margin: 0px auto;
-  padding: 0 24px;
+  max-width: 960px;
+  margin: auto;
   clear: both;
 
   .menu {
