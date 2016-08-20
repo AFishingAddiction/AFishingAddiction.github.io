@@ -18,15 +18,15 @@ html {
 }
 
 body {
-	background: $white;
+  background: $lightGray;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
 .container {
-  margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
+  margin: 0;
+  max-width: 960px;
+  padding: 0 25px;
   width: 100%;
 }
 
@@ -151,11 +151,10 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
 }
 
 .masthead {
-  padding: 20px 0;
+  padding-top: 20px;
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
@@ -194,16 +193,17 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
-  font-weight: 300;
+  font-family: $helvetica;
+  font-weight: bold;
   font-size: 28px;
-  letter-spacing: 1px;
+  line-height: 28px;
+  padding-top: 18px;
 }
 
 .site-description {
-  margin: -5px 0 0 0;
-  color: $gray;
-  font-size: 16px;
+  margin: 9px 0;
+  color: $grayLightGray;
+  font-size: 12px;
 
   @include mobile {
     margin: 3px 0;
@@ -212,15 +212,14 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin: 10px 0;
   font-family: $helveticaNeue;
-  font-size: 18px;
+  font-size: 11px;
 
   @include mobile {
     float: none;
     margin-top: 9px;
     display: block;
-    font-size: 16px;
   }
 
   a {
@@ -237,9 +236,67 @@ nav {
   }
 }
 
+.main-nav {
+  margin: 0px auto;
+  padding: 0 24px;
+  clear: both;
+
+  .menu {
+    min-height: 0;
+    height: 45px;
+    display: block;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #585858;
+    background-image: -webkit-linear-gradient(top, #585858, #3d3d3d);
+
+    ul {
+      min-height: 0;
+      display: block;
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    .menu-item li {
+      border: 0;
+      display: block;
+      float: left;
+      margin: 0;
+      padding: 0;
+      position: relative;
+      z-index: 5;
+    }
+
+    a {
+      color: $white;
+      cursor: pointer;
+      display: block;
+      font-size: 13px;
+      font-weight: 700;
+      height: 45px;
+      line-height: 45px;
+      margin: 0;
+      padding: 0 0.9em;
+      position: relative;
+      text-decoration: none;
+      text-shadow: 0 -1px 0 #000000;
+      white-space: nowrap;
+    }
+  }
+}
+
 //
 // .main
 //
+
+#main {
+  background-color: $white;
+  border-radius: 4px;
+  margin: 20px auto 20px auto;
+  padding: 0 20px 20px 20px;
+}
 
 .posts > .post {
   padding-bottom: 2em;

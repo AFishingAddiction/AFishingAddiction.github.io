@@ -19,17 +19,24 @@
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+
+          <nav>
+            <a href="{{ site.baseurl }}/">Home</a>
+          </nav>
 
           <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
             <p class="site-description">{{ site.description }}</p>
           </div>
 
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-          </nav>
         </header>
+      </div>
+    </div>
+    <div class="wrapper-main-nav">
+      <div class="main-nav">
+        <ul id="menu-primary-menu" class="menu">
+          <li class="menu-item"><a href="/">Home</a></li>
+        </ul>
       </div>
     </div>
 
