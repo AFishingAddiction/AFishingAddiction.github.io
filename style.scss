@@ -314,6 +314,14 @@ nav {
   border-bottom: none;
 }
 
+.posts {
+    .post {
+        .date {
+          margin: -5px 0 10px;
+        }
+    }
+}
+
 .post {
   color: $grayDarkGray;
   font-size: 14px;
@@ -321,10 +329,6 @@ nav {
   h1 {
     font-size: 36px;
     margin-bottom: 0;
-  }
-
-  .date {
-      margin: -5px 0 10px;
   }
 
   blockquote {
