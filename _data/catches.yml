@@ -52,3 +52,18 @@
     address: "1556 Saxe Road, Mogadore, OH 44260, USA"
     latitude: "41.0616311804047"
     longitude: "-81.33798837661743"
+
+5:
+  date: 2012-03-14
+  species: Largemouth Bass
+  lure: Berkeley Gulp chartreuse minnow
+  temperature: Unknown
+  water_clarity: Clear
+  images:
+    - /images/a-mid-march-largemouth-bass-1456x2592.jpg
+    - /images/another-mid-march-largemouth-bass-1456x2592.jpg
+  location:
+    description: Small pond near Wingfoot Lake
+    address: "1072 Glenview Drive, Mogadore, OH 44260, USA"
+    latitude: "41.01728167977064"
+    longitude: "-81.35428867777102"
