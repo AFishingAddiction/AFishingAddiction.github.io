@@ -21,7 +21,9 @@
         <header class="masthead clearfix">
 
           <nav>
-            <a href="{{ site.baseurl }}/">Home</a>
+          {% for navlink in site.navlinks %}
+            <a href="{{ navlink.url }}">{{ navlink.text }}</a></li>
+          {% endfor %}
           </nav>
 
           <div class="site-info">
@@ -35,7 +37,9 @@
     <div class="wrapper-main-nav">
       <div class="main-nav">
         <ul id="menu-primary-menu" class="menu">
-          <li class="menu-item"><a href="/">Home</a></li>
+          {% for navlink in site.navlinks %}
+          <li class="menu-item"><a href="{{ navlink.url }}">{{ navlink.text }}</a></li>
+          {% endfor %}
         </ul>
       </div>
     </div>

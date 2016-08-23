@@ -68,6 +68,18 @@
     latitude: "41.01728167977064"
     longitude: "-81.35428867777102"
 
+6:
+  date: 2011-12-21
+  species: Smallmouth Bass
+  lure: Unknown
+  temperature: Cold
+  water_clarity: Clear
+  location:
+    description: Ohio Power Company pond mb-165
+    address: "Ohio 83, McConnelsville, OH 43756, USA"
+    latitude: "39.728322508307215"
+    longitude: "-81.71374530730134"
+
 7:
   date: 2011-08-25
   species: Crappie
