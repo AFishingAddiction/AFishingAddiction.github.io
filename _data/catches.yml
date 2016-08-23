@@ -91,3 +91,15 @@
     address: "5588 Massillon Road, North Canton, OH 44720, USA"
     latitude: "40.911485618365674"
     longitude: "-81.46481883201602"
+
+8:
+  date: 2011-07-31
+  species: Largemouth Bass
+  lure: black slug on a Texas rig
+  temperature: Unknown
+  water_clarity: Clear
+  location:
+    description: Horseshow Pond in Southgate Park
+    address: ''
+    latitude: "40.912619"
+    longitude: "-81.46879100000001"
