@@ -58,8 +58,10 @@ permalink: /:title/
 navlinks:
   - text: Home
     url: /
-  - text: My AEP Fishing Map
+  - text: AEP Fishing Map
     url: /aep-fishing-map/
+  - text: Lake Erie Fishing Map
+    url: /lake-erie-fishing-map/
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
