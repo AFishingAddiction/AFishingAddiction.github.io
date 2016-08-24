@@ -103,3 +103,15 @@
     address: ''
     latitude: "40.912619"
     longitude: "-81.46879100000001"
+
+9:
+  date: 2011-07-16
+  species: Largemouth Bass
+  lure: Unknown
+  temperature: Unknown
+  water_clarity: Unknown
+  location:
+    description: Small pond near Wingfoot Lake
+    address: "1072 Glenview Drive, Mogadore, OH 44260, USA"
+    latitude: "41.017474"
+    longitude: "-81.3545512"
