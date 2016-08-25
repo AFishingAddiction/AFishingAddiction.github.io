@@ -216,6 +216,10 @@ img {
   }
 }
 
+nav > a:first-child {
+  border-left: none;
+}
+
 nav {
   float: right;
   margin: 10px 0;
@@ -229,11 +233,12 @@ nav {
   }
 
   a {
-    margin-left: 15px;
+    padding: 0 8px;
     color: $darkGray;
     text-align: right;
     font-weight: 300;
-    letter-spacing: 1px;
+    /*letter-spacing: 1px;*/
+    border-left: 1px solid #cccccc;
 
     @include mobile {
       margin: 0 10px;
@@ -246,6 +251,10 @@ nav {
   max-width: 960px;
   margin: auto;
   clear: both;
+
+  .menu > li:first-child > a {
+    border-left: none;
+  }
 
   .menu {
     min-height: 0;
@@ -289,6 +298,7 @@ nav {
       text-decoration: none;
       text-shadow: 0 -1px 0 #000000;
       white-space: nowrap;
+      border-left: 1px solid #585858;
     }
   }
 }

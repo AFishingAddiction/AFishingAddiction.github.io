@@ -19,7 +19,7 @@ avatar: '' #https://avatars0.githubusercontent.com/u/533562
 footer-links:
   dribbble:
   email: 
-  facebook: 
+  facebook: danschaefer13
   flickr:
   github: afishingaddiction/afishingaddiction.github.io
   instagram:
@@ -29,7 +29,7 @@ footer-links:
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  googleplus: 112420365100913161411 # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: 'UA-16096735-3'
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
