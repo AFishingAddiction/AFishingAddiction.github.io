@@ -367,6 +367,18 @@ nav {
   }
 }
 
+.page {
+  .author-profile {
+    min-height: 300px;
+    div {
+      .profile-image {
+        float: left;
+        margin: 0 15px 15px 0;
+      }
+    }
+  }
+}
+
 .google-map {
   position: relative;
   padding-bottom: 75%;

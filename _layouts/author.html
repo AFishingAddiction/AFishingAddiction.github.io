@@ -3,5 +3,9 @@ layout: page
 ---
 {% assign profile = site.data.people[page.profile] %}
 
-{{ profile.bio }}
-
+<div class="author-profile">
+    <div>
+        <img src="{{ profile.profile_image }}" alt="{{ profile.name }} profile picture" class="profile-image" />
+    </div>
+    <div>{{ profile.bio }}</div>
+</div>
