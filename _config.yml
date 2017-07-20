@@ -58,13 +58,16 @@ permalink: /:title/
 navlinks:
   - text: Home
     url: /
-  - text: Akron Area Fishing Map
-    url: /akron-area-fishing-map/
-  - text: Lake Erie Fishing Map
-    url: /lake-erie-fishing-map/
-  - text: AEP Fishing Map
-    url: /aep-fishing-map/
-  - text: Author
+  - text: Maps
+    url: '#'
+    subnav:
+    - text: Akron Area
+      url: /akron-area-fishing-map/
+    - text: Lake Erie
+      url: /lake-erie-fishing-map/
+    - text: AEP
+      url: /aep-fishing-map/
+  - text: Bio
     url: /authors/dan-schaefer/
 
 include: ['_pages']

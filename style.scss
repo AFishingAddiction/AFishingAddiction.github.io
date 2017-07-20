@@ -247,58 +247,66 @@ nav {
   }
 }
 
-.main-nav {
-  max-width: 960px;
-  margin: auto;
+#menu-primary-menu {
+  border-radius: 5px;
   clear: both;
+  margin: auto;
+  max-width: 960px;
 
-  .menu > li:first-child > a {
-    border-left: none;
+  #menu-button {
+    display: none;
   }
-
-  .menu {
-    min-height: 0;
-    height: 45px;
+  ul {
     display: block;
+    padding-left: 20px;
+    height: 45px;
+    background-color: $grayDarkGray;
+    border-radius: 5px;
     list-style-type: none;
-    margin: 0;
-    padding: 0;
-    background-color: #585858;
-    background-image: -webkit-linear-gradient(top, #585858, #3d3d3d);
 
-    ul {
-      min-height: 0;
+    .has-sub:hover > ul.submenu {
       display: block;
-      list-style-type: none;
-      margin: 0;
-      padding: 0;
     }
 
-    li.menu-item {
-      border: 0;
-      display: block;
-      float: left;
-      margin: 0;
-      padding: 0;
+    li {
+      display: inline-block;
+      background-color: $grayDarkGray;
       position: relative;
-      z-index: 5;
-    }
+      z-index: 100;
 
-    a {
-      color: $white;
-      cursor: pointer;
-      display: block;
-      font-size: 13px;
-      font-weight: 700;
-      height: 45px;
-      line-height: 45px;
-      margin: 0;
-      padding: 0 0.9em;
-      position: relative;
-      text-decoration: none;
-      text-shadow: 0 -1px 0 #000000;
-      white-space: nowrap;
-      border-left: 1px solid #585858;
+      a {
+        color: $white;
+        cursor: pointer;
+        display: block;
+        font-size: 13px;
+        font-weight: 700;
+        height: 45px;
+        line-height: 45px;
+        margin: 0;
+        padding: 0 1em;
+        position: relative;
+        text-decoration: none;
+        text-shadow: 0 -1px 0 #000000;
+        white-space: nowrap;
+        border-left: 1px solid #585858;
+      }
+
+      ul.submenu {
+        display: none;
+        margin: 0;
+        padding: 0;
+        width: 150px;
+        position: absolute;
+        top: 45px;
+        left: 0px;
+
+        li {
+          display: block;
+          float: none;
+          margin: 0;
+          padding:0;
+        }
+      }
     }
   }
 }
@@ -369,7 +377,7 @@ nav {
 
 .page {
   .author-profile {
-    min-height: 300px;
+    min-height: 250px;
     div {
       .profile-image {
         float: left;
