@@ -1,10 +1,8 @@
 ---
-wp-id: 184
 title: A Few Mid-March Largemouth Bass
 author: dan
 layout: post
-wp-guid: http://www.afishingaddiction.com/?p=184
-permalink: /2014/03/10/a-few-mid-march-largemouth-bass/
+redirect_from: /2014/03/10/a-few-mid-march-largemouth-bass/
 catch_ids:
   - 5
 categories:

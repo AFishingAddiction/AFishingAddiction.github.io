@@ -1,10 +1,8 @@
 ---
-wp-id: 37
 title: My First Fishing Injury
 author: dan
 layout: post
-wp-guid: http://www.afishingaddiction.com/?p=37
-permalink: /2014/02/12/my-first-fishing-injury/
+redirect_from: /2014/02/12/my-first-fishing-injury/
 catch_ids:
   - 8
 categories:

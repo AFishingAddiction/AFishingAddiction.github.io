@@ -1,10 +1,8 @@
 ---
-wp-id: 200
-title: My first Smallmouth Bass
+title: My First Smallmouth Bass
 author: dan
 layout: post
-wp-guid: http://www.afishingaddiction.com/?p=200
-permalink: /2014/03/17/my-first-smallmouth-bass/
+redirect_from: /2014/03/17/my-first-smallmouth-bass/
 catch_ids:
   - 3
 categories:

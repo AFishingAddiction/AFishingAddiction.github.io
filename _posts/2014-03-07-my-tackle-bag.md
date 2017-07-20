@@ -1,11 +1,9 @@
 ---
-wp-id: 165
 title: My Tackle Bag
 date: 2014-03-07T07:12:02+00:00
 author: dan
 layout: post
-wp-guid: http://www.afishingaddiction.com/?p=165
-permalink: /2014/03/07/my-tackle-bag/
+redirect_from: /2014/03/07/my-tackle-bag/
 categories:
   - Tackle
 tags:
