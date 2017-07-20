@@ -20,12 +20,6 @@
       <div class="container">
         <header class="masthead clearfix">
 
-          <nav>
-          {% for navlink in site.navlinks %}
-            <a href="{{ navlink.url }}">{{ navlink.text }}</a></li>
-          {% endfor %}
-          </nav>
-
           <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
             <p class="site-description">{{ site.description }}</p>
@@ -35,10 +29,19 @@
       </div>
     </div>
     <div class="wrapper-main-nav">
-      <div class="main-nav">
-        <ul id="menu-primary-menu" class="menu">
+      <div id="menu-primary-menu" class="main-nav cssmenu dropdown">
+        <div id="menu-button">Menu</div>
+        <ul class="menu" style=display: block;">
           {% for navlink in site.navlinks %}
-          <li class="menu-item"><a href="{{ navlink.url }}">{{ navlink.text }}</a></li>
+          <li class="menu-item {% if navlink.subnav %}has-sub{% endif %}"><a href="{{ navlink.url }}">{{ navlink.text }}</a>
+          {% if navlink.subnav %}
+            <ul class="menu submenu">
+          {% for subnavlink in navlink.subnav %}
+              <li class="menu-item"><a href="{{ subnavlink.url }}">{{ subnavlink.text }}</a>
+          {% endfor %}
+            </ul>
+          {% endif %}
+          </li>
           {% endfor %}
         </ul>
       </div>
