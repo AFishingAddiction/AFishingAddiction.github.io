@@ -1,10 +1,8 @@
 ---
-wp-id: 72
 title: My First Crappie
 author: dan
 layout: post
-wp-guid: http://www.afishingaddiction.com/?p=72
-permalink: /2014/02/28/my-first-crappie/
+redirect_from: /2014/02/28/my-first-crappie/
 catch_ids:
   - 7
 categories:

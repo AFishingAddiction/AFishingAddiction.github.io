@@ -1,10 +1,8 @@
 ---
-wp-id: 189
 title: My First Muskie
 author: dan
 layout: post
-wp-guid: http://www.afishingaddiction.com/?p=189
-permalink: /2014/03/11/my-first-muskie/
+redirect_from: /2014/03/11/my-first-muskie/
 catch_ids:
   - 4
 categories:

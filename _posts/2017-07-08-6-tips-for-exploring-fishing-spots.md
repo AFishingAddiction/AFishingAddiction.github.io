@@ -2,9 +2,8 @@
 title: 6 Tips for Exploring Fishing Spots
 date: 2017-07-08T07:30:00+05:00
 author: dan
-excerpt: "Visiting the same fishing spot over and over can become boring. Sometimes you just need some new scenery, a new challenge, or maybe just something closer to home. This is a good opportunity to start exploring new ponds, rivers, and lakes. I've got a few tips that will make this process easier and more enjoyable."
 layout: post
-permalink: /2017/07/08/6-tips-for-exploring-fishing-spots/
+redirect_from: /2017/07/08/6-tips-for-exploring-fishing-spots/
 categories:
   - Tips
   - Exploring

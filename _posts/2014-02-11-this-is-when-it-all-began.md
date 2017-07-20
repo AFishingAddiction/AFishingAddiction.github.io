@@ -1,10 +1,8 @@
 ---
-wp-id: 10
 title: This is When it All Began
 author: dan
 layout: post
-wp-guid: http://www.afishingaddiction.com/?p=10
-permalink: /2014/02/11/this-is-when-it-all-began/
+redirect_from: /2014/02/11/this-is-when-it-all-began/
 catch_ids:
   - 9
 categories:
