@@ -4,6 +4,7 @@ comments:
   branch: "master"
   commitMessage: "static comment"
   filename: "entry-{@timestamp}"
+  format: "yml"
   generatedFields:
     date:
       type: date
