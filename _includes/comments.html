@@ -1,6 +1,8 @@
 {% if site.comments.enabled %}
 <div id="comments">
     <form class="form-horizontal" method="POST" action="{{ site.comments.form_action }}">
+        <input name="options[redirect]" type="hidden" value="{{ site.url }}/{{ page.slug }}">
+        <input name="options[slug]" type="hidden" value="{{ page.slug }}">
         <fieldset>
 
             <!-- Form Name -->
