@@ -2,7 +2,7 @@
 comments:
   allowedFields: ["name", "email", "message"]
   branch: "master"
-  commitMessage: "static comment"
+  commitMessage: "comment on {options.slug}"
   filename: "entry-{@timestamp}"
   format: "yml"
   generatedFields:
