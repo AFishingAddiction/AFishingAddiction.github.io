@@ -1,0 +1,15 @@
+---
+comments:
+  allowedFields: ["name", "email", "message"]
+  branch: "master"
+  commitMessage: "static comment"
+  filename: "entry-{@timestamp}
+  generatedFields:
+    date:
+      type: date
+      options:
+        format: "timestamp-seconds"
+  moderation: true
+  name: "afishingaddiction.com"
+  path: "_data/comments/{options.slug}"
+  requiredFields: ["name", "message"]
