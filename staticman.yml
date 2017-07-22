@@ -3,7 +3,7 @@ comments:
   allowedFields: ["name", "email", "message"]
   branch: "master"
   commitMessage: "static comment"
-  filename: "entry-{@timestamp}
+  filename: "entry-{@timestamp}"
   generatedFields:
     date:
       type: date
