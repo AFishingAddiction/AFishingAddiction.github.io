@@ -1,0 +1,44 @@
+{% if site.comments.enabled %}
+<div id="comments">
+    <form class="form-horizontal" method="POST" action="{{ site.comments.form_action }}">
+        <fieldset>
+
+            <!-- Form Name -->
+            <h3>Comments</h3>
+
+            <!-- Text input-->
+            <div class="form-group">
+                <label class="col-md-4 control-label" for="fields[name]">Name</label>
+                <div class="col-md-5">
+                    <input id="fields[name]" name="fields[name]" type="text" placeholder="Your Name" class="form-control input-md" required="">
+                </div>
+            </div>
+
+            <!-- Text input-->
+            <div class="form-group">
+                <label class="col-md-4 control-label" for="fields[email]">Email</label>
+                <div class="col-md-5">
+                    <input id="fields[email]" name="fields[email]" type="text" placeholder="Your Email" class="form-control input-md">
+                </div>
+            </div>
+
+            <!-- Textarea -->
+            <div class="form-group">
+                <label class="col-md-4 control-label" for="fields[message]">Message</label>
+                <div class="col-md-4">
+                    <textarea class="form-control" id="fields[message]" name="fields[message]"></textarea>
+                </div>
+            </div>
+
+            <!-- Button -->
+            <div class="form-group">
+                <label class="col-md-4 control-label" for="submit"></label>
+                <div class="col-md-4">
+                    <button id="submit" name="submit" class="btn btn-primary">Send</button>
+                </div>
+            </div>
+
+        </fieldset>
+    </form>
+</div>
+{% endif %}

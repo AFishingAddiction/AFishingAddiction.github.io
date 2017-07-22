@@ -36,6 +36,10 @@ footer-links:
 # You can find your shortname on the Settings page of your Disqus account
 disqus:
 
+comments:
+  enabled: true
+  form_action: "https://api.staticman.net/v2/entry/AFishingAddiction/AFishingAddiction.github.io/master/comments"
+
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: 'UA-16096735-3'
 
