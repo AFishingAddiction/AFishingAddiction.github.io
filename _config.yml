@@ -18,18 +18,18 @@ avatar: '' #https://avatars0.githubusercontent.com/u/533562
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: 
-  facebook: danschaefer13
+  #email: dan@afishingaddiction.com
+  facebook: AFishingAddiction
   flickr:
-  github: afishingaddiction/afishingaddiction.github.io
-  instagram:
+  github: AFishingAddiction/AFishingAddiction.github.io
+  instagram: AFishingAddiction
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: 
+  rss: 'feed.xml'
+  twitter: AFishingAddict
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: 112420365100913161411 # anything in your profile username that comes after plus.google.com/
+  #youtube: channel/UCUmAhj4E2UaaXntpG0dzWOQ
+  #googleplus: 112420365100913161411 # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
