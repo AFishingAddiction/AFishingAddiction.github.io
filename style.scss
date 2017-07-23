@@ -358,10 +358,6 @@ nav {
     font-style: italic;
   }
 
-  .comments {
-    margin-top: 10px;
-  }
-
   .read-more {
     display: block;
     padding-top: 8px;
@@ -420,13 +416,21 @@ nav {
 }
 
 #comments {
+    margin-top: 10px;
     border-top: 1px solid #dddddd;
 
-    div {
-        margin-top: 10px;
-    }
     input, textarea {
         margin-right: 6px;
+    }
+    .comment-block {
+        border: 1px solid $lightGray;
+        padding: 5px;
+        margin-top: 10px;
+        border-radius: 5px;
+        .comment-meta {
+            margin-top: 3px;
+            font-style: italic;
+        }
     }
 }
 
