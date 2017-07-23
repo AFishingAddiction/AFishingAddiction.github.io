@@ -1,12 +1,12 @@
 {% if site.comments.enabled %}
 <div id="comments">
+
+    <!-- Form Name -->
+    <h3>Comments</h3>
     <form class="form-horizontal" method="POST" action="{{ site.comments.form_action }}">
         <input name="options[redirect]" type="hidden" value="{{ site.url }}/{{ page.slug }}">
         <input name="options[slug]" type="hidden" value="{{ page.slug }}">
         <fieldset>
-
-            <!-- Form Name -->
-            <h3>Comments</h3>
 
             <!-- Text input-->
             <div class="form-group">
@@ -42,5 +42,11 @@
 
         </fieldset>
     </form>
+    {% for comment in site.data.comments[page.slug] %}
+    <div class="comment-block">
+        <div class="comment-text">{{ comment[1].message }}</div>
+        <div class="comment-meta">&mdash; {{ comment[1].name }} on {{ comment[1].date | date: '%B %d, %Y' }}</div>
+    </div>
+    {% endfor %}
 </div>
 {% endif %}
