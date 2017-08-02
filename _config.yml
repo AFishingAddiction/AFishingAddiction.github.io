@@ -43,6 +43,13 @@ comments:
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: 'UA-16096735-3'
 
+ads:
+    adsense:
+        client: 'ca-pub-3400524677609512'
+        slots:
+            side_large_skyscraper: #3745020504
+            inline_content: #9329493440
+
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: http://afishingaddiction.com

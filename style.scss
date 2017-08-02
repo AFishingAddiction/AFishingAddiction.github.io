@@ -302,6 +302,32 @@ img {
   border-radius: 4px;
   margin: 20px auto 20px auto;
   padding: 5px 20px 20px 20px;
+
+  #main-content {
+      display: table-cell;
+  }
+
+  .inline-content-ad {
+      display: inline-block;
+      padding: 10px 0;
+      border-top: 1px solid black;
+
+      .adsbygoogle {
+          display: block;
+      }
+  }
+
+  #sidebar-right-ad {
+      display: table-cell;
+      vertical-align: top;
+      padding: 40px 0 0 20px;
+
+      .adsbygoogle {
+          display: inline-block;
+          width: 300px;
+          height: 600px;
+      }
+  }
 }
 
 .posts > .post {
