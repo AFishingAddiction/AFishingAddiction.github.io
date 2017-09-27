@@ -39,6 +39,15 @@ h1, h2, h3, h4, h5, h6 {
   margin: 1em 0 15px;
   padding: 0;
 
+  a {
+    color: inherit;
+  }
+
+  a:hover {
+    color: inherit;
+    text-decoration: underline;
+  }
+
   @include mobile {
     line-height: 1.4;
   }
@@ -46,9 +55,6 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
-  a {
-    color: inherit;
-  }
 }
 
 h2 {
@@ -330,25 +336,29 @@ img {
   }
 }
 
-.posts > .post {
+.posts > .post,
+.videos > .video {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
 }
 
-.posts > .post:last-child {
+.posts > .post:last-child,
+.video > .video:last-child {
   padding-bottom: 1em;
   border-bottom: none;
 }
 
-.posts {
-    .post {
+.posts,
+.videos {
+    .post,
+    .video {
         .date {
           margin: -5px 0 10px;
         }
     }
 }
 
-.post {
+.post, .video {
   color: $grayDarkGray;
   font-size: 14px;
 
@@ -391,7 +401,8 @@ img {
   }
 }
 
-.google-map {
+.google-map,
+.youtube-video {
   position: relative;
   padding-bottom: 75%;
   overflow: hidden;

@@ -28,7 +28,7 @@ footer-links:
   rss: 'feed.xml'
   twitter: AFishingAddict
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  #youtube: channel/UCUmAhj4E2UaaXntpG0dzWOQ
+  youtube: channel/UCUmAhj4E2UaaXntpG0dzWOQ
   #googleplus: 112420365100913161411 # anything in your profile username that comes after plus.google.com/
 
 
@@ -66,6 +66,11 @@ baseurl: ""
 
 permalink: /:title/
 
+collections:
+    videos:
+        output: true
+        permalink: /:collection/:title
+
 navlinks:
   - text: Home
     url: /
@@ -80,6 +85,8 @@ navlinks:
       url: /aep-fishing-map/
   - text: Bio
     url: /authors/dan-schaefer/
+  - text: Videos
+    url: /videos/
 
 include: ['_pages']
 
