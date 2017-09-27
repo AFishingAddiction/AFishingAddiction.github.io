@@ -1,0 +1,22 @@
+---
+layout: page
+title: Videos
+permalink: /videos/
+---
+
+<div class="videos">
+{% for video in site.videos reversed %}
+
+    <div class="video">
+        <h2><a href="{{ video.url }}">{{ video.title }}</a></h2>
+
+            <div class="date">
+              Posted on {{ video.date | date: "%B %e, %Y" }}
+            </div>
+
+            <div class="entry">
+                {{ video.description }}
+            </div>
+    </div>
+{% endfor %}
+</div>
