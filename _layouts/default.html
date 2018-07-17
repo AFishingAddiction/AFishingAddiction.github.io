@@ -21,7 +21,7 @@
         <div id="menu-button">Menu</div>
         <ul class="menu" style=display: block;">
           {% for navlink in site.navlinks %}
-          <li class="menu-item {% if navlink.subnav %}has-sub{% endif %}"><a href="{{ navlink.url }}">{{ navlink.text }}</a>
+          <li class="menu-item {% if navlink.subnav %}has-sub{% endif %}"><a href="{{ navlink.url }}" {% if navlink.target %}target="{{ navlink.target }}"{% endif %}>{{ navlink.text }}</a>
           {% if navlink.subnav %}
             <ul class="menu submenu">
           {% for subnavlink in navlink.subnav %}
