@@ -73,7 +73,7 @@ h4 {
 p {
   margin: 15px 0;
   img.float-left {
-    margin-right: 20px;
+    margin: 0 15px 8px 0;
   }
 }
 
@@ -404,12 +404,6 @@ img {
 .page {
   .author-profile {
     min-height: 250px;
-    div {
-      .profile-image {
-        float: left;
-        margin: 0 15px 15px 0;
-      }
-    }
   }
 }
 
@@ -417,6 +411,7 @@ img {
 .youtube-video {
   position: relative;
   padding-bottom: 75%;
+  margin-top: 12px;
   overflow: hidden;
   iframe {
     position: absolute;
