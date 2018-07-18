@@ -87,9 +87,8 @@ navlinks:
     url: /authors/dan-schaefer/
   - text: Videos
     url: /videos/
-  - text: eBook
-    target: '_blank'
-    url: 'http://bit.ly/2KZvVAW'
+  - text: eBooks
+    url: /ebooks/
 
 include: ['_pages']
 

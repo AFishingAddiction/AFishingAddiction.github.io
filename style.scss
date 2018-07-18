@@ -72,6 +72,9 @@ h4 {
 
 p {
   margin: 15px 0;
+  img.float-left {
+    margin-right: 20px;
+  }
 }
 
 a {
@@ -146,6 +149,15 @@ img {
 
 .clearfix:after {
     clear: both;
+}
+
+.float-left {
+  float: left;
+}
+
+.ext-link .fas {
+  color: $blue;
+  margin-left: 5px;
 }
 
 /*********************/
