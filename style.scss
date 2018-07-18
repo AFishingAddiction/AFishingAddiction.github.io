@@ -151,6 +151,15 @@ img {
     clear: both;
 }
 
+.float-left {
+  float: left;
+}
+
+.ext-link .fas {
+  color: $blue;
+  margin-left: 5px;
+}
+
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
@@ -402,10 +411,6 @@ img {
       }
     }
   }
-}
-
-.float-left {
-  float: left;
 }
 
 .google-map,
