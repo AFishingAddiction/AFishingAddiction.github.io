@@ -72,6 +72,9 @@ h4 {
 
 p {
   margin: 15px 0;
+  img.float-left {
+    margin-right: 20px;
+  }
 }
 
 a {
@@ -399,6 +402,10 @@ img {
       }
     }
   }
+}
+
+.float-left {
+  float: left;
 }
 
 .google-map,
