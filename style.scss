@@ -224,6 +224,15 @@ img {
   font-size: 28px;
   line-height: 28px;
   padding-top: 18px;
+
+  a {
+    color: inherit;
+  }
+
+  a:hover {
+    color: inherit;
+    text-decoration: underline;
+  }
 }
 
 .site-description {

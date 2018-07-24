@@ -1,13 +1,15 @@
 ---
 layout: default
+title: "Blog"
 ---
 
 <div class="posts">
+  <h1>Blog Posts</h1>
   {% for post in site.posts %}
     {% assign author = site.data.people[post.author] %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h2><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
 
       <div class="date">
         Written on {{ post.date | date: "%B %e, %Y" }} by {{ author.name }}

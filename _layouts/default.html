@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <title>{{ site.title }} - {% if page.title %}{{ page.title }}{% endif %}</title>
 
     {% include meta.html %}
 
@@ -9,12 +9,12 @@
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link rel="preload" type="text/css" href="{{ site.baseurl }}/style.css" as="style" onload="this.rel='stylesheet';this.removeAttribute('onload');" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
 
     <link rel="preload" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css" integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous" as="style" onload="this.rel='stylesheet';this.removeAttribute('onload');" />
 
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-    <script src="https://marketingsuite.verticalresponse.com/c/bMSJrwClb4NdyqbIyN9OLw.js"></script>
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <script src="https://marketingsuite.verticalresponse.com/c/bMSJrwClb4NdyqbIyN9OLw.js" async></script>
   </head>
 
   <body>
@@ -23,7 +23,7 @@
         <div id="menu-button">Menu</div>
         <ul class="menu" style=display: block;">
           {% for navlink in site.navlinks %}
-          <li class="menu-item {% if navlink.subnav %}has-sub{% endif %}"><a href="{{ navlink.url }}" {% if navlink.target %}target="{{ navlink.target }}"{% endif %}>{{ navlink.text }}</a>
+	  <li class="menu-item {% if navlink.subnav %}has-sub{% endif %}"><a href="{{ navlink.url }}" {% if navlink.target %}target="{{ navlink.target }}"{% endif %} title="{{ navlink.text }}">{{ navlink.text }}</a>
           {% if navlink.subnav %}
             <ul class="menu submenu">
           {% for subnavlink in navlink.subnav %}
@@ -41,7 +41,7 @@
         <header class="masthead clearfix">
 
           <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+            <div class="site-name"><a href="{{ site.baseurl }}/" title="{{ site.title }}">{{ site.title }}</a></div>
             <p class="site-description">{{ site.description }}</p>
           </div>
 
