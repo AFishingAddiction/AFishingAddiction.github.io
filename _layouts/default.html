@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-us">
   <head>
-    <title>{{ site.title }} - {% if page.title %}{{ page.title }}{% endif %}</title>
+    <title>{{ site.title | remove: ' ' }}: {% if page.title %}{{ page.title }}{% endif %}</title>
 
     {% include meta.html %}
 
@@ -13,8 +13,7 @@
 
     <link rel="preload" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css" integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous" as="style" onload="this.rel='stylesheet';this.removeAttribute('onload');" />
 
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-    <script src="https://marketingsuite.verticalresponse.com/c/bMSJrwClb4NdyqbIyN9OLw.js" async></script>
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title | remove: ' ' }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
   </head>
 
   <body>
@@ -27,7 +26,7 @@
           {% if navlink.subnav %}
             <ul class="menu submenu">
           {% for subnavlink in navlink.subnav %}
-              <li class="menu-item"><a href="{{ subnavlink.url }}">{{ subnavlink.text }}</a>
+	      <li class="menu-item"><a href="{{ subnavlink.url }}" title="{{ subnavlink.text }}">{{ subnavlink.text }}</a>
           {% endfor %}
             </ul>
           {% endif %}
@@ -64,6 +63,7 @@
       </div>
     </div>
 
+    {% include popup_signup_form.html %}
     {% include analytics.html %}
   </body>
 </html>
