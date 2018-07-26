@@ -20,7 +20,7 @@
     <div id="wrapper-main-nav">
       <div id="menu-primary-menu" class="main-nav cssmenu dropdown">
         <div id="menu-button">Menu</div>
-        <ul class="menu" style=display: block;">
+        <ul class="menu">
           {% for navlink in site.navlinks %}
 	  <li class="menu-item {% if navlink.subnav %}has-sub{% endif %}"><a href="{{ navlink.url }}" {% if navlink.target %}target="{{ navlink.target }}"{% endif %} title="{{ navlink.text }}">{{ navlink.text }}</a>
           {% if navlink.subnav %}
