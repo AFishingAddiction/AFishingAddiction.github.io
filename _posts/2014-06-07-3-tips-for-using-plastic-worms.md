@@ -34,6 +34,6 @@ Another reason is that it is simply unnecessary when it comes to hook sets. If t
 
 ## Tip 3: The Worm Can Never Be Too Big
 
-I have mentioned this in a [previous post](/2014/06/02/3-largemouth-bass-observations/ "3 Largemouth Bass Observations") and I still believe in it. Yesterday, I was fishing with a 9&#8243; Zoom&reg; Mag II and caught a small spotted bass barely longer than the worm itself. If you use smaller worms, you will be targeting the smaller fish. But if you use larger worms, you will have a better chance of landing some lunkers and the little guys will bite too.
+I have mentioned this in a <a href="/3-largemouth-bass-observations/" title="3 Largemouth Bass Observations">3 Largemouth Bass Observations</a> and I still believe in it. Yesterday, I was fishing with a 9&#8243; Zoom&reg; Mag II and caught a small spotted bass barely longer than the worm itself. If you use smaller worms, you will be targeting the smaller fish. But if you use larger worms, you will have a better chance of landing some lunkers and the little guys will bite too.
 
 I hope these tips help you out with your fishing game, especially when using plastic worms, regardless of the fishing rig you use.
