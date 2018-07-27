@@ -4,6 +4,7 @@ author: dan
 excerpt: It was gorgeous weather on the last day of May and a great day to go fishing. During the little fishing time I had, I made a few observations about the largemouth bass I caught and was attempting to catch.
 layout: post
 redirect_from: /2014/06/02/3-largemouth-bass-observations/
+excerpt: During the little fishing time I had that day, I made a few largemouth bass observations from the ones I caught and the ones I was attempting to catch.
 categories:
   - Catch
 tags:
@@ -18,12 +19,11 @@ tags:
 catch_ids:
   - 1
 ---
-It was gorgeous weather on the last day of May and a great day to go fishing. I wish I would have started a bit earlier in the day to take full advantage. During the little fishing time I had, I made a few largemouth bass observations from the ones I caught and the ones I was attempting to catch.
+It was gorgeous weather on the last day of May and a great day to go fishing. I wish I would have started a bit earlier in the day to take full advantage. During the little fishing time I had that day, I made a few largemouth bass observations from the ones I caught and the ones I was attempting to catch.
 
 ## Observation #1: Large Lures Also Catch Small Fish
 
 <img class="aligncenter size-medium wp-image-286" src="/images/a-small-bass-on-a-Scum-Frog.jpg" alt="A small bass on a Scum Frog®" width="225" height="300" />
-  
 You&#8217;d be surprised how small of a fish you can catch on a larger lure. I was using a Scum Frog® that afternoon and I caught a bass that I would estimate was less than half a pound. As you can see in the picture above, the lure barely fit into the fish&#8217;s mouth. Larger lures typically catch larger fish, but they can also catch smaller ones too.
 
 ## Observation #2: Bass are Aggressive, but Finicky
@@ -34,19 +34,16 @@ You&#8217;d be surprised how small of a fish you can catch on a larger lure. I w
       <img width="225" height="300" src="/images/a-canal-bass-225x300.jpg" class="attachment-medium" alt="A canal bass" />
     </dt>
   </dl>
-  
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
       <img width="225" height="300" src="/images/mouth-of-a-canal-bass.jpg" class="attachment-medium" alt="Mouth of a canal bass" />
     </dt>
   </dl>
-  
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
       <img width="225" height="300" src="/images/shaky-head-used-on-a-canal-bass.jpg" class="attachment-medium" alt="Shaky head used on a canal bass" />
     </dt>
   </dl>
-  
   <br style="clear: both" />
 </div>
 
