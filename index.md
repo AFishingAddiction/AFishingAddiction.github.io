@@ -2,6 +2,7 @@
 layout: default
 title: "Some Recent Blog Posts"
 excerpt: "Recent blog posts about my fishing adventures in Ohio and some tips for landing the big ones"
+permalink: /
 ---
 
 <div class="posts">
