@@ -3,6 +3,7 @@ title: This is When it All Began
 author: dan
 layout: post
 excerpt: "I caught this in a little pond in Wingfoot Lake Park back in 2011. I was fishing with my brother-in-law that day. Luckily he was there to take the picture, because apparently I had trouble holding it up."
+image: /images/my-first-largemouth-bass-1456x2592.jpg
 redirect_from: /2014/02/11/this-is-when-it-all-began/
 catch_ids:
   - 9
