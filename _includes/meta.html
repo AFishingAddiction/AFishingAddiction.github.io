@@ -3,28 +3,44 @@
     <meta http-equiv="content-language" content="en-us" />
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
-
-    {% if page.excerpt %}
-    <meta name="description" content="{{ page.excerpt| strip_html }}" />
-    <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
-    <meta property="twitter:description" content="{{ page.excerpt| strip_html }}" />
-    {% else %}
-    <meta name="description" content="{{ site.description }}">
-    <meta property="og:description" content="{{ site.description }}" />
-    <meta property="twitter:description" content="{{ site.description }}" />
-    {% endif %}
     <meta name="author" content="{{ site.author }}" />
 
-    {% if page.title %}
-    <meta property="og:title" content="{{ page.title }}" />
-    <meta property="twitter:title" content="{{ page.title }}" />
+    {% if page.excerpt %}
+    {% assign meta_excerpt = page.excerpt | strip_html | strip %}
     {% else %}
-    <meta property="og:title" content="{{ site.title }}" />
-    <meta property="twitter:title" content="{{ site.title }}" />
+    {% assign meta_excerpt = page.description | strip_html | strip %}
     {% endif %}
+    {% if page.title %}
+    {% assign meta_title = page.title %}
+    {% else %}
+    {% assign meta_title  = site.title %}
+    {% endif %}
+    {% if page.author %}
+    {% assign meta_author = site.data.people[page.author].handles.twitter %}
+    {% else %}
+    {% assign meta_author  = site.footer-links.twitter %}
+    {% endif %}
+
+    <meta name="description" content="{{ meta_excerpt }}" />
+
+    <meta property="og:title" content="{{ meta_title }}" />
+    <meta property="og:description" content="{{ meta_excerpt }}" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="{{ site.title }}" />
     <meta property="og:url" content="{{ site.url }}" />
+
+    <meta name="twitter:card" content="{{ meta_excerpt }}" />
+    {% if site.footer-links.twitter %}
+    <meta name="twitter:site" content="@{{ site.footer-links.twitter }}" />
+    {% endif %}
+    <meta name="twitter:title" content="{{ meta_title }}" />
+    <meta name="twitter:description" content="{{ meta_excerpt }}" />
+    {% if meta_author %}
+    <meta name="twitter:creator" content="@{{ meta_author }}" />
+    {% endif %}
+    {% if page.image %}
+    <meta name="twitter:image" content="{{ page.image | absolute_url }}" />
+    {% endif %}
 
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
     <link rel="canonical" href="{{ site.url }}{{ page.url }}"
