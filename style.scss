@@ -176,6 +176,36 @@ img {
 
   .container {
       padding: 0;
+
+    .signup-form {
+      background-color: $blue;
+      padding: 8px;
+      text-align: center;
+      .headline {
+        display: inline-block;
+        color: $white;
+        font-size: 120%;
+      }
+      form.vr-signup-form {
+        max-width: none;
+        padding-top: 4px;
+      }
+      div.vr-field, div.vr-submit {
+        display: inline-block;
+      }
+      @include mobile {
+        div.vr-submit {
+          display: block;
+        }
+      }
+      div.vr-notice {
+        display: block;
+      }
+      .vr-notice-success {
+        color: $white;
+        font-weight: 700;
+      }
+    }
   }
 }
 
@@ -342,6 +372,11 @@ img {
       .adsbygoogle {
           display: block;
       }
+  }
+  #sidebar-right {
+      display: table-cell;
+      padding: 40px 0 0 20px;
+      width: 300px;
   }
 
   #sidebar-right-ad {
