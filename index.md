@@ -9,7 +9,7 @@ permalink: /
   <h1>{{ page.title }}</h1>
   <p>Here are some blog posts I've written with fishing tips and stories of recent fishing trips that have satisfied my fishing addiction.</p>
   {% for post in site.posts %}
-    {% assign author = site.data.people[post.author] %}
+    {% assign author = site.data.authors[post.author] %}
     <article class="post">
 
       <h2><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>

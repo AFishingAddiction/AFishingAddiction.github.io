@@ -1,11 +1,11 @@
 ---
 layout: page
 ---
-{% assign profile = site.data.people[page.profile] %}
+{% assign profile = site.data.authors[page.profile] %}
 
 <div class="author-profile">
     <p>
-        <img src="{{ profile.profile_image }}" alt="{{ profile.name }} profile picture" class="float-left" />
+        <img src="{{ profile.picture }}" alt="{{ profile.name }} profile picture" class="float-left" />
         {{ profile.bio }}
     </p>
 </div>
