@@ -7,6 +7,11 @@ layout: post
 redirect_from: /2014/06/17/5-bank-fishing-tips/
 categories:
   - Tips
+tags:
+  - bank fishing
+  - popular
+  - products
+  - tips
 links:
   rod_carrier: 'https://amzn.to/2NWndBq'
   tackle_bag: 'https://amzn.to/2NZCnG7'

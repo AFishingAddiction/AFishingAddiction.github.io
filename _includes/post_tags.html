@@ -1,0 +1,7 @@
+      <div class="post-tags">
+        {% assign post_tags = include.post_tags | sort %}
+        {% for post_tag in post_tags %}
+        <div class="post-tag">{{ post_tag }}</div>
+        {% endfor %}
+      </div>
+
