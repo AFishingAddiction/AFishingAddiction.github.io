@@ -9,14 +9,12 @@ image: /images/a-canal-bass-225x300.jpg
 categories:
   - Catch
 tags:
-  - artificial worm
+  - topwater
+  - observations
   - bass
   - catch
-  - coordinates
-  - featured
-  - observations
+  - artificial worm
   - Ohio Erie Canal
-  - topwater
 catch_ids:
   - 1
 ---

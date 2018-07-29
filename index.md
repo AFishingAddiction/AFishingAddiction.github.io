@@ -17,6 +17,7 @@ permalink: /
       <div class="date">
         Written on {{ post.date | date: "%B %e, %Y" }} by {{ author.name }}
       </div>
+      {% include post_tags.html post_tags=post.tags %}
 
       <div class="entry">
         {{ post.excerpt }}
