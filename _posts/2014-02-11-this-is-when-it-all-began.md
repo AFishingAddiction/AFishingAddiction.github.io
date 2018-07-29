@@ -12,7 +12,6 @@ categories:
 tags:
   - bass
   - coordinates
-  - featured
   - pond
   - Wingfoot Lake
 ---
