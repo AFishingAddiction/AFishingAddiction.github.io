@@ -18,8 +18,9 @@ permalink: /tags/
 
 <section class="posts-by-tags">
   {% for tag_name in tag_names %}
+    <div id="{{ tag_name | slugify }}" class="tag-anchor"></div>
     <div>
-      <h3 id="{{ tag_name | slugify }}">
+      <h3>
         {{ tag_name | capitalize | replace: "_", " " }}
       </h3>
 
