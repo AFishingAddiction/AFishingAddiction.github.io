@@ -467,6 +467,27 @@ img {
   }
 }
 
+ul.tag-list {
+  li {
+    padding: 4px 0 4px 0;
+    a {
+      color: $primaryFontColor;
+      .tag {
+        text-decoration: underline;
+      }
+      .badge {
+        background: $postTagBgColor;
+        border-radius: 3.75em;
+        display: inline-block;
+        font-size: 0.75em;
+        font-weight: 600;
+        line-height: 1;
+        padding: 0.4em 1.2em;
+      }
+    }
+  }
+}
+
 .google-map,
 .youtube-video {
   position: relative;
