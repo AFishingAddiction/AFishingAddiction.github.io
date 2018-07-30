@@ -5,11 +5,9 @@ author: dan
 excerpt: "Whether you are like me and walk along the bank, constantly trying to find good spots, or if you have that one spot that you fish all day, follow these bank fishing tips to make your experience much better."
 layout: post
 redirect_from: /2014/06/17/5-bank-fishing-tips/
-categories:
-  - Tips
 tags:
-  - bank fishing
   - popular
+  - bank fishing
   - products
   - tips
 links:

@@ -5,14 +5,9 @@ author: dan
 excerpt: "There are many things that you can do to improve your fishing game. Here are a few tips for using plastic worms to help you achieve that goal of catching those lunkers."
 layout: post
 redirect_from: /2014/06/07/3-tips-for-using-plastic-worms/
-categories:
-  - Tips
 tags:
   - plastic worm
-  - salt
-  - shaky head
   - tips
-  - weedless
 ---
 <img src="/images/weedless-worm.jpg" alt="Weedless Worm" width="550" height="295" class="aligncenter size-large wp-image-351" />
 

@@ -6,15 +6,13 @@ layout: post
 redirect_from: /2014/06/02/3-largemouth-bass-observations/
 excerpt: During the little fishing time I had that day, I made a few largemouth bass observations from the ones I caught and the ones I was attempting to catch.
 image: /images/a-canal-bass-225x300.jpg
-categories:
-  - Catch
 tags:
   - topwater
   - observations
   - bass
   - catch
-  - artificial worm
   - Ohio Erie Canal
+  - plastic worm
 catch_ids:
   - 1
 ---

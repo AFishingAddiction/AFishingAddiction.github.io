@@ -7,10 +7,9 @@ image: /images/my-first-largemouth-bass-1456x2592.jpg
 redirect_from: /2014/02/11/this-is-when-it-all-began/
 catch_ids:
   - 9
-categories:
-  - Catch
 tags:
   - bass
+  - catch
   - coordinates
   - pond
   - Wingfoot Lake

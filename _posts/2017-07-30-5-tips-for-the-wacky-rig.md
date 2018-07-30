@@ -3,15 +3,10 @@ title: 5 Tips for the Wacky Rig
 date: 2017-07-30T12:30:00+05:00
 author: dan
 layout: post
-categories:
-  - Tips
-  - Rigging
-  - Worms
-  - Wacky Rig
 tags:
   - tips
   - rigging
-  - worms
+  - plastic worm
   - wacky rig
 ---
 If you're just starting out using the wacky rig, the idea of using it can be...well...wacky. Here are a few tips that will help you out with fishing this type of rig and hopefully will help you catch more bass when using it.
