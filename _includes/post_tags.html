@@ -1,7 +1,7 @@
       <div class="post-tags">
         {% assign post_tags = include.post_tags | sort %}
         {% for post_tag in post_tags %}
-        <a href="/tags/#{{ post_tag | slugify }}" title="Other posts with tag {{ post_tag }}" class="post-tag">{{ post_tag }}</a>
+        <a href="/tags/#{{ post_tag | slugify }}" title="Other posts with tag {{ post_tag }}" class="post-tag"><i class="fas fa-tag"></i> {{ post_tag }}</a>
         {% endfor %}
       </div>
 

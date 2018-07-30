@@ -136,15 +136,10 @@ img {
   .post-tag {
     display: inline-block;
     background: $postTagBgColor;
-    padding: 0 .5rem;
+    padding: 2px .5rem;
     border-radius: 4px;
     margin: .2em .3em;
     color: $postTagFontColor;
-  }
-  .post-tag:before {
-    content: "\f02b";
-    font-family: FontAwesome;
-    padding-right: .5em;
   }
 }
 
