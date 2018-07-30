@@ -5,14 +5,11 @@ layout: post
 redirect_from: /2014/02/12/my-first-fishing-injury/
 catch_ids:
   - 8
-categories:
-  - Uncategorized
 tags:
   - bass
   - Boettler Park
-  - hooks
-  - injury
   - Southgate Park
+  - injury
 ---
 This happened at a small pond in Southgate Park, which is connected to Boettler Park in Green, OH. This was some time ago, but I believe I was using a black slug on a Texas rig. I caught a good sized bass and went to unhook him when he flailed. The hook scraped across my thumb, leaving this cut. I&#8217;m looking at my hand as I write this and I can faintly see the scar.
 
@@ -24,6 +21,5 @@ This temporarily put my day of fishing on hold while I rushed back to my truck, 
       <a href="/images/hook-slice-1456x2592.jpg" rel="lightbox[gallery-2]"><img width="550" height="979" src="/images/hook-slice-575x1024.jpg" class="attachment-large" alt="Hook Slice" /></a>
     </dt>
   </dl>
-  
   <br style="clear: both" />
 </div>

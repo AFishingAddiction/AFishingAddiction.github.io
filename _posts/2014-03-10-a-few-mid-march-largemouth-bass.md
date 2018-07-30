@@ -5,13 +5,9 @@ layout: post
 redirect_from: /2014/03/10/a-few-mid-march-largemouth-bass/
 catch_ids:
   - 5
-categories:
-  - Catch
 tags:
   - bass
-  - Berkeley Gulp
   - catch
-  - coordinates
   - pond
   - Wingfoot Lake
 ---
