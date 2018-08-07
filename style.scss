@@ -204,22 +204,31 @@ img {
         color: $white;
         font-size: 120%;
       }
-      form.vr-signup-form {
+      form.vr-signup-form, form.mc-embedded-subscribe-form {
         max-width: none;
         padding-top: 4px;
       }
-      div.vr-field, div.vr-submit {
+      div.indicates-required {
+        font-size: 90%;
+      }
+      div.vr-field, div.vr-submit, div.mc-field-group, div.mc-submit {
         display: inline-block;
       }
+      input[type=text], input[type=email] {
+        padding: 4px;
+      }
+      input[type=submit] {
+        font-size: 12pt;
+      }
       @include mobile {
-        div.vr-submit {
+        div.vr-submit, div.mc-submit {
           display: block;
         }
       }
-      div.vr-notice {
+      div.vr-notice, div.mce-responses {
         display: block;
       }
-      .vr-notice-success {
+      .vr-notice-success, .mce-success-response {
         color: $white;
         font-weight: 700;
       }
@@ -302,7 +311,6 @@ img {
     z-index: 200;
 
     #menu-primary-menu {
-      border-radius: 5px;
       clear: both;
       margin: auto;
       max-width: 960px;
@@ -317,7 +325,8 @@ img {
         margin: 0;
         height: $mainNavHeight;
         background-color: $primaryColor;
-        border-radius: 5px;
+        border-bottom-right-radius: 5px;
+        border-bottom-left-radius: 5px;
         list-style-type: none;
 
         .has-sub:hover > ul.submenu {
