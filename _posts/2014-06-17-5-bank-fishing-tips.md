@@ -1,9 +1,12 @@
 ---
+layout: post
 title: 5 Bank Fishing Tips
 date: 2014-06-17T15:38:37+00:00
 author: dan
 excerpt: "Whether you are like me and walk along the bank, constantly trying to find good spots, or if you have that one spot that you fish all day, follow these bank fishing tips to make your experience much better."
-layout: post
+image: robson-hatsukami-morgan-335701-unsplash.jpg
+image_alt: Man fishing on a river bank
+image_credit: Photo by Robson Hatsukami Morgan on Unsplash
 redirect_from: /2014/06/17/5-bank-fishing-tips/
 tags:
   - popular
