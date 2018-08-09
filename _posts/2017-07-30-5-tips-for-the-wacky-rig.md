@@ -3,6 +3,8 @@ title: 5 Tips for the Wacky Rig
 date: 2017-07-30T12:30:00+05:00
 author: dan
 layout: post
+image: wacky-rigs.jpg
+image_alt: Wacky Rigs
 tags:
   - tips
   - rigging
