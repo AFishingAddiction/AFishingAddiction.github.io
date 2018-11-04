@@ -401,21 +401,51 @@ img {
       }
   }
   #sidebar-right {
-      display: table-cell;
-      padding: 40px 0 0 20px;
-      width: 300px;
-  }
+    display: table-cell;
+    padding: 20px 0 0 20px;
+    vertical-align: top;
+    position: relative;
+    margin-top: 12px;
+    @include mobile {
+      display: block;
+    }
 
-  #sidebar-right-ad {
+    .ad.custom::before {
+      content: "Advertisement";
+      font-size: 60%;
+      position: absolute;
+      left: 50%;
+      transform: translate(-50%, -12px);
+    }
+
+    #sidebar-right-ad {
       display: table-cell;
       vertical-align: top;
       padding: 40px 0 0 20px;
 
       .adsbygoogle {
-          display: inline-block;
-          width: 300px;
-          height: 600px;
+        display: inline-block;
+        width: 300px;
+        height: 600px;
       }
+    }
+
+    #ad-ltb {
+      position: relative;
+      width: 240px;
+
+      a {
+        color: inherit;
+      }
+
+      .title {
+        font-weight: bold;
+      }
+
+      .description {
+        font-size: 80%;
+      }
+    }
   }
 }
 
