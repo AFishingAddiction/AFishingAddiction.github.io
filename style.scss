@@ -122,6 +122,25 @@ img {
   max-width: 100%;
 }
 
+input[type=submit],
+input[type=text],
+input[type=email] {
+  border-radius: 8px;
+  padding: 6px;
+  border: none;
+}
+
+input[type=text],
+input[type=email] {
+  padding-left: 8px;
+}
+
+input[type=submit] {
+  background-color: #03F;
+  color: white;
+  font-weight: bold;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
@@ -209,13 +228,11 @@ img {
         padding-top: 4px;
       }
       div.indicates-required {
+	margin-top: 4px;
         font-size: 90%;
       }
       div.vr-field, div.vr-submit, div.mc-field-group, div.mc-submit {
         display: inline-block;
-      }
-      input[type=text], input[type=email] {
-        padding: 4px;
       }
       input[type=submit] {
         font-size: 12pt;
