@@ -15,10 +15,6 @@ seo:
   <div class="entry">
     {{ content }}
   </div>
-
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }} by {{ site.data.authors[page.author].name }}
-  </div>
   {% include post_tags.html post_tags=page.tags %}
   {% include catches.html %}
   {% include ads/inline-content.html %}

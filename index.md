@@ -15,9 +15,6 @@ seo:
 
       <h2><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
 
-      <div class="date">
-        Written on {{ post.date | date: "%B %e, %Y" }} by {{ site.data.authors[post.author].name }}
-      </div>
       {% include post_tags.html post_tags=post.tags %}
 
       <div class="entry">

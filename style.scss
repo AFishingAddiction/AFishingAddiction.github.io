@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 
   line-height: 1.7;
-  margin: 1em 0 15px;
+  margin: .5em 0;
   padding: 0;
 
   a {
@@ -146,9 +146,13 @@ input[type=submit] {
   max-width: none;
 }
 
-.date {
-  font-style: italic;
-  color: $gray;
+.post {
+  .date,
+  .author {
+    font-style: italic;
+    color: $gray;
+    margin-bottom: 3px;
+  }
 }
 
 .post-tags {
