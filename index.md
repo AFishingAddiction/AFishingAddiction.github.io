@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Some Recent Blog Posts"
+title: "Bass Fishing Blog"
 excerpt: "Recent blog posts about my fishing adventures in Ohio and some tips for landing the big ones"
 permalink: /
 seo:
