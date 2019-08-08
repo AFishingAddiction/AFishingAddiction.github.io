@@ -1,0 +1,13 @@
+{% if page.related_pages %}
+<div class="related-pages">
+      {% if page.related_pages == "maps" %}
+      <h3>Related Maps</h3>
+      <ul>
+        <li><a href="">Akron</a></li>
+        <li><a href="">Lake Erie</a></li>
+        <li><a href="">AEP</a></li>
+      </ul>
+      {% endif %}
+      {{ site.collections | inspect }}
+</div>
+{% endif %}

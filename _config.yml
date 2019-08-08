@@ -90,6 +90,8 @@ baseurl: ""
 permalink: /:title/
 
 collections:
+    maps:
+        output: true
     videos:
         output: true
         permalink: /:collection/:title

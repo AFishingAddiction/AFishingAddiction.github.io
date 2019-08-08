@@ -1,17 +1,12 @@
 ---
-wp-id: 399
 title: Lake Erie Fishing Map
 description: This Lake Erie map highlights many boat launch ramps, river mouths, notable docks, and underwater structure in the Cleveland, OH area.
 date: 2014-06-22
 author: dan
-layout: page
+layout: map
 permalink: /lake-erie-fishing-map/
-wp-guid: http://www.afishingaddiction.com/?page_id=399
+map_source: https://www.google.com/maps/d/embed?mid=1iL0xIY2iHHgUHleDfh0Sf0qxR8o&hl=en
 ---
-
-<div class="google-map"><iframe src="https://www.google.com/maps/d/embed?mid=1iL0xIY2iHHgUHleDfh0Sf0qxR8o&hl=en" width="640" height="480"></iframe></div>
-
-<h2>Map Description</h2>
 <p>This Lake Erie fishing map contains markers for boat launch ramps, mouths of rivers, notable docks (yacht clubs and marinas for example), and underwater structure. It may also contain some of my recorded catches. These markers range from Cleveland, OH all the way to Toledo. It comes with no guarantee and is for informational purposes only.</p>
 
 <p><small>View <a href="http://www.google.com/maps/ms?msa=0&msid=204931278092854056383.0004dec21fbcc3616bb1f&hl=en&ie=UTF8&ll=41.607417,-82.63298&spn=0.451833,1.600705&t=h&output=embed" style="color:#0000FF;text-align:left">Lake Erie</a> in a larger map</small></p>
