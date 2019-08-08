@@ -102,6 +102,8 @@ navlinks:
     subnav:
     - text: Akron Area
       url: /akron-area-fishing-map/
+    - text: Cleveland Area
+      url: /cleveland-fishing-map/
     - text: Lake Erie
       url: /lake-erie-fishing-map/
     - text: AEP
