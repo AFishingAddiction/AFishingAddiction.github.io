@@ -124,7 +124,8 @@ img {
 
 input[type=submit],
 input[type=text],
-input[type=email] {
+input[type=email],
+.btn {
   border-radius: 8px;
   padding: 6px;
   border: none;
@@ -138,6 +139,14 @@ input[type=email] {
 input[type=submit] {
   background-color: #03F;
   color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.btn-secondary {
+  padding: 10px;
+  background: rgba(106,159,181,0.15);
+  color: #4183C4;
   font-weight: bold;
 }
 
@@ -475,6 +484,7 @@ input[type=submit] {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
+  border-bottom: 1px solid $lightGray;
 
   .popular-page {
     min-width: 212px;
