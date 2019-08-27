@@ -7,6 +7,8 @@ layout: map
 permalink: /akron-area-fishing-map/
 redirect_from: "/my-local-fishing-map/"
 map_source: https://www.google.com/maps/d/embed?mid=1TxFxzv7ZZRIoCN6EImdFsKsdnjQ
+tags:
+  - top
 ---
 <p>My local fishing map contains markers for various ponds, rivers, lakes, and notes for fishing spots in the Akron, Ohio area. It may also contain some of my recorded catches. The map comes with no guarantee and is for informational purposes only.</p>
 

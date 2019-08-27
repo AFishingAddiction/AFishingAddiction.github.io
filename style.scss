@@ -211,7 +211,6 @@ input[type=submit] {
 
 .wrapper-masthead {
   padding-top: 45px;
-  padding-left: 5px;
   max-width: 960px;
   margin: auto;
 
@@ -259,6 +258,7 @@ input[type=submit] {
 
 .masthead {
   padding-top: 20px;
+  padding-left: 5px;
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
@@ -467,6 +467,23 @@ input[type=submit] {
       .description {
         font-size: 80%;
       }
+    }
+  }
+}
+
+.popular-pages-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+
+  .popular-page {
+    min-width: 212px;
+    width: 33.3%;
+    padding: 0 8px 8px;
+
+    h3 {
+      text-align: center;
+      line-height: normal;
     }
   }
 }

@@ -9,7 +9,18 @@ seo:
 
 <div class="posts">
   <h1>{{ page.title }}</h1>
-  <p>Here are some blog posts I've written with fishing tips and stories of recent fishing trips that have satisfied my fishing addiction.</p>
+  <h2>Popular Pages</h2>
+  <div class="popular-pages-container">
+    {% for page in site.documents %}
+    {% if page.tags contains "top" %}
+    <div class="popular-page">
+      <h3><a href="{{ page.url}}">{{ page.title }}</a></h3>
+      {{ page.description | default page.excerpt }}
+      <p><a class="btn btn-secondary" href="{{ page.url}}" role="button">View details »</a></p>
+    </div>
+    {% endif %}
+    {% endfor %}
+  </div>
   {% for post in site.posts %}
     <article class="post">
 
