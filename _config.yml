@@ -124,10 +124,6 @@ defaults:
       path: pinterest-ecd6b.html
     values:
       sitemap: false
-  - scope:
-      path: 404/*
-    values:
-      sitemap: false
 
 
 # The release of Jekyll Now that you're using
