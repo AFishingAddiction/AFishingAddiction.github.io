@@ -8,7 +8,6 @@ image_alt: "Map on a phone"
 image_credit: "Photo by Linda Söndergaard on Unsplash"
 redirect_from: /2017/07/08/6-tips-for-exploring-fishing-spots/
 tags:
-  - popular
   - tips
   - exploring
 ---

@@ -7,7 +7,6 @@ redirect_from: /2014/03/03/my-first-aep-adventure/
 catch_ids:
   - 6
 tags:
-  - popular
   - bass
   - catch
   - AEP

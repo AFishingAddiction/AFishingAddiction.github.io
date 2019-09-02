@@ -9,7 +9,6 @@ image_alt: Bank fishing tips
 image_credit: Photo by Robson Hatsukami Morgan on Unsplash
 redirect_from: /2014/06/17/5-bank-fishing-tips/
 tags:
-  - popular
   - bank fishing
   - products
   - tips

@@ -6,6 +6,7 @@ permalink: /aep-fishing-map/
 map_source: https://www.google.com/maps/d/embed?mid=13pP_fw4Hssk4gAmd3zHfpQmWFrA
 tags:
   - top
+  - map
 ---
 <p>My AEP fishing map contains markers for various ponds, campsites, and some of my notes. It may also contain some of my recorded catches. The map comes with no guarantee and is for informational purposes only.</p>
 

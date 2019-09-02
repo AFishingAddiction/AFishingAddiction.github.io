@@ -7,6 +7,8 @@ layout: map
 permalink: /cleveland-fishing-map/
 needed keywords:
   - cuyahoga river fishing spots
+tags:
+  - map
 map_source: https://www.google.com/maps/d/embed?mid=1mr4nPNRNYI3sG9vey1Js3KQR8ljUYnJw
 ---
 <p>This map contains various fishing spots in Cleveland and is a work-in-progress. I've started compiling a list of these spots by first identifying and marking them in Google Maps. I have been visiting these places to scope them out first and making notes and adding them to the map. I don't bring any equipment because some of them are a reasonable distance from where I can park and I don't want to drag my equipment with me if I'm not sure if the trip will be fruitful.</p>
