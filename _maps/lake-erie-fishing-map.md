@@ -1,5 +1,5 @@
 ---
-title: Lake Erie Fishing Map
+title: Fishing Map of Lake Erie
 description: This Lake Erie map highlights many boat launch ramps, river mouths, notable docks, and underwater structure in the Cleveland, OH area.
 date: 2014-06-22
 author: dan
