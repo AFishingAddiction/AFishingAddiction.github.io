@@ -6,4 +6,5 @@ youtube:
   id: G1oGG2Q_Mow
 tags:
   - exploring
+  - video
 ---
