@@ -2,5 +2,15 @@
 layout: page
 ---
 <div class="google-map"><iframe src="{{ page.map_source }}"></iframe></div>
-<h2>About This Map</h2>
 {{ content }}
+
+{% for content in page.map_contents %}
+<h2>{{ content.name }}</h2>
+<ul>
+  {% assign sorted_items = content.items | sort: "city" %}
+  {% for item in  sorted_items %}
+  {% if item.url %}{% capture list_item %}<a href="{{ item.url }}" target="_blank">{{ item.name }}</a>{% endcapture %}{% else %}{% assign list_item = item.name %}{% endif %}
+  <li>{{ list_item }} <small>(<a href="{{ item.url }}" target="_blank">map</a>)</small> in {{ item.city }}</li>
+  {% endfor %}
+</ul>
+{% endfor %}
