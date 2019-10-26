@@ -40,6 +40,34 @@ map_contents:
      - name: City of Sandusky Boat Launch
        city: Sandusky
        map_url: https://www.google.com/maps?cid=15558511096826275291
+     - name: Boat Ramp
+       city: Curtice
+       map_url: https://maps.google.com/?cid=4761358810745411364
+     - name: Bayshore Fishing Access
+       city: Oregon
+       map_url: https://maps.google.com/?cid=12523458507036068012
+     - name: Cullen Park Docks
+       city: Toledo
+       map_url: https://maps.google.com/?cid=669389439065436884
+       url: http://cullenpark.org/
+     - name: Boat Ramp in Rossford Marina
+       city: Rossford
+       map_url: https://maps.google.com/?cid=11386070998412057752
+     - name: Maple Street Boat Launch
+       city: Perrysburg
+       map_url: https://maps.google.com/?cid=9763413760834404204
+       url: http://www.ci.perrysburg.oh.us/index.php/parks-recreation/parks/maple-st-boat-launch
+     - name: Catawba Island Boat Ramp
+       city: Port Clinton
+       map_url: https://maps.google.com/?cid=100518687561180899
+       url: http://parks.ohiodnr.gov/catawbaisland#activities
+     - name: East Harbor State Park Boat Ramp
+       city: Lakeside Marblehaed
+       map_url: https://maps.google.com/?cid=1767430957668467708
+       url: http://parks.ohiodnr.gov/eastharbor#activities
+     - name: Mazurik Boat Access
+       city: Lakeside Marblehead
+       map_url: https://maps.google.com/?cid=9672317818427139328
 
 tags:
   - map
