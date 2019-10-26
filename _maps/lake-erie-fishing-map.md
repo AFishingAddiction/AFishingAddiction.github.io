@@ -8,7 +8,7 @@ permalink: /lake-erie-fishing-map/
 map_source: https://www.google.com/maps/d/embed?mid=1iL0xIY2iHHgUHleDfh0Sf0qxR8o&hl=en
 
 map_contents:
- - name: Private and Public Boat Launch Ramps on Lake Erie
+ - name: Lake Erie Public Boat Ramps
    items:
      - name: Huron City Municipal Launch Ramp
        city: Huron
