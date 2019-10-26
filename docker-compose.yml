@@ -2,6 +2,6 @@ jekyll:
     image: jekyll/jekyll:pages
     command: jekyll serve --watch --incremental --drafts --unpublished --future --verbose --trace --strict_front_matter -d /tmp/_site
     ports:
-        - 4000:4000
+        - 4001:4000
     volumes:
         - .:/srv/jekyll
