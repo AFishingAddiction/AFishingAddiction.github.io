@@ -13,7 +13,7 @@ For Christmas 2011, I asked Santa to upgrade my plastic tackle box to a canvas t
 <div id='gallery-5' class='gallery galleryid-165 gallery-columns-2 gallery-size-responsive-300'>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href="/images/my-first-tackle-bag-1456x2592.jpg" rel="lightbox[gallery-5]"><img width="300" height="534" src="/images/my-first-tackle-bag-1456x2592.jpg" class="attachment-responsive-300" alt="My first canvas tackle bag" /></a>
+      <a href="/images/my-first-tackle-bag-1456x2592.jpg"><img width="300" height="534" src="/images/my-first-tackle-bag-300x534.jpg" class="attachment-responsive-300" alt="My first canvas tackle bag" /></a>
     </dt>
     <dd class='wp-caption-text gallery-caption'>
       My new tackle bag
@@ -21,7 +21,7 @@ For Christmas 2011, I asked Santa to upgrade my plastic tackle box to a canvas t
   </dl>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href="/images/my-first-tackle-bag-filled-2592x1456.jpg" rel="lightbox[gallery-5]"><img width="300" height="168" src="/images/my-first-tackle-bag-filled-2592x1456.jpg" class="attachment-responsive-300" alt="Canvas tackle bag filled with bait and lures" /></a>
+      <a href="/images/my-first-tackle-bag-filled-2592x1456.jpg"><img width="300" height="169" src="/images/my-first-tackle-bag-filled-300x169.jpg" class="attachment-responsive-300" alt="Canvas tackle bag filled with bait and lures" /></a>
     </dt>
     <dd class='wp-caption-text gallery-caption'>
       Tackle bag filled with bait and lures

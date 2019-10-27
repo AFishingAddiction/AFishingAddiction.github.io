@@ -3,7 +3,7 @@ title: 6 Tips for Exploring Fishing Spots
 date: 2017-07-08T07:30:00+05:00
 author: dan
 layout: post
-image: map-on-phone.jpg
+image: map-on-phone-660x441.jpg
 image_alt: "Map on a phone"
 image_credit: "Photo by Linda Söndergaard on Unsplash"
 redirect_from: /2017/07/08/6-tips-for-exploring-fishing-spots/

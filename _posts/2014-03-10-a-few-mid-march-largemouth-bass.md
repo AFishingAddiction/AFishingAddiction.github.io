@@ -18,7 +18,7 @@ According to my photo timestamps, I caught these 4 days apart. But judging by th
 <div id='gallery-6' class='gallery galleryid-184 gallery-columns-2 gallery-size-responsive-300'>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href="/images/a-mid-march-largemouth-bass-1456x2592.jpg" rel="lightbox[gallery-6]" title="A bass I caught in mid-March"><img width="300" height="534" src="/images/a-mid-march-largemouth-bass-1456x2592.jpg" class="attachment-responsive-300" alt="Largemouth Bass caught in mid-March" /></a>
+      <a href="/images/a-mid-march-largemouth-bass-1456x2592.jpg" title="A bass I caught in mid-March"><img width="300" height="534" src="/images/a-mid-march-largemouth-bass-300x534.jpg" class="attachment-responsive-300" alt="Largemouth Bass caught in mid-March" /></a>
     </dt>
     <dd class='wp-caption-text gallery-caption'>
       An mid-March bass
@@ -26,7 +26,7 @@ According to my photo timestamps, I caught these 4 days apart. But judging by th
   </dl>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href="/images/another-mid-march-largemouth-bass-1456x2592.jpg" rel="lightbox[gallery-6]" title="Another bass I caught in mid-March"><img width="300" height="534" src="/images/another-mid-march-largemouth-bass-1456x2592.jpg" class="attachment-responsive-300" alt="Another Largemouth Bass caught in mid-March" /></a>
+      <a href="/images/another-mid-march-largemouth-bass-1456x2592.jpg" title="Another bass I caught in mid-March"><img width="300" height="534" src="/images/another-mid-march-largemouth-bass-300x534.jpg" class="attachment-responsive-300" alt="Another Largemouth Bass caught in mid-March" /></a>
     </dt>
     <dd class='wp-caption-text gallery-caption'>
       Another mid-March bass
