@@ -7,7 +7,6 @@
 
 @import "reset";
 @import "variables";
-// Syntax highlighting @import is at the bottom of this file
 
 /**************/
 /* BASE RULES */
@@ -21,6 +20,7 @@ body {
   background: $lightGray;
   font: 14px/1.4 $helvetica;
   color: $primaryFontColor;
+  font-display: swap;
 }
 
 .container {
@@ -150,11 +150,6 @@ input[type=submit] {
   font-weight: bold;
 }
 
-// Fixes images in popup boxes from Google Translate
-.gmnoprint img {
-  max-width: none;
-}
-
 .post {
   .date,
   .author {
@@ -235,29 +230,25 @@ input[type=submit] {
         color: $white;
         font-size: 120%;
       }
-      form.vr-signup-form, form.mc-embedded-subscribe-form {
-        max-width: none;
-        padding-top: 4px;
-      }
       div.indicates-required {
         margin-top: 4px;
         font-size: 90%;
       }
-      div.vr-field, div.vr-submit, div.mc-field-group, div.mc-submit {
+      div.mc-field-group, div.mc-submit {
         display: inline-block;
       }
       input[type=submit] {
         font-size: 12pt;
       }
       @include tablet {
-        div.vr-submit, div.mc-submit {
+        div.mc-submit {
           display: block;
         }
       }
-      div.vr-notice, div.mce-responses {
+      div.mce-responses {
         display: block;
       }
-      .vr-notice-success, .mce-success-response {
+      .mce-success-response {
         color: $white;
         font-weight: 700;
       }
@@ -272,23 +263,6 @@ input[type=submit] {
 
   @include mobile {
     text-align: center;
-  }
-}
-
-.site-avatar {
-  float: left;
-  width: 70px;
-  height: 70px;
-  margin-right: 15px;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
-
-  img {
-    border-radius: 5px;
   }
 }
 
@@ -449,18 +423,6 @@ input[type=submit] {
       transform: translate(-50%, -12px);
     }
 
-    #sidebar-right-ad {
-      display: table-cell;
-      vertical-align: top;
-      padding: 40px 0 0 20px;
-
-      .adsbygoogle {
-        display: inline-block;
-        width: 300px;
-        height: 600px;
-      }
-    }
-
     #ad-ltb {
       position: relative;
       width: 240px;
@@ -561,15 +523,6 @@ input[type=submit] {
   h1 {
     font-size: 36px;
     margin-bottom: 0;
-  }
-
-  blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
-    font-style: italic;
   }
 
   .read-more {
@@ -691,7 +644,4 @@ footer {
   text-align: center;
 }
 
-// Settled on moving the import of syntax highlighting to the bottom of the CSS
-// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
-@import "highlights";
 @import "svg-icons";
