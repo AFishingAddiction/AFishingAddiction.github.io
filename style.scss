@@ -143,6 +143,10 @@ input[type=submit] {
   cursor: pointer;
 }
 
+.fas, .fa {
+  font-display: swap;
+}
+
 .btn-secondary {
   padding: 10px;
   background: rgba(106,159,181,0.15);
