@@ -110,12 +110,12 @@ navlinks:
       url: /lake-erie-fishing-map/
     - text: AEP
       url: /aep-fishing-map/
-  - text: Bio
-    url: /authors/dan-schaefer/
   - text: Videos
     url: /videos/
   - text: eBooks
     url: /ebooks/
+  - text: Bio
+    url: /authors/dan-schaefer/
 
 include: ['_pages']
 

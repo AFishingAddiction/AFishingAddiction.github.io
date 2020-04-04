@@ -76,4 +76,4 @@ tags:
 <h1>Lake Erie Map</h1>
 <p>This Lake Erie fishing map contains markers for public and private boat launch ramps, mouths of rivers, notable docks (yacht clubs and marinas for example), and underwater structure. It may also contain some of my recorded catches. These markers range from Cleveland, OH all the way to Toledo. It comes with no guarantee and is for informational purposes only.</p>
 
-<p><small>View <a href="http://www.google.com/maps/ms?msa=0&msid=204931278092854056383.0004dec21fbcc3616bb1f&hl=en&ie=UTF8&ll=41.607417,-82.63298&spn=0.451833,1.600705&t=h&output=embed" target="_blank" style="color:#0000FF;text-align:left">Lake Erie</a> in a larger map</small></p>
+<p>View <a href="http://www.google.com/maps/ms?msa=0&msid=204931278092854056383.0004dec21fbcc3616bb1f&hl=en&ie=UTF8&ll=41.607417,-82.63298&spn=0.451833,1.600705&t=h&output=embed" target="_blank">Lake Erie</a> in a larger map.</p>
