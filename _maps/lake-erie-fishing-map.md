@@ -9,6 +9,7 @@ map_source: https://www.google.com/maps/d/embed?mid=1iL0xIY2iHHgUHleDfh0Sf0qxR8o
 
 map_contents:
  - name: Lake Erie Public Boat Ramps
+   location_type: land
    items:
      - name: Huron City Municipal Launch Ramp
        city: Huron
@@ -81,6 +82,169 @@ map_contents:
        city: Lakeside Marblehead
        map_url: https://www.google.com/maps?cid=8669601976723985072
        url: http://fishinmissionmarblehead.com/Default.aspx
+     - name: Boat Ramp in Cleveland
+       city: Cleveland
+       map_url: https://maps.google.com/?cid=12884123586407318656
+ - name: Lake Erie Reefs
+   location_type: water
+   items:
+     - name: Lorain Mountain Reef
+       lat_dec: 41.46914
+       lon_dec: -82.21249
+       lat_dms: 41°28'08.9"N
+       lon_dms: 82°12'45.0"W
+     - name: Little Test Reef
+       lat_dec: 41.50454
+       lon_dec: -81.79223
+       lat_dms: 41°30'16.4"N
+       lon_dms: 81°47'32.0"W
+     - name: Big Test Reef
+       lat_dec: 41.5042
+       lon_dec: -81.78421
+       lat_dms: 41°30'15.2"N
+       lon_dms: 81°47'03.2"W
+     - name: Stadium East Reef
+       lat_dec: 41.59882
+       lon_dec: -81.56352
+       lat_dms: 41°35'55.8"N
+       lon_dms: 81°33'48.7"W
+     - name: Stadium West 2 Reef
+       lat_dec: 41.49946
+       lon_dec: -81.75682
+       lat_dms: 41°29'58.1"N
+       lon_dms: 81°45'24.6"W
+     - name: Stadium West 1 Reef
+       lat_dec: 41.50242
+       lon_dec: -81.75986
+       lat_dms: 41°30'08.8"N
+       lon_dms: 81°45'35.5"W
+     - name: Starve Island Reef
+       lat_dec: 41.61318
+       lon_dec: -82.81546
+       lat_dms: 41°36'47.40"N
+       lon_dms: 82°48'48.00"W
+     - name: Mouse Island Reef
+       lat_dec: 41.60707
+       lon_dec: -82.83266
+       lat_dms: 41°36'22.20"N
+       lon_dms: 82°50'9.00"W
+     - name: Round Reef
+       lat_dec: 41.61739
+       lon_dec: -82.98793
+       lat_dms: 41°37'2.40"N
+       lon_dms: 82°59'9.00"W
+     - name: Sugar Reef
+       lat_dec: 41.69755
+       lon_dec: -82.81714
+     - name: West Reef
+       lat_dec: 41.71285
+       lon_dec: -82.84494
+       lat_dms: 41°42'42.60"N
+       lon_dms: 82°50'47.40"W
+     - name: Little Pickerel Reef
+       lat_dec: 41.66937
+       lon_dec: -83.02075
+       lat_dms: 41°40'9.00"N
+       lon_dms: 83°1'17.40"W
+     - name: Crib Reef
+       lat_dec: 41.6471
+       lon_dec: -83.00327
+       lat_dms: 41°38'46.80"N
+       lon_dms: 83°0'29.40"W
+     - name: Cone Reef
+       lat_dec: 41.66722
+       lon_dec: -83.04491
+       lat_dms: 41°40'0.00"N
+       lon_dms: 83°2'45.00"W
+     - name: Turtle Reef
+       lat_dec: 41.6485
+       lon_dec: -83.1
+       lat_dms: 41°38'54.60"N
+       lon_dms: 83°6'0.00"W
+     - name: Crane Reef
+       lat_dec: 41.67822
+       lon_dec: -83.10408
+       lat_dms: 41°40'39.60"N
+       lon_dms: 83°6'25.20"W
+     - name: Marblehead Reef
+       lat_dec: 41.531
+       lon_dec: -82.675
+       lat_dms: 41°31'51.60"N
+       lon_dms: 82°40'30.00"W
+     - name: Lakeside Reef
+       lat_dec: 41.55276
+       lon_dec: -82.75241
+       lat_dms: 41°33'10.20"N
+       lon_dms: 82°45'6.00"W
+     - name: West Harbor Reef
+       lat_dec: 41.57771
+       lon_dec: -82.80377
+       lat_dms: 41°34'41.40"N
+       lon_dms: 82°48'23.40"W
+     - name: Clinton Reef
+       lat_dec: 41.56033
+       lon_dec: -82.88183
+       lat_dms: 41°33'37.20"N
+       lon_dms: 82°52'54.60"W
+     - name: Buckeye Reef
+       lat_dec: 41.67194
+       lon_dec: -82.78689
+     - name: Schoolhouse Reef
+       lat_dec: 41.70316
+       lon_dec: -82.82749
+       lat_dms: 41°42'11.40"N
+       lon_dms: 82°49'39.00"W
+     - name: Northwest Reef
+       lat_dec: 41.73919
+       lon_dec: -82.85213
+       lat_dms: 41°44'41.40"N
+       lon_dms: 82°53'30.60"W
+     - name: Niagara Reef
+       lat_dec: 41.66605
+       lon_dec: -82.9749
+       lat_dms: 41°39'50.40"N
+       lon_dms: 82°58'23.40"W
+     - name: Toussaint Reef
+       lat_dec: 41.63297
+       lon_dec: -83.0148
+       lat_dms: 41°37'56.40"N
+       lon_dms: 83°1'2.40"W
+     - name: Flat Rock Reef
+       lat_dec: 41.65928
+       lon_dec: -83.01912
+       lat_dms: 41°39'29.40"N
+       lon_dms: 83°1'4.20"W
+     - name: Locust Reef
+       lat_dec: 41.64677
+       lon_dec: -83.0667
+       lat_dms: 41°38'42.60"N
+       lon_dms: 83°3'55.20"W
+     - name: Big Pickerel Reef
+       lat_dec: 41.66881
+       lon_dec: -83.06577
+       lat_dms: 41°40'0.00"N
+       lon_dms: -83°3'48.00"W
+     - name: Artificial Reef
+       lat_dec: 41.46955
+       lon_dec: -82.21155
+     - name: Dumping Ground
+       lat_dec: 41.46111
+       lon_dec: -82.36431
+     - name: Gravel Pit
+       lat_dec: 41.75
+       lon_dec: -83.23333
+       lat_dms: 41°45'0.00"N
+       lon_dms: 83°14'0.00"W
+     - name: Lorain Polish Fisherman's Club Reef
+       lat_dec: 41.46806
+       lon_dec: -82.212
+       lat_dms: 41°28'05.0"N
+       lon_dms: 82°12'43.2"W
+     - name: Cuyahoga County Commissioner's Reef
+       lat_dec: 41.50296
+       lon_dec: -81.78755
+       lat_dms: 41°30'10.7"N
+       lon_dms: 81°47'15.2"W
 
 tags:
   - map

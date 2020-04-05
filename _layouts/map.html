@@ -7,10 +7,21 @@ layout: page
 {% for content in page.map_contents %}
 <h2>{{ content.name }}</h2>
 <ul>
-  {% assign sorted_items = content.items | sort: "city" %}
+  {% if content.location_type == 'land' %}
+      {% assign sorted_items = content.items | sort: "city" %}
+  {% else %}
+      {% assign sorted_items = content.items | sort: "lon_dec" %}
+  {% endif %}
   {% for item in  sorted_items %}
-  {% if item.url %}{% capture list_item %}<a href="{{ item.url }}" target="_blank">{{ item.name }}</a>{% endcapture %}{% else %}{% assign list_item = item.name %}{% endif %}
-  <li>{{ list_item }} <small>(<a href="{{ item.map_url }}" target="_blank">map</a>)</small> in {{ item.city }}</li>
+      {% if item.url %}{% capture list_item %}<a href="{{ item.url }}" target="_blank">{{ item.name }}</a>{% endcapture %}{% else %}{% assign list_item = item.name %}{% endif %}
+      {% if content.location_type == 'land' %}
+          {% capture item_location %}{% if item.city %} in {{ item.city }}{% endif %}{% endcapture %}
+          {% capture map_link %}{% if item.map_url %} <small>(<a href="{{ item.map_url }}" target="_blank">map</a>)</small>{% endif %}{% endcapture %}
+      {% else %}
+          {% capture item_location %} at {{ item.lat_dms | default: item.lat_dec }} {{ item.lon_dms | default: item.lon_dec }}{% endcapture %}
+          {% capture map_link %} <small>(<a href="https://www.google.com/maps/search/{{ item.lat_dec }}+{{ item.lon_dec }}" target="_blank">map</a>)</small>{% endcapture %}
+      {% endif %}
+      <li>{{ list_item }}{{ map_link }}{{ item_location }}</li>
   {% endfor %}
 </ul>
 {% endfor %}
