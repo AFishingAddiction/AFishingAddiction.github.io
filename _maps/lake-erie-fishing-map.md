@@ -23,6 +23,12 @@ map_contents:
      - name: Hot Waters Boat ramp
        city: Lorain
        map_url: https://maps.google.com/?cid=16214550695801355509
+     - name: Lorain Boat Launch
+       city: Lorain
+       map_url: https://www.google.com/maps?cid=11756418819859638690
+     - name: E. 72 Boat Ramps
+       city: Cleveland
+       map_url: https://www.google.com/maps?cid=17825755914302606564
      - name: Edgewater Public Boat Ramp
        city: Cleveland
        map_url: https://maps.google.com/?cid=3844307099276496339
@@ -57,6 +63,9 @@ map_contents:
        city: Perrysburg
        map_url: https://maps.google.com/?cid=9763413760834404204
        url: http://www.ci.perrysburg.oh.us/index.php/parks-recreation/parks/maple-st-boat-launch
+     - name: Boat Ramp in Port Clinton
+       city: Port Clinton
+       map_url: https://www.google.com/maps?cid=17650852601603767889
      - name: Catawba Island Boat Ramp
        city: Port Clinton
        map_url: https://maps.google.com/?cid=100518687561180899
@@ -68,6 +77,10 @@ map_contents:
      - name: Mazurik Boat Access
        city: Lakeside Marblehead
        map_url: https://maps.google.com/?cid=9672317818427139328
+     - name: Dempsey Fishing Access and Boat Launch
+       city: Lakeside Marblehead
+       map_url: https://www.google.com/maps?cid=8669601976723985072
+       url: http://fishinmissionmarblehead.com/Default.aspx
 
 tags:
   - map
