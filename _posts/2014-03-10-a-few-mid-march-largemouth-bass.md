@@ -9,6 +9,7 @@ tags:
   - bass
   - catch
   - pond
+  - spring
   - Wingfoot Lake
 ---
 After a painful winter of 2011, I went out in Mid-March 2012 to Wingfoot Lake pond and caught these beautiful largemouth bass. This was at the same pond I caught my [first large bass](/this-is-when-it-all-began/ "first large bass"). If I remember correctly, I was using Berkeley Gulp Alive minnows at the time.
