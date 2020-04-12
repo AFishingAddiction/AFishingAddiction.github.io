@@ -1,5 +1,6 @@
 ---
 title: My First Smallmouth Bass
+permalink: /my-first-smallmouth-bass/
 author: dan
 layout: post
 redirect_from: /2014/03/17/my-first-smallmouth-bass/
@@ -10,6 +11,7 @@ tags:
   - catch
   - smallmouth
   - Cuyahoga River
+related: [/3-largemouth-bass-observations/,/my-first-muskie/,/bass-fishing-in-spring/,]
 ---
 Early in the 2012 season, I came across a great spot along the Cuyahoga River in Akron. It&#8217;s a great spot for wading in your bare feet and keeping cool. It&#8217;s a little bit of a hike from the parking lot, but well worth it. I&#8217;ve caught several Smallmouth Bass from many different angles along the shore and from the island in the center of the river.
 

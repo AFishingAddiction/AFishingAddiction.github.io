@@ -1,5 +1,6 @@
 ---
 title: My First Crappie
+permalink: /my-first-crappie/
 author: dan
 layout: post
 redirect_from: /2014/02/28/my-first-crappie/
@@ -9,6 +10,7 @@ tags:
   - crappie
   - catch
   - Southgate Park
+related: [/my-first-muskie/,/mosquito-lake-2012/,/my-first-fishing-injury/,]
 ---
 After catching this crappie, I immediately texted my uncle asking what species it was. I had no idea&#8230; I was still new at fishing at that point.
 

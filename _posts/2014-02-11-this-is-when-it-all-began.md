@@ -1,5 +1,6 @@
 ---
 title: This is When it All Began
+permalink: /this-is-when-it-all-began/
 author: dan
 layout: post
 excerpt: "I caught this in a little pond in Wingfoot Lake Park back in 2011. I was fishing with my brother-in-law that day. Luckily he was there to take the picture, because apparently I had trouble holding it up."
@@ -13,6 +14,7 @@ tags:
   - coordinates
   - pond
   - Wingfoot Lake
+related: [/my-first-fishing-injury/,/my-first-aep-adventure/,/mosquito-lake-2012/,]
 ---
 I had a few family camping trips as a child during which I caught a quite a few bluegills (I have the pictures to prove it). However, after catching this beast in 2011, my fishing addiction commenced.
 

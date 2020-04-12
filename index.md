@@ -6,17 +6,16 @@ permalink: /
 seo:
   type: "Website"
 ---
-
 <div class="posts">
   <h1>{{ page.title }}</h1>
   <h2>Popular Pages</h2>
   <div class="popular-pages-container">
-    {% for page in site.documents %}
-    {% if page.tags contains "top" %}
+    {% for doc in site.documents %}
+    {% if doc.tags contains "top" %}
     <div class="popular-page">
-      <h3><a href="{{ page.url}}">{{ page.title }}</a></h3>
-      {{ page.description | default page.excerpt }}
-      <p><a class="btn btn-secondary" href="{{ page.url}}" role="button">View details »</a></p>
+      <h3><a href="{{ doc.url}}">{{ doc.title }}</a></h3>
+      {{ doc.description | default: doc.excerpt }}
+      <p><a class="btn btn-secondary" href="{{ doc.url}}" role="button">View details »</a></p>
     </div>
     {% endif %}
     {% endfor %}

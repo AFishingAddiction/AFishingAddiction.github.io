@@ -1,5 +1,6 @@
 ---
 title: A Few Mid-March Largemouth Bass
+permalink: /a-few-mid-march-largemouth-bass/
 author: dan
 layout: post
 redirect_from: /2014/03/10/a-few-mid-march-largemouth-bass/
@@ -11,6 +12,7 @@ tags:
   - pond
   - spring
   - Wingfoot Lake
+related: [/3-largemouth-bass-observations/,/mosquito-lake-2012/,/bass-fishing-in-spring/,]
 ---
 After a painful winter of 2011, I went out in Mid-March 2012 to Wingfoot Lake pond and caught these beautiful largemouth bass. This was at the same pond I caught my [first large bass](/this-is-when-it-all-began/ "first large bass"). If I remember correctly, I was using Berkeley Gulp Alive minnows at the time.
 

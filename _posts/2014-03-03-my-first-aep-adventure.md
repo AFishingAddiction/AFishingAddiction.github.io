@@ -1,5 +1,6 @@
 ---
 title: My First AEP Adventure
+permalink: /my-first-aep-adventure/
 author: dan
 excerpt: Late in the 2011 fishing season, I was talking to my uncle about the places he used to fish with his buddies when he was younger and before he had his bass boat. One of those places was AEP’s ReCreation Land (formerly called Ohio Power).
 layout: post
@@ -10,6 +11,7 @@ tags:
   - bass
   - catch
   - AEP
+related: [/mosquito-lake-2012/,/3-largemouth-bass-observations/,/bass-fishing-in-spring/,]
 ---
 A little introduction:
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 5 Bank Fishing Tips
+permalink: /5-bank-fishing-tips/
 date: 2014-06-17T15:38:37+00:00
 author: dan
 excerpt: "Whether you are like me and walk along the bank, constantly trying to find good spots, or if you have that one spot that you fish all day, follow these bank fishing tips to make your experience much better."
@@ -16,6 +17,7 @@ links:
   rod_carrier: 'https://amzn.to/2NWndBq'
   tackle_bag: 'https://amzn.to/2NZCnG7'
   sunglasses: 'https://amzn.to/2zSblgO'
+related: [/6-tips-for-exploring-fishing-spots/,/5-tips-for-the-wacky-rig/,/3-tips-for-using-plastic-worms/,]
 ---
 Whether you are like me and walk along the banks, constantly trying to find good fishing spots or if you have that one special spot that you fish all day, follow these bank fishing tips for a much better experience.
 

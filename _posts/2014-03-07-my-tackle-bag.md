@@ -1,5 +1,6 @@
 ---
 title: My Canvas Tackle Bag
+permalink: /my-tackle-bag/
 date: 2014-03-07T07:12:02+00:00
 author: dan
 layout: post
@@ -7,6 +8,7 @@ redirect_from: /2014/03/07/my-tackle-bag/
 tags:
   - equipment
   - tackle
+related: [/5-bank-fishing-tips/,/6-tips-for-exploring-fishing-spots/,/my-first-aep-adventure/,]
 ---
 For Christmas 2011, I asked Santa to upgrade my plastic tackle box to a canvas tackle bag. He didn&#8217;t bring me one, but he did give me a gift card for Gander Mountain and asked me to pick out my own. Given the small amount of lures and baits I had at the time, this is what I picked out:
 
