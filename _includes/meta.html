@@ -4,10 +4,6 @@
     <title>{% if page.title %}{{ page.title }}{% endif %} &mdash; {{ site.title | remove: ' ' }}</title>
     {% seo title=false %}
 
-
-
-
-
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
@@ -27,11 +23,6 @@
     {% assign meta_author  = site.footer-links.twitter %}
     {% endif %}
 
-
-    {% if page.image -%}
-    <meta property="og:image" content="{{ page.image | absolute_url }}" />
-    {% endif %}
-
     <meta name="twitter:title" content="{{ meta_title }}" />
     <meta name="twitter:description" content="{{ meta_excerpt }}" />
     {% if meta_author %}
@@ -39,7 +30,7 @@
     {% endif %}
     {% if page.image %}
     <meta name="twitter:image" content="{{ page.image | absolute_url }}" />
+    <meta property="og:image" content="{{ page.image | absolute_url }}" />
     {% endif %}
 
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-    <link rel="canonical" href="{{ site.url }}{{ page.url }}"
+    {%- comment %}<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />{% endcomment -%}
