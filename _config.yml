@@ -97,8 +97,6 @@ collections:
         permalink: /:collection/:title
 
 navlinks:
-  - text: Home
-    url: /
   - text: Maps
     url: '#'
     subnav:

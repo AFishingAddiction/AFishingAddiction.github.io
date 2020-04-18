@@ -85,7 +85,7 @@ a {
     color: $blue;
   }
   .fas {
-    color: $blue;
+    color: $primaryColorLight;
   }
 }
 
@@ -137,7 +137,7 @@ input[type=email] {
 }
 
 input[type=submit] {
-  background-color: #03F;
+  background-color: $primaryColorDark;
   color: white;
   font-weight: bold;
   cursor: pointer;
@@ -149,8 +149,8 @@ input[type=submit] {
 
 .btn-secondary {
   padding: 10px;
-  background: rgba(106,159,181,0.15);
-  color: #4183C4;
+  background: $secondaryLightBgColor;
+  color: $primaryColorLight;
   font-weight: bold;
 }
 
@@ -226,13 +226,15 @@ input[type=submit] {
       padding: 0;
 
     .signup-form {
-      background-color: $blue;
-      padding: 8px;
+      background-color: $secondaryLightBgColor;
+      padding: 12px;
       text-align: center;
+      color: black;
       .headline {
         display: inline-block;
-        color: $white;
+        color: black;
         font-size: 120%;
+        padding-bottom: 6px;
       }
       div.indicates-required {
         margin-top: 4px;
@@ -329,10 +331,10 @@ input[type=submit] {
 
       ul {
         display: block;
-        padding-left: 20px;
+        padding-left: 5px;
         margin: 0;
         height: $mainNavHeight;
-        background-color: $primaryColor;
+        background-color: $mainNavBgColor;
         border-bottom-right-radius: 5px;
         border-bottom-left-radius: 5px;
         list-style-type: none;
@@ -343,9 +345,18 @@ input[type=submit] {
 
         li {
           display: inline-block;
-          background-color: $primaryColor;
+          height: $mainNavHeight;
+          background-color: $mainNavBgColor;
           position: relative;
           z-index: 100;
+          vertical-align: middle;
+          &:hover {
+            background-color: $primaryColorLight;
+          }
+
+          &.menu-logo:hover {
+            background-color: $mainNavBgColor;
+          }
 
           a {
             color: $white;
@@ -361,7 +372,12 @@ input[type=submit] {
             text-decoration: none;
             text-shadow: 0 -1px 0 #000000;
             white-space: nowrap;
-            border-left: 1px solid #585858;
+
+            img.nav-logo {
+              height: 40px;
+              position: relative;
+              top: 5px;
+            }
           }
 
           ul.submenu {
@@ -534,6 +550,8 @@ input[type=submit] {
     padding-top: 8px;
     text-transform: uppercase;
     font-size: 15px;
+    text-decoration: underline;
+    color: $secondaryFontColor;
   }
 
   dl.gallery-item {

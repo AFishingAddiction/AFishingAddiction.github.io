@@ -34,12 +34,16 @@ $georgia: Georgia, serif;
   }
 }
 
-$primaryFontColor: $darkGray;
-$secondaryFontColor: $grayDarkGray;
-$postTagFontColor: $blue;
-
 $primaryColor: $grayDarkGray;
+$primaryColorDark: #132554;
+$primaryColorLight: #00A3DD;
+$primaryFontColor: $darkGray;
 
-$postTagBgColor: rgba(106,159,181,0.15);
+$secondaryFontColor: $primaryColorDark;
+$secondaryLightBgColor: rgba(106,159,181,0.15);
 
-$mainNavHeight: 45px;
+$postTagFontColor: $primaryColorLight;
+$postTagBgColor: $secondaryLightBgColor;
+
+$mainNavHeight: 52px;
+$mainNavBgColor: $primaryColorDark;

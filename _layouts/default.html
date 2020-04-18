@@ -21,8 +21,9 @@
       <div id="menu-primary-menu" class="main-nav cssmenu dropdown">
         <div id="menu-button">Menu</div>
         <ul class="menu">
+          <li class="menu-item menu-logo"><a href="{{ site.baseurl }}/"><img src="/images/logo/default-long-transparent.svg" class="nav-logo" alt="{{ site.title }} logo" /></a>
           {% for navlink in site.navlinks %}
-	  <li class="menu-item {% if navlink.subnav %}has-sub{% endif %}"><a href="{{ navlink.url }}" {% if navlink.target %}target="{{ navlink.target }}"{% endif %} title="{{ navlink.text }}">{{ navlink.text }}</a>
+	        <li class="menu-item {% if navlink.subnav %}has-sub{% endif %}"><a href="{{ navlink.url }}" {% if navlink.target %}target="{{ navlink.target }}"{% endif %} title="{{ navlink.text }}">{{ navlink.text }}</a>
           {% if navlink.subnav %}
             <ul class="menu submenu">
           {% for subnavlink in navlink.subnav %}
@@ -37,13 +38,6 @@
     </div>
     <div class="wrapper-masthead">
       <div class="container">
-        <header class="masthead clearfix">
-
-          <div class="site-info">
-            <div class="site-name"><a href="{{ site.baseurl }}/" title="{{ site.title }}">{{ site.title }}</a></div>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
-        </header>
         {% include signup_form.html %}
       </div>
     </div>
