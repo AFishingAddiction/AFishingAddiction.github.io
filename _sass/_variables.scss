@@ -33,6 +33,11 @@ $georgia: Georgia, serif;
     @content;
   }
 }
+@mixin gt-tablet {
+  @media screen and (min-width: 769px) {
+    @content;
+  }
+}
 
 $primaryColor: $grayDarkGray;
 $primaryColorDark: #132554;

@@ -20,6 +20,7 @@ seo:
     {% endif %}
     {% endfor %}
   </div>
+  {% include ads/inline-content.html %}
   {% for post in site.posts %}
     <article class="post">
 

@@ -416,31 +416,42 @@ input[type=submit] {
       width: 100%;
   }
 
-  .inline-content-ad {
-      display: inline-block;
-      padding: 10px 0;
-      border-top: 1px solid black;
+  .ad.custom::before {
+    content: "Advertisement";
+    font-size: 60%;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -12px);
+  }
+
+  .inline-content-ads {
+      padding: 14px 0;
+      width: 100%;
+      display: none;
+      @include tablet {
+        display: inline-block;
+      }
 
       .adsbygoogle {
           display: block;
       }
+
+      .ad.custom {
+	text-align: center;
+	&::before {
+          left: 50%;
+        }
+      }
   }
+
   #sidebar-right {
     display: table-cell;
     padding: 20px 0 0 20px;
     vertical-align: top;
     position: relative;
     margin-top: 12px;
-    @include mobile {
-      display: block;
-    }
-
-    .ad.custom::before {
-      content: "Advertisement";
-      font-size: 60%;
-      position: absolute;
-      left: 50%;
-      transform: translate(-50%, -12px);
+    @include tablet {
+      display: none;
     }
 
     #ad-ltb {
