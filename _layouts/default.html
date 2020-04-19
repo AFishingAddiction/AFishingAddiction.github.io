@@ -17,14 +17,21 @@
   </head>
 
   <body>
-    <div id="wrapper-main-nav">
-      <div id="menu-primary-menu" class="main-nav cssmenu dropdown">
-        <div id="menu-button">Menu</div>
-        <ul class="menu">
-          <li class="menu-item menu-logo"><a href="{{ site.baseurl }}/"><img src="/images/logo/default-long-transparent.svg" class="nav-logo" alt="{{ site.title }} logo" /></a>
+    <nav id="wrapper-main-nav" role="navigation">
+      <div id="menuToggle">
+        <input type="checkbox" />
+        <div class="hamburger">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+        <div class="menu-logo"><a href="{{ site.baseurl }}/"><img src="/images/logo/default-long-transparent.svg" class="nav-logo" alt="{{ site.title }} logo" /></a></div>
+
+        <ul id="menu" class="menu">
           {% for navlink in site.navlinks %}
 	        <li class="menu-item {% if navlink.subnav %}has-sub{% endif %}"><a href="{{ navlink.url }}" {% if navlink.target %}target="{{ navlink.target }}"{% endif %} title="{{ navlink.text }}">{{ navlink.text }}</a>
           {% if navlink.subnav %}
+            <input type="checkbox" />
             <ul class="menu submenu">
           {% for subnavlink in navlink.subnav %}
 	      <li class="menu-item"><a href="{{ subnavlink.url }}" title="{{ subnavlink.text }}">{{ subnavlink.text }}</a>
@@ -35,7 +42,7 @@
           {% endfor %}
         </ul>
       </div>
-    </div>
+    </nav>
     <div class="wrapper-masthead">
       <div class="container">
         {% include signup_form.html %}
