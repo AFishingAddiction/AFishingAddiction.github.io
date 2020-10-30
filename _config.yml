@@ -114,6 +114,10 @@ navlinks:
     url: /ebooks/
   - text: Bio
     url: /authors/dan-schaefer/
+  - text: Shop
+    url: https://afishingaddiction.square.site/
+    target: _blank
+    className: highlight
 
 include: ['_pages']
 

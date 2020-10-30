@@ -31,16 +31,17 @@
 
         <ul id="menu" class="menu">
           {% for navlink in site.navlinks %}
-	        <li class="menu-item {% if navlink.subnav %}has-sub{% endif %}"><a href="{{ navlink.url }}" {% if navlink.target %}target="{{ navlink.target }}"{% endif %} title="{{ navlink.text }}">{{ navlink.text }}</a>
+            <li class="menu-item {% if navlink.subnav %}has-sub{% endif %} {{ navlink.className }}">
+              <a href="{{ navlink.url }}" {% if navlink.target %}target="{{ navlink.target }}"{% endif %} title="{{ navlink.text }}">{{ navlink.text }}</a>
           {% if navlink.subnav %}
-            <input type="checkbox" />
-            <ul class="menu submenu">
-          {% for subnavlink in navlink.subnav %}
-	      <li class="menu-item"><a href="{{ subnavlink.url }}" title="{{ subnavlink.text }}">{{ subnavlink.text }}</a>
-          {% endfor %}
-            </ul>
+              <input type="checkbox" />
+              <ul class="menu submenu">
+            {% for subnavlink in navlink.subnav %}
+                <li class="menu-item"><a href="{{ subnavlink.url }}" title="{{ subnavlink.text }}">{{ subnavlink.text }}</a></li>
+            {% endfor %}
+              </ul>
           {% endif %}
-          </li>
+            </li>
           {% endfor %}
         </ul>
       </div>

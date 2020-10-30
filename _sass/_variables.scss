@@ -8,12 +8,15 @@ $blue: #4183C4;
 
 // Grays
 $black: #000;
+$carolinaBlue: #00A3DD;
+$copperRed: #D66F49;
 $darkerGray: #222;
 $darkGray: #333;
 $grayDarkGray: #555;
 $gray: #666;
 $grayLightGray: #999;
 $lightGray: #eee;
+$spaceCadet: #132554;
 $whiteLightGray: #f0f0f0;
 $white: #fff;
 
@@ -51,12 +54,14 @@ $georgia: Georgia, serif;
 }
 
 $primaryColor: $grayDarkGray;
-$primaryColorDark: #132554;
-$primaryColorLight: #00A3DD;
+$primaryColorDark: $spaceCadet;
+$primaryColorLight: $carolinaBlue;
 $primaryFontColor: $darkGray;
 
 $secondaryFontColor: $primaryColorDark;
 $secondaryLightBgColor: rgba(106,159,181,0.15);
+
+$accentColor: $copperRed;
 
 $postTagFontColor: $primaryColorLight;
 $postTagBgColor: $secondaryLightBgColor;

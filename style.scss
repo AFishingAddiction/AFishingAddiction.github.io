@@ -488,6 +488,12 @@ input[type=submit] {
         }
 
         li {
+          &.highlight {
+            background-color: $accentColor;
+	    &:hover {
+              background-color: $accentColor;
+            }
+          }
           a {
               color: $white;
               cursor: pointer;
