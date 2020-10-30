@@ -64,7 +64,7 @@ comments:
   form_action: "https://api.staticman.net/v2/entry/AFishingAddiction/AFishingAddiction.github.io/master/comments"
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: 'UA-16096735-3'
+google_analytics: 'G-Q8STFFHFDR'
 
 ads:
     adsense:
