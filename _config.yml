@@ -60,7 +60,7 @@ footer-links:
 disqus:
 
 comments:
-  enabled: true
+  enabled: false
   form_action: "https://api.staticman.net/v2/entry/AFishingAddiction/AFishingAddiction.github.io/master/comments"
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
