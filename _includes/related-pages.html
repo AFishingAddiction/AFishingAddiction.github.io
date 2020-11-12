@@ -15,7 +15,7 @@
     {% for tag in _page.tags %}
       {% if _page.url != page.url %}
         {% if page.related %}
-          {% if page.related contains _page.url and page.tags contains tag %}
+          {% if page.related contains _page.url %}
           {% assign sameTagCount = 999999 %}
           {% capture tagmarkup %} <span class="label label-default post-tag"><i class="fas fa-tag"></i> {{ tag }}</span> {% endcapture %}
           {% assign commonTags = commonTags | append: tagmarkup %}
