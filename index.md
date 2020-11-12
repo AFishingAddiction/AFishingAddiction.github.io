@@ -8,8 +8,9 @@ seo:
 ---
 <div class="posts">
   <h1>{{ page.title }}</h1>
-  <h2>Popular Pages</h2>
   <div class="popular-pages-container">
+    <h2>Popular Pages</h2>
+    <div class="popular-pages">
     {% for doc in site.documents %}
     {% if doc.tags contains "top" %}
     <div class="popular-page">
@@ -19,6 +20,7 @@ seo:
     </div>
     {% endif %}
     {% endfor %}
+    </div>
   </div>
   {% include ads/inline-content.html %}
   {% for post in site.posts %}

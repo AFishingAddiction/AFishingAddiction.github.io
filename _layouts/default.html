@@ -61,10 +61,10 @@
       <div id="sidebar-right">
       {% include ads/sidebar-right.html %}
       </div>
+      {% if page.tags.size > 0 %}
+      {% include related-pages.html %}
+      {% endif %}
     </div>
-    {% if page.tags.size > 0 %}
-    {% include related-pages.html %}
-    {% endif %}
 
     <div class="wrapper-footer">
       <div class="container">

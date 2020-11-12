@@ -633,54 +633,50 @@ input[type=submit] {
 }
 
 .related-pages-container {
-  max-width: $maxPageWidth;
-  margin: 0 auto;
-  background-color: #fff;
-  padding: 4px 8px 8px;
-  border-radius: 6px;
-
-  .related-pages {
-    display: flex;
-    justify-content: space-evenly;
-
-    .related-page {
-      margin: 6px;
-      padding: 12px;
-      background-color: $whiteLightGray;
-      border-radius: 8px;
-      width: 100%;
-
-      .post-tag {
-        font-size: 90%;
-      }
-
-      a:hover {
-        text-decoration: none;
-      }
-    }
-  }
+  border-top: 1px solid $lightGray;
+  margin-top: 14px;
 }
 
-.popular-pages-container {
-  display: flex;
-  @include mobile {
-    flex-wrap: wrap;
-  }
-  justify-content: space-evenly;
+.popular-pages-container,
+.related-pages-container {
+  background-color: $white;
   border-bottom: 1px solid $lightGray;
 
-  .popular-page {
+  h2, h4 {
+    display: block;
+    text-align: left;
+  }
+
+  .popular-pages,
+  .related-pages {
+    display: flex;
+    @include mobile {
+      flex-wrap: wrap;
+    }
+    justify-content: space-evenly;
+
+  .popular-page,
+  .related-page {
     margin: 6px;
     min-width: 212px;
     width: 100%;
     padding: 0 8px 8px;
-      background-color: $whiteLightGray;
-      border-radius: 8px;
+    background-color: $whiteLightGray;
+    border-radius: 8px;
 
     h3 {
       text-align: center;
       line-height: normal;
     }
+
+    .post-tag {
+      font-size: 90%;
+    }
+
+    a:hover {
+      text-decoration: none;
+    }
+  }
   }
 }
 
