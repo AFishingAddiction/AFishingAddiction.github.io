@@ -4,6 +4,7 @@ layout: page
 <div class="google-map"><iframe src="{{ page.map_source }}"></iframe></div>
 {{ content }}
 
+{% include ads/inline-content.html %}
 {% for content in page.map_contents %}
 <h2>{{ content.name }}</h2>
 <ul>

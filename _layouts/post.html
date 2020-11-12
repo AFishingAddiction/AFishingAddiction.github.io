@@ -12,11 +12,11 @@ seo:
   <div class="image-credit">{{ page.image_credit }}</div>
     {% endif %}
   {% endif %}
+  {% include ads/inline-content.html %}
   <div class="entry">
     {{ content }}
   </div>
   {% include post_tags.html post_tags=page.tags %}
   {% include catches.html %}
-  {% include ads/inline-content.html %}
   {% include comments.html %}
 </article>
