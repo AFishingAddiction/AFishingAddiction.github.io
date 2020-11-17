@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-<div class="google-map"><iframe src="{{ page.map_source }}"></iframe></div>
+<div class="google-map"><iframe src="{{ page.map_source }}"{% if site.hotjar %} data-hj-allow-iframe=""{% endif %}></iframe></div>
 {{ content }}
 
 {% include ads/inline-content.html %}

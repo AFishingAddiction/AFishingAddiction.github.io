@@ -66,6 +66,10 @@ comments:
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: 'G-Q8STFFHFDR'
 
+# Enter your Hotjar Id (e.g. 2079296)
+hotjar:
+  id: 2079296
+
 ads:
     adsense:
         client: 'ca-pub-3400524677609512'
