@@ -70,6 +70,9 @@ google_analytics: 'G-Q8STFFHFDR'
 hotjar:
   id: 2079296
 
+cookiebot:
+  id: 344a45ae-8133-4da1-bec0-11fdcf174a55
+
 ads:
     adsense:
         client: 'ca-pub-3400524677609512'
