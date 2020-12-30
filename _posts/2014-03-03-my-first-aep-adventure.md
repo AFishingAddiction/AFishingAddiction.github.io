@@ -11,7 +11,7 @@ tags:
   - bass
   - catch
   - AEP
-related: [/mosquito-lake-2012/,/3-largemouth-bass-observations/,/bass-fishing-in-spring/,]
+related: [/3-largemouth-bass-observations/,/reviews/fishbrain-mobile-app,/mosquito-lake-2012/,]
 ---
 A little introduction:
 

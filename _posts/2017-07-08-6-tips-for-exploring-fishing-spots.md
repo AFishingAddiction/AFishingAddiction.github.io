@@ -11,7 +11,7 @@ redirect_from: /2017/07/08/6-tips-for-exploring-fishing-spots/
 tags:
   - tips
   - exploring
-related: [/5-bank-fishing-tips/,/3-tips-for-using-plastic-worms/,/5-tips-for-the-wacky-rig/,]
+related: [/5-bank-fishing-tips/,/reviews/fishbrain-mobile-app,/3-tips-for-using-plastic-worms/,]
 ---
 Visiting the same fishing spot over and over can become boring. Sometimes you just need some new scenery, a new challenge, or maybe just something closer to home. This is a good opportunity to start exploring new ponds, rivers, and lakes. I've got a few tips that will make this process easier and more enjoyable.
 

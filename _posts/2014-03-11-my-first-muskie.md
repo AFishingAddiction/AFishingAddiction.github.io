@@ -10,7 +10,7 @@ tags:
   - catch
   - muskie
   - Mogadore Reservoir
-related: [/mosquito-lake-2012/,/my-first-smallmouth-bass/,/my-first-aep-adventure/,]
+related: [/my-first-smallmouth-bass/,/my-first-aep-adventure/,/3-largemouth-bass-observations/,]
 ---
 I know it&#8217;s not very big _at all_, but here is my very first muskie. And at the time of writing this post, it is the only muskie I have ever caught. I really wasn&#8217;t sure what it was at the time, but after looking at the photos, I figured out it was a muskie and not a pike based on the direction of the stripes.
 
