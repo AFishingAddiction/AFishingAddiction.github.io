@@ -36,6 +36,7 @@ import numpy
 import re
 
 from bs4 import BeautifulSoup
+from builtins import range
 from os import listdir
 from os.path import isfile, join
 
@@ -214,7 +215,7 @@ class LatentSemanticAnalysis(object):
     word_dict = {}
     word_index = 0
     # create a dictionary of words and give them id numbers
-    for key, value in raw_word_dict.iteritems():
+    for key, value in raw_word_dict.items():
       # the words must appear in more than 1 document
       if value > 1:
         word_dict[key] = word_index
@@ -226,7 +227,7 @@ class LatentSemanticAnalysis(object):
     U, singular_values, Vt = numpy.linalg.svd(M, full_matrices=True)
     
     k = self._get_k_limit(singular_values)
-    for x in xrange(k, len(singular_values)):
+    for x in range(k, len(singular_values)):
       singular_values[x] = 0
 
     s = numpy.diag(singular_values)
@@ -283,7 +284,7 @@ class LatentSemanticAnalysis(object):
     numerator = 0
     denominatorA = 0
     denominatorB = 0
-    for index in xrange(0, len(search_document)):
+    for index in range(0, len(search_document)):
       numerator += search_document[index] * current_document[index]
       denominatorA += search_document[index] * search_document[index]
       denominatorB += current_document[index] * current_document[index]
@@ -319,12 +320,12 @@ def update_pages(page_objects, search_ids, top_matches):
     #page_elements = '<div class="card-header">Related Posts</div>'
     #page_elements = '<div class="card-body"><div class="card-group bg-faded">'
     page_elements = 'related: ['
-    print "{}".format(page_objects[search_ids[index]]['title'])
+    print("{}".format(page_objects[search_ids[index]]['title']))
     for match in match_row:
       match_index = match['index']
       #page_elements += create_page_element(page_objects[match_index])
       page_elements += "{},".format(page_objects[match_index]['url'])
-      print " {:.5f} -- {}".format(match['value'], page_objects[match_index]['title'])
+      print(" {:.5f} -- {}".format(match['value'], page_objects[match_index]['title']))
     #page_elements += '</div></div></div></div>'
     page_elements += ']'
 
