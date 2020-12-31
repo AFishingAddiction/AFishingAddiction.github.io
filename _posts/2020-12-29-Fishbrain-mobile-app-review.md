@@ -9,8 +9,12 @@ tags:
 seo:
   type: "Article"
 related: [/5-tips-for-the-wacky-rig/,/6-tips-for-exploring-fishing-spots/,/5-bank-fishing-tips/,]
+todo:
+  - [x] Add affiliate links
+  - [] Add captions for all images
+  - [] Add links from the features table to the features
 ---
-<a aria-describedby="footnote-label" href="#google-play-excerpt" id="google-play-excerpt-ref">Fishbrain is your personal fishing log, map, and forecasting tool in one app</a>. I will be reviewing the app, comparing both Basic (free) and Pro features. This is a review of only the Fishbrain app and I will not be comparing it to other fishing or angler apps on the market. As I describe the different features available in the app, I included a lot of screenshots to give you a good idea of what the app looks like for both Basic and Pro memberships. In order to accomplish this, I used 2 different Android devices; one logged in with a Pro membership and one with a Basic membership.
+<a aria-describedby="footnote-label" href="#google-play-excerpt" id="google-play-excerpt-ref">Fishbrain is your personal fishing log, map, and forecasting tool in one app</a>. I will be reviewing the app, comparing both Basic (free) and Pro features. This is a review of only the Fishbrain app and I will not be comparing it to other fishing or angler apps on the market. As I describe the different features available in the app, I included a lot of screenshots to give you a good idea of what the app looks like for both Basic and Pro memberships. In order to accomplish this, I used 2 different Android devices; one logged in with a Pro membership and one with a Basic membership. However, you can <a href="{{ site.affiliates.fishbrain.text_link }}">download the Fishbrain app for Android or iPhone</a>.
 
 *Full disclosure: Fishbrain graciously activated the Pro membership on my Basic account in order for me to give a more comprehensive review of the app and its features. I am also an affiliate of Fishbrain and I receive a portion of sale.*
 
@@ -195,7 +199,7 @@ First, it's worth mentioning that the Fishbrain Pro membership has a 14-day tria
 ![Pro Membership Plans](/images/fishbrain-app/pro-membership-plans.png "Pro membership plans for the Fishbrain app as of December 27, 2020"){:.mobile-screenshot}
 
 ## Conclusion
-All in all, I think that Fishbrain is an amazing app. It has a lot of features that I would look for in a fishing app and it also has features I would have even thought of. If you are looking for fishing app that allows you to discover fishing spots, record your catches and gear, and also allows you to interact with other anglers, this is the app for you.
+All in all, I think that Fishbrain is an amazing app. It has a lot of features that I would look for in a fishing app and it also has features I would have even thought of. If you are looking for fishing app that allows you to discover fishing spots, record your catches and gear, and also allows you to interact with other anglers, this is the app for you. So, go ahead and <a href="{{ site.affiliates.fishbrain.text_link }}">download the Fishbrain app</a> and check out the great features yourself.
 
 <footer>
   <h2 class="visually-hidden" id="footnote-label">Footnotes</h2>
