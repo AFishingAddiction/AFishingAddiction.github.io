@@ -120,6 +120,10 @@ strong, b {
 
 img {
   max-width: 100%;
+
+  &.mobile-screenshot {
+    width: 330px;
+  }
 }
 
 input[type=submit],
@@ -141,6 +145,92 @@ input[type=submit] {
   color: white;
   font-weight: bold;
   cursor: pointer;
+}
+
+sup {
+  vertical-align: super;
+  font-size: smaller;
+}
+
+article {
+  /**
+  * Initialiazing a `footnotes` counter on the wrapper
+  */
+  counter-reset: footnotes;
+
+  footer {
+    padding: 0;
+    margin-top: 50px;
+    border-top: 1px solid silver;
+    font-size: 0.8em;
+    text-align: left;
+  }
+
+  footer ol {
+    padding-left: 20px;
+  }
+
+  /**
+  * Inline footnotes references
+  * 1. Increment the counter at each new reference
+  * 2. Reset link styles to make it appear like regular text
+  */
+  [aria-describedby="footnote-label"] {
+    counter-increment: footnotes; /* 1 */
+    text-decoration: none; /* 2 */
+    color: inherit; /* 2 */
+    cursor: default; /* 2 */
+    outline: none; /* 2 */
+    padding-top: $mainNavHeight;
+    margin-top: -$mainNavHeight;
+  }
+
+  /**
+  * Actual numbered references
+  * 1. Display the current state of the counter (e.g. `[1]`)
+  * 2. Align text as superscript
+  * 3. Make the number smaller (since it's superscript)
+  * 4. Slightly offset the number from the text
+  * 5. Reset link styles on the number to show it's usable
+  */
+  [aria-describedby="footnote-label"]::after {
+    content: '[' counter(footnotes) ']'; /* 1 */
+    vertical-align: super; /* 2 */
+    font-size: 0.5em; /* 3 */
+    margin-left: 2px; /* 4 */
+    color: blue; /* 5 */
+    text-decoration: underline; /* 5 */
+    cursor: pointer; /* 5 */
+  }
+
+  /**
+  * Resetting the default focused styles on the number
+  */
+  [aria-describedby="footnote-label"]:focus::after {
+    outline: thin dotted;
+    outline-offset: 2px;
+  }
+
+  [aria-label="Back to content"] {
+    font-size: 0.8em;
+  }
+
+  /**
+  * Highlight target note
+  */
+  footer :target {
+    background: yellow;
+  }
+
+  /**
+  * Visually hidden yet accessible content
+  */
+  .visually-hidden {
+    position: absolute;
+    clip: rect(0 0 0 0);
+    visibility: hidden;
+    opacity: 0;
+  }
 }
 
 .fas, .fa {
@@ -770,6 +860,27 @@ ul.tag-list {
     left: 0;
     width: 100% !important;
     height: 100% !important;
+  }
+}
+
+table {
+  color: $primaryFontColor;
+
+  &.feature-comparison-table {
+    width: 67%;
+    @include mobile {
+      width: 100%;
+    }
+    tr:nth-child(even) {
+      background-color: $lightGray;
+    }
+    th {
+      font-weight: 600;
+      border-bottom: 1px solid #dddddd;
+    }
+    th, td {
+      padding: .8em;
+    }
   }
 }
 

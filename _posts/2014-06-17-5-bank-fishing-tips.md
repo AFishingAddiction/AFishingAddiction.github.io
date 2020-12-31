@@ -17,7 +17,7 @@ links:
   rod_carrier: 'https://amzn.to/2NWndBq'
   tackle_bag: 'https://amzn.to/2NZCnG7'
   sunglasses: 'https://amzn.to/2zSblgO'
-related: [/6-tips-for-exploring-fishing-spots/,/5-tips-for-the-wacky-rig/,/3-tips-for-using-plastic-worms/,]
+related: [/6-tips-for-exploring-fishing-spots/,/reviews/fishbrain-mobile-app,/5-tips-for-the-wacky-rig/,]
 ---
 Whether you are like me and walk along the banks, constantly trying to find good fishing spots or if you have that one special spot that you fish all day, follow these bank fishing tips for a much better experience.
 

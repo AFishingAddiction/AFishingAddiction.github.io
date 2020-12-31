@@ -80,6 +80,10 @@ ads:
             side_large_skyscraper: #3745020504
             inline_content: #9329493440
 
+affiliates:
+  fishbrain:
+    text_link: https://www.awin1.com/awclick.php?gid=388184&mid=19294&awinaffid=730047&linkid=2627727&clickref=
+
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: https://afishingaddiction.com
