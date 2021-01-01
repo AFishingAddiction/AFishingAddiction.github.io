@@ -1,0 +1,4 @@
+<figure{% if include.className %} class="{{ include.className }}"{% endif %}>
+  <img src="{{ include.image.src }}" title="{{ include.image.title }}" alt="{{ include.image.alt }}" class="mobile-screenshot" />
+  <figcaption>{{ include.image.caption | default: include.image.alt }}</figcaption>
+</figure>

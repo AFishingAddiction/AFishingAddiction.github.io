@@ -233,6 +233,28 @@ article {
   }
 }
 
+figure {
+  border: 1px solid $skinnyBorderColor;
+  border-radius: 2px;
+  margin-bottom: 24px;
+
+  &.mobile-screenshot {
+    width: 330px;
+  }
+
+  img {
+    padding: 4px;
+  }
+
+  figcaption {
+    text-align: center;
+    font-size: smaller;
+    padding: 4px 10%;
+    border-top: 1px solid $skinnyBorderColor;
+    background-color: $secondaryLightBgColor;
+  }
+}
+
 .fas, .fa {
   font-display: swap;
 }
