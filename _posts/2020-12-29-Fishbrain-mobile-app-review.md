@@ -13,115 +13,115 @@ todo:
   - Add links from the features table to the features
 images:
   community-reviews_Long-Lake-Channel:
-    src: /images/fishbrain-app/community-reviews_Long-Lake-Channel.png
+    src: /images/fishbrain-app/community-reviews_Long-Lake-Channel.webp
     title: Community Reviews in the Fishbrain App
     alt: A screenshot of Community Reviews in the Fishbrain app
   review-form-for-Summit-Lake:
-    src: /images/fishbrain-app/review-form-for-Summit-Lake.png
+    src: /images/fishbrain-app/review-form-for-Summit-Lake.webp
     title: Review Form for a Specific Water
     alt: A screenshot of the review form for Summit Lake taken from the Fishbrain app
   review-questions-for-specific-water:
-    src: /images/fishbrain-app/review-questions-for-specific-water.png
+    src: /images/fishbrain-app/review-questions-for-specific-water.webp
     title: Review Questions for a Specific Water
     alt: A screenshot of the review questions for the Fishbrain app
   about-the-catch-top:
-    src: /images/fishbrain-app/about-the-catch-top.png
+    src: /images/fishbrain-app/about-the-catch-top.webp
     title: Catch Log Details
     alt: A screenshot of the catch log details screen of the Fishbrain app
   about-the-catch-bottom:
-    src: /images/fishbrain-app/about-the-catch-bottom.png
+    src: /images/fishbrain-app/about-the-catch-bottom.webp
     title: Catch Log Details
     alt: A screenshot of the bottom half of the catch log details screen of the Fishbrain app
   species-recognition-results:
-    src: /images/fishbrain-app/species-recognition-results.png
+    src: /images/fishbrain-app/species-recognition-results.webp
     title: Fish Species Recognition Results
     alt: Fish species recognition results in the Fishbrain app
   top-baits-for-Summit-Lake_Pro-membership:
-    src: /images/fishbrain-app/top-baits-for-Summit-Lake_Pro-membership.png
+    src: /images/fishbrain-app/top-baits-for-Summit-Lake_Pro-membership.webp
     title: Top Baits for Specific Water (Pro membership)
     alt: Top baits for Summit Lake in the Fishbrain app with Pro membership
   top-baits-for-Summit-Lake_Basic-membership:
-    src: /images/fishbrain-app/top-baits-for-Summit-Lake_Basic-membership.png
+    src: /images/fishbrain-app/top-baits-for-Summit-Lake_Basic-membership.webp
     title: Top Baits for Specific Water (Basic membership)
     alt: Top baits for Summit Lake in the Fishbrain app with Basic membership
   weather-forecast-top:
-    src: /images/fishbrain-app/weather-forecast-top.png
+    src: /images/fishbrain-app/weather-forecast-top.webp
     title: Area Weather Forecast (Top)
     alt: Screenshot of the top part of the area weather forecast in the Fishbrain app
   weather-forecast-bottom:
-    src: /images/fishbrain-app/weather-forecast-bottom.png
+    src: /images/fishbrain-app/weather-forecast-bottom.webp
     title: Area Weather Forecast (Bottom)
     alt: Screenshot of the bottom part of the area weather forecast in the Fishbrain app
   interactive-map-filter:
-    src: /images/fishbrain-app/interactive-map-filter.png
+    src: /images/fishbrain-app/interactive-map-filter.webp
     title: Interactive Map Filter
     alt: Screenshot of the interactive map filters in the Fishbrain app
   feed-preferences:
-    src: /images/fishbrain-app/feed-preferences.png
+    src: /images/fishbrain-app/feed-preferences.webp
     title: Feed Preferences
     alt: Fishbrain app feed preferences
   suggested-anglers-and-brands:
-    src: /images/fishbrain-app/suggested-anglers-and-brands.png
+    src: /images/fishbrain-app/suggested-anglers-and-brands.webp
     title: Suggested Anglers and Brands
     alt: Suggested anglers and brands in the Fishbrain app feed
   recent-catches-for-Summit-Lake:
-    src: /images/fishbrain-app/recent-catches-for-Summit-Lake.png
+    src: /images/fishbrain-app/recent-catches-for-Summit-Lake.webp
     title: Recent Catches for Summit Lake
     alt: Photos of recent catches for Summit Lake in the Fishbrain app
   exact-catch-positions-for-Summit-Lake:
-    src: /images/fishbrain-app/exact-catch-positions-for-Summit-Lake.png
+    src: /images/fishbrain-app/exact-catch-positions-for-Summit-Lake.webp
     title: Exact catch positions for Summit Lake
     alt: Screenshot of Summit Lake in the Fishbrain app with exact catch positions feature enabled
   top-baits-for-Summit-Lake_Pro-membership_full:
-    src: /images/fishbrain-app/top-baits-for-Summit-Lake_Pro-membership_full.png
+    src: /images/fishbrain-app/top-baits-for-Summit-Lake_Pro-membership_full.webp
     title: Full List of Top Baits for Specific Water (Pro membership)
     alt: Full List of Top baits for Summit Lake in the Fishbrain app with Pro membership
   BiteTime-for-Summit-Lake-area_Pro-membership:
-    src: /images/fishbrain-app/BiteTime(TM)-for-Summit-Lake-area_Pro-membership.png
+    src: /images/fishbrain-app/BiteTime(TM)-for-Summit-Lake-area_Pro-membership.webp
     title: BiteTime&trade; for Map Area (Pro membership)
     alt: Screenshot of BiteTime for Summit Lake area in the Fishbrain app with Pro membership
   BiteTime-for-Summit-Lake-area_Basic-membership:
-    src: /images/fishbrain-app/BiteTime(TM)-for-Summit-Lake-area_Basic-membership.png
+    src: /images/fishbrain-app/BiteTime(TM)-for-Summit-Lake-area_Basic-membership.webp
     title: BiteTime&trade; for Map Area (Basic membership)
     alt: Screenshot of BiteTime for Summit Lake area in the Fishbrain app with Basic membership
   depth-contours-for-Summit-Lake:
-    src: /images/fishbrain-app/depth-contours-for-Summit-Lake.png
+    src: /images/fishbrain-app/depth-contours-for-Summit-Lake.webp
     title: Depth Contours for Summit Lake
     alt: Map of Summit Lake with the depth contours feature enabled in the Fishbrain app
   dropping-a-waypoint:
-    src: /images/fishbrain-app/dropping-a-waypoint.png
+    src: /images/fishbrain-app/dropping-a-waypoint.webp
     title: Dropping a Private Waypoint
     alt: Dropping a private waypoint in Summit Lake in the Fishbrain app
   edit-waypoint:
-    src: /images/fishbrain-app/edit-waypoint.png
+    src: /images/fishbrain-app/edit-waypoint.webp
     title: Editing a Private Waypoint
     alt: Screenshot of the edit waypoint screen in the Fishbrain app
   waypoint-symbol-list:
-    src: /images/fishbrain-app/waypoint-symbol-list.png
+    src: /images/fishbrain-app/waypoint-symbol-list.webp
     title: List of Waypoint Symbols/Icons
     alt: List of available icons for a private waypoint in the Fishbrain app
   create-group:
-    src: /images/fishbrain-app/create-group.png
+    src: /images/fishbrain-app/create-group.webp
     title: Create a Group
     alt: Screenshot of the create group screen in the Fishbrain app
   spot-prediction:
-    src: /images/fishbrain-app/spot-prediction.png
+    src: /images/fishbrain-app/spot-prediction.webp
     title: Spot Prediction
     alt: Screenshot Summit Lake with the Spot Prediction feature enabled in the Fishbrain app
   add-gear:
-    src: /images/fishbrain-app/add-gear.png
+    src: /images/fishbrain-app/add-gear.webp
     title: Add Gear
     alt: Screenshot of the add gear screen in the Fishbrain app
   gear-ratings-and-reviews:
-    src: /images/fishbrain-app/gear-ratings-and-reviews.png
+    src: /images/fishbrain-app/gear-ratings-and-reviews.webp
     title: Gear Ratings and Reviews
     alt: Gear ratings and reviews in the Fishbrain app
   in-app-shop:
-    src: /images/fishbrain-app/in-app-shop.png
+    src: /images/fishbrain-app/in-app-shop.webp
     title: In-app Fishbrain Shop
     alt: Screenshot of categories of baits and lures in the in-app Fishbrain shop
   pro-membership-plans:
-    src: /images/fishbrain-app/pro-membership-plans.png
+    src: /images/fishbrain-app/pro-membership-plans.webp
     title: Pro Membership Plans
     alt: Pro membership plans for the Fishbrain app as of December 27, 2020
 ---
