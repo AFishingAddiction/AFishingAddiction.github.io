@@ -11,6 +11,8 @@ seo:
 related: [/5-tips-for-the-wacky-rig/,/6-tips-for-exploring-fishing-spots/,/5-bank-fishing-tips/,]
 todo:
   - Add links from the features table to the features
+image: /fishbrain-app/Fishbrain-loading-screen.webp
+image_alt: "Fishbrain app loading screen"
 images:
   community-reviews_Long-Lake-Channel:
     src: /images/fishbrain-app/community-reviews_Long-Lake-Channel.webp
