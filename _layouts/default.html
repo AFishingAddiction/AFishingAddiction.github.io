@@ -11,7 +11,8 @@
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css?{{ site.time | date: '%s%N' }}" />
 
-    <link defer href="https://use.fontawesome.com/releases/v5.1.1/css/all.css" integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous" rel="stylesheet" />
+    <link rel="preload" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css" integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous" as="style" onload="this.rel='stylesheet';this.removeAttribute('onload');" />
+    <link href="https://use.fontawesome.com/releases/v5.1.1/css/all.css" integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous" rel="stylesheet" />
 
     <link rel="alternate" type="application/rss+xml" title="{{ site.title | remove: ' ' }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
