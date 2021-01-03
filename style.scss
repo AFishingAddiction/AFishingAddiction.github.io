@@ -18,7 +18,8 @@ html {
 
 body {
   background: $lightGray;
-  font: 14px/1.4 $helvetica;
+  font: $fontSize $helvetica;
+  line-height: $lineHeight;
   color: $primaryFontColor;
   font-display: swap;
 }
@@ -142,7 +143,7 @@ input[type=email] {
 
 input[type=submit] {
   background-color: $primaryColorDark;
-  color: white;
+  color: $white;
   font-weight: bold;
   cursor: pointer;
 }
@@ -161,7 +162,7 @@ article {
   footer {
     padding: 0;
     margin-top: 50px;
-    border-top: 1px solid silver;
+    border-top: 1px solid $silver;
     font-size: 0.8em;
     text-align: left;
   }
@@ -198,7 +199,7 @@ article {
     vertical-align: super; /* 2 */
     font-size: 0.5em; /* 3 */
     margin-left: 2px; /* 4 */
-    color: blue; /* 5 */
+    color: $spaceCadet; /* 5 */
     text-decoration: underline; /* 5 */
     cursor: pointer; /* 5 */
   }
@@ -219,7 +220,7 @@ article {
   * Highlight target note
   */
   footer :target {
-    background: yellow;
+    background: $yellow;
   }
 
   /**
@@ -341,10 +342,10 @@ figure {
       background-color: $secondaryLightBgColor;
       padding: 12px;
       text-align: center;
-      color: black;
+      color: $black;
       .headline {
         display: inline-block;
-        color: black;
+        color: $black;
         font-size: 120%;
         padding-bottom: 6px;
       }
@@ -385,7 +386,7 @@ figure {
 .masthead {
   padding-top: 20px;
   padding-left: 5px;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $silver;
 
   @include mobile {
     text-align: center;
@@ -500,7 +501,7 @@ figure {
             height: 4px;
             margin-bottom: 5px;
             position: relative;
-            background: white;
+            background: $white;
             border-radius: 3px;
             z-index: 1;
 
@@ -544,19 +545,19 @@ figure {
 
 	@include touch-device {
 	  li.has-sub input {
-            display: block;
-            opacity: 0; /* hide this */
+      display: block;
+      opacity: 0; /* hide this */
 	    position: absolute;
-            top: 0;
-            width: 100%;
-            height: $mainNavHeight;
-            z-index: 2;
+      top: 0;
+      width: 100%;
+      height: $mainNavHeight;
+      z-index: 2;
 
 	    &:checked ~ ul {
-                display: block;
+        display: block;
 	    }
 	    &:checked ~ ul li {
-                display: block;
+        display: block;
 	    }
 	  }
 	}
@@ -618,7 +619,7 @@ figure {
               padding: 0 1em;
               position: relative;
               text-decoration: none;
-              text-shadow: 0 -1px 0 #000000;
+              text-shadow: 0 -1px 0 $black;
               white-space: nowrap;
 	  }
 
@@ -628,7 +629,7 @@ figure {
             ul.menu.submenu {
               position: relative;
               top: 0;
-	      width: $mainNavMobileWidth - $mainNavMobileSidePadding;
+	            width: $mainNavMobileWidth - $mainNavMobileSidePadding;
             }
 
             a {
@@ -745,14 +746,14 @@ figure {
 }
 
 .related-pages-container {
-  border-top: 1px solid $lightGray;
+  border-top: 1px solid $silver;
   margin-top: 14px;
 }
 
 .popular-pages-container,
 .related-pages-container {
   background-color: $white;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $silver;
 
   h2, h4 {
     display: block;
@@ -795,7 +796,7 @@ figure {
 .posts > .post,
 .videos > .video {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $silver;
 }
 
 .posts > .post:last-child,
@@ -898,7 +899,7 @@ table {
     }
     th {
       font-weight: 600;
-      border-bottom: 1px solid #dddddd;
+      border-bottom: 1px solid $silver;
     }
     th, td {
       padding: .8em;
@@ -910,9 +911,9 @@ table {
   table {
     width: 100%;
     border-collapse: collapse;
-    border: 1px solid #dddddd;
+    border: 1px solid $silver;
     td {
-      border: 1px solid #dddddd;
+      border: 1px solid $silver;
       padding: .8em;
       display: table-cell;
     }
@@ -927,15 +928,22 @@ table {
 
 #comments {
     margin-top: 10px;
-    border-top: 1px solid #dddddd;
+    border-top: 1px solid $silver;
 
     input, textarea {
         margin: 2px 6px 6px 0;
-        border: 1px solid $grayLightGray;
+        border: 1px solid $silver;
         border-radius: 6px;
     }
+    input {
+      min-width: 33%;
+    }
+    textarea {
+      min-height: $lineHeight * 5;
+      min-width: 50%;
+    }
     .comment-block {
-        border: 1px solid $lightGray;
+        border: 1px solid $silver;
         padding: 5px;
         margin-top: 10px;
         border-radius: 5px;
@@ -951,8 +959,8 @@ table {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
+  border-top: 1px solid $silver;
+  border-bottom: 1px solid $silver;
   background-color: $lightGray;
 
   .container {

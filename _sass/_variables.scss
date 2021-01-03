@@ -1,24 +1,27 @@
-
 //
 // VARIABLES
 //
 
 // Colors
-$blue: #4183C4;
+$blue: #4183c4;
+$carolinaBlue: #00a3dd;
+$copperRed: #d66f49;
+$spaceCadet: #132554;
 
 // Grays
 $black: #000;
-$carolinaBlue: #00A3DD;
-$copperRed: #D66F49;
 $darkerGray: #222;
 $darkGray: #333;
 $grayDarkGray: #555;
 $gray: #666;
 $grayLightGray: #999;
+$silver: #c0c0c0;
 $lightGray: #eee;
-$spaceCadet: #132554;
 $whiteLightGray: #f0f0f0;
 $white: #fff;
+
+// Other colors
+$yellow: #ff0;
 
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
@@ -53,6 +56,8 @@ $georgia: Georgia, serif;
   }
 }
 
+$pageBgColor: $whiteLightGray;
+
 $primaryColor: $grayDarkGray;
 $primaryColorDark: $spaceCadet;
 $primaryColorLight: $carolinaBlue;
@@ -66,7 +71,7 @@ $accentColor: $copperRed;
 $postTagFontColor: $primaryColorLight;
 $postTagBgColor: $secondaryLightBgColor;
 
-$skinnyBorderColor: $lightGray;
+$skinnyBorderColor: $silver;
 
 $mainNavHeight: 52px;
 $mainNavBgColor: $primaryColorDark;
@@ -75,3 +80,5 @@ $mainNavMobileTopPadding: 12px;
 $mainNavMobileSidePadding: 30px;
 
 $maxPageWidth: 960px;
+$fontSize: 14px;
+$lineHeight: $fontSize * 1.4;
