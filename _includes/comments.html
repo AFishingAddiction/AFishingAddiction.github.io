@@ -44,7 +44,7 @@
     </form>
     {% for comment in site.data.comments[page.slug] %}
     <div class="comment-block">
-        <pre class="comment-text">{{ comment[1].message | xml_escape }}</pre>
+        <blockquote class="comment-text">{{ comment[1].message | xml_escape }}</blockquote>
         <div class="comment-meta">&mdash; {{ comment[1].name }} on {{ comment[1].date | date: '%B %d, %Y' }}</div>
     </div>
     {% endfor %}
