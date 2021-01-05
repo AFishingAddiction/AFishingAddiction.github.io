@@ -318,14 +318,23 @@ All in all, I think that Fishbrain is an amazing app. It has a lot of features t
 <footer>
   <h2 class="visually-hidden" id="footnote-label">Footnotes</h2>
   <ol>
-    <li id="google-play-excerpt">An excerpt from the <a href="https://play.google.com/store/apps/details?id=com.fishbrain.app">Fishbrain app description on Google Play Store</a> 
-      <a href="#google-play-excerpt-ref" aria-label="Back to content">↵</a>
+    <li id="google-play-excerpt">
+      <span>
+        An excerpt from the <a href="https://play.google.com/store/apps/details?id=com.fishbrain.app">Fishbrain app description on Google Play Store</a> 
+        <a href="#google-play-excerpt-ref" aria-label="Back to content">↵</a>
+      </span>
     </li>
-    <li id="depth-map-excerpt">An excerpt from the Fishbrain app Depth Contours feature info.
-      <a href="#depth-map-excerpt-ref" aria-label="Back to content">↵</a>
+    <li id="depth-map-excerpt">
+      <span>
+        An excerpt from the Fishbrain app Depth Contours feature info.
+        <a href="#depth-map-excerpt-ref" aria-label="Back to content">↵</a>
+      </span>
     </li>
-    <li id="spot-prediction-excerpt">An excerpt from the Fishbrain app Spot Prediction feature info.
-      <a href="#spot-prediction-excerpt-ref" aria-label="Back to content">↵</a>
+    <li id="spot-prediction-excerpt">
+      <span>
+        An excerpt from the Fishbrain app Spot Prediction feature info.
+        <a href="#spot-prediction-excerpt-ref" aria-label="Back to content">↵</a>
+      </span>
     </li>
   </ol>
 </footer>

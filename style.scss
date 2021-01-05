@@ -31,13 +31,18 @@ body {
   width: 100%;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: $helveticaNeue;
   color: $secondaryFontColor;
   font-weight: bold;
 
   line-height: 1.7;
-  margin: .5em 0;
+  margin: 0.5em 0;
   padding: 0;
 
   a {
@@ -81,8 +86,9 @@ p {
 a {
   color: $blue;
   text-decoration: none;
-	cursor: pointer;
-  &:hover, &:active {
+  cursor: pointer;
+  &:hover,
+  &:active {
     color: $blue;
   }
   .fas {
@@ -90,7 +96,8 @@ a {
   }
 }
 
-ul, ol {
+ul,
+ol {
   margin: 15px 0;
   padding-left: 30px;
 }
@@ -103,19 +110,25 @@ ol {
   list-style-type: decimal;
 }
 
-ol ul, ul ol, ul ul, ol ol {
+ol ul,
+ul ol,
+ul ul,
+ol ol {
   margin: 0;
 }
 
-ul ul, ol ul {
+ul ul,
+ol ul {
   list-style-type: circle;
 }
 
-em, i {
+em,
+i {
   font-style: italic;
 }
 
-strong, b {
+strong,
+b {
   font-weight: bold;
 }
 
@@ -127,21 +140,21 @@ img {
   }
 }
 
-input[type=submit],
-input[type=text],
-input[type=email],
+input[type="submit"],
+input[type="text"],
+input[type="email"],
 .btn {
   border-radius: 8px;
   padding: 6px;
   border: none;
 }
 
-input[type=text],
-input[type=email] {
+input[type="text"],
+input[type="email"] {
   padding-left: 8px;
 }
 
-input[type=submit] {
+input[type="submit"] {
   background-color: $primaryColorDark;
   color: $white;
   font-weight: bold;
@@ -195,7 +208,7 @@ article {
   * 5. Reset link styles on the number to show it's usable
   */
   [aria-describedby="footnote-label"]::after {
-    content: '[' counter(footnotes) ']'; /* 1 */
+    content: "[" counter(footnotes) "]"; /* 1 */
     vertical-align: super; /* 2 */
     font-size: 0.5em; /* 3 */
     margin-left: 2px; /* 4 */
@@ -219,8 +232,19 @@ article {
   /**
   * Highlight target note
   */
-  footer :target {
-    background: $yellow;
+  footer {
+    :target {
+      padding-top: $mainNavHeight;
+      margin-top: -$mainNavHeight;
+
+      span {
+        background: $yellow;
+      }
+    }
+
+    span {
+      padding: 2px;
+    }
   }
 
   /**
@@ -256,7 +280,8 @@ figure {
   }
 }
 
-.fas, .fa {
+.fas,
+.fa {
   font-display: swap;
 }
 
@@ -280,9 +305,9 @@ figure {
   .post-tag {
     display: inline-block;
     background: $postTagBgColor;
-    padding: 2px .5rem;
+    padding: 2px 0.5rem;
     border-radius: 4px;
-    margin: .2em .3em;
+    margin: 0.2em 0.3em;
     color: $postTagFontColor;
   }
 }
@@ -308,19 +333,17 @@ figure {
 // http://nicolasgallagher.com/micro-clearfix-hack/
 .clearfix:before,
 .clearfix:after {
-    content: " ";
-    display: table;
+  content: " ";
+  display: table;
 }
 
 .clearfix:after {
-    clear: both;
+  clear: both;
 }
 
 .float-left {
   float: left;
 }
-
-
 
 /*********************/
 /* LAYOUT / SECTIONS */
@@ -336,7 +359,7 @@ figure {
   margin: auto;
 
   .container {
-      padding: 0;
+    padding: 0;
 
     .signup-form {
       background-color: $secondaryLightBgColor;
@@ -353,12 +376,12 @@ figure {
         margin-top: 4px;
         font-size: 90%;
       }
-      div.mc-field-group, div.mc-submit {
+      div.mc-field-group,
+      div.mc-submit {
         display: inline-block;
       }
-      input[type=submit] {
+      input[type="submit"] {
         font-size: 12pt;
-
       }
       @include tablet {
         div.mc-submit {
@@ -434,243 +457,242 @@ figure {
 }
 
 #wrapper-main-nav {
-    position: fixed;
-    top: 0;
-    left: 0;
-    height: $mainNavHeight;
-    width: 100%;
-    z-index: 200;
-    background-color: $mainNavBgColor;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: $mainNavHeight;
+  width: 100%;
+  z-index: 200;
+  background-color: $mainNavBgColor;
 
-    #menuToggle {
-      display: block;
-      clear: both;
-      margin: auto;
-      max-width: $maxPageWidth;
+  #menuToggle {
+    display: block;
+    clear: both;
+    margin: auto;
+    max-width: $maxPageWidth;
 
-      input {
-        @include gt-mobile {
-          display: none;
-        }
-        @include mobile {
-          display: block;
-          width: 40px;
-          height: 32px;
-          position: absolute;
-          top: -7px;
-          left: -5px;
-          cursor: pointer;
-          opacity: 0; /* hide this */
-          z-index: 2; /* and place it over the hamburger */
-          -webkit-touch-callout: none;
-
-          &:checked ~ .hamburger span {
-            opacity: 1;
-            transform: rotate(45deg) translate(-2px, -1px);
-            position: relative;
-            top: -15px;
-          }
-
-          &:checked ~ .hamburger span:nth-last-child(3) {
-            opacity: 0;
-            transform: rotate(0deg) scale(0.2, 0.2);
-          }
-
-          &:checked ~ .hamburger span:nth-last-child(2) {
-            transform: rotate(-45deg) translate(0, -1px);
-            position: relative;
-            top: 12px;
-            left: 1px;
-          }
-
-          &:checked ~ ul.menu {
-            transform: none;
-          }
-        }
+    input {
+      @include gt-mobile {
+        display: none;
       }
+      @include mobile {
+        display: block;
+        width: 40px;
+        height: 32px;
+        position: absolute;
+        top: -7px;
+        left: -5px;
+        cursor: pointer;
+        opacity: 0; /* hide this */
+        z-index: 2; /* and place it over the hamburger */
+        -webkit-touch-callout: none;
 
-      div.hamburger {
-        @include mobile {
-          display: inline-block;
+        &:checked ~ .hamburger span {
+          opacity: 1;
+          transform: rotate(45deg) translate(-2px, -1px);
           position: relative;
-          left: 10px;
-
-          span {
-            display: block;
-            width: 33px;
-            height: 4px;
-            margin-bottom: 5px;
-            position: relative;
-            background: $white;
-            border-radius: 3px;
-            z-index: 1;
-
-            transform-origin: 4px 0px;
-            transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
-                        background 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
-                        opacity 0.55s ease;
-
-            &:first-child {
-              transform-origin: 0% 0%;
-            }
-
-            &:nth-last-child(2) {
-              transform-origin: 0% 100%;
-            }
-          }
+          top: -15px;
         }
 
-        @include gt-mobile {
-          display: none;
+        &:checked ~ .hamburger span:nth-last-child(3) {
+          opacity: 0;
+          transform: rotate(0deg) scale(0.2, 0.2);
+        }
+
+        &:checked ~ .hamburger span:nth-last-child(2) {
+          transform: rotate(-45deg) translate(0, -1px);
+          position: relative;
+          top: 12px;
+          left: 1px;
+        }
+
+        &:checked ~ ul.menu {
+          transform: none;
         }
       }
+    }
 
-      .menu-logo {
+    div.hamburger {
+      @include mobile {
         display: inline-block;
-        height: $mainNavHeight;
         position: relative;
         left: 10px;
 
-        img.nav-logo {
-          height: 40px;
+        span {
+          display: block;
+          width: 33px;
+          height: 4px;
+          margin-bottom: 5px;
           position: relative;
-          top: 3px;
+          background: $white;
+          border-radius: 3px;
+          z-index: 1;
+
+          transform-origin: 4px 0px;
+          transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1), background 0.5s cubic-bezier(0.77, 0.2, 0.05, 1),
+            opacity 0.55s ease;
+
+          &:first-child {
+            transform-origin: 0% 0%;
+          }
+
+          &:nth-last-child(2) {
+            transform-origin: 0% 100%;
+          }
         }
       }
 
-      ul.menu {
-        background-color: $mainNavBgColor;
-        list-style-type: none;
-        margin: 0;
+      @include gt-mobile {
+        display: none;
+      }
+    }
 
-	@include touch-device {
-	  li.has-sub input {
-      display: block;
-      opacity: 0; /* hide this */
-	    position: absolute;
-      top: 0;
-      width: 100%;
+    .menu-logo {
+      display: inline-block;
       height: $mainNavHeight;
-      z-index: 2;
+      position: relative;
+      left: 10px;
 
-	    &:checked ~ ul {
-        display: block;
-	    }
-	    &:checked ~ ul li {
-        display: block;
-	    }
-	  }
-	}
+      img.nav-logo {
+        height: 40px;
+        position: relative;
+        top: 3px;
+      }
+    }
+
+    ul.menu {
+      background-color: $mainNavBgColor;
+      list-style-type: none;
+      margin: 0;
+
+      @include touch-device {
+        li.has-sub input {
+          display: block;
+          opacity: 0; /* hide this */
+          position: absolute;
+          top: 0;
+          width: 100%;
+          height: $mainNavHeight;
+          z-index: 2;
+
+          &:checked ~ ul {
+            display: block;
+          }
+          &:checked ~ ul li {
+            display: block;
+          }
+        }
+      }
+
+      @include mobile {
+        position: absolute;
+        width: $mainNavMobileWidth;
+        padding: $mainNavMobileTopPadding $mainNavMobileSidePadding;
+        -webkit-font-smoothing: antialiased;
+        /* to stop flickering of text in safari */
+        transform-origin: 0% 0%;
+        transform: translate(-100%, 0);
+        transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1);
+
+        &.submenu {
+          display: none;
+        }
+
+        li.has-sub {
+          input {
+            width: $mainNavMobileWidth;
+            top: $mainNavMobileTopPadding + 4;
+          }
+        }
+      }
+
+      @include gt-mobile {
+        display: inline-block;
+        padding-left: 5px;
+        height: $mainNavHeight;
+        position: relative;
+        top: -11px;
+
+        .has-sub:hover > ul.submenu {
+          display: block;
+        }
+
+        .has-sub:hover > ul.submenu li {
+          display: block;
+        }
+      }
+
+      li {
+        &.highlight {
+          background-color: $accentColor;
+          &:hover {
+            background-color: $accentColor;
+          }
+        }
+        a {
+          color: $white;
+          cursor: pointer;
+          display: block;
+          font-size: 13px;
+          font-weight: 700;
+          height: $mainNavHeight;
+          line-height: $mainNavHeight;
+          margin: 0;
+          padding: 0 1em;
+          position: relative;
+          text-decoration: none;
+          text-shadow: 0 -1px 0 $black;
+          white-space: nowrap;
+        }
 
         @include mobile {
-          position: absolute;
-          width: $mainNavMobileWidth;
-          padding: $mainNavMobileTopPadding $mainNavMobileSidePadding;
-          -webkit-font-smoothing: antialiased;
-          /* to stop flickering of text in safari */
-          transform-origin: 0% 0%;
-          transform: translate(-100%, 0);
-          transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
-
-          &.submenu {
-            display: none;
+          padding: 10px 0;
+          font-size: 22px;
+          ul.menu.submenu {
+            position: relative;
+            top: 0;
+            width: $mainNavMobileWidth - $mainNavMobileSidePadding;
           }
 
-	  li.has-sub {
-            input {
-              width: $mainNavMobileWidth;
-              top: $mainNavMobileTopPadding+4;
-	    }
-	  }
+          a {
+            font-size: 18px;
+          }
         }
 
         @include gt-mobile {
           display: inline-block;
-          padding-left: 5px;
           height: $mainNavHeight;
+          background-color: $mainNavBgColor;
           position: relative;
-          top: -11px;
-
-          .has-sub:hover > ul.submenu {
-            display: block;
+          z-index: 100;
+          vertical-align: middle;
+          &:hover {
+            background-color: $primaryColorLight;
           }
 
-          .has-sub:hover > ul.submenu li {
-            display: block;
-          }
-        }
-
-        li {
-          &.highlight {
-            background-color: $accentColor;
-	    &:hover {
-              background-color: $accentColor;
-            }
-          }
-          a {
-              color: $white;
-              cursor: pointer;
-              display: block;
-              font-size: 13px;
-              font-weight: 700;
-              height: $mainNavHeight;
-              line-height: $mainNavHeight;
-              margin: 0;
-              padding: 0 1em;
-              position: relative;
-              text-decoration: none;
-              text-shadow: 0 -1px 0 $black;
-              white-space: nowrap;
-	  }
-
-          @include mobile {
-            padding: 10px 0;
-            font-size: 22px;
-            ul.menu.submenu {
-              position: relative;
-              top: 0;
-	            width: $mainNavMobileWidth - $mainNavMobileSidePadding;
-            }
-
-            a {
-              font-size: 18px;
-            }
-          }
-
-          @include gt-mobile {
-            display: inline-block;
-            height: $mainNavHeight;
+          &.menu-logo:hover {
             background-color: $mainNavBgColor;
-            position: relative;
-            z-index: 100;
-            vertical-align: middle;
-            &:hover {
-              background-color: $primaryColorLight;
-            }
+          }
 
-            &.menu-logo:hover {
-              background-color: $mainNavBgColor;
-            }
+          ul.menu.submenu {
+            display: none;
+            margin: 0;
+            padding: 0;
+            width: 150px;
+            position: absolute;
+            top: $mainNavHeight;
 
-            ul.menu.submenu {
+            li {
               display: none;
+              float: none;
               margin: 0;
               padding: 0;
-              width: 150px;
-              position: absolute;
-	      top: $mainNavHeight;
-
-              li {
-                display: none;
-                float: none;
-                margin: 0;
-                padding:0;
-              }
             }
           }
         }
       }
     }
+  }
 }
 
 //
@@ -684,8 +706,8 @@ figure {
   padding: 5px 20px 20px 20px;
 
   #main-content {
-      display: table-cell;
-      width: 100%;
+    display: table-cell;
+    width: 100%;
   }
 
   .ad.custom::before {
@@ -697,23 +719,23 @@ figure {
   }
 
   .inline-content-ads {
-      padding: 14px 0;
-      width: 100%;
-      display: none;
-      @include tablet {
-        display: inline-block;
-      }
+    padding: 14px 0;
+    width: 100%;
+    display: none;
+    @include tablet {
+      display: inline-block;
+    }
 
-      .adsbygoogle {
-          display: block;
-      }
+    .adsbygoogle {
+      display: block;
+    }
 
-      .ad.custom {
-	text-align: center;
-	&::before {
-          left: 50%;
-        }
+    .ad.custom {
+      text-align: center;
+      &::before {
+        left: 50%;
       }
+    }
   }
 
   #sidebar-right {
@@ -755,7 +777,8 @@ figure {
   background-color: $white;
   border-bottom: 1px solid $silver;
 
-  h2, h4 {
+  h2,
+  h4 {
     display: block;
     text-align: left;
   }
@@ -768,28 +791,28 @@ figure {
     }
     justify-content: space-evenly;
 
-  .popular-page,
-  .related-page {
-    margin: 6px;
-    min-width: 212px;
-    width: 100%;
-    padding: 0 8px 8px;
-    background-color: $whiteLightGray;
-    border-radius: 8px;
+    .popular-page,
+    .related-page {
+      margin: 6px;
+      min-width: 212px;
+      width: 100%;
+      padding: 0 8px 8px;
+      background-color: $whiteLightGray;
+      border-radius: 8px;
 
-    h3 {
-      text-align: center;
-      line-height: normal;
-    }
+      h3 {
+        text-align: center;
+        line-height: normal;
+      }
 
-    .post-tag {
-      font-size: 90%;
-    }
+      .post-tag {
+        font-size: 90%;
+      }
 
-    a:hover {
-      text-decoration: none;
+      a:hover {
+        text-decoration: none;
+      }
     }
-  }
   }
 }
 
@@ -807,15 +830,16 @@ figure {
 
 .posts,
 .videos {
-    .post,
-    .video {
-        .date {
-          margin: -5px 0 10px;
-        }
+  .post,
+  .video {
+    .date {
+      margin: -5px 0 10px;
     }
+  }
 }
 
-.post, .video {
+.post,
+.video {
   color: $secondaryFontColor;
   font-size: 14px;
 
@@ -901,8 +925,9 @@ table {
       font-weight: 600;
       border-bottom: 1px solid $silver;
     }
-    th, td {
-      padding: .8em;
+    th,
+    td {
+      padding: 0.8em;
     }
   }
 }
@@ -914,7 +939,7 @@ table {
     border: 1px solid $silver;
     td {
       border: 1px solid $silver;
-      padding: .8em;
+      padding: 0.8em;
       display: table-cell;
     }
     td.label {
@@ -927,34 +952,35 @@ table {
 }
 
 #comments {
-    margin-top: 10px;
-    border-top: 1px solid $silver;
+  margin-top: 10px;
+  border-top: 1px solid $silver;
 
-    input, textarea {
-        margin: 2px 6px 6px 0;
-        border: 1px solid $silver;
-        border-radius: 6px;
+  input,
+  textarea {
+    margin: 2px 6px 6px 0;
+    border: 1px solid $silver;
+    border-radius: 6px;
+  }
+  input {
+    min-width: 33%;
+  }
+  textarea {
+    min-height: $lineHeight * 5;
+    min-width: 50%;
+  }
+  .comment-block {
+    border: 1px solid $silver;
+    padding: 5px;
+    margin-top: 10px;
+    border-radius: 5px;
+    .comment-text {
+      padding: 5px;
     }
-    input {
-      min-width: 33%;
+    .comment-meta {
+      margin-top: 3px;
+      font-style: italic;
     }
-    textarea {
-      min-height: $lineHeight * 5;
-      min-width: 50%;
-    }
-    .comment-block {
-        border: 1px solid $silver;
-        padding: 5px;
-        margin-top: 10px;
-        border-radius: 5px;
-        .comment-text {
-            padding: 5px;
-        }
-        .comment-meta {
-            margin-top: 3px;
-            font-style: italic;
-        }
-    }
+  }
 }
 
 .wrapper-footer {
