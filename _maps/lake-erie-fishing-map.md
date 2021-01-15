@@ -6,6 +6,8 @@ author: dan
 layout: map
 permalink: /lake-erie-fishing-map/
 map_source: https://www.google.com/maps/d/embed?mid=1iL0xIY2iHHgUHleDfh0Sf0qxR8o&hl=en
+seo:
+  type: Map
 
 map_contents:
  - name: Lake Erie Public Boat Ramps

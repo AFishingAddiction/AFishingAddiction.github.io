@@ -7,6 +7,8 @@ image: hook-slice-660x1175.jpg
 image_alt: Hook Slice
 catch_ids:
   - 8
+seo:
+  type: BlogPosting
 tags:
   - bass
   - Boettler Park

@@ -8,7 +8,7 @@ tags:
   - knots
   - tips
 seo:
-  type: "Article"
+  type: HowTo
 related: [/reviews/fishbrain-mobile-app,/5-tips-for-the-wacky-rig/,/5-bank-fishing-tips/,]
 ---
 Whether you are spooling new fishing line onto a spinning reel, a baitcasting reel, or a fly fishing reel, the best knot to use in all cases is an arbor knot. This is great, because the arbor knot is really easy to tie and you only have to learn one type of knot to spool your lines to all of your types of reels.

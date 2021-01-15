@@ -5,6 +5,8 @@ date: 2014-03-07T07:12:02+00:00
 author: dan
 layout: post
 redirect_from: /2014/03/07/my-tackle-bag/
+seo:
+  type: BlogPosting
 tags:
   - equipment
   - tackle

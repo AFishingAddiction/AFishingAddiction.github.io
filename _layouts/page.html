@@ -1,12 +1,35 @@
 ---
 layout: default
+article_class: page
+is_inline_ads_enabled: false
+is_tags_enabled: false
+is_catches_enabled: false
+is_comments_enabled: false
 ---
 
-<article class="page">
+<article class="{{ layout.article_class }}">
 
   <h1>{{ page.title }}</h1>
+  {% if page.image %}
+  <img src="/images/{{ page.image }}" alt="{{ page.image_alt }}" />
+    {% if page.image_credit %}
+  <div class="image-credit">{{ page.image_credit }}</div>
+    {% endif %}
+  {% endif %}
+  {% if layout.is_inline_ads_enabled %}
+    {% include ads/inline-content.html %}
+  {% endif %}
 
   <div class="entry">
     {{ content }}
   </div>
+  {% if layout.is_tags_enabled %}
+    {% include post_tags.html post_tags=page.tags %}
+  {% endif %}
+  {% if layout.is_catches_enabled %}
+    {% include catches.html %}
+  {% endif %}
+  {% if layout.is_comments_enabled %}
+    {% include comments.html %}
+  {% endif %}
 </article>

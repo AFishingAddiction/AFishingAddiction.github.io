@@ -4,7 +4,7 @@ title: "Bass Fishing Blog"
 excerpt: "Recent blog posts about my fishing adventures in Ohio and some tips for landing the big ones"
 permalink: /
 seo:
-  type: "Website"
+  type: Website
 ---
 <div class="posts">
   <h1>{{ page.title }}</h1>

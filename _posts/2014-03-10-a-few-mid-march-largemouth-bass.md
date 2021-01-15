@@ -6,6 +6,8 @@ layout: post
 redirect_from: /2014/03/10/a-few-mid-march-largemouth-bass/
 catch_ids:
   - 5
+seo:
+  type: BlogPosting
 tags:
   - bass
   - catch

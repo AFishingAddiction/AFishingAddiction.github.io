@@ -6,6 +6,8 @@ layout: post
 redirect_from: /2014/03/17/my-first-smallmouth-bass/
 catch_ids:
   - 3
+seo:
+  type: BlogPosting
 tags:
   - bass
   - catch

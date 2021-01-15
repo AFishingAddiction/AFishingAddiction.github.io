@@ -1,22 +1,9 @@
 ---
-layout: default
-seo:
-  type: 'BlogPosting'
+layout: page
+article_class: post
+is_inline_ads_enabled: true
+is_tags_enabled: true
+is_catches_enabled: true
+is_comments_enabled: true
 ---
-
-<article class="post">
-  <h1>{{ page.title }}</h1>
-  {% if page.image %}
-  <img src="/images/{{ page.image }}" alt="{{ page.image_alt }}" />
-    {% if page.image_credit %}
-  <div class="image-credit">{{ page.image_credit }}</div>
-    {% endif %}
-  {% endif %}
-  {% include ads/inline-content.html %}
-  <div class="entry">
-    {{ content }}
-  </div>
-  {% include post_tags.html post_tags=page.tags %}
-  {% include catches.html %}
-  {% include comments.html %}
-</article>
+{{ content }}

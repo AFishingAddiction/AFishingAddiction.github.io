@@ -9,6 +9,8 @@ image: robson-hatsukami-morgan-335701-unsplash-660x990.jpg
 image_alt: Bank fishing tips
 image_credit: Photo by Robson Hatsukami Morgan on Unsplash
 redirect_from: /2014/06/17/5-bank-fishing-tips/
+seo:
+  type: HowToTip
 tags:
   - bank fishing
   - products

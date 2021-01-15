@@ -6,6 +6,8 @@ author: dan
 layout: post
 image: wacky-rigs.jpg
 image_alt: Wacky Worm Rig
+seo:
+  type: HowToTip
 tags:
   - tips
   - rigging

@@ -7,7 +7,7 @@ layout: post
 tags:
   - review
 seo:
-  type: "Article"
+  type: Review
 related: [/5-tips-for-the-wacky-rig/,/6-tips-for-exploring-fishing-spots/,/5-bank-fishing-tips/,]
 todo:
   - Add links from the features table to the features

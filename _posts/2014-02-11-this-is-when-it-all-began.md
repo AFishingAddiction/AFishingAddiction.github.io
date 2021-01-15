@@ -8,6 +8,8 @@ image: my-first-largemouth-bass-550x979.jpg
 redirect_from: /2014/02/11/this-is-when-it-all-began/
 catch_ids:
   - 9
+seo:
+  type: BlogPosting
 tags:
   - bass
   - catch

@@ -8,6 +8,8 @@ excerpt: "There are many things that you can do to improve your fishing game. He
 image: weedless-worm-660x354.jpg
 image_alt: Weedless Worm
 redirect_from: /2014/06/07/3-tips-for-using-plastic-worms/
+seo:
+  type: HowToTip
 tags:
   - plastic worm
   - tips

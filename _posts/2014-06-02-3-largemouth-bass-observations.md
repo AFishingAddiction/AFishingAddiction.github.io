@@ -7,6 +7,8 @@ layout: post
 redirect_from: /2014/06/02/3-largemouth-bass-observations/
 excerpt: During the little fishing time I had that day, I made a few largemouth bass observations from the ones I caught and the ones I was attempting to catch.
 image: a-canal-bass-225x300.jpg
+seo:
+  type: Article
 tags:
   - topwater
   - observations

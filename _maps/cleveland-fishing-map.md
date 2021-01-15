@@ -7,6 +7,8 @@ layout: map
 permalink: /cleveland-fishing-map/
 needed keywords:
   - cuyahoga river fishing spots
+seo:
+  type: Map
 tags:
   - map
 map_source: https://www.google.com/maps/d/embed?mid=1mr4nPNRNYI3sG9vey1Js3KQR8ljUYnJw
