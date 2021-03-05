@@ -8,7 +8,7 @@ tags:
   - review
 seo:
   type: Review
-related: [/5-tips-for-the-wacky-rig/,/6-tips-for-exploring-fishing-spots/,/5-bank-fishing-tips/,]
+related: [/6-things-to-do-in-the-fishing-off-season,/6-tips-for-exploring-fishing-spots/,/5-bank-fishing-tips/,]
 todo:
   - Add links from the features table to the features
 image: /fishbrain-app/Fishbrain-loading-screen-cropped.webp
