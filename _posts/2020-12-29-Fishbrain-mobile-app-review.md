@@ -11,7 +11,7 @@ seo:
 related: [/6-things-to-do-in-the-fishing-off-season,/6-tips-for-exploring-fishing-spots/,/5-bank-fishing-tips/,]
 todo:
   - Add links from the features table to the features
-image: /fishbrain-app/Fishbrain-loading-screen-cropped.webp
+image: fishbrain-app/Fishbrain-loading-screen-cropped.webp
 image_alt: "Fishbrain app loading screen"
 images:
   community-reviews_Long-Lake-Channel:

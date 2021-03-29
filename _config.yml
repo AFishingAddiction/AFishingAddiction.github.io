@@ -8,10 +8,14 @@ title: A Fishing Addiction
 # Short bio or description (displayed in the header)
 description: A blog about my bass fishing addiction
 
-logo: /images/A-Fishing-Addiction-logo.jpg
+logo: /images/logo/A-Fishing-Addiction-logo.png
+
+language: en-us
+locale: en_US
 
 # The author of the page if not specified on the post or page
 author:
+  name: Dan Schaefer
   picture: /images/dan-schaefer-profile-0-200x200.jpg
   twitter: AFishingAddict
 
@@ -33,6 +37,8 @@ social:
     - https://www.facebook.com/AFishingAddiction
     - https://www.instagram.com/AFishingAddiction
     - https://www.youtube.com/channel/UCUmAhj4E2UaaXntpG0dzWOQ
+webmaster_verifications:
+  google: _W7e1typcZprmr1vk0ZE833mlWAr-wD0-gGtbizBLY8
 
 #
 # Flags below are optional
