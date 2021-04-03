@@ -163,7 +163,11 @@
     "sameAs":{{ same_as_links | jsonify }},
   {% endif -%}
   {% if page.seo.json_ld -%}
-    {{ page.seo.json_ld | jsonify }},
+    {% capture custom_json_ld -%}
+    {{- page.seo.json_ld | jsonify -}}
+    {%- endcapture -%}
+    {% capture length_minus_1 %}{{ custom_json_ld.size | minus: 1 }}{% endcapture -%}
+    {{ custom_json_ld | truncate: length_minus_1, '' | remove_first: '{' }},
   {% endif -%}
   "@context":"https://schema.org"
 }

@@ -9,6 +9,58 @@ tags:
   - tips
 seo:
   type: HowTo
+  json_ld:
+    name: Tie an Arbor Knot
+    step:
+      - "@type": HowToStep
+        position: 1
+        itemListElement:
+          - "@type": HowToDirection
+            position: 1
+            text: Take the tag end of the line and make a loop around the arbor of the reel
+          - "@type": HowToDirection
+            position: 2
+            text: Tie an overhand knot around the main line, leaving enough line to tie another knot
+          - "@type": HowToDirection
+            position: 1
+            text: Pull the first knot tight
+      - "@type": HowToStep
+        position: 2
+        itemListElement:
+          - "@type": HowToDirection
+            position: 1
+            text: Tie another overhand knot with the tag end
+          - "@type": HowToDirection
+            position: 1
+            text: Pull the second knot tight
+      - "@type": HowToStep
+        position: 3
+        itemListElement:
+          - "@type": HowToDirection
+            position: 1
+            text: Wet the first knot
+          - "@type": HowToDirection
+            position: 2
+            text: Pull the line between the first knot and the reel, cinching the two knots together
+      - "@type": HowToStep
+        position: 4
+        itemListElement:
+          - "@type": HowToDirection
+            position: 1
+            text: The tag end knot should cinch up against the first overhand knot, preventing the knots from slipping or untying
+          - "@type": HowToDirection
+            position: 2
+            text: Trim the tag end
+      - "@type": HowToStep
+        position: 5
+        itemListElement:
+          - "@type": HowToDirection
+            position: 1
+            text: Pull the main line to cinch the knots against the arbor
+          - "@type": HowToDirection
+            position: 1
+            text: You are now ready to spool your reel
+
 related: [/reviews/fishbrain-mobile-app,/6-things-to-do-in-the-fishing-off-season,/5-bank-fishing-tips/,]
 ---
 Whether you are spooling new fishing line onto a spinning reel, a baitcasting reel, or a fly fishing reel, the best knot to use in all cases is an arbor knot. This is great, because the arbor knot is really easy to tie and you only have to learn one type of knot to spool your lines to all of your types of reels.
@@ -17,10 +69,7 @@ Whether you are spooling new fishing line onto a spinning reel, a baitcasting re
 
 [![How to Tie an Arbor Knot](/images/knots/arbor-knot.jpg)](/images/knots/arbor-knot.jpg)
 
-1. An Arbor Knot is tied first by taking the tag end of the line and making a loop around the arbor of the reel. Then, take the tag end of the line and tie an overhand knot around the main line.
-2. Then tie another overhand knot at the end of the tag end.
-3. & 4. Pull the line between the first knot and the reel to cinch the knots together. The tag end knot should push up against the first overhand knot, preventing the knots from slipping or untying. Optionally, you can wet the knots before cinching them together. 
-5. Lastly, pull main line to cinch the knots to the arbor and trim the tag end.
+{% include howto.html steps=page.seo.json_ld.step %}
 
 ## What is the best knot for tying fishing line to a reel?
 An Arbor Knot is the best knot to tie your fishing line to your reel-- any type of reel.

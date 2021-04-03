@@ -1,0 +1,13 @@
+<ol>
+  {% for step in include.steps %}
+    <li>
+      {% if step.itemListElement.size > 1 %}<ol type="a">{% endif %}
+      {%- for itemListElement in step.itemListElement %}
+        {% if step.itemListElement.size > 1 %}<li>{% endif %}
+          {{- itemListElement.text -}}
+        {% if step.itemListElement.size > 1 %}</li>{% endif %}
+      {% endfor -%}
+      {% if step.itemListElement.size > 1 %}</ol>{% endif %}
+    </li>
+  {% endfor %}
+</ol>
