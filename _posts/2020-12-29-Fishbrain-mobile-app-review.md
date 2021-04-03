@@ -8,6 +8,14 @@ tags:
   - review
 seo:
   type: Review
+  json_ld:
+    itemReviewed:
+      "@type": SoftwareApplication
+      name: Fishbrain
+      operatingSystem: Android
+      applicationCategory: SportsApplication
+    name: Fishbrain is an amazing app
+    reviewBody: Fishbrain has a lot of features that I would look for in a fishing app and it also has features I never would have even thought of. If you are looking for a fishing app that allows you to discover fishing spots, record your catches and gear, and also allows you to interact with other anglers, this is the app for you.
 related: [/6-things-to-do-in-the-fishing-off-season,/6-tips-for-exploring-fishing-spots/,/5-bank-fishing-tips/,]
 todo:
   - Add links from the features table to the features
@@ -313,7 +321,7 @@ First, it's worth mentioning that the Fishbrain Pro membership has a 14-day tria
 {% include captioned-image.html className="mobile-screenshot" image=page.images.pro-membership-plans %}
 
 ## Conclusion
-All in all, I think that Fishbrain is an amazing app. It has a lot of features that I would look for in a fishing app and it also has features I would have even thought of. If you are looking for fishing app that allows you to discover fishing spots, record your catches and gear, and also allows you to interact with other anglers, this is the app for you. So, go ahead and <a href="{{ site.affiliates.fishbrain.text_link }}">download the Fishbrain app</a> and check out the great features yourself.
+All in all, I think that Fishbrain is an amazing app. It has a lot of features that I never would look for in a fishing app and it also has features I would have even thought of. If you are looking for a fishing app that allows you to discover fishing spots, record your catches and gear, and also allows you to interact with other anglers, this is the app for you. So, go ahead and <a href="{{ site.affiliates.fishbrain.text_link }}">download the Fishbrain app</a> and check out the great features yourself.
 
 <footer>
   <h2 class="visually-hidden" id="footnote-label">Footnotes</h2>

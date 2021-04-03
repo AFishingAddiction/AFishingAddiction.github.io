@@ -160,7 +160,10 @@
     "image":{{ page_image_path | absolute_url | jsonify }},
   {% endif -%}
   {% if same_as_links -%}
-    "sameAs":{{ same_as_links | jsonify }}
+    "sameAs":{{ same_as_links | jsonify }},
+  {% endif -%}
+  {% if page.seo.json_ld -%}
+    {{ page.seo.json_ld | jsonify }},
   {% endif -%}
   "@context":"https://schema.org"
 }
