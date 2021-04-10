@@ -551,6 +551,7 @@ figure {
 
       img.nav-logo {
         height: 40px;
+        width: 194px;
         position: relative;
         top: 3px;
       }
@@ -727,6 +728,8 @@ figure {
     }
 
     .ad.custom {
+      width: 385px;
+      height: 385px;
       text-align: center;
       &::before {
         left: 50%;
@@ -747,6 +750,7 @@ figure {
     .ad.custom {
       position: relative;
       width: 240px;
+      height: 426px;
 
       a {
         color: inherit;
