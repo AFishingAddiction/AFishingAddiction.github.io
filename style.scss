@@ -503,8 +503,11 @@ figure {
           left: 1px;
         }
 
+        /* when hamburger menu is activated */
         &:checked ~ ul.menu {
-          transform: none;
+          transform-origin: -100% 0%;
+          transform: translate(100%, 0);
+          transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1);
         }
       }
     }
@@ -584,13 +587,11 @@ figure {
 
       @include mobile {
         position: absolute;
+        left: -$mainNavMobileWidth;
         width: $mainNavMobileWidth;
         padding: $mainNavMobileTopPadding $mainNavMobileSidePadding;
         -webkit-font-smoothing: antialiased;
-        /* to stop flickering of text in safari */
-        transform-origin: 0% 0%;
-        transform: translate(-100%, 0);
-        transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1);
+        transform: translate(0, 0);
 
         &.submenu {
           display: none;
