@@ -71,6 +71,7 @@ comments:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: 'G-Q8STFFHFDR'
+google_tag_manager: 'GTM-WTWRNFW'
 
 # Enter your Hotjar Id (e.g. 2079296)
 hotjar:
