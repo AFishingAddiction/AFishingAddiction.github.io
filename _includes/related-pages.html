@@ -32,7 +32,10 @@
     {% if sameTagCount >= minCommonTags %}
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
       <div class="related-page">
-        <h5><a href="{{ site.baseurl }}{{ _page.url }}">{{ _page.title }}<div class="post-tags">{{ commonTags }}</div></a></h5>
+        <h5><a href="{{ site.baseurl }}{{ _page.url }}">{{ _page.title }}</a>
+          <div class="post-tags">{{ commonTags }}</div>
+        </h5>
+
         {{ _page.description | default: _page.excerpt }}
       </div>
       {% if maxRelatedCounter >= maxRelated %}
