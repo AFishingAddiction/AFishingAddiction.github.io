@@ -717,6 +717,12 @@ figure {
     transform: translate(-50%, -15px);
   }
 
+  .ad.custom {
+    img {
+      border: 0;
+    }
+  }
+
   .inline-content-ads {
     padding: 14px 0;
     width: 100%;
