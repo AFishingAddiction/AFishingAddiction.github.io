@@ -18,7 +18,7 @@
 
   <body>
     {% include analytics-body.html %}
-    <nav id="wrapper-main-nav" role="navigation">
+    <nav id="wrapper-main-nav">
       <div id="menuToggle">
         <input type="checkbox" />
         <div class="hamburger">
@@ -26,7 +26,7 @@
           <span></span>
           <span></span>
         </div>
-        <div class="menu-logo"><a href="{{ site.baseurl }}/"><img src="/images/logo/default-long-transparent.svg" class="nav-logo" alt="{{ site.title }} logo" height="40px" width="194px" /></a></div>
+        <div class="menu-logo"><a href="{{ site.baseurl }}/"><img src="/images/logo/default-long-transparent.svg" class="nav-logo" alt="{{ site.title }} logo" height="40" width="194" /></a></div>
 
         <ul id="menu" class="menu">
           {% for navlink in site.navlinks %}
