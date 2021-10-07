@@ -7,14 +7,17 @@ layout: post
 tags:
   - review
 seo:
-  type: Review
+  type: UserReview
   json_ld:
+    name: Fishbrain is an amazing app
+    reviewRating:
+      "@type": Rating
+      ratingValue: "5"
     itemReviewed:
       "@type": SoftwareApplication
       name: Fishbrain
       operatingSystem: Android
       applicationCategory: SportsApplication
-    name: Fishbrain is an amazing app
     reviewBody: Fishbrain has a lot of features that I would look for in a fishing app and it also has features I never would have even thought of. If you are looking for a fishing app that allows you to discover fishing spots, record your catches and gear, and also allows you to interact with other anglers, this is the app for you.
 related: [/6-things-to-do-in-the-fishing-off-season,/6-tips-for-exploring-fishing-spots/,/5-bank-fishing-tips/,]
 todo:
@@ -145,28 +148,28 @@ Let's first look at all the features and whether or not they are included in the
 
 Below is the current feature set for both Basic and Pro memberships as of December 27, 2020. The *X* indicates that the feature is available in the membership. The *L* indicates that the feature is available, but it is limited.
 
-| Advertised Features             | Basic | Pro |
-|:--------------------------------|:-----:|:---:|
-| Fishing spots ratings & reviews | X     | X   |
-| Catch statistics                | X     | X   |
-| Weather forecast                | X     | X   |
-| Local catches                   | X     | X   |
-| Exact catch positions           | -     | X   |
-| Best baits & lures              | L     | X   |
-| Ultimate fishing forecast       | L     | X   |
-| Depth map                       | -     | X   |
-| Private waypoints               | -     | X   |
-| Private groups                  | -     | X   |
-| Member deals & free shipping    | -     | X   |
+| Advertised Features             | Basic |  Pro  |
+| :------------------------------ | :---: | :---: |
+| Fishing spots ratings & reviews |   X   |   X   |
+| Catch statistics                |   X   |   X   |
+| Weather forecast                |   X   |   X   |
+| Local catches                   |   X   |   X   |
+| Exact catch positions           |   -   |   X   |
+| Best baits & lures              |   L   |   X   |
+| Ultimate fishing forecast       |   L   |   X   |
+| Depth map                       |   -   |   X   |
+| Private waypoints               |   -   |   X   |
+| Private groups                  |   -   |   X   |
+| Member deals & free shipping    |   -   |   X   |
 {:.feature-comparison-table}
 
 There are also a few features of the app that I would like to cover that are not advertised, but I think that they are very valuable and are worth mentioning and explaining.
 
-| Other Features                  | Basic | Pro |
-|:--------------------------------|:-----:|:---:|
-| Spot Prediction (beta)          | -     | X   |
-| Gear Management                 | X     | X   |
-| In-app Shop                     | X     | X   |
+| Other Features         | Basic |  Pro  |
+| :--------------------- | :---: | :---: |
+| Spot Prediction (beta) |   -   |   X   |
+| Gear Management        |   X   |   X   |
+| In-app Shop            |   X   |   X   |
 {:.feature-comparison-table}
 
 
@@ -311,11 +314,11 @@ You didn't think that I would provide all of this information about the Fishbrai
 
 First, it's worth mentioning that the Fishbrain Pro membership has a 14-day trial. So, you can try all the Pro features before committing to a membership. The Pro membership currently has 3 subscription options. You get the same features with all 3. You just get a better discount the longer you commit to.
 
-| Months | $ per Month   | Total  | Billed    |
-|:-------|--------------:|-------:|:---------:|
+| Months |   $ per Month |  Total |  Billed   |
+| :----- | ------------: | -----: | :-------: |
 | 12     | $6.25 / month | $74.99 | annually  |
 | 3      | $8.33 / month | $24.99 | quarterly |
-| 1      | $9.99 / month | $9.99  | monthly   |
+| 1      | $9.99 / month |  $9.99 |  monthly  |
 {:.feature-comparison-table}
 
 {% include captioned-image.html className="mobile-screenshot" image=page.images.pro-membership-plans %}
@@ -328,7 +331,7 @@ All in all, I think that Fishbrain is an amazing app. It has a lot of features t
   <ol>
     <li id="google-play-excerpt">
       <span>
-        An excerpt from the <a href="https://play.google.com/store/apps/details?id=com.fishbrain.app">Fishbrain app description on Google Play Store</a> 
+        An excerpt from the <a href="https://play.google.com/store/apps/details?id=com.fishbrain.app">Fishbrain app description on Google Play Store</a>
         <a href="#google-play-excerpt-ref" aria-label="Back to content">↵</a>
       </span>
     </li>
