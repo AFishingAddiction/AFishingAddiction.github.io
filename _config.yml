@@ -181,3 +181,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - docker-compose.yml
