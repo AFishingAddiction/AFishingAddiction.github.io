@@ -5,6 +5,8 @@ date: 2017-07-30T12:30:00+05:00
 author: dan
 layout: post
 image: wacky-rigs.jpg
+image_width: 1071
+image_height: 685
 image_alt: Wacky Worm Rig
 seo:
   type: HowToTip

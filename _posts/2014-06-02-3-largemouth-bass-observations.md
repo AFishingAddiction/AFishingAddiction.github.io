@@ -7,6 +7,9 @@ layout: post
 redirect_from: /2014/06/02/3-largemouth-bass-observations/
 excerpt: During the little fishing time I had that day, I made a few largemouth bass observations from the ones I caught and the ones I was attempting to catch.
 image: a-canal-bass-225x300.jpg
+image_width: 225
+image_height: 300
+image_alt: Largemouth bass caught in the Ohio Erie Canal
 seo:
   type: Article
 tags:

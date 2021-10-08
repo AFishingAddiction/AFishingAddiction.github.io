@@ -5,6 +5,8 @@ author: dan
 layout: post
 excerpt: "Bass fishing in Spring can be one of the most exhilarating activities for the average bass angler. Calm air, warmth, a gentle breeze, and a sense of unity with nature - this is a feeling that not many experience."
 image: bass-fishing-in-spring-jon-sailor-splash-640x960.jpg
+image_width: 640
+image_height: 960
 image_alt: "Bass Fishing in Spring"
 image_credit: "Photo by Jon Sailer on <a href='https://unsplash.com/s/photos/fishing-spring?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText' target='_blank'>Unsplash</a>"
 tags:

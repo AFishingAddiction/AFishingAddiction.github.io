@@ -11,7 +11,8 @@ is_comments_enabled: false
 
   <h1>{{ page.title }}</h1>
   {% if page.image %}
-  <img src="/images/{{ page.image }}" alt="{{ page.image_alt }}" />
+  <img src="/images/{{ page.image }}" {% if page.image_width %}width="{{ page.image_width }}" {% endif %} {% if
+    page.image_height %}height="{{ page.image_height }}" {% endif %} alt="{{ page.image_alt }}" />
     {% if page.image_credit %}
   <div class="image-credit">{{ page.image_credit }}</div>
     {% endif %}

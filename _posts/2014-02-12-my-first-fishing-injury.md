@@ -4,6 +4,8 @@ permalink: /my-first-fishing-injury/
 author: dan
 layout: post
 image: hook-slice-660x1175.jpg
+image_width: 660
+image_height: 1175
 image_alt: Hook Slice
 catch_ids:
   - 8

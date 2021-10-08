@@ -6,6 +6,8 @@ date: 2014-06-17T15:38:37+00:00
 author: dan
 excerpt: "Whether you are like me and walk along the bank, constantly trying to find good spots, or if you have that one spot that you fish all day, follow these bank fishing tips to make your experience much better."
 image: robson-hatsukami-morgan-335701-unsplash-660x990.jpg
+image_width: 660
+image_height: 990
 image_alt: Bank fishing tips
 image_credit: Photo by Robson Hatsukami Morgan on Unsplash
 redirect_from: /2014/06/17/5-bank-fishing-tips/

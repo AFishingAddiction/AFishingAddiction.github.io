@@ -1,4 +1,6 @@
 <figure{% if include.className %} class="{{ include.className }}"{% endif %}>
-  <img src="{{ include.image.src }}" title="{{ include.image.title }}" alt="{{ include.image.alt }}" class="mobile-screenshot" />
+  <img src="{{ include.image.src }}" title="{{ include.image.title }}" alt="{{ include.image.alt }}"
+    class="mobile-screenshot" {% if include.image.width %}width="{{ include.image.width }}" {% endif %} {% if
+    include.image.height %}height="{{ include.image.height }}" {% endif %} />
   <figcaption>{{ include.image.caption | default: include.image.alt }}</figcaption>
 </figure>

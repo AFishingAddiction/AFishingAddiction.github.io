@@ -12,6 +12,8 @@ seo:
   type: Article
 related: [/reviews/fishbrain-mobile-app,/6-tips-for-exploring-fishing-spots/,/5-bank-fishing-tips/,]
 image: snow-covered-dock-and-lake-in-the-fishing-off-season.jpg
+image_width: 2593
+image_height: 2593
 image_alt: "Snow Covered Dock and Lake in the Fishing Off-season"
 image_credit: "Photo by <a href='https://unsplash.com/@abbiebernet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Abbie Bernet</a> on <a href='https://unsplash.com/s/photos/frozen-lake?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Unsplash</a>"
 ---
