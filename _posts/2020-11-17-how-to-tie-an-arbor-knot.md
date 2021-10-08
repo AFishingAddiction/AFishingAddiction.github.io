@@ -67,8 +67,8 @@ Whether you are spooling new fishing line onto a spinning reel, a baitcasting re
 
 ## How do you tie an Arbor Knot?
 
-<a href="/images/knots/arbor-knot.jpg">
-  <img src="/images/knots/arbor-knot.jpg" alt="How to Tie an Arbor Knot" width="4500" height="4500" />
+<a href="/images/knots/arbor-knot.webp">
+  <img src="/images/knots/arbor-knot.webp" alt="How to Tie an Arbor Knot" width="4500" height="4500" />
 </a>
 
 {% include howto.html steps=page.seo.json_ld.step %}
