@@ -74,8 +74,8 @@ google_analytics: 'G-Q8STFFHFDR'
 google_tag_manager: 'GTM-WTWRNFW'
 
 # Enter your Hotjar Id (e.g. 2079296)
-hotjar:
-  id: 2079296
+# hotjar:
+#   id: 2079296
 
 cookiebot:
   id: 344a45ae-8133-4da1-bec0-11fdcf174a55
