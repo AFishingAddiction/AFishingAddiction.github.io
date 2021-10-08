@@ -312,6 +312,10 @@ figure {
     border-radius: 4px;
     margin: 0.2em 0.3em;
     color: $postTagFontColor;
+
+    .fas {
+      min-width: 14px;
+    }
   }
 }
 
