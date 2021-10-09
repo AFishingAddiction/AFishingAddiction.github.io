@@ -17,7 +17,7 @@ seo:
     {% if doc.tags contains "top" %}
     <div class="popular-page">
       <h3><a href="{{ doc.url}}">{{ doc.title }}</a></h3>
-      {{ doc.description | default: doc.excerpt }}
+      <p>{{ doc.description | default: doc.excerpt }}</p>
       <p><a class="btn btn-secondary" href="{{ doc.url}}" role="button">View details »</a></p>
     </div>
     {% endif %}
@@ -33,7 +33,7 @@ seo:
       {% include post_tags.html post_tags=post.tags %}
 
       <div class="entry">
-        {{ post.excerpt }}
+        <p>{{ post.excerpt }}</p>
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more" title="Read More of this Post">Read More</a>

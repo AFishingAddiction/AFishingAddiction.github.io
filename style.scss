@@ -12,17 +12,18 @@
 /* BASE RULES */
 /**************/
 
-html {
-  font-size: 100%;
-}
-
 body {
   background: $lightGray;
-  font: $fontSize $helvetica;
+  font-family: $helvetica;
   line-height: $lineHeight;
   color: $primaryFontColor;
   font-display: swap;
   min-width: fit-content;
+
+  font-size: $fontSize;
+  @include mobile {
+    font-size: $fontSize * 1.25;
+  }
 }
 
 .container {
@@ -42,7 +43,7 @@ h6 {
   color: $secondaryFontColor;
   font-weight: bold;
 
-  line-height: 1.7;
+  line-height: 1.4;
   margin: 0.5em 0;
   padding: 0;
 
@@ -54,26 +55,22 @@ h6 {
     color: inherit;
     text-decoration: underline;
   }
-
-  @include mobile {
-    line-height: 1.4;
-  }
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 2em;
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 1.75em;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 1.5em;
 }
 
 h4 {
-  font-size: 18px;
+  font-size: 1.25em;
   color: $gray;
 }
 
@@ -157,16 +154,24 @@ input[type="email"] {
   padding-left: 8px;
 }
 
-input[type="submit"] {
+input[type="submit"],
+.btn-primary {
   background-color: $primaryColorDark;
   color: $white;
   font-weight: bold;
   cursor: pointer;
 }
 
+.btn-secondary {
+  padding: 10px;
+  background: $secondaryLightBgColor;
+  color: $primaryColorLight;
+  font-weight: bold;
+}
+
 sup {
   vertical-align: super;
-  font-size: smaller;
+  font-size: .8em;
 }
 
 article {
@@ -276,7 +281,7 @@ figure {
 
   figcaption {
     text-align: center;
-    font-size: smaller;
+    font-size: 0.8em;
     padding: 4px 10%;
     border-top: 1px solid $skinnyBorderColor;
     background-color: $secondaryLightBgColor;
@@ -286,13 +291,6 @@ figure {
 .fas,
 .fa {
   font-display: swap;
-}
-
-.btn-secondary {
-  padding: 10px;
-  background: $secondaryLightBgColor;
-  color: $primaryColorLight;
-  font-weight: bold;
 }
 
 .post {
@@ -310,8 +308,9 @@ figure {
     background: $postTagBgColor;
     padding: 2px 0.5rem;
     border-radius: 4px;
-    margin: 0.2em 0.3em;
+    margin: 0.2em 0.3em 0.2em 0;
     color: $postTagFontColor;
+    font-size: 0.9em;
 
     .fas {
       min-width: 14px;
@@ -376,19 +375,19 @@ figure {
       .headline {
         display: inline-block;
         color: $black;
-        font-size: 120%;
+        font-size: 1.2em;
         padding-bottom: 6px;
       }
       div.indicates-required {
         margin-top: 4px;
-        font-size: 90%;
+        font-size: 0.9em;
       }
       div.mc-field-group,
       div.mc-submit {
         display: inline-block;
       }
-      input[type="submit"] {
-        font-size: 12pt;
+      input {
+        font-size: 0.8em;
       }
       @include tablet {
         div.mc-submit {
@@ -420,46 +419,6 @@ figure {
 
   @include mobile {
     text-align: center;
-  }
-}
-
-.site-info {
-  float: left;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
-}
-
-.site-name {
-  margin: 0;
-  color: $primaryFontColor;
-  cursor: pointer;
-  font-family: $helvetica;
-  font-weight: bold;
-  font-size: 28px;
-  line-height: 28px;
-  padding-top: 18px;
-
-  a {
-    color: inherit;
-  }
-
-  a:hover {
-    color: inherit;
-    text-decoration: underline;
-  }
-}
-
-.site-description {
-  margin: 9px 0;
-  color: $grayLightGray;
-  font-size: 12px;
-
-  @include mobile {
-    margin: 3px 0;
   }
 }
 
@@ -571,6 +530,12 @@ figure {
       }
     }
 
+    @include mobile {
+      ul#menu {
+        font-size: 1.1em;
+      }
+    }
+
     ul.menu {
       background-color: $mainNavBgColor;
       list-style-type: none;
@@ -642,7 +607,6 @@ figure {
           color: $white;
           cursor: pointer;
           display: block;
-          font-size: 13px;
           font-weight: 700;
           height: $mainNavHeight;
           line-height: $mainNavHeight;
@@ -656,15 +620,11 @@ figure {
 
         @include mobile {
           padding: 10px 0;
-          font-size: 22px;
           ul.menu.submenu {
             position: relative;
             top: 0;
             width: $mainNavMobileWidth - $mainNavMobileSidePadding;
-          }
-
-          a {
-            font-size: 18px;
+            background-color: $primaryColorLight;
           }
         }
 
@@ -721,7 +681,7 @@ figure {
 
   .ad.custom::before {
     content: "Advertisement";
-    font-size: 60%;
+    font-size: 0.625em;
     position: absolute;
     left: 50%;
     transform: translate(-50%, -15px);
@@ -780,7 +740,7 @@ figure {
       }
 
       .description {
-        font-size: 80%;
+        font-size: 0.8em;
       }
     }
   }
@@ -824,8 +784,8 @@ figure {
         line-height: normal;
       }
 
-      .post-tag {
-        font-size: 90%;
+      p {
+        line-height: 1.35em;
       }
 
       a:hover {
@@ -860,18 +820,15 @@ figure {
 .post,
 .video {
   color: $secondaryFontColor;
-  font-size: 14px;
+  line-height: 1.35em;
 
   h1 {
-    font-size: 36px;
     margin-bottom: 0;
   }
 
   .read-more {
     display: block;
-    padding-top: 8px;
     text-transform: uppercase;
-    font-size: 15px;
     text-decoration: underline;
     color: $secondaryFontColor;
   }
@@ -910,7 +867,7 @@ ul.tag-list {
 }
 
 .image-credit {
-  font-size: 80%;
+  font-size: 0.8em;
   font-style: italic;
 }
 
@@ -965,7 +922,6 @@ table {
       color: inherit;
       text-align: left;
       line-height: 14.7px;
-      font-size: 14px;
     }
   }
 }
