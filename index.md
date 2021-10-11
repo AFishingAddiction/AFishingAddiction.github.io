@@ -13,7 +13,7 @@ seo:
   <div class="popular-pages-container">
     <h2>Popular Pages</h2>
     <div class="popular-pages">
-    {% for doc in site.documents %}
+    {% for doc in site.documents -%}
     {% if doc.tags contains "top" %}
     <div class="popular-page">
       <h3><a href="{{ doc.url}}">{{ doc.title }}</a></h3>
@@ -21,7 +21,7 @@ seo:
       <p><a class="btn btn-secondary" href="{{ doc.url}}" role="button">View details »</a></p>
     </div>
     {% endif %}
-    {% endfor %}
+    {%- endfor %}
     </div>
   </div>
   {% include ads/inline-content.html %}
@@ -33,7 +33,7 @@ seo:
       {% include post_tags.html post_tags=post.tags %}
 
       <div class="entry">
-        <p>{{ post.excerpt }}</p>
+        <p>{{ post.excerpt | strip_html | strip }}</p>
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more" title="Read More of this Post">Read More</a>
