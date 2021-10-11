@@ -10,33 +10,30 @@
   {% for _page in all_pages %}
 
     {% assign sameTagCount = 0 %}
-    {% assign commonTags = '' %}
+    {% assign commonTagsText = '' %}
 
     {% for tag in _page.tags %}
       {% if _page.url != page.url %}
         {% if page.related %}
           {% if page.related contains _page.url %}
           {% assign sameTagCount = 999999 %}
-          {% capture tagmarkup %} <span class="label label-default post-tag"><i class="fas fa-tag"></i> {{ tag }}</span> {% endcapture %}
-          {% assign commonTags = commonTags | append: tagmarkup %}
+          {% assign commonTagsText = commonTagsText | append: tag | append: "|" %}
           {% endif %}
 
         {% elsif page.tags contains tag %}
           {% assign sameTagCount = sameTagCount | plus: 1 %}
-          {% capture tagmarkup %} <span class="label label-default post-tag"><i class="fas fa-tag"></i> {{ tag }}</span> {% endcapture %}
-          {% assign commonTags = commonTags | append: tagmarkup %}
+          {% assign commonTagsText = commonTagsText | append: tag | append: "|" %}
         {% endif %}
       {% endif %}
     {% endfor %}
 
     {% if sameTagCount >= minCommonTags %}
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+      {% assign commonTagsList = commonTagsText | split: "|" %}
       <div class="related-page">
-        <h5><a href="{{ site.baseurl }}{{ _page.url }}">{{ _page.title }}</a>
-          <div class="post-tags">{{ commonTags }}</div>
-        </h5>
-
-        {{ _page.description | default: _page.excerpt }}
+        <h5><a href="{{ site.baseurl }}{{ _page.url }}">{{ _page.title }}</a></h5>
+        {% include post_tags.html post_tags=commonTagsList %}
+        <p>{{ _page.description | default: _page.excerpt | strip_html | strip }}</p>
       </div>
       {% if maxRelatedCounter >= maxRelated %}
         {% break %}
