@@ -27,27 +27,25 @@ It was gorgeous weather on the last day of May and a great day to go fishing. I 
 
 ## Observation #1: Large Lures Also Catch Small Fish
 
-<img class="aligncenter size-medium wp-image-286" src="/images/a-small-bass-on-a-Scum-Frog.jpg" alt="A small bass on a Scum Frog®" width="225" height="300" />
-You&#8217;d be surprised how small of a fish you can catch on a larger lure. I was using a Scum Frog® that afternoon and I caught a bass that I would estimate was less than half a pound. As you can see in the picture above, the lure barely fit into the fish&#8217;s mouth. Larger lures typically catch larger fish, but they can also catch smaller ones too.
+<div class="gallery">
+  <div class='gallery-item'>
+    <img src="/images/a-small-bass-on-a-Scum-Frog.jpg" alt="A small bass on a Scum Frog®" width="225" height="300" />
+  </div>
+</div>
+You'd be surprised how small of a fish you can catch on a larger lure. I was using a Scum Frog® that afternoon and I caught a bass that I would estimate was less than half a pound. As you can see in the picture above, the lure barely fit into the fish's mouth. Larger lures typically catch larger fish, but they can also catch smaller ones too.
 
 ## Observation #2: Bass are Aggressive, but Finicky
 
-<div id='gallery-10' class='gallery galleryid-282 gallery-columns-3 gallery-size-medium'>
-  <dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-      <img width="225" height="300" src="/images/a-canal-bass-225x300.jpg" class="attachment-medium" alt="A canal bass" />
-    </dt>
-  </dl>
-  <dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-      <img width="225" height="300" src="/images/mouth-of-a-canal-bass.jpg" class="attachment-medium" alt="Mouth of a canal bass" />
-    </dt>
-  </dl>
-  <dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-      <img width="225" height="300" src="/images/shaky-head-used-on-a-canal-bass.jpg" class="attachment-medium" alt="Shaky head used on a canal bass" />
-    </dt>
-  </dl>
+<div class="gallery">
+  <div class='gallery-item'>
+    <img width="225" height="300" src="/images/a-canal-bass-225x300.jpg" class="attachment-medium" alt="A canal bass" />
+  </div>
+  <div class='gallery-item'>
+    <img width="225" height="300" src="/images/mouth-of-a-canal-bass.jpg" class="attachment-medium" alt="Mouth of a canal bass" />
+  </div>
+  <div class='gallery-item'>
+    <img width="225" height="300" src="/images/shaky-head-used-on-a-canal-bass.jpg" class="attachment-medium" alt="Shaky head used on a canal bass" />
+  </div>
   <br style="clear: both" />
 </div>
 

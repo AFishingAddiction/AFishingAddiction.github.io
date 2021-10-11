@@ -833,9 +833,12 @@ figure {
     color: $secondaryFontColor;
   }
 
-  dl.gallery-item {
-    float: left;
-    margin: 5px;
+  .gallery {
+    display: inline-block;
+    .gallery-item {
+      float: left;
+      margin: 5px;
+    }
   }
 }
 

@@ -18,25 +18,16 @@ After catching this crappie, I immediately texted my uncle asking what species i
 
 I also yanked a few other fish out of a small stream nearby. I&#8217;m not sure what species they were. I caught both species on a Berkeley Gulp chartreuse minnow. That&#8217;s what I used most of the time when I first started out. I can&#8217;t seem to find them anymore.
 
-<div id='gallery-3' class='gallery galleryid-72 gallery-columns-2 gallery-size-large'>
-  <dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-      <a href="/images/my-first-crappie.jpg" rel="lightbox[gallery-3]"><img width="550" height="979" src="/images/my-first-crappie-575x1024.jpg" class="attachment-large" alt="My first Crappie" /></a>
-    </dt>
-    <dd class='wp-caption-text gallery-caption'>
-      My first Crappie
-    </dd>
-  </dl>
-  <dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-      <a href="/images/a-sucker-fish.jpg" rel="lightbox[gallery-3]"><img width="550" height="979" src="/images/a-sucker-fish-575x1024.jpg" class="attachment-large" alt="A sucker fish" /></a>
-    </dt>
-  </dl>
+<div class='gallery'>
+  <div class='gallery-item'>
+    <a href="/images/my-first-crappie.jpg"><img width="550" height="979" src="/images/my-first-crappie-575x1024.jpg" alt="My first Crappie" /></a>
+  </div>
+  <div class='gallery-item'>
+      <a href="/images/a-sucker-fish.jpg"><img width="550" height="979" src="/images/a-sucker-fish-575x1024.jpg" alt="A sucker fish" /></a>
+  </div>
   <br style="clear: both" />
-  <dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-      <a href="/images/another-sucker-fish.jpg" rel="lightbox[gallery-3]"><img width="550" height="979" src="/images/another-sucker-fish-575x1024.jpg" class="attachment-large" alt="Another sucker fish" /></a>
-    </dt>
-  </dl>
+  <div class='gallery-item'>
+      <a href="/images/another-sucker-fish.jpg"><img width="550" height="979" src="/images/another-sucker-fish-575x1024.jpg" alt="Another sucker fish" /></a>
+  </div>
   <br style='clear: both' />
 </div>

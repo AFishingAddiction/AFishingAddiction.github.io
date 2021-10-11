@@ -23,17 +23,13 @@ related: [/my-first-fishing-injury/,/my-first-aep-adventure/,/mosquito-lake-2012
 ---
 I had a few family camping trips as a child during which I caught a quite a few bluegills (I have the pictures to prove it). However, after catching this beast in 2011, my fishing addiction commenced.
 
-<div id='gallery-1' class='gallery galleryid-10 gallery-columns-2 gallery-size-large'>
-  <dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-      <a href="/images/my-first-largemouth-bass-1456x2592.jpg"><img width="550" height="979" src="/images/my-first-largemouth-bass-550x979.jpg" class="attachment-large" alt="my first largemouth bass" /></a>
-    </dt>
-  </dl>
-  <dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-      <a href="/images/holding-my-first-largemouth-bass-1456x2592.jpg"><img width="550" height="979" src="/images/holding-my-first-largemouth-bass-550x979.jpg" class="attachment-large" alt="2011-07-16_20-37-37_482" /></a>
-    </dt>
-  </dl>
+<div class='gallery'>
+  <div class='gallery-item'>
+      <a href="/images/my-first-largemouth-bass-1456x2592.jpg"><img width="550" height="979" src="/images/my-first-largemouth-bass-550x979.jpg" alt="my first largemouth bass" /></a>
+  </div>
+  <div class='gallery-item'>
+      <a href="/images/holding-my-first-largemouth-bass-1456x2592.jpg"><img width="550" height="979" src="/images/holding-my-first-largemouth-bass-550x979.jpg" alt="2011-07-16_20-37-37_482" /></a>
+  </div>
   <br style="clear: both" />
 </div>
 
