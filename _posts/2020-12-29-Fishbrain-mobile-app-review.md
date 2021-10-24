@@ -289,7 +289,7 @@ Another feature of the interactive map is the ability to search by species or mo
 
 {% include captioned-image.html className="mobile-screenshot" image=page.images.interactive-map-filter %}
 
-### Socail Feed
+### Social Feed
 The Fishbrain app also has a customizable feed of posts from other anglers. Your personal feed consists of catches from other anglers you follow, species you follow, fishing spots you follow, and many other criteria. You can like, comment, or share any post from your feed. Tip: If you're scrolling through your feed and you see a post or an image that you like, you can just double-tap the image.
 
 {% include captioned-image.html className="mobile-screenshot" image=page.images.feed-preferences %}
