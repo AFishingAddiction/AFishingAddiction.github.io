@@ -22,7 +22,7 @@ seo:
             position: 2
             text: Tie an overhand knot around the main line, leaving enough line to tie another knot
           - "@type": HowToDirection
-            position: 1
+            position: 3
             text: Pull the first knot tight
       - "@type": HowToStep
         position: 2
@@ -31,7 +31,7 @@ seo:
             position: 1
             text: Tie another overhand knot with the tag end
           - "@type": HowToDirection
-            position: 1
+            position: 2
             text: Pull the second knot tight
       - "@type": HowToStep
         position: 3
@@ -58,7 +58,7 @@ seo:
             position: 1
             text: Pull the main line to cinch the knots against the arbor
           - "@type": HowToDirection
-            position: 1
+            position: 2
             text: You are now ready to spool your reel
 
 related: [/5-bank-fishing-tips/,/6-things-to-do-in-the-fishing-off-season,/reviews/fishbrain-mobile-app,]
