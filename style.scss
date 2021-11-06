@@ -696,13 +696,25 @@ figure {
   .inline-content-ads {
     padding: 14px 0;
     width: 100%;
-    display: none;
-    @include tablet {
-      display: inline-block;
-    }
+    // display: none;
 
-    .adsbygoogle {
-      display: block;
+    .inline-content-ad {
+      display: none;
+      &.mobile {
+        @include mobile {
+          display: inline-block;
+        }
+      }
+      &.gt-mobile {
+        @include gt-mobile {
+          display: inline-block;
+        }
+      }
+
+      .adsbygoogle {
+        max-width: 100%;
+        height: auto;
+      }
     }
 
     .ad.custom {
@@ -710,6 +722,10 @@ figure {
       height: 385px;
       text-align: center;
       margin: 0 auto;
+      display: none;
+      @include mobile {
+        display: inline-block;
+      }
       &::before {
         left: 50%;
       }
@@ -742,6 +758,12 @@ figure {
       .description {
         font-size: 0.8em;
       }
+    }
+
+    .adsbygoogle {
+      max-width: 100%;
+      height: auto;
+      margin-top: 20px;
     }
   }
 }

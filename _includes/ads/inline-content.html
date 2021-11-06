@@ -1,18 +1,20 @@
 <div class="inline-content-ads">
 {% include ads/lucky-tackle-box.html %}
 {% include ads/fishbrain.md mobile=true %}
-{% if site.ads.adsense.slots.inline_content %}
-    <div class="inline-content-ad">
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <ins class="adsbygoogle"
-           data-ad-format="fluid"
-           data-ad-layout="image-side"
-           data-ad-layout-key="-fd+2z+es-b8-jk"
-           data-ad-client="{{ site.ads.adsense.client }}"
-           data-ad-slot="{{ site.ads.adsense.slots.inline_content }}"></ins>
-        <script>
-           (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
+{% if site.ads.adsense.slots.responsive_square %}
+<div class="inline-content-ad mobile">
+    <!-- Responsive Square -->
+    <ins class="adsbygoogle" style="display:block" data-ad-client="{{ site.ads.adsense.client }}"
+        data-ad-slot="{{ site.ads.adsense.slots.responsive_square }}" data-ad-format="auto" {% if site.GH_ENV
+        !='gh_pages' %}data-adtest="on" {% endif %} data-full-width-responsive="true"></ins>
+</div>
+{% endif %}
+{% if site.ads.adsense.slots.responsive_horizontal %}
+<div class="inline-content-ad gt-mobile">
+    <!-- Responsive Square -->
+    <ins class="adsbygoogle" style="display:block" data-ad-client="{{ site.ads.adsense.client }}"
+        data-ad-slot="{{ site.ads.adsense.slots.responsive_horizontal }}" data-ad-format="auto" {% if site.GH_ENV
+        !='gh_pages' %}data-adtest="on" {% endif %} data-full-width-responsive="true"></ins>
     </div>
 {% endif %}
 </div>

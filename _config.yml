@@ -81,11 +81,12 @@ cookiebot:
   id: 344a45ae-8133-4da1-bec0-11fdcf174a55
 
 ads:
-    adsense:
-        client: 'ca-pub-3400524677609512'
-        slots:
-            side_large_skyscraper: #3745020504
-            inline_content: #9329493440
+  adsense:
+    client: 'ca-pub-3400524677609512'
+    slots:
+      responsive_horizontal: "3600433775"
+      responsive_large_skyscraper: "3745020504"
+      responsive_square: "1792438522"
 
 affiliates:
   fishbrain:

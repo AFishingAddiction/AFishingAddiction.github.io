@@ -18,6 +18,13 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.title | remove: ' ' }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
     <link rel="shortcut icon" href="/images/favicon-192.ico" type="image/x-icon" />
     {% include ads/google-ads-meta.html %}
+    {% if site.GH_ENV !='gh_pages' -%}
+    <style>
+      ins {
+        border: 1px solid red;
+      }
+    </style>
+    {%- endif %}
   </head>
 
   <body>
