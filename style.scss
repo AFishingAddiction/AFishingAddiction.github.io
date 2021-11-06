@@ -676,7 +676,12 @@ figure {
 
   #main-content {
     display: table-cell;
-    width: 100%;
+    @include gt-tablet {
+      max-width: 660px;
+    }
+    @include tablet {
+      width: 100%;
+    }
   }
 
   .ad.custom::before {
