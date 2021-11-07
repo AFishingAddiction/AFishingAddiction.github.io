@@ -26,8 +26,8 @@ seo:
   </div>
   {% include ads/inline-content.html %}
   {% for post in site.posts %}
+    {% if post.canonical_url == nil %}
     <article class="post">
-
       <h2><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
 
       {% include post_tags.html post_tags=post.tags %}
@@ -38,5 +38,6 @@ seo:
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more" title="Read More of this Post">Read More</a>
     </article>
+    {% endif %}
   {% endfor %}
 </div>

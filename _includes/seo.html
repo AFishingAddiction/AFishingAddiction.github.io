@@ -20,8 +20,8 @@
 {% elsif page.excerpt -%}
   {% assign page_description = page.excerpt | strip_html | strip %}
 {% endif -%}
-{% if page.canoncial_url -%}
-  {% assign canonical_url = page.canonical_url %}
+{% if page.canonical_url -%}
+  {% assign canonical_url = page.canonical_url | absolute_url %}
 {% else -%}
   {% assign canonical_url = page.url | absolute_url %}
 {% endif -%}
