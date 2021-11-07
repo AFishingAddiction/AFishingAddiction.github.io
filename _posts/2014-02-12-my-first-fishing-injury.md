@@ -16,7 +16,7 @@ tags:
   - Boettler Park
   - Southgate Park
   - injury
-related: [/my-first-aep-adventure/,/this-is-when-it-all-began/,/5-bank-fishing-tips/,]
+related: [/this-is-when-it-all-began/,/my-first-aep-adventure/,/a-few-mid-march-largemouth-bass/,]
 ---
 This happened at a small pond in Southgate Park, which is connected to Boettler Park in Green, OH. This was some time ago, but I believe I was using a black slug on a Texas rig. I caught a good sized bass and went to unhook him when he flailed. The hook scraped across my thumb, leaving this cut. I'm looking at my hand as I write this and I can faintly see the scar.
 
