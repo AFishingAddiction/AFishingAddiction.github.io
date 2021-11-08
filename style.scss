@@ -46,6 +46,7 @@ h6 {
   line-height: 1.4;
   margin: 0.5em 0;
   padding: 0;
+  scroll-margin-top: $mainNavHeight;
 
   a {
     color: inherit;
@@ -72,6 +73,10 @@ h3 {
 h4 {
   font-size: 1.25em;
   color: $gray;
+}
+
+.anchor {
+  scroll-margin-top: $mainNavHeight;
 }
 
 p {
@@ -186,6 +191,22 @@ article {
     border-top: 1px solid $silver;
     font-size: 0.8em;
     text-align: left;
+
+    /**
+    * Highlight target note
+    */
+    :target {
+      padding-top: $mainNavHeight;
+      margin-top: -$mainNavHeight;
+
+      span {
+        background: $yellow;
+      }
+    }
+
+    span {
+      padding: 2px;
+    }
   }
 
   footer ol {
@@ -235,24 +256,6 @@ article {
 
   [aria-label="Back to content"] {
     font-size: 0.8em;
-  }
-
-  /**
-  * Highlight target note
-  */
-  footer {
-    :target {
-      padding-top: $mainNavHeight;
-      margin-top: -$mainNavHeight;
-
-      span {
-        background: $yellow;
-      }
-    }
-
-    span {
-      padding: 2px;
-    }
   }
 
   /**

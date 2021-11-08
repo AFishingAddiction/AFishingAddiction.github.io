@@ -1,13 +1,15 @@
 <ol>
   {% for step in include.steps %}
+    <i class="anchor" id="step-{{ step.position }}"></i>
     <li>
-      {% if step.itemListElement.size > 1 %}<ol type="a">{% endif %}
+      {% if step.name %}<b>{{ step.name }}</b>{% endif %}
+      {% if step.itemListElement.size %}<ol type="a">{% endif %}
       {%- for itemListElement in step.itemListElement %}
-        {% if step.itemListElement.size > 1 %}<li>{% endif %}
+        {% if step.itemListElement.size %}<li>{% endif %}
           {{- itemListElement.text -}}
-        {% if step.itemListElement.size > 1 %}</li>{% endif %}
+        {% if step.itemListElement.size %}</li>{% endif %}
       {% endfor -%}
-      {% if step.itemListElement.size > 1 %}</ol>{% endif %}
+      {% if step.itemListElement.size %}</ol>{% endif %}
     </li>
   {% endfor %}
 </ol>

@@ -11,6 +11,7 @@ seo:
   type: HowTo
   json_ld:
     name: Tie an Arbor Knot
+    totalTime: PT1M
     step:
       - "@type": HowToStep
         position: 1

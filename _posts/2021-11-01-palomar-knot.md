@@ -11,15 +11,29 @@ seo:
   type: HowTo
   json_ld:
     name: Tie a Palomar Knot
+    supply:
+      - "@type": HowToSupply
+        name: fishing line
+    tool:
+      - "@type": HowToTool
+        name: fishing hook
+    totalTime: PT1M
     step:
       - "@type": HowToStep
+        name: Thread the Hook
         position: 1
+        image: "SITE_URL/images/knots/palomar-knot/palomar-knot-step-1.webp"
+        url: "SITE_URL/knots/palomar-knot/#step-1"
         itemListElement:
           - "@type": HowToDirection
             position: 1
             text: Take the tag end of the line and pass it through the eye of the hook or lure
+        image: "SITE_URL/images/knots/palomar-knot/palomar-knot-step-1.webp"
       - "@type": HowToStep
+        name: Make a Loop
         position: 2
+        image: "SITE_URL/images/knots/palomar-knot/palomar-knot-step-2.webp"
+        url: "SITE_URL/knots/palomar-knot/#step-2"
         itemListElement:
           - "@type": HowToDirection
             position: 1
@@ -28,7 +42,10 @@ seo:
             position: 2
             text: Keep the tag end parallel to the main line with plenty of slack
       - "@type": HowToStep
+        name: Tie an Overhand Knot
         position: 3
+        image: "SITE_URL/images/knots/palomar-knot/palomar-knot-step-3.webp"
+        url: "SITE_URL/knots/palomar-knot/#step-3"
         itemListElement:
           - "@type": HowToDirection
             position: 1
@@ -37,7 +54,10 @@ seo:
             position: 2
             text: Leave enough of the loop to pass the lure or knot through
       - "@type": HowToStep
+        name: Pass Hook Through the Loop
         position: 4
+        image: "SITE_URL/images/knots/palomar-knot/palomar-knot-step-4.webp"
+        url: "SITE_URL/knots/palomar-knot/#step-4"
         itemListElement:
           - "@type": HowToDirection
             position: 1
@@ -46,7 +66,10 @@ seo:
             position: 2
             text: Make sure that the loop comes all the way passed the eye of the hook
       - "@type": HowToStep
+        name: Cinch the Line
         position: 5
+        image: "SITE_URL/images/knots/palomar-knot/palomar-knot-step-5.webp"
+        url: "SITE_URL/knots/palomar-knot/#step-5"
         itemListElement:
           - "@type": HowToDirection
             position: 1
