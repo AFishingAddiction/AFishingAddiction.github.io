@@ -701,6 +701,12 @@ figure {
     }
   }
 
+  .adsbygoogle {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+  }
+
   .inline-content-ads {
     padding: 14px 0;
     width: 100%;
@@ -717,11 +723,6 @@ figure {
         @include gt-mobile {
           display: inline-block;
         }
-      }
-
-      .adsbygoogle {
-        max-width: 100%;
-        height: auto;
       }
     }
 
@@ -769,8 +770,6 @@ figure {
     }
 
     .adsbygoogle {
-      max-width: 100%;
-      height: auto;
       margin-top: 20px;
     }
   }
