@@ -1,7 +1,6 @@
 ---
 title: How to Tie an Arbor Knot
-permalink: /how-to-tie-an-arbor-knot/
-canonical_url: /knots/arbor-knot/
+permalink: /knots/arbor-knot/
 author: dan
 layout: post
 excerpt: "Whether you are spooling new fishing line onto a spinning reel, a baitcasting reel, or a fly fishing reel, the best knot to use in all cases is an arbor knot. This is great, because the arbor knot is really easy to tie and you only have to learn one type of knot to spool your lines to all of your types of reels."
