@@ -91,9 +91,7 @@ The Palomar knot is a simple, multipurpose and strong knot. It can be used for t
 
 ## How do you tie a Palomar Knot?
 
-<a href="/images/knots/palomar-knot/palomar-knot.webp">
-  <img src="/images/knots/palomar-knot/palomar-knot.webp" alt="How to Tie a Palomar Knot" width="6000" height="6000" />
-</a>
+{% include image.html img=page.img %}
 
 {% include howto.html steps=page.seo.json_ld.step %}
 

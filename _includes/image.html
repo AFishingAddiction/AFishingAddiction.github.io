@@ -1,0 +1,6 @@
+<img src="{{ site.static.image.path | prepend: site.baseurl }}{{ include.img.path }}" alt="{{ include.img.alt }}" {%- if
+    include.img.width %} width="{{ include.img.width }}" {% endif %} {%- if include.img.height %}
+    height="{{ include.img.height }}" {% endif -%} />
+{% if include.img.credit -%}
+<div class="image-credit">{{ include.img.credit }}</div>
+{% endif %}

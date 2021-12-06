@@ -17,14 +17,9 @@ is_comments_enabled: false
   <div class="image-credit">{{ page.image_credit }}</div>
     {% endif %}
   {% elsif page.img %}
-  {% unless page.img.render == false %}
-  <img src="{{ site.static.image.path | prepend: site.baseurl }}{{ page.img.path }}" {% if page.img.width
-    %}width="{{ page.img.width }}" {% endif %} {% if page.img.height %}height="{{ page.img.height }}" {% endif %}
-    alt="{{ page.img.alt }}" />
-  {% if page.img.credit %}
-  <div class="image-credit">{{ page.img.credit }}</div>
-  {% endif %}
-  {% endunless %}
+    {% unless page.img.render == false %}
+    {% include image.html img=page.img %}
+    {% endunless %}
   {% endif %}
   {% if layout.is_inline_ads_enabled %}
     {% include ads/inline-content.html %}
