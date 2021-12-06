@@ -32,6 +32,9 @@
   {% else -%}
     {% assign page_image_path = page.image | remove: "/images/" | prepend: "/images/" %}
   {% endif -%}
+{% elsif page.img -%}
+{% assign page_image = page.img %}
+{% assign page_image_path = page.img.path | prepend: site.static.img.path %}
 {% endif -%}
 {% assign site_logo = site.logo | absolute_url -%}
 {% if page.seo.og.type -%}
@@ -173,7 +176,7 @@
 {%- endcapture %}
 {%- assign json_ld_lines = json_ld | newline_to_br | split: '<br />' %}
 {%- for line in json_ld_lines -%}
-{{ line | strip | replace: "SITE_URL", site.url }}
+{{ line | strip | replace: "SITE_URL", site.url | replace: "IMAGE_PATH", site.static.image.path }}
 {%- endfor -%}
 </script>
 {%- endunless %}
