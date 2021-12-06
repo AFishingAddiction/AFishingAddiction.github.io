@@ -2,6 +2,12 @@
 title: How to Tie a Palomar Knot
 permalink: /knots/palomar-knot/
 redirect_from: /knots/how-to-tie-a-palomar-knot/
+img:
+  path: /knots/palomar-knot/palomar-knot.webp
+  height: 6000
+  width: 6000
+  alt: How to Tie a Palomar Knot
+  render: false
 author: dan
 layout: post
 excerpt: "The Palomar knot is a simple, multipurpose and strong knot. It can be used for tying fishing line to a swivel or snap, but it is mostly used to tie the line to a lure or hook. Because of its versatility, it's a great knot to learn and master."
@@ -85,8 +91,8 @@ The Palomar knot is a simple, multipurpose and strong knot. It can be used for t
 
 ## How do you tie a Palomar Knot?
 
-<a href="/images/knots/palomar-knot.webp">
-  <img src="/images/knots/palomar-knot.webp" alt="How to Tie a Palomar Knot" width="6000" height="6000" />
+<a href="/images/knots/palomar-knot/palomar-knot.webp">
+  <img src="/images/knots/palomar-knot/palomar-knot.webp" alt="How to Tie a Palomar Knot" width="6000" height="6000" />
 </a>
 
 {% include howto.html steps=page.seo.json_ld.step %}
