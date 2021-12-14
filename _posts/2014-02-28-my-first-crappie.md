@@ -12,7 +12,7 @@ tags:
   - crappie
   - catch
   - Southgate Park
-related: [/this-is-when-it-all-began/,/my-first-muskie/,/mosquito-lake-2012/,]
+related: [/my-first-muskie/,/mosquito-lake-2012/,/my-first-fishing-injury/,]
 ---
 After catching this crappie, I immediately texted my uncle asking what species it was. I had no idea&#8230; I was still new at fishing at that point.
 

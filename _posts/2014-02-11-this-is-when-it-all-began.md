@@ -19,7 +19,7 @@ tags:
   - coordinates
   - pond
   - Wingfoot Lake
-related: [/my-first-fishing-injury/,/my-first-aep-adventure/,/my-first-crappie/,]
+related: [/my-first-fishing-injury/,/my-first-aep-adventure/,/mosquito-lake-2012/,]
 ---
 I had a few family camping trips as a child during which I caught a quite a few bluegills (I have the pictures to prove it). However, after catching this beast in 2011, my fishing addiction commenced.
 
