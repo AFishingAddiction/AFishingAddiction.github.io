@@ -687,14 +687,6 @@ figure {
     }
   }
 
-  .ad.custom::before {
-    content: "Advertisement";
-    font-size: 0.625em;
-    position: absolute;
-    left: 50%;
-    transform: translate(-50%, -15px);
-  }
-
   .ad.custom {
     img {
       border: 0;
@@ -705,6 +697,16 @@ figure {
     max-width: 100%;
     width: 100%;
     height: auto;
+
+  }
+
+  .ad.custom:before,
+  .adsbygoogle:before {
+    content: "Advertisement";
+    font-size: 0.625em;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -16px);
   }
 
   .inline-content-ads {
@@ -713,6 +715,7 @@ figure {
 
     .inline-content-ad {
       display: none;
+      position: relative;
       &.mobile {
         @include mobile {
           display: block;
@@ -733,9 +736,6 @@ figure {
       display: none;
       @include tablet {
         display: inline-block;
-      }
-      &::before {
-        left: 50%;
       }
     }
   }
