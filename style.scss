@@ -710,29 +710,28 @@ figure {
   .inline-content-ads {
     padding: 14px 0;
     width: 100%;
-    // display: none;
 
     .inline-content-ad {
       display: none;
       &.mobile {
         @include mobile {
-          display: inline-block;
+          display: block;
         }
       }
       &.gt-mobile {
         @include gt-mobile {
-          display: inline-block;
+          display: block;
         }
       }
     }
 
     .ad.custom {
-      width: 385px;
+      width: 100%;
       height: 385px;
       text-align: center;
       margin: 0 auto;
       display: none;
-      @include mobile {
+      @include tablet {
         display: inline-block;
       }
       &::before {
@@ -743,6 +742,7 @@ figure {
 
   #sidebar-right {
     display: table-cell;
+    width: 260px;
     padding: 20px 0 0 20px;
     vertical-align: top;
     position: relative;
@@ -753,7 +753,6 @@ figure {
 
     .ad.custom {
       position: relative;
-      width: 240px;
       height: 426px;
 
       a {
