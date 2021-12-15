@@ -1,5 +1,5 @@
-<a href="{{ site.static.image.path | prepend: site.baseurl }}{{ include.img.path }}">
-    <img src="{{ site.static.image.path | prepend: site.baseurl }}{{ include.img.path }}" alt="{{ include.img.alt }}"
+<a href="/{{ site.static.image.path }}{{ include.img.path }}">
+    <img src="/{{ site.static.image.path }}{{ include.img.path }}" alt="{{ include.img.alt }}"
         {%- if include.img.width %} width="{{ include.img.width }}" {% endif %} {%- if include.img.height %}
         height="{{ include.img.height }}" {% endif -%} />
 </a>
