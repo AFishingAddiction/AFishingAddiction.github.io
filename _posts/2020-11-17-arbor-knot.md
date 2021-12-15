@@ -18,10 +18,19 @@ seo:
   type: HowTo
   json_ld:
     name: Tie an Arbor Knot
-    totalTime: PT1M
+    supply:
+      - "@type": HowToSupply
+        name: fishing line
+    tool:
+      - "@type": HowToTool
+        name: fishing reel
+    totalTime: PT2M
     step:
       - "@type": HowToStep
+        name: Loop the arbor and tie an overhand knot around the main line
         position: 1
+        image: "SITE_URL/IMAGE_PATH/knots/arbor-knot/arbor-knot-step-1.webp"
+        url: "SITE_URL/knots/arbor-knot/#step-1"
         itemListElement:
           - "@type": HowToDirection
             position: 1
@@ -33,7 +42,10 @@ seo:
             position: 3
             text: Pull the first knot tight
       - "@type": HowToStep
+        name: Tie a second overhand knot
         position: 2
+        image: "SITE_URL/IMAGE_PATH/knots/arbor-knot/arbor-knot-step-2.webp"
+        url: "SITE_URL/knots/arbor-knot/#step-2"
         itemListElement:
           - "@type": HowToDirection
             position: 1
@@ -42,7 +54,10 @@ seo:
             position: 2
             text: Pull the second knot tight
       - "@type": HowToStep
+        name: Cinch the 2 knots
         position: 3
+        image: "SITE_URL/IMAGE_PATH/knots/arbor-knot/arbor-knot-step-3.webp"
+        url: "SITE_URL/knots/arbor-knot/#step-3"
         itemListElement:
           - "@type": HowToDirection
             position: 1
@@ -51,7 +66,10 @@ seo:
             position: 2
             text: Pull the line between the first knot and the reel, cinching the two knots together
       - "@type": HowToStep
+        name: Trim the tag end
         position: 4
+        image: "SITE_URL/IMAGE_PATH/knots/arbor-knot/arbor-knot-step-4.webp"
+        url: "SITE_URL/knots/arbor-knot/#step-4"
         itemListElement:
           - "@type": HowToDirection
             position: 1
@@ -60,7 +78,10 @@ seo:
             position: 2
             text: Trim the tag end
       - "@type": HowToStep
+        name: Cinch the knots against the arbor
         position: 5
+        image: "SITE_URL/IMAGE_PATH/knots/arbor-knot/arbor-knot-step-5.webp"
+        url: "SITE_URL/knots/arbor-knot/#step-5"
         itemListElement:
           - "@type": HowToDirection
             position: 1
