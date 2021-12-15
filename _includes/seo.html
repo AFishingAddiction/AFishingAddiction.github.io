@@ -3,7 +3,7 @@
 {%- endcapture -%}
 {% capture title -%}
   {%- if site.title != page_title -%}
-    {{ page_title }} &mdash; {{ site.title | remove: ' ' }}
+    {{ page_title }}{{ site.title_separator }}{{ site.title | remove: ' ' }}
   {%- else -%}
     {{ page_title }}
   {%- endif -%}
