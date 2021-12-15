@@ -29,17 +29,17 @@ seo:
       - "@type": HowToStep
         name: Thread the Hook
         position: 1
-        image: "SITE_URL/images/knots/palomar-knot/palomar-knot-step-1.webp"
+        image: "SITE_URL/IMAGE_PATH/knots/palomar-knot/palomar-knot-step-1.webp"
         url: "SITE_URL/knots/palomar-knot/#step-1"
         itemListElement:
           - "@type": HowToDirection
             position: 1
             text: Take the tag end of the line and pass it through the eye of the hook or lure
-        image: "SITE_URL/images/knots/palomar-knot/palomar-knot-step-1.webp"
+        image: "SITE_URL/IMAGE_PATH/knots/palomar-knot/palomar-knot-step-1.webp"
       - "@type": HowToStep
         name: Make a Loop
         position: 2
-        image: "SITE_URL/images/knots/palomar-knot/palomar-knot-step-2.webp"
+        image: "SITE_URL/IMAGE_PATH/knots/palomar-knot/palomar-knot-step-2.webp"
         url: "SITE_URL/knots/palomar-knot/#step-2"
         itemListElement:
           - "@type": HowToDirection
@@ -51,7 +51,7 @@ seo:
       - "@type": HowToStep
         name: Tie an Overhand Knot
         position: 3
-        image: "SITE_URL/images/knots/palomar-knot/palomar-knot-step-3.webp"
+        image: "SITE_URL/IMAGE_PATH/knots/palomar-knot/palomar-knot-step-3.webp"
         url: "SITE_URL/knots/palomar-knot/#step-3"
         itemListElement:
           - "@type": HowToDirection
@@ -63,7 +63,7 @@ seo:
       - "@type": HowToStep
         name: Pass Hook Through the Loop
         position: 4
-        image: "SITE_URL/images/knots/palomar-knot/palomar-knot-step-4.webp"
+        image: "SITE_URL/IMAGE_PATH/knots/palomar-knot/palomar-knot-step-4.webp"
         url: "SITE_URL/knots/palomar-knot/#step-4"
         itemListElement:
           - "@type": HowToDirection
@@ -75,7 +75,7 @@ seo:
       - "@type": HowToStep
         name: Cinch the Line
         position: 5
-        image: "SITE_URL/images/knots/palomar-knot/palomar-knot-step-5.webp"
+        image: "SITE_URL/IMAGE_PATH/knots/palomar-knot/palomar-knot-step-5.webp"
         url: "SITE_URL/knots/palomar-knot/#step-5"
         itemListElement:
           - "@type": HowToDirection
