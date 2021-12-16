@@ -9,7 +9,6 @@ image: weedless-worm-660x354.jpg
 image_width: 660
 image_height: 354
 image_alt: Weedless Worm
-redirect_from: /2014/06/07/3-tips-for-using-plastic-worms/
 seo:
   type: HowToTip
 tags:

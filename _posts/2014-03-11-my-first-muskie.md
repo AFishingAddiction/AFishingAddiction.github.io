@@ -3,7 +3,6 @@ title: My First Muskie
 permalink: /my-first-muskie/
 author: dan
 layout: post
-redirect_from: /2014/03/11/my-first-muskie/
 catch_ids:
   - 4
 seo:

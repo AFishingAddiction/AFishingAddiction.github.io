@@ -3,7 +3,6 @@ title: My First Crappie
 permalink: /my-first-crappie/
 author: dan
 layout: post
-redirect_from: /2014/02/28/my-first-crappie/
 catch_ids:
   - 7
 seo:

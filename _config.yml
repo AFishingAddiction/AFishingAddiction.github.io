@@ -140,7 +140,13 @@ navlinks:
     target: _blank
     className: highlight
 
-include: ['_pages']
+include:
+  - _pages
+
+exclude:
+  - requirements.txt
+  - venv
+  - workspace.code-workspace
 
 defaults:
   - scope:

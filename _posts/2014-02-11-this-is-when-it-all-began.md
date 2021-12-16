@@ -8,7 +8,6 @@ image: my-first-largemouth-bass-550x979.jpg
 image_width: 550
 image_height: 979
 image_alt: My first Largemouth Bass and probably my personal best
-redirect_from: /2014/02/11/this-is-when-it-all-began/
 catch_ids:
   - 9
 seo:

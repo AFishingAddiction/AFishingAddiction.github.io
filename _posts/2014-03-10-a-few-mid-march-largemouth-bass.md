@@ -3,7 +3,6 @@ title: A Few Mid-March Largemouth Bass
 permalink: /a-few-mid-march-largemouth-bass/
 author: dan
 layout: post
-redirect_from: /2014/03/10/a-few-mid-march-largemouth-bass/
 catch_ids:
   - 5
 seo:
