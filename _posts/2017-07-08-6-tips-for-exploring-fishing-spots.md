@@ -2,6 +2,7 @@
 title: 6 Tips for Exploring Fishing Spots
 permalink: /6-tips-for-exploring-fishing-spots/
 date: 2017-07-08T07:30:00+05:00
+excerpt: Visiting the same fishing spot over and over can become boring. I've got a few tips that will make this process easier and more enjoyable.
 author: dan
 layout: post
 image: map-on-phone-660x441.jpg
