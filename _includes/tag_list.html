@@ -16,7 +16,7 @@
     <li>
       <a href="{{ baseurl }}/tags/#{{ tag_name | slugify }}">
         <span class="tag">{{ tag_name }}</span>
-        <div class="badge">{{ site.tags[tag_name].size }}</div>
+        {%- comment %}<div class="badge">{{ site.tags[tag_name].size }}</div>{% endcomment %}
       </a>
     </li>
   {% endfor %}
