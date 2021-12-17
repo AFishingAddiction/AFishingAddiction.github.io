@@ -20,7 +20,7 @@ tags:
   - plastic worm
 catch_ids:
   - 1
-related: [/my-first-smallmouth-bass/,/reviews/fishbrain-mobile-app,/my-first-aep-adventure/,]
+related: [/reviews/fishbrain-mobile-app,/my-first-smallmouth-bass/,/my-first-aep-adventure/,]
 ---
 It was gorgeous weather on the last day of May and a great day to go fishing. I wish I would have started a bit earlier in the day to take full advantage. During the little fishing time I had that day, I made a few largemouth bass observations from the ones I caught and the ones I was attempting to catch.
 
