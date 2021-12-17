@@ -1,9 +1,10 @@
 ---
+layout: post
 title: My Canvas Tackle Bag
+excerpt: For Christmas 2011, I asked Santa to upgrade my plastic tackle box to a canvas tackle bag. He didn't bring me one, but he did give me a gift card for Gander Mountain and asked me to pick out my own.
 permalink: /my-tackle-bag/
 date: 2014-03-07T07:12:02+00:00
 author: dan
-layout: post
 seo:
   type: BlogPosting
 tags:
@@ -11,7 +12,7 @@ tags:
   - tackle
 related: [/5-bank-fishing-tips/,/6-tips-for-exploring-fishing-spots/,/6-things-to-do-in-the-fishing-off-season,]
 ---
-For Christmas 2011, I asked Santa to upgrade my plastic tackle box to a canvas tackle bag. He didn&#8217;t bring me one, but he did give me a gift card for Gander Mountain and asked me to pick out my own. Given the small amount of lures and baits I had at the time, this is what I picked out:
+For Christmas 2011, I asked Santa to upgrade my plastic tackle box to a canvas tackle bag. He didn't bring me one, but he did give me a gift card for Gander Mountain and asked me to pick out my own. Given the small amount of lures and baits I had at the time, this is what I picked out:
 
 <div id='gallery-5' class='gallery galleryid-165 gallery-columns-2 gallery-size-responsive-300'>
   <dl class='gallery-item'>

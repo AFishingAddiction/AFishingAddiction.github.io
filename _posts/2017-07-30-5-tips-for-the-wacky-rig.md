@@ -1,9 +1,10 @@
 ---
+layout: post
 title: 5 Tips for the Wacky Rig
+excerpt: Here are a few tips that will help you out with fishing the wacky rig and hopefully will help you catch more bass when using it.
 permalink: /5-tips-for-the-wacky-rig/
 date: 2017-07-30T12:30:00+05:00
 author: dan
-layout: post
 image: wacky-rigs.jpg
 image_width: 1071
 image_height: 685
@@ -17,7 +18,7 @@ tags:
   - wacky rig
 related: [/reviews/fishbrain-mobile-app,/3-tips-for-using-plastic-worms/,/5-bank-fishing-tips/,]
 ---
-If you're just starting out using the wacky rig, the idea of using it can be...well...wacky. Here are a few tips that will help you out with fishing this type of rig and hopefully will help you catch more bass when using it.
+If you're just starting out using the wacky rig, the idea of using it can be...well...wacky. Here are a few tips that will help you out with fishing the wacky rig and hopefully will help you catch more bass when using it.
 
 ## Use Weedless Hooks
 This may not always be an obvious tip, but using weedless hooks for your wacky rig is very important. It's going to save you a lot of time cleaning off your hook between each cast. Using a weedless hook is especially useful when you are punching it through mats of vegetation and retrieving through them as well.

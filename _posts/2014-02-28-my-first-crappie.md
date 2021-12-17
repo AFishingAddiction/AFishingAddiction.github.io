@@ -1,19 +1,17 @@
 ---
+layout: post
 title: My First Crappie
 permalink: /my-first-crappie/
+excerpt: After catching this crappie, I immediately texted my uncle asking what species it was. I had no idea, as I was still new at fishing at that point.
 author: dan
-layout: post
-catch_ids:
-  - 7
+
+catch_ids: [7]
+related: [/my-first-muskie/,/mosquito-lake-2012/,/my-first-fishing-injury/,]
 seo:
   type: BlogPosting
-tags:
-  - crappie
-  - catch
-  - Southgate Park
-related: [/my-first-muskie/,/mosquito-lake-2012/,/my-first-fishing-injury/,]
+tags: [crappie, catch, Southgate Park]
 ---
-After catching this crappie, I immediately texted my uncle asking what species it was. I had no idea&#8230; I was still new at fishing at that point.
+After catching this crappie, I immediately texted my uncle asking what species it was. I had no idea, as I was still new at fishing at that point.
 
 I also yanked a few other fish out of a small stream nearby. I&#8217;m not sure what species they were. I caught both species on a Berkeley Gulp chartreuse minnow. That&#8217;s what I used most of the time when I first started out. I can&#8217;t seem to find them anymore.
 
