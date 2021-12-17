@@ -8,4 +8,4 @@ layout: page
 
 <p><a href="https://www.youtube.com/watch?v={{ page.youtube.id }}" target="_blank">Watch it on Youtube.com</a></p>
 {% endif %}
-<p>{{ page.description }}</p>
+<p>{{ page.description | default: page.excerpt }}</p>
