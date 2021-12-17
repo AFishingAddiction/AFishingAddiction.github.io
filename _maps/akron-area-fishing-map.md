@@ -5,7 +5,6 @@ date: 2014-02-28
 author: dan
 layout: map
 permalink: /akron-area-fishing-map/
-redirect_from: "/my-local-fishing-map/"
 map_source: https://www.google.com/maps/d/embed?mid=1TxFxzv7ZZRIoCN6EImdFsKsdnjQ
 seo:
   type: Map
