@@ -113,6 +113,9 @@ baseurl: ""
 permalink: /:title/
 
 collections:
+    knots:
+        output: true
+        permalink: /:collection/:path
     maps:
         output: true
     videos:

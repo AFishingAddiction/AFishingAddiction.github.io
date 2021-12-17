@@ -2,6 +2,7 @@
 title: How to Tie a Palomar Knot
 permalink: /knots/palomar-knot/
 redirect_from: /knots/how-to-tie-a-palomar-knot/
+date: "2021-11-01"
 img:
   path: /knots/palomar-knot/palomar-knot.webp
   height: 6000
