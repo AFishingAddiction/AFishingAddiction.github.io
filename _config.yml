@@ -148,6 +148,7 @@ include:
 
 exclude:
   - CNAME
+  - debug.md
   - docker-compose.yml
   - Gemfile
   - Gemfile.lock
