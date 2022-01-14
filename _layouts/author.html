@@ -2,10 +2,11 @@
 layout: page
 ---
 {% assign profile = site.data.authors[page.profile] %}
+{% assign bio = profile.bio | strip | newline_to_br | split: "<br />" %}
 
 <div class="author-profile">
-    <p>
-        <img src="{{ profile.picture }}" alt="{{ profile.name }} profile picture" class="float-left" />
-        {{ profile.bio }}
-    </p>
+    <img src="{{ profile.picture }}" alt="{{ profile.name }} profile picture" class="inline-image-left" />
+    {% for bio_line in bio %}
+    <p>{{ bio_line | strip }}</p>
+    {% endfor %}
 </div>
