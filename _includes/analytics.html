@@ -1,4 +1,4 @@
-{%- if site.google_tag_manager and site.GH_ENV == 'gh_pages' %}
+{%- if site.google_tag_manager and site.github.pages_env == "production" %}
         <!-- Google Tag Manager -->
         <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
           new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -7,7 +7,7 @@
           })(window,document,'script','dataLayer','{{ site.google_tag_manager }}');</script>
         <!-- End Google Tag Manager -->
 {% endif -%}
-{%- if site.google_analytics and site.GH_ENV == 'gh_pages' %}
+{%- if site.google_analytics and site.github.pages_env == "production" %}
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
         <script>
