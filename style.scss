@@ -677,7 +677,11 @@ figure {
   #main-content {
     display: table-cell;
     @include gt-tablet {
-      max-width: 660px;
+      max-width: $maxContentWidth;
+
+      #LurePicker {
+        width: $maxContentWidth;
+      }
     }
     @include tablet {
       width: 100%;
@@ -922,21 +926,36 @@ ul.tag-list {
 table {
   color: $primaryFontColor;
 
-  &.feature-comparison-table {
+  &.feature-comparison-table,
+  &.lure-list {
     width: 67%;
     @include mobile {
       width: 100%;
     }
-    tr:nth-child(even) {
-      background-color: $lightGray;
-    }
+
     th {
       font-weight: 600;
-      border-bottom: 1px solid $silver;
     }
     th,
     td {
       padding: 0.8em;
+    }
+  }
+  &.feature-comparison-table {
+
+    th {
+      border-bottom: 1px solid $silver;
+    }
+    tr:nth-child(even) {
+      background-color: $lightGray;
+    }
+  }
+  &.lure-list {
+    color: $secondaryFontColor;
+    border-color: $primaryColorDark;
+
+    th {
+      border: none;
     }
   }
 }
