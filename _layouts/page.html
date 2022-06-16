@@ -21,7 +21,7 @@ is_comments_enabled: false
     {% include image.html img=page.img %}
     {% endunless %}
   {% endif %}
-  {% if layout.is_inline_ads_enabled %}
+  {% if layout.is_inline_ads_enabled and page.is_inline_ads_enabled != false %}
     {% include ads/inline-content.html %}
   {% endif %}
 

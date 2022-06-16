@@ -9,6 +9,7 @@ img:
   width: 6000
   alt: How to Tie a Palomar Knot
   render: false
+is_inline_ads_enabled: false
 author: dan
 layout: post
 excerpt: "The Palomar knot is a simple, multipurpose and strong knot. It can be used for tying fishing line to a swivel or snap, but it is mostly used to tie the line to a lure or hook. Because of its versatility, it's a great knot to learn and master."
@@ -95,6 +96,22 @@ The Palomar knot is a simple, multipurpose and strong knot. It can be used for t
 {% include image.html img=page.img %}
 
 {% include howto.html steps=page.seo.json_ld.step %}
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_tracking_id = "schaeferprodu-20";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_default_search_phrase = "bass fishing line";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "be845a0a2a0c8108f057572bdb6f8e26";
+amzn_assoc_search_bar = "true";
+amzn_assoc_title = "Shop Fishing Line";
+amzn_assoc_search_bar_position = "top";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ## What is the best knot for braided line?
 A Palomar knot is the best knot and highly recommended for braided line. The knot is so versatile, that it can be used for any type of line, including braided line.

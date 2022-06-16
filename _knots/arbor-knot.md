@@ -9,6 +9,7 @@ img:
   width: 4500
   alt: How to Tie an Arbor Knot
   render: false
+is_inline_ads_enabled: false
 author: dan
 layout: post
 excerpt: "Whether you are spooling new fishing line onto a spinning reel, a baitcasting reel, or a fly fishing reel, the best knot to use in all cases is an arbor knot. This is great, because the arbor knot is really easy to tie and you only have to learn one type of knot to spool your lines to all of your types of reels."
@@ -100,6 +101,22 @@ Whether you are spooling new fishing line onto a spinning reel, a baitcasting re
 {% include image.html img=page.img %}
 
 {% include howto.html steps=page.seo.json_ld.step %}
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_tracking_id = "schaeferprodu-20";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_default_search_phrase = "bass baitcasting fishing reels";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "be845a0a2a0c8108f057572bdb6f8e26";
+amzn_assoc_search_bar = "true";
+amzn_assoc_title = "Shop Fishing Reels";
+amzn_assoc_search_bar_position = "top";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ## What is the best knot for tying fishing line to a reel?
 An Arbor Knot is the best knot to tie your fishing line to your reel-- any type of reel.
