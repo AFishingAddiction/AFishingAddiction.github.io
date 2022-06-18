@@ -5,7 +5,6 @@
 .sass-cache
 .venv
 venv
-Gemfile
 Gemfile.lock
 _site
 node_modules
