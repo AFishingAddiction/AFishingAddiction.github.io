@@ -9,6 +9,8 @@ title_separator: " | "
 # Short bio or description (displayed in the header)
 description: A blog about my bass fishing addiction
 
+repository: AFishingAddiction/AFishingAddiction.github.io
+
 logo: /images/logo/A-Fishing-Addiction-logo.png
 
 language: en-us
@@ -71,7 +73,7 @@ disqus:
 
 comments:
   enabled: true
-  form_action: "https://api.staticman.net/v2/entry/AFishingAddiction/AFishingAddiction.github.io/master/comments"
+  form_action: "https://api.staticman.net/v2/entry/AFishingAddiction/AFishingAddiction.github.io/main/comments"
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: 'G-Q8STFFHFDR'
@@ -166,12 +168,13 @@ defaults:
 
 
 # The release of Jekyll Now that you're using
-version: v3.9.0
+version: v3.9.2
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
   input: GFM
+  math_engine: mathjax # Cannot be changed for GitHub Page
   # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
   syntax_highlighter: rouge
   syntax_highlighter_opts:
@@ -181,6 +184,15 @@ kramdown:
 # Set the Sass partials directory, as we're using @imports
 sass:
   style: :compressed
+
+# Settings that cannot be changed for GitHub Pages
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+
 
 jekyll-press:
   exclude: ''
@@ -193,4 +205,4 @@ plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-redirect-from
-  - jekyll-press # Minifies all html, js, and css
+  - webrick
