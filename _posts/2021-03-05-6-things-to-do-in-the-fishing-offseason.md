@@ -45,26 +45,22 @@ Just like any skill, continuous learning is crucial to keeping on top of your fi
 ### Learning Resources for Fishing
 
 1. **Fishing magazines**
-  - Bassmaster
-  - In-Fisherman
-  - Bass Angler Magazine
-  - etc.
+  - [Bassmaster](https://amzn.to/3tDFB8M)
+  - [In-Fisherman](https://amzn.to/3QqBCpG)
+  - [Midwest Outdoors](https://amzn.to/3zKv8Mu)
 2. **Fishing blogs**
   - [A Fishing Addiction Blog](/)
   - [Karl's Blog](https://shopkarls.com/blog/)
   - [Take Me Fishing Blog](https://www.takemefishing.org/blog/)
   - [Fishbrain Blog](https://fishbrain.com/blog)
-  - etc.
 3. **Podcasts**
   - [The Itinerant Angler Podcast](https://www.itinerantangler.com/blog/podcasts/)
   - [The Edge](https://bassedge.com/podcasts/)
   - [Addicted Fishing Podcast](https://addicted.fishing/pages/addicted-podcasts)
-  - etc.
 4. **Youtube videos and channels**
   - [Tactical Bassin](https://www.youtube.com/user/tacticalbassin)
   - [Kickin Their BASS TV](https://www.youtube.com/user/KickinTheirBASSTV)
   - [Flukemaster](https://www.youtube.com/user/flukemstr)
-  - etc.
 
 
 ## Explore New Fishing Spots
