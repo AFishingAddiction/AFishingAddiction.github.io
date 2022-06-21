@@ -678,10 +678,6 @@ figure {
     display: table-cell;
     @include gt-tablet {
       max-width: $maxContentWidth;
-
-      #LurePicker {
-        width: $maxContentWidth;
-      }
     }
     @include tablet {
       width: 100%;
@@ -772,6 +768,20 @@ figure {
     .adsbygoogle {
       margin-top: 20px;
     }
+  }
+}
+
+#LurePicker {
+  @include gt-tablet {
+    width: $maxContentWidth;
+  }
+  padding: 6px;
+  background-color: $whiteLightGray;
+  .btn {
+    cursor: pointer;
+  }
+  table.lure-list {
+    margin-top: 8px;
   }
 }
 

@@ -3,6 +3,7 @@ layout: page
 permalink: /tools/lure-picker/
 title: Lure Picker
 author: false
+canonical_url: /tools/lure-wizard/
 # TODO add a description
 # TODO add seo attributes
 seo:
