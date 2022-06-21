@@ -800,7 +800,7 @@ figure {
 
 .lure-wizard-promo {
   &p {
-    line-height: 1.35em;
+    line-height: $lineHeight;
   }
 }
 
@@ -839,7 +839,7 @@ figure {
       }
 
       p {
-        line-height: 1.35em;
+        line-height: $lineHeight;
       }
 
       a:hover {
@@ -874,7 +874,7 @@ figure {
 .post,
 .video {
   color: $secondaryFontColor;
-  line-height: 1.35em;
+  line-height: $lineHeight;
 
   h1 {
     margin-bottom: 0;
