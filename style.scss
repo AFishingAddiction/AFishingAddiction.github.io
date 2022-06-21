@@ -790,7 +790,7 @@ figure {
   margin-top: 14px;
 }
 
-.lure-wizard-promo-container {
+.lure-wizard-promo {
   &p {
     line-height: 1.35em;
   }
@@ -801,7 +801,7 @@ figure {
 
 .popular-pages-container,
 .related-pages-container,
-.lure-wizard-promo-container {
+.lure-wizard-promo {
   background-color: $white;
   border-bottom: 1px solid $silver;
 
