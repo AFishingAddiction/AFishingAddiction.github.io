@@ -157,18 +157,26 @@ input[type="email"] {
 }
 
 input[type="submit"],
-.btn-primary {
-  background-color: $primaryColorDark;
+.btn.btn-primary,
+.btn.btn-accent {
+  background: $primaryColorDark;
   color: $white;
   font-weight: bold;
   cursor: pointer;
 }
 
-.btn-secondary {
+.btn.btn-secondary {
   padding: 10px;
   background: $secondaryLightBgColor;
   color: $primaryColorLight;
   font-weight: bold;
+}
+
+.btn.btn-accent {
+  background: $accentColor;
+  &:hover {
+    color: $white;
+  }
 }
 
 sup {
@@ -793,9 +801,6 @@ figure {
 .lure-wizard-promo {
   &p {
     line-height: 1.35em;
-  }
-  .btn {
-    background-color: $accentColor;
   }
 }
 

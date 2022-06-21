@@ -17,7 +17,7 @@ seo:
     </p>
     <p>Click the image below to get started.</p>
     <p><a href="/tools/lure-wizard"><img src="/{{ '/tools/Lure-Wizard-screenshot.png' | prepend: site.static.image.path }}" alt="A Fishing Addiction's Lure Wizard" /></a></p>
-    <p><a class="btn btn-primary" href="/tools/lure-wizard" role="button">Try Lure Wizard now »</a></p>
+    <p><a class="btn btn-accent" href="/tools/lure-wizard" role="button">Try Lure Wizard now »</a></p>
   </div>
   <div class="popular-pages-container">
     <h2>Popular Pages</h2>
