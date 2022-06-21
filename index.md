@@ -10,6 +10,16 @@ seo:
 ---
 <div class="posts">
   <h1>{{ page.title }}</h1>
+  <div class="lure-wizard-promo-container">
+    <h2><a href="/tools/lure-wizard">Try the New Lure Wizard</a></h2>
+    <div class="lure-wizard-promo">
+      <p>
+      A Fishing Addiction's new <a href="/tools/lure-wizard">Lure Wizard</a> is a browser tool that asks you, the angler, 3 simple questions about the current fishing conditions. The <a href="/tools/lure-wizard">Lure Wizard</a> then provides you with several options or suggestions for lures to use in those conditions.
+      </p>
+      <p><a href="/tools/lure-wizard"><img src="/{{ '/tools/Lure-Wizard-screenshot.png' | prepend: site.static.image.path }}" alt="A Fishing Addiction's Lure Wizard" /></a></p>
+      <p><a class="btn btn-primary" href="/tools/lure-wizard" role="button">Try Lure Wizard now »</a></p>
+    </div>
+  </div>
   <div class="popular-pages-container">
     <h2>Popular Pages</h2>
     <div class="popular-pages">
