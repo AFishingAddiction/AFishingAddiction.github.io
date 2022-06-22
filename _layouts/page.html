@@ -34,7 +34,7 @@ is_comments_enabled: false
   {% if layout.is_catches_enabled %}
     {% include catches.html %}
   {% endif %}
-  {% if layout.is_comments_enabled %}
+  {% if layout.is_comments_enabled or page.is_comments_enabled %}
     {% include comments.html %}
   {% endif %}
 </article>
