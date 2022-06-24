@@ -4,6 +4,7 @@ permalink: /tools/lure-picker/
 title: Lure Picker
 author: false
 canonical_url: /tools/lure-wizard/
+sitemap: false
 # TODO add a description
 # TODO add seo attributes
 seo:
