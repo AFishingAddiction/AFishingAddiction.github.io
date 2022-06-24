@@ -3,7 +3,7 @@ layout: page
 permalink: /tools/lure-wizard/
 title: Lure Wizard
 author: false
-description: A Fishing Addiction's Lure Wizard asks a few simple questions and provides you with suggestions for lures to use. It asks for the season, water clarity and visibility, and the clous coverage or frontal status. With just those 3 questions, we are able to provide you with up to 8 different types of lures and the recommended color.
+description: "A Fishing Addiction's Lure Wizard (free) provides up to 8 suggested lures and colors based on 3 questions: season, water clarity/visibility, and frontal status."
 img:
   path: /tools/Lure-Wizard-screenshot.png
   height: 860
