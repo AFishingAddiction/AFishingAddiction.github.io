@@ -145,7 +145,7 @@ navlinks:
     target: _blank
     # className: highlight
   - text: Lure Wizard
-    url: /tools/lure-wizard
+    url: /tools/lure-wizard/
     className: highlight
 
 include:
