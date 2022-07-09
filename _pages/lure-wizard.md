@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /tools/lure-wizard/
+redirect_from: /tools/lure-picker/
 title: Lure Wizard
 author: false
 description: "A Fishing Addiction's Lure Wizard (free) provides up to 8 suggested lures and colors based on 3 questions: season, water clarity/visibility, and frontal status."
@@ -12,10 +13,14 @@ img:
   render: false
 seo:
   type: WebApplication
-  name: Lure Wizard
   json_ld:
-    screenshot: "SITE_URL/IMAGE_PATH/tools/Lure-Wizard-screenshot.png"
+    aggregateRating:
+      "@type": AggregateRating
+      ratingValue: "5"
+      ratingCount: "1"
+    applicationCategory: ReferenceApplication
     audience: bass anglers
+    browserRequirements: requires JavaScript
     creativeWorkStatus: beta
     creator:
       "@type": Person
@@ -26,6 +31,13 @@ seo:
       "@type": Person
       givenName: Daniel
       familyName: Schaefer
+    name: Lure Wizard
+    operatingSystem: Any
+    offers:
+      "@type": "Offer"
+      price: "0"
+      priceCurrency: "USD"
+    screenshot: "SITE_URL/IMAGE_PATH/tools/Lure-Wizard-screenshot.png"
     timeRequired: PT1M
 is_comments_enabled: true
 is_inline_ads_enabled: false
