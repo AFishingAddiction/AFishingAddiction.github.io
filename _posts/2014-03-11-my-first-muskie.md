@@ -21,7 +21,7 @@ The coordinates in the map are approximate, since my phone didn&#8217;t capture 
 <div id='gallery-7' class='gallery galleryid-189 gallery-columns-2 gallery-size-responsive-300'>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href="/images/the-head-of-my-first-muskie-1456x2592.jpg"><img width="300" height="534" src="/images/the-head-of-my-first-muskie-300x534.jpg" class="attachment-responsive-300" alt="The head of my first Muskie" /></a>
+      <a href="/images/the-head-of-my-first-muskie-1456x2592.webp"><img width="300" height="534" src="/images/the-head-of-my-first-muskie-300x534.webp" class="attachment-responsive-300" alt="The head of my first Muskie" /></a>
     </dt>
     <dd class='wp-caption-text gallery-caption'>
       My first Muskie (head)
@@ -29,7 +29,7 @@ The coordinates in the map are approximate, since my phone didn&#8217;t capture 
   </dl>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href="/images/my-first-muskie-1456x2592.jpg"><img width="300" height="534" src="/images/my-first-muskie-300x534.jpg" class="attachment-responsive-300" alt="My first Muskie" /></a>
+      <a href="/images/my-first-muskie-1456x2592.webp"><img width="300" height="534" src="/images/my-first-muskie-300x534.webp" class="attachment-responsive-300" alt="My first Muskie" /></a>
     </dt>
     <dd class='wp-caption-text gallery-caption'>
       My first Muskie
