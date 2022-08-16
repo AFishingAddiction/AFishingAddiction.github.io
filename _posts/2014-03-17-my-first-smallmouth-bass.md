@@ -22,7 +22,7 @@ As shown in the picture below, there is a nice bend in the river, with it splitt
 <div id='gallery-8' class='gallery galleryid-200 gallery-columns-2 gallery-size-responsive-300'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href="/images/the-overlook-deck-2592x1456.jpg"><img width="300" height="169" src="/images/the-overlook-deck-300x169.jpg" class="attachment-responsive-300" alt="The overlook deck" /></a>
+      <a href="/images/the-overlook-deck-2592x1456.webp"><img width="300" height="169" src="/images/the-overlook-deck-300x169.webp" class="attachment-responsive-300" alt="The overlook deck" /></a>
     </dt>
     <dd class='wp-caption-text gallery-caption'>
       The overlook deck
@@ -30,7 +30,7 @@ As shown in the picture below, there is a nice bend in the river, with it splitt
   </dl>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href="/images/a-bend-in-the-Cuyahoga-River-2592x1456.jpg"><img width="300" height="169" src="/images/a-bend-in-the-Cuyahoga-River-300x169.jpg" class="attachment-responsive-300" alt="A bend in the Cuyahoga River" /></a>
+      <a href="/images/a-bend-in-the-Cuyahoga-River-2592x1456.webp"><img width="300" height="169" src="/images/a-bend-in-the-Cuyahoga-River-300x169.webp" class="attachment-responsive-300" alt="A bend in the Cuyahoga River" /></a>
     </dt>
     <dd class='wp-caption-text gallery-caption'>
       The bend in the Cuyahoga River
@@ -39,7 +39,7 @@ As shown in the picture below, there is a nice bend in the river, with it splitt
   <br style="clear: both" />
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href="/images/a-red-eyed-smallmouth-bass-1456x2592.jpg"><img width="300" height="534" src="/images/a-red-eyed-smallmouth-bass-300x534.jpg" class="attachment-responsive-300" alt="A red-eyed smallmouth bass" /></a>
+      <a href="/images/a-red-eyed-smallmouth-bass-1456x2592.webp"><img width="300" height="534" src="/images/a-red-eyed-smallmouth-bass-300x534.webp" class="attachment-responsive-300" alt="A red-eyed smallmouth bass" /></a>
     </dt>
     <dd class='wp-caption-text gallery-caption'>
       My first red-eyed Smallmouth
@@ -47,7 +47,7 @@ As shown in the picture below, there is a nice bend in the river, with it splitt
   </dl>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href="/images/a-smallmouth-bass-1456x2592.jpg"><img width="300" height="534" src="/images/a-smallmouth-bass-300x534.jpg" class="attachment-responsive-300" alt="A smallmouth bass" /></a>
+      <a href="/images/a-smallmouth-bass-1456x2592.webp"><img width="300" height="534" src="/images/a-smallmouth-bass-300x534.webp" class="attachment-responsive-300" alt="A smallmouth bass" /></a>
     </dt>
     <dd class='wp-caption-text gallery-caption'>
       Another Smallie
