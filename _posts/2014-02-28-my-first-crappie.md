@@ -17,14 +17,14 @@ I also yanked a few other fish out of a small stream nearby. I&#8217;m not sure 
 
 <div class='gallery'>
   <div class='gallery-item'>
-    <a href="/images/my-first-crappie.jpg"><img width="550" height="979" src="/images/my-first-crappie-575x1024.jpg" alt="My first Crappie" /></a>
+    <a href="/images/my-first-crappie.webp"><img width="550" height="979" src="/images/my-first-crappie-575x1024.webp" alt="My first Crappie" /></a>
   </div>
   <div class='gallery-item'>
-      <a href="/images/a-sucker-fish.jpg"><img width="550" height="979" src="/images/a-sucker-fish-575x1024.jpg" alt="A sucker fish" /></a>
+      <a href="/images/a-sucker-fish.webp"><img width="550" height="979" src="/images/a-sucker-fish-575x1024.webp" alt="A sucker fish" /></a>
   </div>
   <br style="clear: both" />
   <div class='gallery-item'>
-      <a href="/images/another-sucker-fish.jpg"><img width="550" height="979" src="/images/another-sucker-fish-575x1024.jpg" alt="Another sucker fish" /></a>
+      <a href="/images/another-sucker-fish.webp"><img width="550" height="979" src="/images/another-sucker-fish-575x1024.webp" alt="Another sucker fish" /></a>
   </div>
   <br style='clear: both' />
 </div>
