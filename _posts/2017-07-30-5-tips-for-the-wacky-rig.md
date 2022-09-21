@@ -11,6 +11,7 @@ image_height: 685
 image_alt: Wacky Worm Rig
 seo:
   type: HowToTip
+is_inline_ads_enabled: false
 tags:
   - tips
   - rigging
@@ -18,7 +19,24 @@ tags:
   - wacky rig
 related: [/reviews/fishbrain-mobile-app,/3-tips-for-using-plastic-worms/,/5-bank-fishing-tips/,]
 ---
+
 If you're just starting out using the wacky rig, the idea of using it can be...well...wacky. Here are a few tips that will help you out with fishing the wacky rig and hopefully will help you catch more bass when using it.
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_tracking_id = "schaeferprodu-20";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_default_search_phrase = "wacky worm kit";
+amzn_assoc_default_category = "SportingGoods";
+amzn_assoc_linkid = "47f0119c1ebfdf79467f257cf9078d20";
+amzn_assoc_search_bar = "false";
+amzn_assoc_title = "Shop Wacky Worms";
+amzn_assoc_default_browse_node = "3375251";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ## Use Weedless Hooks
 This may not always be an obvious tip, but using weedless hooks for your wacky rig is very important. It's going to save you a lot of time cleaning off your hook between each cast. Using a weedless hook is especially useful when you are punching it through mats of vegetation and retrieving through them as well.
