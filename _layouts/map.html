@@ -4,7 +4,9 @@ layout: page
 <div class="google-map"><iframe src="{{ page.map_source }}"{% if site.hotjar %} data-hj-allow-iframe=""{% endif %}></iframe></div>
 {{ content }}
 
+{% if layout.is_inline_ads_enabled and page.is_inline_ads_enabled != false %}
 {% include ads/inline-content.html %}
+{% endif %}
 {% for content in page.map_contents %}
 <h2>{{ content.name }}</h2>
 <ul>

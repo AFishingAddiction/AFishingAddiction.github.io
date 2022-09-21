@@ -11,6 +11,7 @@ img:
   render: false
 seo:
   type: Map
+is_inline_ads_enabled: false
 
 map_contents:
  - name: Lake Erie Public Boat Ramps
@@ -259,3 +260,19 @@ tags:
 <p>This Lake Erie fishing map contains markers for public and private boat launch ramps, mouths of rivers, notable docks (yacht clubs and marinas for example), and underwater structure. It may also contain some of my recorded catches. These markers range from Cleveland, OH all the way to Toledo. It comes with no guarantee and is for informational purposes only.</p>
 
 <p>View <a href="http://www.google.com/maps/ms?msa=0&msid=204931278092854056383.0004dec21fbcc3616bb1f&hl=en&ie=UTF8&ll=41.607417,-82.63298&spn=0.451833,1.600705&t=h&output=embed" target="_blank">Lake Erie</a> in a larger map.</p>
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_tracking_id = "schaeferprodu-20";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_default_search_phrase = "waterproof lake erie chart map";
+amzn_assoc_default_category = "SportingGoods";
+amzn_assoc_linkid = "47f0119c1ebfdf79467f257cf9078d20";
+amzn_assoc_search_bar = "false";
+amzn_assoc_title = "Lake Erie Chart Maps";
+amzn_assoc_default_browse_node = "3375251";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
