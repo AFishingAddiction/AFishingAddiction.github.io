@@ -104,12 +104,12 @@ amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
-amzn_assoc_default_search_phrase = "bass fishing line";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "be845a0a2a0c8108f057572bdb6f8e26";
-amzn_assoc_search_bar = "true";
-amzn_assoc_title = "Shop Fishing Line";
-amzn_assoc_search_bar_position = "top";
+amzn_assoc_default_search_phrase = "the complete book of fishing knots";
+amzn_assoc_default_category = "Books";
+amzn_assoc_linkid = "47f0119c1ebfdf79467f257cf9078d20";
+amzn_assoc_search_bar = "false";
+amzn_assoc_title = "Shop Related Products";
+amzn_assoc_default_browse_node = "283155";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
