@@ -1,4 +1,4 @@
-{% comment %}
+{% if false %}
 <div class="ad custom">
 <!-- START ADVERTISER: Fishbrain AB from awin.com -->
 {% if include.mobile %}
@@ -14,4 +14,4 @@
 {% endif %}
 <!-- END ADVERTISER: Fishbrain AB from awin.com -->
 </div>
-{% endcomment %}
+{% endif %}

@@ -739,6 +739,12 @@ figure {
       text-align: center;
       margin: 0 auto;
       display: none;
+      &.mb {
+        height: auto;
+        @include mobile {
+          margin-top: 24px;
+        }
+      }
       @include tablet {
         display: inline-block;
       }

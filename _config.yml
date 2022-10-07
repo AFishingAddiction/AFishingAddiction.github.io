@@ -89,10 +89,10 @@ cookiebot:
 ads:
   adsense:
     client: 'ca-pub-3400524677609512'
-    slots:
-      responsive_horizontal: "3600433775"
-      responsive_large_skyscraper: "3745020504"
-      responsive_square: "1792438522"
+    # slots:
+    #   responsive_horizontal: "3600433775"
+    #   responsive_large_skyscraper: "3745020504"
+    #   responsive_square: "1792438522"
 
 affiliates:
   fishbrain:
