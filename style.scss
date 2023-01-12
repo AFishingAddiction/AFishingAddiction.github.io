@@ -1055,6 +1055,10 @@ table {
 footer {
   padding: 20px 0;
   text-align: center;
+
+  .affiliate-disclaimer {
+    font-size: small;
+  }
 }
 
 @import "svg-icons";
