@@ -87,7 +87,7 @@ seo:
             position: 2
             text: Trim the tag end of the line
 
-related: [/knots/arbor-knot/,/5-bank-fishing-tips/,/6-things-to-do-in-the-fishing-off-season,]
+related: [/knots/arbor-knot/,/how-to-use-a-baitcasting-reel,/6-things-to-do-in-the-fishing-off-season,]
 ---
 The Palomar knot is a simple, multipurpose and strong knot. It can be used for tying fishing line to a swivel or snap, but it is mostly used to tie the line to a lure or hook. Because of its versatility, it's a great knot to learn and master.
 

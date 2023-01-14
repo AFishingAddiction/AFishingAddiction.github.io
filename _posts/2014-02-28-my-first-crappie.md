@@ -6,7 +6,7 @@ excerpt: After catching this crappie, I immediately texted my uncle asking what 
 author: dan
 
 catch_ids: [7]
-related: [/my-first-muskie/,/mosquito-lake-2012/,/my-first-fishing-injury/,]
+related: [/mosquito-lake-2012/,/6-things-to-do-in-the-fishing-off-season,/tags/,]
 seo:
   type: BlogPosting
 tags: [crappie, catch, Southgate Park]

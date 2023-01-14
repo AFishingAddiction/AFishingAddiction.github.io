@@ -6,7 +6,7 @@ excerpt: For Christmas 2011, I asked Santa to upgrade my plastic tackle box to a
 author: dan
 date: 2014-03-07T07:12:02+00:00
 
-related: [/5-bank-fishing-tips/,/6-tips-for-exploring-fishing-spots/,/6-things-to-do-in-the-fishing-off-season,]
+related: [/5-bank-fishing-tips/,/my-first-fishing-injury/,/6-things-to-do-in-the-fishing-off-season,]
 seo:
   type: BlogPosting
 tags: [equipment, tackle]

@@ -10,7 +10,7 @@ tags:
   - maintenance
 seo:
   type: Article
-related: [/reviews/fishbrain-mobile-app,/6-tips-for-exploring-fishing-spots/,/5-bank-fishing-tips/,]
+related: [/5-bank-fishing-tips/,/reviews/fishbrain-mobile-app,/bass-fishing-in-spring/,]
 image: snow-covered-dock-and-lake-in-the-fishing-off-season.jpg
 image_width: 2593
 image_height: 2593

@@ -17,7 +17,7 @@ tags:
   - rigging
   - plastic worm
   - wacky rig
-related: [/reviews/fishbrain-mobile-app,/3-tips-for-using-plastic-worms/,/5-bank-fishing-tips/,]
+related: [/3-tips-for-using-plastic-worms/,/3-largemouth-bass-observations/,/5-bank-fishing-tips/,]
 ---
 
 If you're just starting out using the wacky rig, the idea of using it can be...well...wacky. Here are a few tips that will help you out with fishing the wacky rig and hopefully will help you catch more bass when using it.

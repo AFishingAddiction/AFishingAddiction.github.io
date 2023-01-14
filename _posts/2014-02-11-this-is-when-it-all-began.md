@@ -10,7 +10,7 @@ image: my-first-largemouth-bass-550x979.jpg
 image_alt: My first Largemouth Bass and probably my personal best
 image_height: 979
 image_width: 550
-related: [/my-first-fishing-injury/,/my-first-aep-adventure/,/mosquito-lake-2012/,]
+related: [/6-things-to-do-in-the-fishing-off-season,/my-first-fishing-injury/,/a-few-mid-march-largemouth-bass/,]
 seo:
   type: BlogPosting
 tags: [bass, catch, coordinates, pond, Wingfoot Lake]

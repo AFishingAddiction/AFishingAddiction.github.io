@@ -10,7 +10,7 @@ image: hook-slice-660x1175.jpg
 image_alt: Hook Slice
 image_height: 1175
 image_width: 660
-related: [/my-first-aep-adventure/,/this-is-when-it-all-began/,/a-few-mid-march-largemouth-bass/,]
+related: [/3-largemouth-bass-observations/,/5-bank-fishing-tips/,/mosquito-lake-2012/,]
 seo:
   type: BlogPosting
 tags: [bass, Boettler Park, Southgate Park, injury]

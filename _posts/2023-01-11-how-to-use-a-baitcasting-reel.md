@@ -11,7 +11,7 @@ tags:
 seo:
   type: Article
 
-related: [/knots/arbor-knot/,/6-things-to-do-in-the-fishing-off-season,/5-bank-fishing-tips/]
+related: [/knots/arbor-knot/,/knots/palomar-knot/,/6-things-to-do-in-the-fishing-off-season,]
 # image: snow-covered-dock-and-lake-in-the-fishing-off-season.jpg
 # image_width: 2593
 # image_height: 2593

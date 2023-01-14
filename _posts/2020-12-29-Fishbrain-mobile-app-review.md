@@ -19,7 +19,7 @@ seo:
       operatingSystem: Android
       applicationCategory: SportsApplication
     reviewBody: Fishbrain has a lot of features that I would look for in a fishing app and it also has features I never would have even thought of. If you are looking for a fishing app that allows you to discover fishing spots, record your catches and gear, and also allows you to interact with other anglers, this is the app for you.
-related: [/6-things-to-do-in-the-fishing-off-season,/6-tips-for-exploring-fishing-spots/,/5-bank-fishing-tips/,]
+related: [/6-things-to-do-in-the-fishing-off-season,/akron-area-fishing-map/,/6-tips-for-exploring-fishing-spots/,]
 todo:
   - Add links from the features table to the features
 image: fishbrain-app/Fishbrain-loading-screen-cropped.webp

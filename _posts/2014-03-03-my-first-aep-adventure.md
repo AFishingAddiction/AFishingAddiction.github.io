@@ -6,7 +6,7 @@ excerpt: Late in the 2011 fishing season, I was talking to my uncle about the pl
 author: dan
 
 catch_ids: [6]
-related: [/3-largemouth-bass-observations/,/reviews/fishbrain-mobile-app,/mosquito-lake-2012/,]
+related: [/aep-fishing-map/,/3-largemouth-bass-observations/,/akron-area-fishing-map/,]
 seo:
   type: BlogPosting
 tags: [bass, catch, AEP]

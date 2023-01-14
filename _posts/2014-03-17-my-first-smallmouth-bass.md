@@ -13,7 +13,7 @@ tags:
   - catch
   - smallmouth
   - Cuyahoga River
-related: [/3-largemouth-bass-observations/,/reviews/fishbrain-mobile-app,/bass-fishing-in-spring/,]
+related: [/a-few-mid-march-largemouth-bass/,/mosquito-lake-2012/,/3-largemouth-bass-observations/,]
 ---
 Early in the 2012 season, I came across a great spot along the Cuyahoga River in Akron. It's a great spot for wading in your bare feet and keeping cool. It's a little bit of a hike from the parking lot, but well worth it. I've caught several Smallmouth Bass from many different angles along the shore and from the island in the center of the river.
 
