@@ -10,6 +10,13 @@ tags:
   - baitcasting
 seo:
   type: Article
+images:
+  baitcasting-reel-birds-nest:
+    src: /assets/img/posts/how-to-use-a-baitcasting-reel/baitcasting-reel-birds-nest.png
+    title: A bird's nest on a baitcasting reels
+    alt: A minor case of bird's nest on a baitcasting reel
+    width: 675
+    height: 937
 
 related: [/knots/arbor-knot/,/knots/palomar-knot/,/6-things-to-do-in-the-fishing-off-season,]
 # image: snow-covered-dock-and-lake-in-the-fishing-off-season.jpg
@@ -127,6 +134,7 @@ There are several issues that can go wrong with a baitcasting reel, some of them
 These are some of the most common issues that can occur with a baitcasting reel, but it's not an exhaustive list. Remember that preventative maintenance and regular cleaning can help to minimize these issues and prolong the lifespan of the reel.
 
 ### How to fix bird's nests
+{% include captioned-image.html className="tall" image=page.images.baitcasting-reel-birds-nest %}
 One of the most common problems that anglers encounter when using a baitcasting reel is a "bird's nest". This is when the line becomes tangled and bunched up on the spool. This can happen when the spool is rotating too quickly, or if the angler is not paying attention to the line while casting.
 
 To fix a bird's nest, you will first need to stop reeling in and let the line out until the tangled portion is out of the rod guides. Once the tangled portion is out of the guides, you can start to unravel the mess. You can use your fingers or a pair of pliers to carefully separate the tangled lines. Sometimes it is helpful to press your thumb onto the bird's nest while reeling the line in a few turns, then pulling the line out again.

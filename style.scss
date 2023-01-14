@@ -279,7 +279,7 @@ figure {
   border-radius: 2px;
   margin-bottom: 24px;
 
-  &.mobile-screenshot {
+  &.mobile-screenshot, &.tall {
     width: 330px;
   }
 
