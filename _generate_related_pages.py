@@ -32,13 +32,24 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 """
 
 import math
-import numpy
 import re
 
-from bs4 import BeautifulSoup
 from builtins import range
 from os import listdir
 from os.path import isfile, join
+
+import numpy
+
+from bs4 import BeautifulSoup
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+
+try:
+    english_stop_words = set(stopwords.words('english'))
+except LookupError:
+    import nltk
+    nltk.download('stopwords')
+    english_stop_words = set(stopwords.words('english'))
 
 
 class PageObject(object):
@@ -169,8 +180,13 @@ class PageObject(object):
             "\.[^a-zA-z0-9]", " ", remove_more_contractions, flags=re.DOTALL
         )
         alpha_numeric = re.sub("[^ \.0-9a-zA-Z]+", " ", remove_periods, flags=re.DOTALL)
+
+        # Remove stop words
+        word_tokens = word_tokenize(alpha_numeric)
+        filtered_content = [w.lower() for w in word_tokens if not w.lower() in english_stop_words]
+
         # TODO: stem all words
-        return " ".join(alpha_numeric.lower().split())
+        return " ".join(filtered_content)
 
     def _extract_needs_related(self, html):
         related = re.search("related: \[(.*?)\]", html, re.DOTALL)
