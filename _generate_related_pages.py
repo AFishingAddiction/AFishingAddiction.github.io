@@ -80,8 +80,8 @@ class PageObject(object):
         return page_objects
 
     def _page_object_from_file(self, file_name):
-        file = open(file_name, "r")
-        file_contents = file.read()
+        with open(file_name, "r") as file:
+            file_contents = file.read()
         # TODO: check page_contents length and drop short pages
         page_url = self._extract_permalink(file_contents)
         page_date = self._extract_date(file_name, file_contents)
@@ -99,7 +99,6 @@ class PageObject(object):
             "contents": self._extract_text(file_contents),
             "needs_related": self._extract_needs_related(file_contents),
         }
-        file.close()
         return page_object
 
     def _extract_permalink(self, html):
