@@ -158,7 +158,8 @@ class PageObject(object):
         remove_no_space = re.sub("\.<", " <", remove_br_tag, flags=re.DOTALL)
         remove_html = BeautifulSoup(remove_no_space, "lxml").text
         remove_liquid = re.sub("{%.*?%}", "", remove_html, flags=re.DOTALL)
-        remove_code = re.sub("```.*?```", "", remove_liquid, flags=re.DOTALL)
+        remove_more_liquid = re.sub("{{.*?}}", "", remove_liquid, flags=re.DOTALL)
+        remove_code = re.sub("```.*?```", "", remove_more_liquid, flags=re.DOTALL)
         remove_front_matter = re.sub("^---.*?---", "", remove_code, flags=re.DOTALL)
         remove_links = re.sub(
             "\[(.*?)\]\((.*?)\)", r"\1 \2", remove_front_matter, flags=re.DOTALL
