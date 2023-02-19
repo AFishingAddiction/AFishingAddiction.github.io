@@ -2,10 +2,14 @@
 {% include ads/lucky-tackle-box.html %}
 {% include ads/monsterbass.html mobile=false %}
 {% if site.ads.adsense.slots.responsive_large_skyscraper %}
+<!-- Ezoic - sidebar-right - sidebar -->
+<div id="ezoic-pub-ad-placeholder-101">
       <div id="sidebar-right-ad">
         <!-- Responsive Large Skyscraper -->
         <ins class="adsbygoogle" style="display:block" data-ad-client="{{ site.ads.adsense.client }}"
           data-ad-slot="{{ site.ads.adsense.slots.responsive_large_skyscraper }}" data-ad-format="auto" {% if site.github.pages_env != "production" %}data-adtest="on" {% endif %} data-full-width-responsive="true"></ins>
         <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
       </div>
+</div>
+<!-- End Ezoic - sidebar-right - sidebar -->
 {% endif %}
