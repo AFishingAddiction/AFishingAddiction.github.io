@@ -50,17 +50,17 @@ The bag I carry can hold up to 3 containers in the large section. It also has 3 
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "true";
+amzn_assoc_search_bar = "false";
 amzn_assoc_tracking_id = "schaeferpro07-20";
-amzn_assoc_search_bar_position = "top";
 amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Shop Fishing Sunglasses";
 amzn_assoc_default_search_phrase = "polarized fishing sunglasses";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "be845a0a2a0c8108f057572bdb6f8e26";
+amzn_assoc_default_category = "SportingGoods";
+amzn_assoc_linkid = "6a059d0e9441cd63e266c572bc21ba8e";
+amzn_assoc_default_browse_node = "3375251";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 

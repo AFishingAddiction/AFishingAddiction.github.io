@@ -263,16 +263,16 @@ tags:
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
 amzn_assoc_tracking_id = "schaeferpro07-20";
 amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
+amzn_assoc_title = "Lake Erie Chart Maps";
 amzn_assoc_default_search_phrase = "waterproof lake erie chart map";
 amzn_assoc_default_category = "SportingGoods";
-amzn_assoc_linkid = "47f0119c1ebfdf79467f257cf9078d20";
-amzn_assoc_search_bar = "false";
-amzn_assoc_title = "Lake Erie Chart Maps";
+amzn_assoc_linkid = "6a059d0e9441cd63e266c572bc21ba8e";
 amzn_assoc_default_browse_node = "3375251";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
