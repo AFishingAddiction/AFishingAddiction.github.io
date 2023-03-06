@@ -17,9 +17,9 @@ tags:
   - products
   - tips
 links:
-  rod_carrier: 'https://amzn.to/3OhB97l'
-  tackle_bag: 'https://amzn.to/3NZNFIO'
-  sunglasses: 'https://amzn.to/3MWhDMG'
+  rod_carrier: 'https://www.amazon.com/Rod-Runner-Express-Fishing-Rod-Rack/dp/B0168OZFTC?keywords=Fishing+Rod+carrier&qid=1678109097&s=hunting-fishing&sr=1-12&linkCode=ll1&tag=schaeferpro07-20&linkId=edbb2ffdb7700958a8dca605557d43bc&language=en_US&ref_=as_li_ss_tl'
+  tackle_bag: 'https://www.amazon.com/Fishing-Tackle-Storage-Bags-Wraps/b?ie=UTF8&node=3409261&linkCode=ll2&tag=schaeferpro07-20&linkId=66ebd059c402b26c6713b7bba8c6e67b&language=en_US&ref_=as_li_ss_tl'
+  sunglasses: 'https://www.amazon.com/s?k=fishing+sunglasses&crid=1CDFBYTET7L7Y&sprefix=fishing+sunglasses%2Caps%2C94&linkCode=ll2&tag=schaeferpro07-20&linkId=b947f2e3948c1a7eb47c3f6fa7f5dc16&language=en_US&ref_=as_li_ss_tl'
 related: [/6-things-to-do-in-the-fishing-off-season,/6-tips-for-exploring-fishing-spots/,/bass-fishing-in-spring/,]
 ---
 Whether you are like me and walk along the banks, constantly trying to find good fishing spots or if you have that one special spot that you fish all day, follow these bank fishing tips for a much better experience.
@@ -51,7 +51,7 @@ The bag I carry can hold up to 3 containers in the large section. It also has 3 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
 amzn_assoc_search_bar = "true";
-amzn_assoc_tracking_id = "schaeferprodu-20";
+amzn_assoc_tracking_id = "schaeferpro07-20";
 amzn_assoc_search_bar_position = "top";
 amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";

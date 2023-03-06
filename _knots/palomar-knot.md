@@ -99,7 +99,7 @@ The Palomar knot is a simple, multipurpose and strong knot. It can be used for t
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
-amzn_assoc_tracking_id = "schaeferprodu-20";
+amzn_assoc_tracking_id = "schaeferpro07-20";
 amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";

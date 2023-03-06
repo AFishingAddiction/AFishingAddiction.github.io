@@ -1,5 +1,5 @@
 ---
-title: 6+ Things to do in the Fishing Off-Season
+title: 6+ Things to do to Prepare for the Fishing Season in 2023
 permalink: /6-things-to-do-in-the-fishing-off-season
 author: dan
 layout: post
@@ -45,9 +45,9 @@ Just like any skill, continuous learning is crucial to keeping on top of your fi
 ### Learning Resources for Fishing
 
 1. **Fishing magazines**
-  - [Bassmaster](https://amzn.to/3tDFB8M)
-  - [In-Fisherman](https://amzn.to/3QqBCpG)
-  - [Midwest Outdoors](https://amzn.to/3zKv8Mu)
+  - [Bassmaster](https://www.amazon.com/B-A-S-S-Productions-LLC-Bassmaster-Membership/dp/B002PXVZAY?crid=3GVMQCRKKFMVO&keywords=fishing+magazines&qid=1655434094&sprefix=fishing+magazines%2Caps%2C83&sr=8-22&linkCode=ll1&tag=schaeferpro07-20&linkId=45131e233840ab2b4e52bf53ca2fd70a&language=en_US&ref_=as_li_ss_tl)
+  - [In-Fisherman](https://www.amazon.com/Outdoor-Sportsman-Group-Integrated-Media/dp/B002PXVZGI?crid=3GVMQCRKKFMVO&keywords=fishing+magazines&qid=1655433846&sprefix=fishing+magazines%2Caps%2C83&sr=8-2&linkCode=ll1&tag=schaeferpro07-20&linkId=9bd9654620bc2bd1f17cfaf6658f4f88&language=en_US&ref_=as_li_ss_tl)
+  - [Midwest Outdoors](https://www.amazon.com/Midwest-Outdoors/dp/B00006KNWA?crid=3GVMQCRKKFMVO&keywords=fishing+magazines&qid=1655433931&sprefix=fishing+magazines%2Caps%2C83&sr=8-11&linkCode=ll1&tag=schaeferpro07-20&linkId=c28accfab480c3ebc23f8dc7ea27ff81&language=en_US&ref_=as_li_ss_tl)
 2. **Fishing blogs**
   - [A Fishing Addiction Blog](/)
   - [Karl's Blog](https://shopkarls.com/blog/)
