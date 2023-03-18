@@ -2,7 +2,7 @@
 title: Mystery Tackle Box Review
 permalink: /reviews/mystery-tackle-box
 author: dan
-excerpt: 
+excerpt:
 layout: post
 tags:
   - review
