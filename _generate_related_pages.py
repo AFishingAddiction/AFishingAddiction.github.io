@@ -70,7 +70,7 @@ class PageObject(object):
         return [
             join(path, file)
             for file in listdir(path)
-            if (isfile(join(path, file)) and (".html" in file or ".md" in file))
+            if (isfile(join(path, file)) and (".html" in file or ".md" in file) and ("debug.md" not in file))
         ]
 
     def _page_objects_from_files(self, file_names):
