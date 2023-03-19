@@ -95,6 +95,8 @@ ads:
       responsive_square: "1792438522"
 
 affiliates:
+  amazon:
+    amzn_assoc_tracking_id: afishingaddict-20
   fishbrain:
     text_link: https://www.awin1.com/awclick.php?gid=388184&mid=19294&awinaffid=730047&linkid=2627727&clickref=
 

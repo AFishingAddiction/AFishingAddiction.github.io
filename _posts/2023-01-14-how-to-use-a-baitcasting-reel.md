@@ -10,6 +10,7 @@ tags:
   - baitcasting
 seo:
   type: Article
+
 images:
   baitcasting-reel-birds-nest:
     src: /assets/img/posts/how-to-use-a-baitcasting-reel/baitcasting-reel-birds-nest.png
@@ -19,11 +20,6 @@ images:
     height: 937
 
 related: [/knots/arbor-knot/,/knots/palomar-knot/,/6-things-to-do-in-the-fishing-off-season,]
-# image: snow-covered-dock-and-lake-in-the-fishing-off-season.jpg
-# image_width: 2593
-# image_height: 2593
-# image_alt: "Snow Covered Dock and Lake in the Fishing Off-season"
-# image_credit: "Photo by <a href='https://unsplash.com/@abbiebernet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Abbie Bernet</a> on <a href='https://unsplash.com/s/photos/frozen-lake?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Unsplash</a>"
 ---
 
 ## What is a baitcasting reel?
