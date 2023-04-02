@@ -698,6 +698,19 @@ figure {
     }
   }
 
+  .ads.amz-ads-container {
+    .amz-ads-header {
+      font-weight: bold;
+      font-size: 120%;
+      margin: 0.5em 0;
+    }
+
+    .amz-ads-iframes {
+      display: flex;
+      gap: 12px;
+    }
+  }
+
   .adsbygoogle {
     max-width: 100%;
     width: 100%;
