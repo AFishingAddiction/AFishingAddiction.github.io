@@ -1,0 +1,12 @@
+.venv
+.vscode
+venv
+
+_generate_related_pages.py
+.gitignore
+docker-compose.yml
+Dockerfile
+LICENSE
+README.md
+requirements.txt
+*.code-workspace
