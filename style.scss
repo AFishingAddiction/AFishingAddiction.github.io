@@ -301,6 +301,10 @@ figure {
   font-display: swap;
 }
 
+.fa-star, .fa-star-half {
+  color: $copperRed;
+}
+
 .post {
   .date,
   .author {
@@ -964,6 +968,58 @@ ul.tag-list {
     left: 0;
     width: 100% !important;
     height: 100% !important;
+  }
+}
+
+div.comparison-table {
+  border: solid $spaceCadet 1px;
+  margin-top: 20px;
+
+  span {
+    width: 100%;
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    padding: 4px;
+    color: $white;
+
+    &.primary {
+      background-color: $spaceCadet;
+    }
+    &.secondary {
+      background-color: $carolinaBlue;
+    }
+    &.tertiary {
+      background-color: $oliveDrab;
+    }
+    &.quaternary {
+      background-color: $copperRed;
+    }
+  }
+  .row {
+    display: flex;
+    flex-direction: row;
+
+    &:nth-child(odd) {
+      background-color: $whiteLightGray;
+    }
+    div {
+      text-align: center;
+      padding: 8px;
+      &.head {
+        display: flex;
+        flex-basis: 30%;
+        align-items: center;
+        justify-content: center;
+        font-weight: bold;
+        border-right: solid $silver 1px;
+        border-bottom: solid $silver 1px;
+      }
+      &.data {
+        flex-grow: 1;
+        border-bottom: solid $silver 1px;
+      }
+    }
   }
 }
 
