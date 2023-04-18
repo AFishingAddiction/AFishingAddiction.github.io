@@ -1006,18 +1006,24 @@ div.comparison-table {
     div {
       text-align: center;
       padding: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
       &.head {
-        display: flex;
         flex-basis: 30%;
-        align-items: center;
-        justify-content: center;
         font-weight: bold;
         border-right: solid $silver 1px;
         border-bottom: solid $silver 1px;
       }
       &.data {
-        flex-grow: 1;
+        flex-basis: 70%;
         border-bottom: solid $silver 1px;
+        ul {
+          text-align: left;
+        }
+        img {
+          width: auto;
+        }
       }
     }
   }
