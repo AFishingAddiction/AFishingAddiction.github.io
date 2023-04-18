@@ -10,7 +10,7 @@ tags:
   - topwater
 seo:
   type: Article
-related: []
+related: [/tools/lure-wizard/,/cracking-the-code-effective-fishing-lures-for-heavily-pressured-bass,/5-bank-fishing-tips/,]
 
 lures:
   frogs:
