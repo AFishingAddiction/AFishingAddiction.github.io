@@ -129,7 +129,7 @@ lures:
 
 ## Best Topwater Frogs
 
-Topwater frogs are my absolute favorite type of lure to use during the dog days of summer and early fall. I've hand-picked the lures below based on both my own experience and the best rated lures on Amazon.
+Topwater frogs are a favorite among anglers&mdash;myself included&mdash;looking to entice big bass and other predatory fish to bite. With their lifelike appearance and realistic swimming motion, topwater frogs can be a highly effective fishing lure in areas with heavy vegetation or other obstacles. However, with so many options available on the market, it can be difficult to know which topwater frog is right for you. In this article, I've hand-picked several top-rated topwater frogs on Amazon, highlighting their pros and cons, and providing links for easy purchase.
 
 <hr/>
 {% for lure in page.lures.frogs %}
