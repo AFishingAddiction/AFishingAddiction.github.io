@@ -2,6 +2,7 @@
 title: Best Topwater Lures for Bass Fishing in 2023 On Amazon
 permalink: /best-topwater-lures-for-bass-fishing
 author: dan
+description: Get ready to reel in the big one with our guide to the top-rated bass fishing lures on Amazon. From topwater frogs to buzzbaits, we've got you covered with pros and cons and easy affiliate links.
 layout: post
 tags:
   - best products
@@ -125,89 +126,98 @@ lures:
         - Plain white on bottom (not as advertised)
         - Some customers doubt its durability
 
+  buzzbaits:
+    - lure: Strike King Tri-Wing Buzz King Bait
+      image_link: <a href="https://www.amazon.com/Strike-King-Tri-Wing-White-0-3125-Ounce/dp/B003ZZBJ3Y?crid=3ECHDVXXH8MGH&keywords=buzz%2Bbaits&qid=1681951647&sprefix=buzz%2Bbaits%2Caps%2C123&sr=8-56&th=1&psc=1&linkCode=li2&tag=afishingaddict-20&linkId=4e1944272b9dfa7841bb6943618e004d&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003ZZBJ3Y&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=afishingaddict-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=afishingaddict-20&language=en_US&l=li2&o=1&a=B003ZZBJ3Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+      brand: Strike King
+      blade_type: tri-blade
+      weight: 3/16 oz
+      pieces: 1
+      rating: 4.7
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
+      prime: true
+      iframe_link: "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=afishingaddict-20&language=en_US&marketplace=amazon&region=US&placement=B003ZZBJ3Y&asins=B003ZZBJ3Y&linkId=3357fc27db4a1ab6bdae238537f621ea&show_border=true&link_opens_in_new_window=true"
+      banner: Best Rated
+      banner_class: primary
+      pros:
+        - Three blades make it more effective than two-blade buzzbaits
+        - Hammered finish is unique and attractive
+        - Can be paired with a soft plastic for added effectiveness
+        - Well made and durable
+        - Effective for slow retrieves and produces a satisfying gurgle sound
+        - Can catch bigger fish
+        - Skims the water better than other buzzbaits
+        - Tri-blade design allows for a slower retrieve
+      cons:
+        - The reviews on Amazon did not have any negative feedback for this lure
+
+    - lure: BOOYAH Counter Strike Buzz Buzzbait
+      image_link: <a href="https://www.amazon.com/BOOYAH-Counter-Strike-Buzz-Alpine/dp/B00144D2GA?crid=1NM9B18JA3KYT&keywords=buzzbaits&qid=1681951867&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sprefix=buzz%2Bbaits%2Caps%2C156&sr=8-63&th=1&psc=1&linkCode=li2&tag=afishingaddict-20&linkId=9baa3e29b809c3cd8f5c793d7a4227e2&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00144D2GA&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=afishingaddict-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=afishingaddict-20&language=en_US&l=li2&o=1&a=B00144D2GA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+      brand: BOOYAH
+      blade_type: Dual counter-rotating
+      weight: 3/8 oz
+      pieces: 1
+      rating: 4.5
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
+      prime: true
+      iframe_link: "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=afishingaddict-20&language=en_US&marketplace=amazon&region=US&placement=B00144D2GA&asins=B00144D2GA&linkId=6ddc90aa15df1679f74b2688ddfd24ef&show_border=true&link_opens_in_new_window=true"
+      banner: Runner-Up
+      banner_class: secondary
+      pros:
+        - High-quality build
+        - Great noise and surface agitation
+        - Effectiveness in catching fish
+        - Gold finish gives off great flash and sound
+        - Counter rotating blades stabilize the bait
+      cons:
+        - Rubber skirt getting caught up in the buzz section
+
+    - lure: Sougayilang Buzzbait Kit
+      image_link: <a href="https://www.amazon.com/Sougayilang-Fishing-Buzzbait-Spinnerbait-Topwater/dp/B076T55B5Y?crid=1NM9B18JA3KYT&keywords=buzzbaits&qid=1681951907&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sprefix=buzz%2Bbaits%2Caps%2C156&sr=8-128&th=1&linkCode=li2&tag=afishingaddict-20&linkId=d2ca4c9b0f1151260cf32cbee9066a80&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B076T55B5Y&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=afishingaddict-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=afishingaddict-20&language=en_US&l=li2&o=1&a=B076T55B5Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+      brand: Sougayilang
+      blade_type: Single blade with clacker
+      weight: 9/16 oz
+      pieces: 4
+      rating: 4.3
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
+      prime: true
+      iframe_link: "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=afishingaddict-20&language=en_US&marketplace=amazon&region=US&placement=B076T55B5Y&asins=B076T55B5Y&linkId=330680b256c7fc763053adfb859403b9&show_border=true&link_opens_in_new_window=true"
+      banner: Best Kit
+      banner_class: tertiary
+      pros:
+        - Very good for the price
+        - Effective for catching fish in the 2-4 lb bass category
+        - Works as well as more expensive baits
+        - Well made/great quality
+        - Skirts are well above average thread count
+      cons:
+        - Not very noisy
+        - Needs some adjustments
+        - Durability of the rubber band securing the skirt to the bait can be an issue
+        - Skirts are skimpy for some users and do not stay put on the jig head
+        - Metal wire for the prop is too long and creates lots of play
+        - Spinners may not work as they should for some users
+        - Smaller than expected
 ---
+
+Looking to up your bass fishing game? Choosing the right lure is essential to attracting and hooking the biggest fish. With so many options available, it can be difficult to know where to start. In this article, we've done the research for you and compared several top-rated bass fishing lures across different categories, including topwater frogs and buzzbaits. Whether you're a seasoned angler or just starting, our guide will help you find the perfect lure to catch your next trophy fish.
+
+In each category, we'll highlight the key features, advantages, and drawbacks of each lure, giving you a comprehensive view of what to expect. Plus, we've included affiliate links to Amazon for easy purchase, so you can start reeling in the big ones in no time. So, let's dive in and discover the best bass fishing lures on the market today.
 
 ## Best Topwater Frogs
 
-Topwater frogs are a favorite among anglers&mdash;myself included&mdash;looking to entice big bass and other predatory fish to bite. With their lifelike appearance and realistic swimming motion, topwater frogs can be a highly effective fishing lure in areas with heavy vegetation or other obstacles. However, with so many options available on the market, it can be difficult to know which topwater frog is right for you. In this article, I've hand-picked several top-rated topwater frogs on Amazon, highlighting their pros and cons, and providing links for easy purchase.
+Topwater frogs are a favorite among anglers&mdash;myself included&mdash;looking to entice big bass and other predatory fish to bite. With their lifelike appearance and realistic swimming motion, topwater frogs can be a highly effective fishing lure in areas with heavy vegetation or other obstacles. However, with so many options available on the market, it can be difficult to know which topwater frog is right for you. In this section, I've hand-picked several top-rated topwater frogs on Amazon, highlighting their pros and cons, and providing affiliate links for easy purchase.
 
-<hr/>
 {% for lure in page.lures.frogs %}
-<div class="comparison-table">
-  {% if lure.banner %}
-  <span class="banner {{ lure.banner_class }}">{{ lure.banner }}</span>
-  {% endif %}
-  <div class="row">
-    <div class="head">Photo</div>
-    <div class="data">{{ lure.image_link }}</div>
-  </div>
-  <div class="row">
-    <div class="head">Lure</div>
-    <div class="data">{{ lure.lure }}</div>
-  </div>
-  <div class="row">
-    <div class="head">Brand</div>
-    <div class="data">{{ lure.brand }}</div>
-  </div>
-  <div class="row">
-    <div class="head">Hook Type</div>
-    <div class="data">{{ lure.hooks }}</div>
-  </div>
-  <div class="row">
-    <div class="head">Lure Type</div>
-    <div class="data">{{ lure.type }}</div>
-  </div>
-  <div class="row">
-    <div class="head">Pieces</div>
-    <div class="data">{{ lure.pieces }}</div>
-  </div>
-  <div class="row">
-    <div class="head">Rating</div>
-    <div class="data">{{ lure.rating }} {{ lure.rating_stars }}</div>
-  </div>
-  <div class="row">
-    <div class="head">Prime</div>
-    <div class="data">{% if lure.prime %}Yes{% else %}No{% endif %}</div>
-  </div>
-  {% if lure.summarized_reviews %}
-  <div class="row">
-    <div class="head">Summary of Reviews</div>
-    <div class="data">
-      <ul>
-        {% for summary in lure.summarized_reviews %}
-        <li>{{ summary }}</li>
-        {% endfor %}
-      </ul>
-    </div>
-  </div>
-  {% endif %}
-  {% if lure.pros %}
-  <div class="row">
-    <div class="head">Pros</div>
-    <div class="data">
-      <ul>
-        {% for pro in lure.pros %}
-        <li>{{ pro }}</li>
-        {% endfor %}
-      </ul>
-    </div>
-  </div>
-  {% endif %}
-  {% if lure.cons %}
-  <div class="row">
-    <div class="head">Cons</div>
-    <div class="data">
-      <ul>
-        {% for con in lure.cons %}
-        <li>{{ con }}</li>
-        {% endfor %}
-      </ul>
-    </div>
-  </div>
-  {% endif %}
-  <div class="row">
-    <div class="head">Buy</div>
-    <div class="data"><iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="{{ lure.iframe_link }}"></iframe></div>
-  </div>
-</div>
+  {% include product-table.md product=lure %}
 {% endfor %}
+<hr/>
+
+## Best Buzzbaits
+
+Buzzbaits are a popular type of fishing lure that create a unique disturbance on the water's surface, making them an effective choice for catching predatory fish such as bass, pike, and musky. With their spinning blades and buzz sound, buzzbaits are known for drawing fish out of hiding and enticing them to strike. However, with so many buzzbait options available on the market, it can be challenging to decide which one to choose. In this section, we'll compare several of the top-rated buzzbaits on Amazon, outlining their pros and cons, and providing affiliate links for easy purchase.
+
+{% for lure in page.lures.buzzbaits %}
+  {% include product-table.md product=lure %}
+{% endfor %}
+<hr/>
