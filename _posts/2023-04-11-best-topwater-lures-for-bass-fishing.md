@@ -2,7 +2,7 @@
 title: Best Topwater Lures for Bass Fishing in 2023 On Amazon
 permalink: /best-topwater-lures-for-bass-fishing
 author: dan
-description: Get ready to reel in the big one with our guide to the top-rated bass fishing lures on Amazon. From topwater frogs to buzzbaits, we've got you covered with pros and cons and easy affiliate links.
+excerpt: Get ready to reel in the big one with our guide to the top-rated bass fishing lures on Amazon. From topwater frogs to buzzbaits, we've got you covered with pros and cons and easy affiliate links.
 layout: post
 tags:
   - best products
@@ -203,6 +203,11 @@ lures:
 Looking to up your bass fishing game? Choosing the right lure is essential to attracting and hooking the biggest fish. With so many options available, it can be difficult to know where to start. In this article, we've done the research for you and compared several top-rated bass fishing lures across different categories, including topwater frogs and buzzbaits. Whether you're a seasoned angler or just starting, our guide will help you find the perfect lure to catch your next trophy fish.
 
 In each category, we'll highlight the key features, advantages, and drawbacks of each lure, giving you a comprehensive view of what to expect. Plus, we've included affiliate links to Amazon for easy purchase, so you can start reeling in the big ones in no time. So, let's dive in and discover the best bass fishing lures on the market today.
+
+<h2>Table of Contents</h2>
+
+- [Best Topwater Frogs](#best-topwater-frogs)
+- [Best Buzzbaits](#best-buzzbaits)
 
 ## Best Topwater Frogs
 
