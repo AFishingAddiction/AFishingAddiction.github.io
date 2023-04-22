@@ -39,6 +39,12 @@
     <div class="data">{{ lure.weight }}</div>
   </div>
   {% endif %}
+  {% if lure.length %}
+  <div class="row">
+    <div class="head">Length</div>
+    <div class="data">{{ lure.length }}</div>
+  </div>
+  {% endif %}
   <div class="row">
     <div class="head">Pieces</div>
     <div class="data">{{ lure.pieces }}</div>

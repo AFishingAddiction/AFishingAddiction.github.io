@@ -33,7 +33,7 @@ lures:
         #   - The hooks are sharp and of good quality, ensuring that fish are hooked effectively
         #   - The lure is easy to cast and performs well in a variety of conditions, including in weed beds and lily pads
         #   - It is durable and withstands multiple uses without losing its effectiveness
-        #   - Customers appreciate the price point and feel that the quality of the product is excellent for the cost
+        #   - Anglers appreciate the price point and feel that the quality of the product is excellent for the cost
         #   - The Booyah Pad Crasher Frog lure is a favorite among fishing enthusiasts and is considered one of the best frog lures on the market
       pros:
         - Great product for serious fishermen
@@ -47,8 +47,8 @@ lures:
         - Good size and very life-like
         - Performs outstanding and catches plenty of fish
       cons:
-        - Some users reported that the strands were a little too long and bass missed the body of the lure
-        - Some users experienced issues with the lure snagging on weeds or water plants
+        - Some anglers reported that the strands were a little too long and bass missed the body of the lure
+        - Some anglers experienced issues with the lure snagging on weeds or water plants
 
     - lure: Spro Bronzeye Pop Bait
       image_link: <a href="https://www.amazon.com/Spro-Bronzeye-Bait-Pack-Natural-Green/dp/B003GYAL5G?crid=10QE4CJGRA28C&keywords=topwater%2Bhollow%2Bbody%2Bfor%2Bbass%2Bfishing&qid=1681253957&sprefix=topwater%2Bhollow%2Bbody%2Bfor%2Bbass%2Bfishing%2Caps%2C107&sr=8-7&th=1&linkCode=li2&tag=afishingaddict-20&linkId=4450d3b8190021d5eac163b3ac470177&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003GYAL5G&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=afishingaddict-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=afishingaddict-20&language=en_US&l=li2&o=1&a=B003GYAL5G" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -66,7 +66,7 @@ lures:
       #   - The Spro Poppin Frog is a great topwater frog lure that is highly recommended by anglers
       #   - It has a realistic appearance, good action, and is durable
       #   - It is also great for catching bass in lakes where they feed on bluegill or panfish
-      #   - Some users have experienced issues with the lure's hookset, but it is still a popular choice among tournament bass fishermen
+      #   - Some anglers have experienced issues with the lure's hookset, but it is still a popular choice among tournament bass fishermen
       pros:
         - Realistic looking and great action
         - Excellent for topwater fishing with good walking ability
@@ -124,7 +124,7 @@ lures:
       cons:
         - Quality issues (e.g. hole in bottom, not as pictured)
         - Plain white on bottom (not as advertised)
-        - Some customers doubt its durability
+        - Some anglers doubt its durability
 
   buzzbaits:
     - lure: Strike King Tri-Wing Buzz King Bait
@@ -194,10 +194,100 @@ lures:
         - Not very noisy
         - Needs some adjustments
         - Durability of the rubber band securing the skirt to the bait can be an issue
-        - Skirts are skimpy for some users and do not stay put on the jig head
+        - Skirts are skimpy for some anglers and do not stay put on the jig head
         - Metal wire for the prop is too long and creates lots of play
-        - Spinners may not work as they should for some users
+        - Spinners may not work as they should for some anglers
         - Smaller than expected
+
+  jerkbaits:
+    - lure: Strike King KVD Jerkbait 2 Hook
+      image_link: <a href="https://www.amazon.com/Strike-King-Lures-Jerkbaits-Package/dp/B009F7HTLW?crid=DG6J04QWEBMQ&keywords=jerkbaits&qid=1682118226&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sprefix=jerkbaits%2Caps%2C125&sr=8-1&th=1&linkCode=li2&tag=afishingaddict-20&linkId=79bb308df6b21988721747b055500617&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B009F7HTLW&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=afishingaddict-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=afishingaddict-20&language=en_US&l=li2&o=1&a=B009F7HTLW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+      brand: Strike King
+      length: 4.5 in
+      weight: 3/8 oz
+      pieces: 1
+      rating: 4.7
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
+      prime: true
+      iframe_link: "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=afishingaddict-20&language=en_US&marketplace=amazon&region=US&placement=B009F7HTLW&asins=B009F7HTLW&linkId=1b74961c92195b25c62bc7594fdfad19&show_border=true&link_opens_in_new_window=true"
+      banner: Best Rated
+      banner_class: primary
+      pros:
+        - Durable and holds up well after multiple casts
+        - Natural, lifelike action in the water
+        - Effective at attracting fish, especially smallmouth and walleye
+        - Great for fall and winter fishing
+      cons:
+        - Hooks may need to be changed as they are not very strong
+        - Some anglers have had issues with the product sinking quickly or losing hooks
+        - Product information could be clearer regarding sizing and dive depth
+
+    - lure: Rapala X-Rap Jerkbait XR10
+      image_link: <a href="https://www.amazon.com/Rapala-X-Rap-Jerkbait-Fishing-Glass/dp/B001NXCYM0?crid=2ATTZL7VFMUDY&keywords=freshwater%2Bjerkbaits&qid=1682118338&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sprefix=freshwater%2Bjerkbaits%2Caps%2C101&sr=8-5&th=1&linkCode=li2&tag=afishingaddict-20&linkId=b4c26e8ce1fb17e79b4f0530e0d1d7ab&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001NXCYM0&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=afishingaddict-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=afishingaddict-20&language=en_US&l=li2&o=1&a=B001NXCYM0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+      brand: Rapala
+      length: 4 in
+      weight: 7/16 oz
+      pieces: 1
+      rating: 4.7
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
+      prime: true
+      iframe_link: "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=afishingaddict-20&language=en_US&marketplace=amazon&region=US&placement=B001NXCYM0&asins=B001NXCYM0&linkId=c9c77c039def59e3e3ad3ed46d2e19d3&show_border=true&link_opens_in_new_window=true"
+      banner: Runner Up
+      banner_class: secondary
+      pros:
+        - Well balanced and produces an erratic motion that draws strikes
+        - Can be used with both slow stop-and-go and quick twitching retrieves
+        - Effective while trolling and in catching a large variety of fish
+        - Versatile and a go-to lure for many fishing enthusiasts
+      cons:
+        - Issues reported with the tail holding up
+        - Split ring separating from the bait
+
+    - lure: Heddon Zara Spook
+      image_link: <a href="https://www.amazon.com/Heddon-Spook-Topwater-Fishing-Walk/dp/B000676P1A?crid=3SC7KYU9MFOUQ&keywords=freshwater%2Btopwater%2Bjerkbaits&qid=1682120727&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sprefix=freshwater%2Btopwater%2Bjerkbaits%2Caps%2C99&sr=8-26&th=1&linkCode=li2&tag=afishingaddict-20&linkId=f455d0cd8a16a91e12cd85a53df3aa20&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000676P1A&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=afishingaddict-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=afishingaddict-20&language=en_US&l=li2&o=1&a=B000676P1A" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+      brand: Heddon
+      length: 3 in
+      weight: 1/4 oz
+      pieces: 1
+      rating: 4.6
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
+      prime: true
+      iframe_link: "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=afishingaddict-20&language=en_US&marketplace=amazon&region=US&placement=B000676P1A&asins=B000676P1A&linkId=ec3818b5b955fd34e80fbf376c49482d&show_border=true&link_opens_in_new_window=true"
+      banner: Best Value
+      banner_class: tertiary
+      pros:
+        - Great performance in clear water
+        - Effective at catching bass and peacock bass
+        - Classic bait that has been around for many years
+        - "\"Walking the dog\" action is appreciated by many anglers"
+        - Good quality lure for the price
+      cons:
+        - Size can be an issue for some people
+        - Hooks may need to be replaced after only a few catches
+        - Misleading pictures and descriptions can be frustrating for anglers
+
+    - lure: Aorace Fishing Lures Kit
+      image_link: <a href="https://www.amazon.com/Aorace-Topwater-Crankbait-Saltwater-Freshwater/dp/B0992HKNCW?crid=2ATTZL7VFMUDY&keywords=freshwater%2Bjerkbaits&qid=1682118421&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sprefix=freshwater%2Bjerkbaits%2Caps%2C101&sr=8-82&th=1&linkCode=li2&tag=afishingaddict-20&linkId=82e7cc2142598ef6b18d90292917bf8f&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0992HKNCW&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=afishingaddict-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=afishingaddict-20&language=en_US&l=li2&o=1&a=B0992HKNCW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+      brand: Aorace
+      length: Various
+      weight: various
+      pieces: 43
+      rating: 4.4
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
+      prime: true
+      iframe_link: "//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=afishingaddict-20&language=en_US&marketplace=amazon&region=US&placement=B0992HKNCW&asins=B0992HKNCW&linkId=98568edd5397d36869143e0dd94c5ce8&show_border=true&link_opens_in_new_window=true"
+      banner: Best Kit
+      banner_class: quaternary
+      pros:
+        - Affordable
+        - Good variety and selection of lures
+        - True to product photo colors
+        - Good for bass fishing and trolling
+        - Top-water plug was effective
+      cons:
+        - Rusting and durability issues reported by some anglers
+        - Hooks are not of good quality according to some anglers
+        - Individual packaging can be time-consuming
 ---
 
 Looking to up your bass fishing game? Choosing the right lure is essential to attracting and hooking the biggest fish. With so many options available, it can be difficult to know where to start. In this article, we've done the research for you and compared several top-rated bass fishing lures across different categories, including topwater frogs and buzzbaits. Whether you're a seasoned angler or just starting, our guide will help you find the perfect lure to catch your next trophy fish.
@@ -208,6 +298,7 @@ In each category, we'll highlight the key features, advantages, and drawbacks of
 
 - [Best Topwater Frogs](#best-topwater-frogs)
 - [Best Buzzbaits](#best-buzzbaits)
+- [Best Jerkbaits](#best-jerkbaits)
 
 ## Best Topwater Frogs
 
@@ -223,6 +314,15 @@ Topwater frogs are a favorite among anglers&mdash;myself included&mdash;looking 
 Buzzbaits are a popular type of fishing lure that create a unique disturbance on the water's surface, making them an effective choice for catching predatory fish such as bass, pike, and musky. With their spinning blades and buzz sound, buzzbaits are known for drawing fish out of hiding and enticing them to strike. However, with so many buzzbait options available on the market, it can be challenging to decide which one to choose. In this section, we'll compare several of the top-rated buzzbaits on Amazon, outlining their pros and cons, and providing affiliate links for easy purchase.
 
 {% for lure in page.lures.buzzbaits %}
+  {% include product-table.md product=lure %}
+{% endfor %}
+<hr/>
+
+## Best Jerkbaits
+
+When it comes to topwater lures, jerkbaits are a go-to choice for many anglers. These lures mimic the movement of wounded baitfish, making them irresistible to predatory fish like bass, pike, and musky. Jerkbaits are versatile and can be used in a variety of conditions, including clear and murky water. In this section, we'll take a closer look at several top-rated jerkbaits on Amazon, outlining their pros and cons, and providing affiliate links for easy purchase. Whether you're a seasoned angler or a beginner, a jerkbait is a must-have in your tackle box.
+
+{% for lure in page.lures.jerkbaits %}
   {% include product-table.md product=lure %}
 {% endfor %}
 <hr/>
