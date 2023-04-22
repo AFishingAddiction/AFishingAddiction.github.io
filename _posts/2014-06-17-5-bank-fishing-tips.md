@@ -20,7 +20,7 @@ links:
   rod_carrier: 'https://www.amazon.com/Rod-Runner-Pro-Fishing-Rod-Rack/dp/B00JAHWQ10?th=1&linkCode=ll1&tag=afishingaddict-20&linkId=3f266c54463a7ba8b178f25a7148742d&language=en_US&ref_=as_li_ss_tl'
   tackle_bag: 'https://www.amazon.com/Piscifun-Backpack-Capacity-Waterproof-Protective/dp/B07C7R9696?keywords=fishing%2Bbackpack&qid=1681819489&sr=8-8&th=1&linkCode=ll1&tag=afishingaddict-20&linkId=92aa5cf283c541bc116532444c65ce75&language=en_US&ref_=as_li_ss_tl'
   sunglasses: 'https://www.amazon.com/Fishoholic-Polarized-Sunglasses-Protection-Flyfishing/dp/B07PW3NYXG?crid=1CDFBYTET7L7Y&keywords=fishing%2Bsunglasses&qid=1681819548&sprefix=fishing%2Bsunglasses%2Caps%2C94&sr=8-16&th=1&linkCode=ll1&tag=afishingaddict-20&linkId=db276d9fd672c4060432b8cd38ebfc4c&language=en_US&ref_=as_li_ss_tl'
-related: [/6-things-to-do-in-the-fishing-off-season,/6-tips-for-exploring-fishing-spots/,/bass-fishing-in-spring/,]
+related: [/6-things-to-do-in-the-fishing-off-season,/6-tips-for-exploring-fishing-spots/,/best-topwater-lures-for-bass-fishing,]
 ---
 Whether you are like me and walk along the banks, constantly trying to find good fishing spots or if you have that one special spot that you fish all day, follow these bank fishing tips for a much better experience.
 
