@@ -4,6 +4,7 @@ title: Tips for the Wacky Rig in 2023
 excerpt: Here are a few tips that will help you out with fishing the wacky rig and hopefully will help you catch more bass when using it.
 permalink: /5-tips-for-the-wacky-rig/
 date: 2017-07-30T12:30:00+05:00
+last_modified_at: 2023-03-06T12:01:00-04:00
 author: dan
 image: wacky-rigs.jpg
 image_width: 1071

@@ -2,6 +2,7 @@
 title: How to Use a Baitcasting Reel
 permalink: /how-to-use-a-baitcasting-reel
 author: dan
+last_modified_at: 2023-01-14T12:24:00-04:00
 layout: post
 excerpt: "Baitcasting reels are particularly well-suited for bass fishing, but can be challenging to use. This article goes over how to use a baitcasting reel and things to consider when troubleshooting them."
 tags:

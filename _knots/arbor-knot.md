@@ -3,6 +3,7 @@ title: How to Tie an Arbor Knot
 permalink: /knots/arbor-knot/
 redirect_from: /how-to-tie-an-arbor-knot/
 date: "2020-11-17"
+last_modified_at: 2023-03-27T08:25:00-04:00
 img:
   path: /knots/arbor-knot/arbor-knot.webp
   height: 4500
