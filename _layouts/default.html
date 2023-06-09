@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
   <head>
+    {% include impact-site-verification.md %}
     {% include cookiebot.html %}
     {% include meta.html %}
     {% include hotjar.html %}
@@ -28,7 +29,6 @@
     {%- endunless %}
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/lure-picker.min.css?{{ site.time | date: '%s%N' }}" />
     <script src="{{ site.baseurl }}/assets/js/lure-picker.min.js?{{ site.time | date: '%s%N' }}" async></script>
-    {% include impact-site-verification.md %}
 
   </head>
 
