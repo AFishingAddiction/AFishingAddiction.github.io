@@ -10,7 +10,6 @@ img:
 seo:
   type: Map
 tags:
-  - top
   - map
 ---
 <p>My AEP fishing map contains markers for various ponds, campsites, and some of my notes. It may also contain some of my recorded catches. The map comes with no guarantee and is for informational purposes only.</p>

@@ -17,6 +17,7 @@ excerpt: "Spooling your fishing line has never been easier! Learn to tie the ver
 tags:
   - knots
   - tips
+  - top
 seo:
   type: HowTo
   json_ld:

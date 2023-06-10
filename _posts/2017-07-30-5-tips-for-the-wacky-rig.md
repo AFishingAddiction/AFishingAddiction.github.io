@@ -18,6 +18,7 @@ tags:
   - rigging
   - plastic worm
   - wacky rig
+  - top
 related: [/3-tips-for-using-plastic-worms/,/3-largemouth-bass-observations/,/5-bank-fishing-tips/,]
 ---
 

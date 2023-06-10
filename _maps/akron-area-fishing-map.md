@@ -13,7 +13,6 @@ seo:
   type: Map
 tags:
   - map
-  - top
 ---
 <p>My local fishing map contains markers for various ponds, rivers, lakes, and notes for fishing spots in the Akron, Ohio area. It may also contain some of my recorded catches. The map comes with no guarantee and is for informational purposes only.</p>
 
