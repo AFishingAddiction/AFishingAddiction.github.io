@@ -1,9 +1,24 @@
 FROM jekyll/jekyll:pages
 
-WORKDIR /srv/jekyll
+RUN apk add \
+    gcc \
+    make \
+    musl-dev
+
 COPY Gemfile* /srv/jekyll
 RUN bundle install
 VOLUME [ "/srv/jekyll" ]
 
 COPY . /srv/jekyll
-CMD bundle exec jekyll serve --host 0.0.0.0 --watch --force_polling --incremental --drafts --unpublished --future --verbose --trace --strict_front_matter -d /tmp/_site
+CMD jekyll serve \
+  --host 0.0.0.0 \
+  --destination /tmp/_site \
+  --strict_front_matter \
+  --watch \
+  --force_polling \
+  --incremental \
+  --drafts \
+  --unpublished \
+  --future \
+  --verbose \
+  --trace

@@ -110,10 +110,6 @@ url: https://afishingaddiction.com
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
-#
-# !! You don't need to change any of the configuration flags below !!
-#
-
 permalink: /:title/
 
 collections:
@@ -150,6 +146,9 @@ navlinks:
     url: /tools/lure-wizard/
     className: highlight
 
+feed:
+  disable_in_development: false
+
 include:
   - _pages
 
@@ -160,6 +159,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
+  - node_modules
   - README.md
   - requirements.txt
   - venv
@@ -173,7 +173,7 @@ defaults:
 
 
 # The release of Jekyll Now that you're using
-version: v3.9.2
+version: v3.9.3
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
