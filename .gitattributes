@@ -1,0 +1,7 @@
+* text eof=clrf
+
+*.gif binary
+*.jpeg binary
+*.jpg binary
+*.png binary
+*.webp binary
