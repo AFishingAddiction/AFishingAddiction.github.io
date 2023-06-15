@@ -6,10 +6,11 @@ excerpt: I caught a good sized bass and went to unhook him when he flailed. The 
 author: dan
 
 catch_ids: [8]
-image: hook-slice-660x1175.jpg
-image_alt: Hook Slice
-image_height: 1175
-image_width: 660
+img:
+  path: /posts/my-first-fishing-injury/hook-slice-1456x2592.jpg
+  height: 2592
+  width: 1456
+  alt: My finger that I sliced with a hook while unhooked a bass
 related: [/3-largemouth-bass-observations/,/5-bank-fishing-tips/,/mosquito-lake-2012/,]
 seo:
   type: BlogPosting

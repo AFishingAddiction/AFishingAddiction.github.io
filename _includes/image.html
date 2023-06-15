@@ -1,8 +1,13 @@
-<a href="/{{ site.static.image.path }}{{ include.img.path }}">
-    <img src="/{{ site.static.image.path }}{{ include.img.path }}" alt="{{ include.img.alt }}"
-        {%- if include.img.width %} width="{{ include.img.width }}" {% endif %} {%- if include.img.height %}
-        height="{{ include.img.height }}" {% endif -%} />
-</a>
-{% if include.img.credit -%}
-<div class="image-credit">{{ include.img.credit }}</div>
-{% endif %}
+<div {%- if include.className %} class="{{ include.className }}"{% endif %}>
+    <a href="/{{ site.static.image.path }}{{ include.img.path }}">
+        <img src="/{{ site.static.image.path }}{{ include.img.path }}" alt="{{ include.img.alt }}"
+            {%- if include.img.width %} width="{{ include.img.width }}" {%- endif %} {% if include.img.height -%}
+            height="{{ include.img.height }}" {%- endif %} />
+    </a>
+    {%- if include.img.credit %}
+    <div class="image-credit">{{ include.img.credit }}</div>
+    {%- endif %}
+    {%- if include.img.caption %}
+    <div class="image-caption">{{ include.img.caption }}</div>
+    {%- endif %}
+</div>

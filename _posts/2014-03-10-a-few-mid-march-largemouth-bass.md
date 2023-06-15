@@ -4,6 +4,20 @@ title: A Few Mid-March Largemouth Bass
 excerpt: After a painful winter of 2011, I went out in mid-March 2012 to Wingfoot Lake pond and caught these beautiful largemouth bass.
 permalink: /a-few-mid-march-largemouth-bass/
 author: dan
+img:
+  path: /posts/a-few-mid-march-largemouth-bass/a-mid-march-largemouth-bass-1456x2592.jpg
+  height: 2592
+  width: 1456
+  alt: My right hand holding a largemough bass over a pond with a reflection of trees and the sunset
+  caption: A decent sized largemouth bass for a small pond
+  render: false
+images:
+  another-lmb:
+    path: /posts/a-few-mid-march-largemouth-bass/another-mid-march-largemouth-bass-1456x2592.jpg
+    height: 2592
+    width: 1456
+    alt: My left hand holding a largemough bass over a pond with a reflection of trees
+    caption: Another decent sized largemouth bass for a small pond
 catch_ids:
   - 5
 seo:
@@ -22,20 +36,10 @@ According to my photo timestamps, I caught these 4 days apart. But judging by th
 
 <div id='gallery-6' class='gallery galleryid-184 gallery-columns-2 gallery-size-responsive-300'>
   <dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-      <a href="/images/a-mid-march-largemouth-bass-1456x2592.jpg" title="A bass I caught in mid-March"><img width="300" height="534" src="/images/a-mid-march-largemouth-bass-300x534.jpg" class="attachment-responsive-300" alt="Largemouth Bass caught in mid-March" /></a>
-    </dt>
-    <dd class='wp-caption-text gallery-caption'>
-      An mid-March bass
-    </dd>
+    {% include image.html img=page.img %}
   </dl>
   <dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-      <a href="/images/another-mid-march-largemouth-bass-1456x2592.jpg" title="Another bass I caught in mid-March"><img width="300" height="534" src="/images/another-mid-march-largemouth-bass-300x534.jpg" class="attachment-responsive-300" alt="Another Largemouth Bass caught in mid-March" /></a>
-    </dt>
-    <dd class='wp-caption-text gallery-caption'>
-      Another mid-March bass
-    </dd>
+    {% include image.html img=page.images.another-lmb %}
   </dl>
   <br style="clear: both" />
 </div>

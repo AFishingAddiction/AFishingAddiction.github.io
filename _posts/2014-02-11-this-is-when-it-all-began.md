@@ -6,10 +6,18 @@ excerpt: "I caught this in a little pond in Wingfoot Lake Park back in 2011. I w
 author: dan
 
 catch_ids: [9]
-image: my-first-largemouth-bass-550x979.jpg
-image_alt: My first Largemouth Bass and probably my personal best
-image_height: 979
-image_width: 550
+img:
+  path: /posts/this-is-when-it-all-began/my-first-largemouth-bass-1456x2592.jpg
+  height: 2592
+  width: 1456
+  alt: My first Largemouth Bass and probably my personal best
+images:
+  holding_my_first_lmb:
+    path: /posts/this-is-when-it-all-began/holding-my-first-largemouth-bass-1456x2592.jpg
+    height: 2592
+    width: 1456
+    alt: Holding my first Largemouth Bass
+
 related: [/6-things-to-do-in-the-fishing-off-season,/my-first-fishing-injury/,/a-few-mid-march-largemouth-bass/,]
 seo:
   type: BlogPosting
@@ -19,10 +27,10 @@ I had a few family camping trips as a child during which I caught a quite a few 
 
 <div class='gallery'>
   <div class='gallery-item'>
-      <a href="/images/my-first-largemouth-bass-1456x2592.jpg"><img width="550" height="979" src="/images/my-first-largemouth-bass-550x979.jpg" alt="my first largemouth bass" /></a>
+      {% include image.html img=page.img %}
   </div>
   <div class='gallery-item'>
-      <a href="/images/holding-my-first-largemouth-bass-1456x2592.jpg"><img width="550" height="979" src="/images/holding-my-first-largemouth-bass-550x979.jpg" alt="2011-07-16_20-37-37_482" /></a>
+      {% include image.html img=page.images.holding_my_first_lmb %}
   </div>
   <br style="clear: both" />
 </div>

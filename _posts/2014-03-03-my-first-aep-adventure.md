@@ -4,6 +4,34 @@ title: My First AEP Adventure
 permalink: /my-first-aep-adventure/
 excerpt: Late in the 2011 fishing season, I was talking to my uncle about the places he used to fish with his buddies when he was younger and before he had his bass boat. One of those places was AEP's ReCreation Land (formerly called Ohio Power).
 author: dan
+last_modified_at: 2023-06-12T17:25:00-04:00
+img:
+  path: /posts/my-first-aep-adventure/AEP-ReCreation-Land-large-paper-map-1456x2592.webp
+  height: 2592
+  width: 1456
+  alt: AEP ReCreation Land paper map
+  caption: AEP ReCreation Land paper map. My 85 lb. weimaraner is there for size comparison :-)
+  render: false
+images:
+  dirty-aep-bass:
+    path: /posts/my-first-aep-adventure/a-dirty-AEP-bass-1456x2592.webp
+    height: 2592
+    width: 1456
+    alt: A hand holding a dirty largemouth bass by its mouth
+    caption: I'm holding a largemouth bass after I caught it and dropped it on the ground
+  dirty-aep-bass-trees:
+    path: /posts/my-first-aep-adventure/a-dirty-AEP-bass-trees-1456x2592.webp
+    height: 2592
+    width: 1456
+    alt: A cluster of dead trees jutting out of the water
+    caption: A cluster of dead trees jutting out of the water where I caught the bass
+  start-of-aep-adventure:
+    path: /posts/my-first-aep-adventure/start-of-my-first-AEP-adventure-2592x1456.webp
+    height: 2592
+    width: 1456
+    alt: A gravel road leading down into a large pond where you can launch a boat
+    caption: This launch ramp is where I started my first AEP adventure
+
 
 catch_ids: [6]
 related: [/aep-fishing-map/,/3-largemouth-bass-observations/,/akron-area-fishing-map/,]
@@ -21,12 +49,7 @@ Late in the 2011 fishing season, I was talking to my uncle about the places he u
 
 This got me exciting about this place and I started doing some research on it. I ended up contacting Dave Dingy from AEP for more information about the best fishing spots in the area and that would be most accessible from the roads. So he shipped me this:
 
-<div id="attachment_71" style="width: 585px" class="wp-caption aligncenter">
-  <a href="/images/AEP-ReCreation-Land-large-paper-map-1456x2592.webp" rel="lightbox-0"><img class="size-large wp-image-71" alt="AEP ReCreation Land paper map" src="/images/AEP-ReCreation-Land-large-paper-map-575x1024.webp" width="575" height="1024" /></a>
-  <p class="wp-caption-text">
-    AEP ReCreation Land paper map. My dog is there for size :-)
-  </p>
-</div>
+{% include image.html img=page.img %}
 
 He shipped me this huge paper map and circled a few of the most accessible places. I was very surprised to have received this and I am very thankful for his generosity. This map was very detailed with the ponds and I have spent some time comparing to Google Maps and updating it with road names. I have also created a <a href="/aep-fishing-map/" title="custom fishing map for AEP">custom map for AEP</a> on Google Maps.
 
@@ -36,29 +59,14 @@ I had quite the adventure that day and I was lucky the ponds were not frozen ove
 
 <div id='gallery-4' class='gallery galleryid-111 gallery-columns-2 gallery-size-medium'>
   <dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-      <a href="/images/a-dirty-AEP-bass-1456x2592.webp" rel="lightbox[gallery-4]"><img width="168" height="300" src="/images/a-dirty-AEP-bass-168x300.webp" class="attachment-medium" alt="A Dirty AEP Bass" /></a>
-    </dt>
-    <dd class='wp-caption-text gallery-caption'>
-      A Dirty AEP Bass
-    </dd>
+    {% include image.html img=page.images.dirty-aep-bass %}
   </dl>
   <dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-      <a href="/images/a-dirty-AEP-bass-trees-1456x2592.webp" rel="lightbox[gallery-4]"><img width="168" height="300" src="/images/a-dirty-AEP-bass-trees-168x300.webp" class="attachment-medium" alt="I caught the dirty AEP bass while he was hanging out by those tress." /></a>
-    </dt>
-    <dd class='wp-caption-text gallery-caption'>
-      I caught the dirty AEP bass while he was hanging out by those tress.
-    </dd>
+    {% include image.html img=page.images.dirty-aep-bass-trees %}
   </dl>
   <br style="clear: both" />
   <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href="/images/start-of-my-first-AEP-adventure-2592x1456.webp" rel="lightbox[gallery-4]"><img width="300" height="168" src="/images/start-of-my-first-AEP-adventure-300x168.webp" class="attachment-medium" alt="This is where I started on my first trip to AEP" /></a>
-    </dt>
-    <dd class='wp-caption-text gallery-caption'>
-      This is where I started on my first trip to AEP
-    </dd>
+    {% include image.html img=page.images.start-of-aep-adventure %}
   </dl>
   <br style='clear: both' />
 </div>

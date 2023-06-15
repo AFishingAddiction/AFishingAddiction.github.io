@@ -10,17 +10,17 @@ is_comments_enabled: false
 <article class="{{ layout.article_class }}">
 
   <h1>{{ page.title }}</h1>
-  {% if page.image %}
+  {% if page.image -%}
   <img src="/images/{{ page.image }}" {% if page.image_width %}width="{{ page.image_width }}" {% endif %} {% if
     page.image_height %}height="{{ page.image_height }}" {% endif %} alt="{{ page.image_alt }}" />
     {% if page.image_credit %}
   <div class="image-credit">{{ page.image_credit }}</div>
     {% endif %}
-  {% elsif page.img %}
+  {% elsif page.img -%}
     {% unless page.img.render == false %}
     {% include image.html img=page.img %}
     {% endunless %}
-  {% endif %}
+  {% endif -%}
   {% if layout.is_inline_ads_enabled and page.is_inline_ads_enabled != false %}
     {% include ads/inline-content.html %}
   {% endif %}
