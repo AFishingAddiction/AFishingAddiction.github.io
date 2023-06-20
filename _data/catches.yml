@@ -6,7 +6,7 @@
   temperature: 79°F
   water_clarity: Clear
   images:
-    - /images/a-canal-bass-225x300.jpg
+    - /assets/img/posts/3-largemouth-bass-observations/a-canal-bass-225x300.jpg
   location:
     description: Ohio Erie Canal south of Wilbeth Road
     address: "2299 Nesmith Lake Boulevard, Akron, OH 44314, USA"
@@ -20,7 +20,7 @@
   temperature: High 73°F
   water_clarity: Murky
   images:
-    - /images/Mosquito-Lake-bass-300x534.jpg
+    - /assets/img/posts/mosquito-lake-2012/Mosquito-Lake-bass-300x534.jpg
   location:
     description: Mosquito Lake
     address: "5238 Cottage Drive, Cortland, OH 44410, USA"
@@ -34,7 +34,7 @@
   temperature: 70°F
   water_clarity: Clear
   images:
-    - /images/a-red-eyed-smallmouth-bass-1456x2592.jpg
+    - /assets/img/posts/my-first-smallmouth-bass/a-red-eyed-smallmouth-bass-1456x2592.webp
   location:
     description: Cuyahoga River off of Peck Road
     address: ""
@@ -60,8 +60,8 @@
   temperature: Unknown
   water_clarity: Clear
   images:
-    - /images/a-mid-march-largemouth-bass-1456x2592.jpg
-    - /images/another-mid-march-largemouth-bass-1456x2592.jpg
+    - /assets/img/posts/a-few-mid-march-largemouth-bass/a-mid-march-largemouth-bass-1456x2592.jpg
+    - /assets/img/posts/a-few-mid-march-largemouth-bass/another-mid-march-largemouth-bass-1456x2592.jpg
   location:
     description: Small pond near Wingfoot Lake
     address: "1072 Glenview Drive, Mogadore, OH 44260, USA"

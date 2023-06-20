@@ -11,7 +11,7 @@ description: A blog about my bass fishing addiction
 
 repository: AFishingAddiction/AFishingAddiction.github.io
 
-logo: /images/logo/A-Fishing-Addiction-logo.png
+logo: /assets/img/logo/A-Fishing-Addiction-logo.png
 
 language: en-us
 locale: en_US
@@ -19,7 +19,7 @@ locale: en_US
 # The author of the page if not specified on the post or page
 author:
   name: Dan Schaefer
-  picture: /images/dan-schaefer-profile-0-200x200.jpg
+  picture: /assets/img/authors/dan-schaefer/dan-schaefer-profile-0-200x200.jpg
   twitter: AFishingAddict
 
 static:
