@@ -4,12 +4,14 @@ title: Tips for the Wacky Rig in 2023
 excerpt: Here are a few tips that will help you out with fishing the wacky rig and hopefully will help you catch more bass when using it.
 permalink: /5-tips-for-the-wacky-rig/
 date: 2017-07-30T12:30:00+05:00
-last_modified_at: 2023-03-06T12:01:00-04:00
+last_modified_at: 2023-06-17T08:50:00-04:00
 author: dan
-image: wacky-rigs.jpg
-image_width: 1071
-image_height: 685
-image_alt: Wacky Worm Rig
+img:
+  path: /posts/5-tips-for-the-wacky-rig/wacky-rigs.jpg
+  width: 1071
+  height: 685
+  alt: Two wacky worm rigs; one with a weedless hook and a worm with ribs around it and the other is a senko type worm rigged up through a black rubber o-ring on a different type of weedless hook
+  caption: 2 options for weedless wacky worm rigs
 seo:
   type: HowToTip
 is_inline_ads_enabled: false

@@ -12,11 +12,12 @@ tags:
 seo:
   type: Article
 related: [/5-bank-fishing-tips/,/reviews/fishbrain-mobile-app,/bass-fishing-in-spring/,]
-image: snow-covered-dock-and-lake-in-the-fishing-off-season.jpg
-image_width: 2593
-image_height: 2593
-image_alt: "Snow Covered Dock and Lake in the Fishing Off-season"
-image_credit: "Photo by <a href='https://unsplash.com/@abbiebernet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Abbie Bernet</a> on <a href='https://unsplash.com/s/photos/frozen-lake?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Unsplash</a>"
+img:
+  path: /posts/6-things-to-do-in-the-fishing-off-season/snow-covered-dock-and-lake-in-the-fishing-off-season.jpg
+  width: 2593
+  height: 2593
+  alt: "Snow Covered Dock and Lake in the Fishing Off-season"
+  credit: "Photo by <a href='https://unsplash.com/@abbiebernet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Abbie Bernet</a> on <a href='https://unsplash.com/s/photos/frozen-lake?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Unsplash</a>"
 ---
 
 Once the weather gets colder and the snow starts flying, fishing can be a non-starter or off-limits for some. If you're an avid angler, the fishing off-season can be a real downer. Here are some activities you can do in the fishing off-season.

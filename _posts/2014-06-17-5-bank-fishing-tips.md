@@ -3,14 +3,15 @@ layout: post
 title: 5 Bank Fishing Tips
 permalink: /5-bank-fishing-tips/
 date: 2014-06-17T15:38:37+00:00
-last_modified_at: 2023-04-18T08:07:00-04:00
+last_modified_at: 2023-06-17T08:37:00-04:00
 author: dan
 excerpt: "Whether you are like me and walk along the bank, constantly trying to find good spots, or if you have that one spot that you fish all day, follow these bank fishing tips to make your experience much better."
-image: robson-hatsukami-morgan-335701-unsplash-660x990.jpg
-image_width: 660
-image_height: 990
-image_alt: Bank fishing tips
-image_credit: Photo by Robson Hatsukami Morgan on Unsplash
+img:
+  path: /posts/5-bank-fishing-tips/robson-hatsukami-morgan-335701-unsplash.jpg
+  width: 3743
+  height: 5614
+  alt: A man sitting on an elevated bank of a river with his fishing pole out in front of him
+  credit: Photo by Robson Hatsukami Morgan on Unsplash
 seo:
   type: HowToTip
 tags:
@@ -27,7 +28,7 @@ Whether you are like me and walk along the banks, constantly trying to find good
 
 ## Tip #1: Use a Rod Carrier
 
-<a href="{{ page.links.rod_carrier }}"><img class="float-left" src="/images/rodmaster-fishing-rod-caddy.jpg" alt="RodMaster Rod & Reel Management System" width="180" height="180" /></a>
+<a href="{{ page.links.rod_carrier }}"><img class="float-left" src="/assets/img/posts/5-bank-fishing-tips/rodmaster-fishing-rod-caddy.jpg" alt="RodMaster Rod & Reel Management System" width="180" height="180" /></a>
 
 I have been using <a href="{{ page.links.rod_carrier }}" target="_blank">a rod carrier</a> for a few years now and it is not only convenient, but it also puts a lot less strain on your arm and wrist. Before I had this, I was carrying 3-4 rods at a time by bundling their handles together. Having a rod carrier helps eliminate wrist strain by moving the center of gravity more towards the front of the rods so that you are only carrying the weight, instead of also keeping the rod tips up.
 
@@ -37,7 +38,7 @@ It is also convenient when it comes to storage. In my garage, I have 2 bolts on 
 
 ## Tip #2: Carry a Tackle Bag
 
-<a href="{{ page.links.tackle_bag }}" target="_blank"><img class="float-left" src="/images/wild-river-NOMAD-lighted-tackle-backpack.jpg" alt="Wild River NOMAD Lighted Tackle Backpack" width="138" height="180" /></a>
+<a href="{{ page.links.tackle_bag }}" target="_blank"><img class="float-left" src="/assets/img/posts/5-bank-fishing-tips/wild-river-NOMAD-lighted-tackle-backpack.jpg" alt="Wild River NOMAD Lighted Tackle Backpack" width="138" height="180" /></a>
 
 Along with carrying multiple rods, you will also want to carry <a href="{{ page.links.tackle_bag }}" target="_blank">a tackle bag</a>. Having one of these will allow you to carry a multitude of lures, hooks, weights, jigs, etc. Rather than having to trek back to your vehicle for needed tackle or even having to cut your trip short, all of the necessities will be available to you at your fishing spot.
 
@@ -45,7 +46,7 @@ The bag I carry can hold up to 3 containers in the large section. It also has 3 
 
 ## Tip #3: Use Polarized Sunglasses
 
-<a href="{{ page.links.sunglasses }}" target="_blank"><img class="float-left" src="/images/polarized-sunglasses.jpg" alt="Polarized Sunglasses" width="150" height="96" /></a>
+<a href="{{ page.links.sunglasses }}" target="_blank"><img class="float-left" src="/assets/img/posts/5-bank-fishing-tips/polarized-sunglasses.jpg" alt="Polarized Sunglasses" width="150" height="96" /></a>
 
 <a href="{{ page.links.sunglasses }}" target="_blank">Polarized sunglasses</a> are a must for _any_ type of fishing, but especially for bank fishing. Even on a cloudy day and in the evenings, they cut down on the glare from the water dramatically and allow you to see further into the water. This is crucial when _spot fishing_. You would be surprised at how many fish you can see or how much underwater detail you can see with them. I point out fish all the time to people that don't have <a href="{{ page.links.sunglasses }}" target="_blank">polarized sunglasses</a> on and they can't see what I see.
 

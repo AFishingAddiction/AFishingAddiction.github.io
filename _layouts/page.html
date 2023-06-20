@@ -18,7 +18,7 @@ is_comments_enabled: false
     {% endif %}
   {% elsif page.img -%}
     {% unless page.img.render == false %}
-    {% include image.html img=page.img %}
+    {% include image.html img=page.img className="hero" %}
     {% endunless %}
   {% endif -%}
   {% if layout.is_inline_ads_enabled and page.is_inline_ads_enabled != false %}

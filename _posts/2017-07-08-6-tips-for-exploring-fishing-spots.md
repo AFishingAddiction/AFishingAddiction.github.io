@@ -2,14 +2,16 @@
 title: 6 Tips for Exploring Fishing Spots
 permalink: /6-tips-for-exploring-fishing-spots/
 date: 2017-07-08T07:30:00+05:00
+last_modified_at: 2023-06-17T08:43:00-04:00
 excerpt: Visiting the same fishing spot over and over can become boring. I've got a few tips that will make this process easier and more enjoyable.
 author: dan
 layout: post
-image: map-on-phone-660x441.jpg
-image_width: 660
-image_height: 441
-image_alt: "Map on a phone"
-image_credit: "Photo by Linda Söndergaard on Unsplash"
+img:
+  path: /posts/6-tips-for-exploring-fishing-spots/map-on-phone.jpg
+  width: 5354
+  height: 3574
+  alt: A cell phone turned to landscape mode with a map application on the screen and someone pointing to the phone
+  credit: "Photo by Linda Söndergaard on Unsplash"
 seo:
   type: HowToTip
 tags:
@@ -23,11 +25,11 @@ Visiting the same fishing spot over and over can become boring. Sometimes you ju
 
 I'm not talking about a paper map or a book of maps. Those can quickly become out-of-date with new roads, construction, etc. When looking for new fishing spots, start by pulling up Google Maps in your favorite browser. To make it easier to spot bodies of water, immediately turn off the satellite mode. Zoom in to or search for the general area you want to explore and scroll around, until you find either blue or green areas (water or parks/golf courses, respectively). Once you find water, look at its surroundings. If it helps, switch to satellite mode to see more details. Look for details of the water, any paths or roads leading to or around it, and determine if it may be accessible. Switching to satellite mode can also reveal whether the water is fenced off or if the trees/brush are too thick, making it inaccessible and may even reveal that it's not a body of water after all and may be an error on the map.
 
-I recommend organizing your fishing spots and record them into a <a href="https://www.google.com/maps/d/u/0/">custom Google My Maps</a>. Doing so allows you to capture the potential waters, the status of your exploration, and maybe some notes about it. Once you determine that it's worth the exploration, mark it on your custom *Google My Map* as a potential water. Once you explore a particular body of water, you'll be able to go back and add notes, including what you had caught, its accessibility, and other observations you have made.
+I recommend organizing your fishing spots and record them into a <a href="https://www.google.com/maps/d/u/0/" target="_blank">custom Google My Maps</a>. Doing so allows you to capture the potential waters, the status of your exploration, and maybe some notes about it. Once you determine that it's worth the exploration, mark it on your custom *Google My Map* as a potential water. Once you explore a particular body of water, you'll be able to go back and add notes, including what you had caught, its accessibility, and other observations you have made.
 
 ## Plan Your Trip
 
-Now that you've spent the time marking your potential spots on your map, you'll want to spend a little more time planning your trip. If you didn't have the map to begin with, you may not be able to explore in the most efficient manner. You'll want to plan your trip based on relative location and apply the same principles of the <a href="https://en.wikipedia.org/wiki/Travelling_salesman_problem">travelling salesman problem</a>. Choose the best path of exploration, taking into account driving and walking. Use your time wisely. Plan ahead and don't waste it driving clear across town to one spot and back again to the next.
+Now that you've spent the time marking your potential spots on your map, you'll want to spend a little more time planning your trip. If you didn't have the map to begin with, you may not be able to explore in the most efficient manner. You'll want to plan your trip based on relative location and apply the same principles of the <a href="https://en.wikipedia.org/wiki/Travelling_salesman_problem" target="_blank">travelling salesman problem</a>. Choose the best path of exploration, taking into account driving and walking. Use your time wisely. Plan ahead and don't waste it driving clear across town to one spot and back again to the next.
 
 ## Pack Light
 
