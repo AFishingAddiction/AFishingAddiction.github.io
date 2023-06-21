@@ -4,6 +4,8 @@ title: My First Fishing Injury
 permalink: /my-first-fishing-injury/
 excerpt: I caught a good sized bass and went to unhook him when he flailed. The hook scraped across my thumb, leaving this cut. I'm looking at my hand as I write this and I can faintly see the scar.
 author: dan
+date: 2014-02-12T00:00:00+00:00
+last_modified_at: 2023-06-21T08:05:00-04:00
 
 catch_ids: [8]
 image:

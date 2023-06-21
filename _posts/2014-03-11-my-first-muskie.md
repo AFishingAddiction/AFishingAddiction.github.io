@@ -4,7 +4,9 @@ title: My First Muskie
 excerpt: I really wasn't sure what it was at the time, but after looking at the photos, I figured out it was a muskie and not a pike based on the direction of the stripes.
 permalink: /my-first-muskie/
 author: dan
-last_modified_at: 2023-06-13T18:22:00-04:00
+date: 2014-03-11T00:00:00+00:00
+last_modified_at: 2023-06-21T08:05:00-04:00
+
 image:
   path: /posts/my-first-muskie/the-head-of-my-first-muskie-1456x2592.webp
   height: 2592

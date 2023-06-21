@@ -1,10 +1,12 @@
 ---
+layout: post
 title: 6+ Things to do to Prepare for the Fishing Season in 2023
 permalink: /6-things-to-do-in-the-fishing-off-season
-author: dan
-last_modified_at: 2023-03-06T12:02:00-04:00
-layout: post
 excerpt: "Once the weather gets colder and the snow starts flying, fishing can be a non-starter or off-limits for some. If you’re an avid angler, the fishing off-season can be a real downer. Here are some activities you can do in the fishing off-season."
+author: dan
+date: 2021-03-05T00:00:00+00:00
+last_modified_at: 2023-06-21T08:05:00-04:00
+
 tags:
   - tips
   - off-season

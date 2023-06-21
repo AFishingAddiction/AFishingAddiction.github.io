@@ -4,7 +4,9 @@ title: My First AEP Adventure
 permalink: /my-first-aep-adventure/
 excerpt: Late in the 2011 fishing season, I was talking to my uncle about the places he used to fish with his buddies when he was younger and before he had his bass boat. One of those places was AEP's ReCreation Land (formerly called Ohio Power).
 author: dan
-last_modified_at: 2023-06-12T17:25:00-04:00
+date: 2014-03-03T00:00:00+04:00
+last_modified_at: 2023-06-21T08:05:00-04:00
+
 image:
   path: /posts/my-first-aep-adventure/AEP-ReCreation-Land-large-paper-map-1456x2592.webp
   height: 2592

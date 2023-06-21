@@ -1,10 +1,12 @@
 ---
+layout: post
 title: "Cracking the Code: Effective Fishing Lures for Heavily Pressured Bass"
 permalink: /cracking-the-code-effective-fishing-lures-for-heavily-pressured-bass
-author: dan
-last_modified_at: 2023-03-18T21:19:00-04:00
-layout: post
 excerpt: "Learn how to catch more bass in heavily pressured lakes and reservoirs with these proven fishing lure tactics. From finesse techniques to topwater baits, our comprehensive guide has got you covered."
+author: dan
+date: 2023-03-18T21:19:00-04:00
+last_modified_at: 2023-06-21T08:05:00-04:00
+
 tags:
   - tips
   - lures

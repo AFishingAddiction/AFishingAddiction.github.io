@@ -1,9 +1,12 @@
 ---
+layout: post
 title: Bass Fishing in Spring
 permalink: /bass-fishing-in-spring/
-author: dan
-layout: post
 excerpt: "Bass fishing in Spring can be one of the most exhilarating activities for the average bass angler. Calm air, warmth, a gentle breeze, and a sense of unity with nature - this is a feeling that not many experience."
+author: dan
+date: 2020-04-11T00:00:00+00:00
+last_modified_at: 2023-06-21T08:05:00-04:00
+
 image:
   path: /posts/bass-fishing-in-spring/bass-fishing-in-spring-jon-sailor-splash-640x960.jpg
   width: 640

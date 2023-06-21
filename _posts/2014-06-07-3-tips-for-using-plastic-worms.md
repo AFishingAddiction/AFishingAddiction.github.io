@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 3 Tips for Using Plastic Worms
-date: 2014-06-07T12:00:57+00:00
 permalink: /3-tips-for-using-plastic-worms/
-author: dan
-last_modified_at: 2023-06-16T07:47:00-04:00
 excerpt: "There are many things that you can do to improve your fishing game. Here are a few tips for using plastic worms to help you achieve that goal of catching those lunkers."
+author: dan
+date: 2014-06-07T12:00:57+00:00
+last_modified_at: 2023-06-21T08:05:00-04:00
+
 image:
   path: /posts/3-tips-for-using-plastic-worms/weedless-worm.jpg
   width: 1024

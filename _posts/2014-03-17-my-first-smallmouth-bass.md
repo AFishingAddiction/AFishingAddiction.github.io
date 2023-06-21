@@ -4,7 +4,9 @@ title: My First Smallmouth Bass
 excerpt: I've caught several Smallmouth Bass from many different angles along the shore and from the island in the center of the Cuyahoga River.
 permalink: /my-first-smallmouth-bass/
 author: dan
-last_modified_at: 2023-06-13T18:22:00-04:00
+date: 2014-03-17T00:00:00+00:00
+last_modified_at: 2023-06-21T08:05:00-04:00
+
 image:
   path: /posts/my-first-smallmouth-bass/a-red-eyed-smallmouth-bass-1456x2592.webp
   height: 2592

@@ -4,6 +4,9 @@ title: My First Crappie
 permalink: /my-first-crappie/
 excerpt: After catching this crappie, I immediately texted my uncle asking what species it was. I had no idea, as I was still new at fishing at that point.
 author: dan
+date: 2014-02-28T00:00:00+04:00
+last_modified_at: 2023-06-21T08:05:00-04:00
+
 image:
   path: /posts/my-first-crappie/my-first-crappie.webp
   height: 2592

@@ -1,10 +1,12 @@
 ---
+layout: post
 title: Fishbrain Mobile App Review
 permalink: /reviews/fishbrain-mobile-app
-author: dan
 excerpt: "Fishbrain is your personal fishing log, map, and forecasting tool in one app. I will be reviewing the app, comparing both Basic (free) and Pro features. This is a review of only the Fishbrain app and I will not be comparing it to other fishing or angler apps on the market."
-layout: post
-last_modified_at: 2023-06-19T08:17:00-04:00
+author: dan
+date: 2020-12-29T00:00:00+00:00
+last_modified_at: 2023-06-21T08:05:00-04:00
+
 tags:
   - review
 seo:

@@ -1,11 +1,12 @@
 ---
+layout: post
 title: 3 Largemouth Bass Observations
 permalink: /3-largemouth-bass-observations/
-author: dan
-last_modified_at: 2023-06-16T07:47:00-04:00
 excerpt: It was gorgeous weather on the last day of May and a great day to go fishing. During the little fishing time I had, I made a few observations about the largemouth bass I caught and was attempting to catch.
-layout: post
-excerpt: During the little fishing time I had that day, I made a few largemouth bass observations from the ones I caught and the ones I was attempting to catch.
+author: dan
+date: 2014-06-02T00:00:00+00:00
+last_modified_at: 2023-06-21T08:05:00-04:00
+
 image:
   path: /posts/3-largemouth-bass-observations/a-canal-bass-2448x3264.jpg
   width: 2448
