@@ -1,6 +1,6 @@
 ---
 title: Akron Area Fishing Map
-description: This map of the Akron area highlights various ponds, rivers, lakes, and other notes about fishing in the Akron, OH area.
+excerpt: This map of the Akron area highlights various ponds, rivers, lakes, and other notes about fishing in the Akron, OH area.
 date: 2014-02-28
 author: dan
 layout: map

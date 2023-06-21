@@ -1,6 +1,6 @@
 ---
 title: Cleveland Fishing Map
-description: This map of the Cleveland area highlights various ponds, rivers, lakes, creeks, and other Cleveland fishing spots.
+excerpt: This map of the Cleveland area highlights various ponds, rivers, lakes, creeks, and other Cleveland fishing spots.
 date: 2019-08-07
 author: dan
 layout: map

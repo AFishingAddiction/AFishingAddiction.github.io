@@ -4,7 +4,7 @@ permalink: /lake-erie-fishing-map/
 author: dan
 date: 2014-06-22
 last_modified_at: 2023-03-06T13:47:00-04:00
-description: This Lake Erie map highlights many public boat launch ramps, river mouths, notable docks, and underwater structure in the Cleveland, OH area. I've found these marks over the years and have added them to this map of Lake Erie.
+excerpt: This Lake Erie map highlights many public boat launch ramps, river mouths, notable docks, and underwater structure in the Cleveland, OH area. I've found these marks over the years and have added them to this map of Lake Erie.
 layout: map
 map_source: https://www.google.com/maps/d/embed?mid=1iL0xIY2iHHgUHleDfh0Sf0qxR8o&hl=en
 image:

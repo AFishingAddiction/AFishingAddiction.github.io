@@ -4,7 +4,7 @@ permalink: /tools/lure-wizard/
 redirect_from: /tools/lure-picker/
 title: Lure Wizard
 author: false
-description: "A Fishing Addiction's Lure Wizard (free) provides up to 8 suggested lures and colors based on 3 questions: season, water clarity/visibility, and frontal status."
+excerpt: "A Fishing Addiction's Lure Wizard (free) provides up to 8 suggested lures and colors based on 3 questions: season, water clarity/visibility, and frontal status."
 image:
   path: /tools/Lure-Wizard-screenshot.png
   height: 860
