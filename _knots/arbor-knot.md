@@ -4,7 +4,7 @@ permalink: /knots/arbor-knot/
 redirect_from: /how-to-tie-an-arbor-knot/
 date: "2020-11-17"
 last_modified_at: 2023-03-27T08:25:00-04:00
-img:
+image:
   path: /knots/arbor-knot/arbor-knot.webp
   height: 4500
   width: 4500
@@ -100,7 +100,7 @@ Whether you are spooling new fishing line onto a spinning reel, a baitcasting re
 
 ## How do you tie an Arbor Knot?
 
-{% include image.html img=page.img %}
+{% include image.html img=page.image %}
 
 {% include howto.html steps=page.seo.json_ld.step %}
 

@@ -5,7 +5,7 @@ excerpt: I really wasn't sure what it was at the time, but after looking at the 
 permalink: /my-first-muskie/
 author: dan
 last_modified_at: 2023-06-13T18:22:00-04:00
-img:
+image:
   path: /posts/my-first-muskie/the-head-of-my-first-muskie-1456x2592.webp
   height: 2592
   width: 1456
@@ -35,7 +35,7 @@ The coordinates in the map are approximate, since my phone didn't capture the GP
 
 <div id='gallery-7' class='gallery galleryid-189 gallery-columns-2 gallery-size-responsive-300'>
   <dl class='gallery-item'>
-    {% include image.html img=page.img %}
+    {% include image.html img=page.image %}
   </dl>
   <dl class='gallery-item'>
     {% include image.html img=page.images.first-muskie %}

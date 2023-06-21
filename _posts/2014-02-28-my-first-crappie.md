@@ -4,7 +4,7 @@ title: My First Crappie
 permalink: /my-first-crappie/
 excerpt: After catching this crappie, I immediately texted my uncle asking what species it was. I had no idea, as I was still new at fishing at that point.
 author: dan
-img:
+image:
   path: /posts/my-first-crappie/my-first-crappie.webp
   height: 2592
   width: 1456
@@ -33,7 +33,7 @@ I also yanked a few other fish out of a small stream nearby. I'm not sure what s
 
 <div class='gallery'>
   <div class='gallery-item'>
-    {% include image.html img=page.img %}
+    {% include image.html img=page.image %}
   </div>
   <div class='gallery-item'>
     {% include image.html img=page.images.a-sucker %}

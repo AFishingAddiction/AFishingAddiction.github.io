@@ -12,7 +12,7 @@ tags:
   - weather
 seo:
   type: Article
-img:
+image:
   path: /posts/best-time-to-go-bass-fishing/*******.png
   height:
   width:

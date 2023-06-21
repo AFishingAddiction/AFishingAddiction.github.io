@@ -148,6 +148,7 @@ navlinks:
 
 feed:
   disable_in_development: false
+  excerpt_only: true
 
 include:
   - _pages

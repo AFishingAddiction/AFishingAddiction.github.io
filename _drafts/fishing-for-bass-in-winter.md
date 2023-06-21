@@ -5,7 +5,7 @@ permalink: /fishing-for-bass-in-winter/
 excerpt:
 author: dan
 
-img:
+image:
   path: snow-covered-dock-and-lake-in-the-fishing-off-season.jpg
   height: 979
   width: 550

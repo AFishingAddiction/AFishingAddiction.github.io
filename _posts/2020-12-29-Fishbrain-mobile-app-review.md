@@ -23,7 +23,7 @@ seo:
 related: [/6-things-to-do-in-the-fishing-off-season,/akron-area-fishing-map/,/6-tips-for-exploring-fishing-spots/,]
 todo:
   - Add links from the features table to the features
-img:
+image:
   path: /reviews/fishbrain-mobile-app/Fishbrain-loading-screen-cropped.webp
   width: 472
   height: 267

@@ -6,7 +6,7 @@ excerpt: For Christmas 2011, I asked Santa to upgrade my plastic tackle box to a
 author: dan
 date: 2014-03-07T07:12:02+00:00
 last_modified_at: 2023-06-12T20:47:00-04:00
-img:
+image:
   path: /posts/my-tackle-bag/my-first-tackle-bag-1456x2592.webp
   height: 2592
   width: 1456
@@ -29,7 +29,7 @@ For Christmas 2011, I asked Santa to upgrade my plastic tackle box to a canvas t
 
 <div id='gallery-5' class='gallery galleryid-165 gallery-columns-2 gallery-size-responsive-300'>
   <dl class='gallery-item'>
-    {% include image.html img=page.img %}
+    {% include image.html img=page.image %}
   </dl>
   <dl class='gallery-item'>
     {% include image.html img=page.images.tackle-bag-filled %}

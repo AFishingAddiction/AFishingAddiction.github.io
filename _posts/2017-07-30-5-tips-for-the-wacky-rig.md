@@ -6,7 +6,7 @@ permalink: /5-tips-for-the-wacky-rig/
 date: 2017-07-30T12:30:00+05:00
 last_modified_at: 2023-06-17T08:50:00-04:00
 author: dan
-img:
+image:
   path: /posts/5-tips-for-the-wacky-rig/wacky-rigs.jpg
   width: 1071
   height: 685

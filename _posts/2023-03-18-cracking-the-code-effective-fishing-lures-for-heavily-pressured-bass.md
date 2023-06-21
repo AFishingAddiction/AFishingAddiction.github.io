@@ -11,7 +11,7 @@ tags:
   - seasons
 seo:
   type: Article
-img:
+image:
   path: /posts/cracking-the-code-effective-fishing-lures-for-heavily-pressured-bass/a_photo_of_a_river_bank_with_several_people_fishing__2528db0b-3930-48ec-ad83-ea92435f3e4f.png
   height: 1024
   width: 1024

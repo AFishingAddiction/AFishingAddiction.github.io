@@ -6,7 +6,7 @@ last_modified_at: 2023-06-16T07:47:00-04:00
 excerpt: It was gorgeous weather on the last day of May and a great day to go fishing. During the little fishing time I had, I made a few observations about the largemouth bass I caught and was attempting to catch.
 layout: post
 excerpt: During the little fishing time I had that day, I made a few largemouth bass observations from the ones I caught and the ones I was attempting to catch.
-img:
+image:
   path: /posts/3-largemouth-bass-observations/a-canal-bass-2448x3264.jpg
   width: 2448
   height: 3264
@@ -56,7 +56,7 @@ You'd be surprised how small of a fish you can catch on a larger lure. I was usi
 ## Observation #2: Bass are Aggressive, but Finicky
 
 <div class="gallery">
-  {% include image.html img=page.img %}
+  {% include image.html img=page.image %}
   {% include image.html img=page.images.mouth-canal-bass %}
   {% include image.html img=page.images.shaky-head-lure %}
 </div>

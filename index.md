@@ -4,7 +4,7 @@ title: Bass Fishing Blog
 excerpt: "Recent blog posts about my fishing adventures in Ohio and some tips for landing the big ones"
 permalink: /
 author: false
-img:
+image:
   path: /logo/A-Fishing-Addiction-logo.png
 seo:
   type: Website

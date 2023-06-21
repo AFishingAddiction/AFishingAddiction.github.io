@@ -5,7 +5,7 @@ excerpt: I've caught several Smallmouth Bass from many different angles along th
 permalink: /my-first-smallmouth-bass/
 author: dan
 last_modified_at: 2023-06-13T18:22:00-04:00
-img:
+image:
   path: /posts/my-first-smallmouth-bass/a-red-eyed-smallmouth-bass-1456x2592.webp
   height: 2592
   width: 1456
@@ -50,7 +50,7 @@ As shown in the picture below, there is a nice bend in the river, with it splitt
     {% include image.html img=page.images.the-overlook-deck %}
     {% include image.html img=page.images.a-bend-in-the-river %}
   <div style="display: flex; flex-direction: row;">
-    {% include image.html img=page.img className="gallery-item" %}
+    {% include image.html img=page.image className="gallery-item" %}
     {% include image.html img=page.images.a-smallmouth-bass className="gallery-item" %}
   </div>
 </div>

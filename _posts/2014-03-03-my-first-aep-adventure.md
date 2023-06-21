@@ -5,7 +5,7 @@ permalink: /my-first-aep-adventure/
 excerpt: Late in the 2011 fishing season, I was talking to my uncle about the places he used to fish with his buddies when he was younger and before he had his bass boat. One of those places was AEP's ReCreation Land (formerly called Ohio Power).
 author: dan
 last_modified_at: 2023-06-12T17:25:00-04:00
-img:
+image:
   path: /posts/my-first-aep-adventure/AEP-ReCreation-Land-large-paper-map-1456x2592.webp
   height: 2592
   width: 1456
@@ -49,7 +49,7 @@ Late in the 2011 fishing season, I was talking to my uncle about the places he u
 
 This got me exciting about this place and I started doing some research on it. I ended up contacting Dave Dingy from AEP for more information about the best fishing spots in the area and that would be most accessible from the roads. So he shipped me this:
 
-{% include image.html img=page.img %}
+{% include image.html img=page.image %}
 
 He shipped me this huge paper map and circled a few of the most accessible places. I was very surprised to have received this and I am very thankful for his generosity. This map was very detailed with the ponds and I have spent some time comparing to Google Maps and updating it with road names. I have also created a <a href="/aep-fishing-map/" title="custom fishing map for AEP">custom map for AEP</a> on Google Maps.
 

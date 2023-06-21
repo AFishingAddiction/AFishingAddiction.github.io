@@ -4,7 +4,7 @@ title: A Few Mid-March Largemouth Bass
 excerpt: After a painful winter of 2011, I went out in mid-March 2012 to Wingfoot Lake pond and caught these beautiful largemouth bass.
 permalink: /a-few-mid-march-largemouth-bass/
 author: dan
-img:
+image:
   path: /posts/a-few-mid-march-largemouth-bass/a-mid-march-largemouth-bass-1456x2592.jpg
   height: 2592
   width: 1456
@@ -36,7 +36,7 @@ According to my photo timestamps, I caught these 4 days apart. But judging by th
 
 <div id='gallery-6' class='gallery galleryid-184 gallery-columns-2 gallery-size-responsive-300'>
   <dl class='gallery-item'>
-    {% include image.html img=page.img %}
+    {% include image.html img=page.image %}
   </dl>
   <dl class='gallery-item'>
     {% include image.html img=page.images.another-lmb %}

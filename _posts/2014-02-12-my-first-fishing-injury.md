@@ -6,7 +6,7 @@ excerpt: I caught a good sized bass and went to unhook him when he flailed. The 
 author: dan
 
 catch_ids: [8]
-img:
+image:
   path: /posts/my-first-fishing-injury/hook-slice-1456x2592.jpg
   height: 2592
   width: 1456

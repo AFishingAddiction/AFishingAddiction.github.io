@@ -7,7 +7,7 @@ author: dan
 last_modified_at: 2023-06-16T07:47:00-04:00
 
 catch_ids: [9]
-img:
+image:
   path: /posts/this-is-when-it-all-began/my-first-largemouth-bass-1456x2592.jpg
   height: 2592
   width: 1456
@@ -28,7 +28,7 @@ I had a few family camping trips as a child during which I caught a quite a few 
 
 <div class='gallery'>
   <div class='gallery-item'>
-      {% include image.html img=page.img %}
+      {% include image.html img=page.image %}
   </div>
   <div class='gallery-item'>
       {% include image.html img=page.images.holding_my_first_lmb %}
