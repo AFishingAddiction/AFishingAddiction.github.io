@@ -36,7 +36,7 @@ images:
 
 
 catch_ids: [6]
-related: [/aep-fishing-map/,/3-largemouth-bass-observations/,/akron-area-fishing-map/,]
+related: [/aep-fishing-map/,/akron-area-fishing-map/,/3-largemouth-bass-observations/,]
 seo:
   type: BlogPosting
 tags: [bass, catch, AEP]

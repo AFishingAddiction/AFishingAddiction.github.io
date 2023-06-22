@@ -20,7 +20,7 @@ image:
   alt: A photo of a river bank with several people fishing
   render: true
 
-related: [/bass-fishing-in-spring/,/best-topwater-lures-for-bass-fishing,/a-few-mid-march-largemouth-bass/,]
+related: [/bass-fishing-in-spring/,/best-topwater-lures-for-bass-fishing,/3-largemouth-bass-observations/,]
 ---
 
 Bass fishing can be challenging due to heavily pressured waters. Bass become wary of lures that they have seen before, and anglers must use creative techniques to entice these elusive fish. This article will explore effective fishing lures for heavily pressured bass.
