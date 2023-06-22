@@ -57,14 +57,15 @@ class PageObject(object):
         super(PageObject, self).__init__()
         self.arg = arg
 
-    def objects_for_directories(self, paths):
+    def objects_for_directories(self, paths, exclusion_urls=None):
+        exclusion_urls = exclusion_urls or []
         page_objects = []
         for path in paths:
-            page_objects.extend(self.objects_for_directory(path))
+            page_objects.extend(self.objects_for_directory(path, exclusion_urls))
         return page_objects
 
-    def objects_for_directory(self, path):
-        return self._page_objects_from_files(self._list_files(path))
+    def objects_for_directory(self, path, exclusion_urls):
+        return self._page_objects_from_files(self._list_files(path), exclusion_urls)
 
     def _list_files(self, path):
         return [
@@ -73,10 +74,13 @@ class PageObject(object):
             if (isfile(join(path, file)) and (".html" in file or ".md" in file) and ("debug.md" not in file))
         ]
 
-    def _page_objects_from_files(self, file_names):
+    def _page_objects_from_files(self, file_names, exclusion_urls):
         page_objects = []
         for file_name in file_names:
-            page_objects.append(self._page_object_from_file(file_name))
+            page_object = self._page_object_from_file(file_name)
+            if page_object["url"] in exclusion_urls:
+                continue
+            page_objects.append(page_object)
         return page_objects
 
     def _page_object_from_file(self, file_name):
@@ -345,6 +349,7 @@ def update_pages(page_objects, search_ids, top_matches):
 
 if __name__ == "__main__":
     page_directories = ["./_posts/", "./_pages/", "./_knots", "./_maps/", "./_videos/"]
-    page_objects = PageObject(None).objects_for_directories(page_directories)
+    exclusion_urls = ["/tags/"]
+    page_objects = PageObject(None).objects_for_directories(page_directories, exclusion_urls)
     search_ids, top_matches = LatentSemanticAnalysis(page_objects).top_matches()
     update_pages(page_objects, search_ids, top_matches)
