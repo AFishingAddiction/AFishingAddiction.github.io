@@ -4,8 +4,8 @@ title: "Reeling in the Big One: The Best Time to Go Bass Fishing"
 permalink: /best-time-to-go-bass-fishing
 excerpt: "In this article, we'll break down everything you need to know about the best time to go bass fishing, including the different seasons and weather patterns that can impact your catch."
 author: dan
-date: 2023-06-23T07:40:00-04:00
-last_modified_at: 2023-06-23T07:40:00-04:00
+date: 2023-06-23T07:50:00-04:00
+last_modified_at: 2023-06-23T07:50:00-04:00
 
 image:
   path: /posts/best-time-to-go-bass-fishing/silhouette-of-man-holding-fishing-rod-during-sunset-12069878.jpg
