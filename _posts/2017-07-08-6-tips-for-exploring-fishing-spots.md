@@ -18,7 +18,7 @@ seo:
 tags:
   - tips
   - exploring
-related: [/6-things-to-do-in-the-fishing-off-season,/5-bank-fishing-tips/,/reviews/fishbrain-mobile-app,]
+related: [/6-things-to-do-in-the-fishing-off-season,/5-bank-fishing-tips/,/cleveland-fishing-map/,]
 ---
 Visiting the same fishing spot over and over can become boring. Sometimes you just need some new scenery, a new challenge, or maybe just something closer to home. This is a good opportunity to start exploring new ponds, rivers, and lakes. I've got a few tips that will make this process easier and more enjoyable.
 

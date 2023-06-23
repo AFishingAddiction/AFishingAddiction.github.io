@@ -14,7 +14,7 @@ tags:
   - topwater
 seo:
   type: Article
-related: [/tools/lure-wizard/,/cracking-the-code-effective-fishing-lures-for-heavily-pressured-bass,/5-bank-fishing-tips/,]
+related: [/best-time-to-go-bass-fishing,/cracking-the-code-effective-fishing-lures-for-heavily-pressured-bass,/bass-fishing-in-spring/,]
 
 lures:
   frogs:
