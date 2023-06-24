@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="en-us">
   <head>
+    {%- if site.github.pages_env == "production" -%}
+      {% assign assets_version = site.time | date: '%s%N' %}
+    {%- else -%}
+      {% assign assets_version = site.github.pages_env %}
+    {%- endif %}
     {% include impact-site-verification.md %}
     {% include cookiebot.html %}
     {% include meta.html %}
@@ -14,7 +19,7 @@
     <link rel="preload" href="https://use.fontawesome.com/releases/v5.1.1/webfonts/fa-solid-900.woff2" as="font"
       type="font/woff2" crossorigin />
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css?{{ site.time | date: '%s%N' }}" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css?{{ assets_version }}" />
     <script src="https://kit.fontawesome.com/5b2de91db5.js" crossorigin="anonymous" async></script>
 
     <link rel="alternate" type="application/rss+xml" title="{{ site.title | remove: ' ' }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
@@ -27,8 +32,8 @@
       }
     </style>
     {%- endunless %}
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/lure-picker.min.css?{{ site.time | date: '%s%N' }}" />
-    <script src="{{ site.baseurl }}/assets/js/lure-picker.min.js?{{ site.time | date: '%s%N' }}" async></script>
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/lure-picker.min.css?{{ assets_version }}" />
+    <script src="{{ site.baseurl }}/assets/js/lure-picker.min.js?{{ assets_version }}" async></script>
     {% feed_meta %}
   </head>
 
