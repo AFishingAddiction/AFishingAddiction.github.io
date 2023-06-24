@@ -8,18 +8,18 @@ date: 2014-02-28T00:00:00+04:00
 last_modified_at: 2023-06-21T08:05:00-04:00
 
 image:
-  path: /posts/my-first-crappie/my-first-crappie.webp
+  path: /assets/img/posts/my-first-crappie/my-first-crappie.webp
   height: 2592
   width: 1456
   alt: My first crappie catch from a small pond in Southgate Park
 images:
   a-sucker:
-    path: /posts/my-first-crappie/a-sucker-fish.webp
+    path: /assets/img/posts/my-first-crappie/a-sucker-fish.webp
     height: 2592
     width: 1456
     alt: A sucker fish I caught in the stream close by
   another-sucker:
-    path: /posts/my-first-crappie/another-sucker-fish.webp
+    path: /assets/img/posts/my-first-crappie/another-sucker-fish.webp
     height: 2592
     width: 1456
     alt: Another sucker fish I caught in the stream close by

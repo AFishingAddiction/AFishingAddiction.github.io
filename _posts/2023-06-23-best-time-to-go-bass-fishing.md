@@ -8,7 +8,7 @@ date: 2023-06-23T07:50:00-04:00
 last_modified_at: 2023-06-23T07:50:00-04:00
 
 image:
-  path: /posts/best-time-to-go-bass-fishing/silhouette-of-man-holding-fishing-rod-during-sunset-12069878.jpg
+  path: /assets/img/posts/best-time-to-go-bass-fishing/silhouette-of-man-holding-fishing-rod-during-sunset-12069878.jpg
   height: 2984
   width: 3984
   alt: "A silhouette of a man on a river bank holding a fishing rod during sunset"

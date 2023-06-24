@@ -26,175 +26,175 @@ related: [/6-things-to-do-in-the-fishing-off-season,/akron-area-fishing-map/,/6-
 todo:
   - Add links from the features table to the features
 image:
-  path: /reviews/fishbrain-mobile-app/Fishbrain-loading-screen-cropped.webp
+  path: /assets/img/reviews/fishbrain-mobile-app/Fishbrain-loading-screen-cropped.webp
   width: 472
   height: 267
   alt: "Fishbrain app loading screen"
 images:
   community-reviews_Long-Lake-Channel:
-    path: /reviews/fishbrain-mobile-app/community-reviews_Long-Lake-Channel.webp
+    path: /assets/img/reviews/fishbrain-mobile-app/community-reviews_Long-Lake-Channel.webp
     title: Community Reviews in the Fishbrain App
     alt: A screenshot of Community Reviews in the Fishbrain app
     width: 945
     height: 2048
   review-form-for-Summit-Lake:
-    path: /reviews/fishbrain-mobile-app/review-form-for-Summit-Lake.webp
+    path: /assets/img/reviews/fishbrain-mobile-app/review-form-for-Summit-Lake.webp
     title: Review Form for a Specific Water
     alt: A screenshot of the review form for Summit Lake taken from the Fishbrain app
     width: 945
     height: 2048
   review-questions-for-specific-water:
-    path: /reviews/fishbrain-mobile-app/review-questions-for-specific-water.webp
+    path: /assets/img/reviews/fishbrain-mobile-app/review-questions-for-specific-water.webp
     title: Review Questions for a Specific Water
     alt: A screenshot of the review questions for the Fishbrain app
     width: 945
     height: 2048
   about-the-catch-top:
-    path: /reviews/fishbrain-mobile-app/about-the-catch-top.webp
+    path: /assets/img/reviews/fishbrain-mobile-app/about-the-catch-top.webp
     title: Catch Log Details
     alt: A screenshot of the catch log details screen of the Fishbrain app
     width: 945
     height: 2048
   about-the-catch-bottom:
-    path: /reviews/fishbrain-mobile-app/about-the-catch-bottom.webp
+    path: /assets/img/reviews/fishbrain-mobile-app/about-the-catch-bottom.webp
     title: Catch Log Details
     alt: A screenshot of the bottom half of the catch log details screen of the Fishbrain app
     width: 945
     height: 2048
   species-recognition-results:
-    path: /reviews/fishbrain-mobile-app/species-recognition-results.webp
+    path: /assets/img/reviews/fishbrain-mobile-app/species-recognition-results.webp
     title: Fish Species Recognition Results
     alt: Fish species recognition results in the Fishbrain app
     width: 945
     height: 2048
   top-baits-for-Summit-Lake_Pro-membership:
-    path: /reviews/fishbrain-mobile-app/top-baits-for-Summit-Lake_Pro-membership.webp
+    path: /assets/img/reviews/fishbrain-mobile-app/top-baits-for-Summit-Lake_Pro-membership.webp
     title: Top Baits for Specific Water (Pro membership)
     alt: Top baits for Summit Lake in the Fishbrain app with Pro membership
     width: 945
     height: 2048
   top-baits-for-Summit-Lake_Basic-membership:
-    path: /reviews/fishbrain-mobile-app/top-baits-for-Summit-Lake_Basic-membership.webp
+    path: /assets/img/reviews/fishbrain-mobile-app/top-baits-for-Summit-Lake_Basic-membership.webp
     title: Top Baits for Specific Water (Basic membership)
     alt: Top baits for Summit Lake in the Fishbrain app with Basic membership
     width: 536
     height: 953
   weather-forecast-top:
-    path: /reviews/fishbrain-mobile-app/weather-forecast-top.webp
+    path: /assets/img/reviews/fishbrain-mobile-app/weather-forecast-top.webp
     title: Area Weather Forecast (Top)
     alt: Screenshot of the top part of the area weather forecast in the Fishbrain app
     width: 945
     height: 2048
   weather-forecast-bottom:
-    path: /reviews/fishbrain-mobile-app/weather-forecast-bottom.webp
+    path: /assets/img/reviews/fishbrain-mobile-app/weather-forecast-bottom.webp
     title: Area Weather Forecast (Bottom)
     alt: Screenshot of the bottom part of the area weather forecast in the Fishbrain app
     width: 945
     height: 2048
   interactive-map-filter:
-    path: /reviews/fishbrain-mobile-app/interactive-map-filter.webp
+    path: /assets/img/reviews/fishbrain-mobile-app/interactive-map-filter.webp
     title: Interactive Map Filter
     alt: Screenshot of the interactive map filters in the Fishbrain app
     width: 945
     height: 2048
   feed-preferences:
-    path: /reviews/fishbrain-mobile-app/feed-preferences.webp
+    path: /assets/img/reviews/fishbrain-mobile-app/feed-preferences.webp
     title: Feed Preferences
     alt: Fishbrain app feed preferences
     width: 945
     height: 2048
   suggested-anglers-and-brands:
-    path: /reviews/fishbrain-mobile-app/suggested-anglers-and-brands.webp
+    path: /assets/img/reviews/fishbrain-mobile-app/suggested-anglers-and-brands.webp
     title: Suggested Anglers and Brands
     alt: Suggested anglers and brands in the Fishbrain app feed
     width: 945
     height: 2048
   recent-catches-for-Summit-Lake:
-    path: /reviews/fishbrain-mobile-app/recent-catches-for-Summit-Lake.webp
+    path: /assets/img/reviews/fishbrain-mobile-app/recent-catches-for-Summit-Lake.webp
     title: Recent Catches for Summit Lake
     alt: Photos of recent catches for Summit Lake in the Fishbrain app
     width: 945
     height: 2048
   exact-catch-positions-for-Summit-Lake:
-    path: /reviews/fishbrain-mobile-app/exact-catch-positions-for-Summit-Lake.webp
+    path: /assets/img/reviews/fishbrain-mobile-app/exact-catch-positions-for-Summit-Lake.webp
     title: Exact catch positions for Summit Lake
     alt: Screenshot of Summit Lake in the Fishbrain app with exact catch positions feature enabled
     width: 945
     height: 2048
   top-baits-for-Summit-Lake_Pro-membership_full:
-    path: /reviews/fishbrain-mobile-app/top-baits-for-Summit-Lake_Pro-membership_full.webp
+    path: /assets/img/reviews/fishbrain-mobile-app/top-baits-for-Summit-Lake_Pro-membership_full.webp
     title: Full List of Top Baits for Specific Water (Pro membership)
     alt: Full List of Top baits for Summit Lake in the Fishbrain app with Pro membership
     width: 945
     height: 2048
   BiteTime-for-Summit-Lake-area_Pro-membership:
-    path: /reviews/fishbrain-mobile-app/BiteTime(TM)-for-Summit-Lake-area_Pro-membership.webp
+    path: /assets/img/reviews/fishbrain-mobile-app/BiteTime(TM)-for-Summit-Lake-area_Pro-membership.webp
     title: BiteTime&trade; for Map Area (Pro membership)
     alt: Screenshot of BiteTime for Summit Lake area in the Fishbrain app with Pro membership
     width: 945
     height: 2048
   BiteTime-for-Summit-Lake-area_Basic-membership:
-    path: /reviews/fishbrain-mobile-app/BiteTime(TM)-for-Summit-Lake-area_Basic-membership.webp
+    path: /assets/img/reviews/fishbrain-mobile-app/BiteTime(TM)-for-Summit-Lake-area_Basic-membership.webp
     title: BiteTime&trade; for Map Area (Basic membership)
     alt: Screenshot of BiteTime for Summit Lake area in the Fishbrain app with Basic membership
     width: 536
     height: 953
   depth-contours-for-Summit-Lake:
-    path: /reviews/fishbrain-mobile-app/depth-contours-for-Summit-Lake.webp
+    path: /assets/img/reviews/fishbrain-mobile-app/depth-contours-for-Summit-Lake.webp
     title: Depth Contours for Summit Lake
     alt: Map of Summit Lake with the depth contours feature enabled in the Fishbrain app
     width: 945
     height: 2048
   dropping-a-waypoint:
-    path: /reviews/fishbrain-mobile-app/dropping-a-waypoint.webp
+    path: /assets/img/reviews/fishbrain-mobile-app/dropping-a-waypoint.webp
     title: Dropping a Private Waypoint
     alt: Dropping a private waypoint in Summit Lake in the Fishbrain app
     width: 945
     height: 2048
   edit-waypoint:
-    path: /reviews/fishbrain-mobile-app/edit-waypoint.webp
+    path: /assets/img/reviews/fishbrain-mobile-app/edit-waypoint.webp
     title: Editing a Private Waypoint
     alt: Screenshot of the edit waypoint screen in the Fishbrain app
     width: 945
     height: 2048
   waypoint-symbol-list:
-    path: /reviews/fishbrain-mobile-app/waypoint-symbol-list.webp
+    path: /assets/img/reviews/fishbrain-mobile-app/waypoint-symbol-list.webp
     title: List of Waypoint Symbols/Icons
     alt: List of available icons for a private waypoint in the Fishbrain app
     width: 945
     height: 2048
   create-group:
-    path: /reviews/fishbrain-mobile-app/create-group.webp
+    path: /assets/img/reviews/fishbrain-mobile-app/create-group.webp
     title: Create a Group
     alt: Screenshot of the create group screen in the Fishbrain app
     width: 945
     height: 2048
   spot-prediction:
-    path: /reviews/fishbrain-mobile-app/spot-prediction.webp
+    path: /assets/img/reviews/fishbrain-mobile-app/spot-prediction.webp
     title: Spot Prediction
     alt: Screenshot Summit Lake with the Spot Prediction feature enabled in the Fishbrain app
     width: 945
     height: 2048
   add-gear:
-    path: /reviews/fishbrain-mobile-app/add-gear.webp
+    path: /assets/img/reviews/fishbrain-mobile-app/add-gear.webp
     title: Add Gear
     alt: Screenshot of the add gear screen in the Fishbrain app
     width: 945
     height: 2048
   gear-ratings-and-reviews:
-    path: /reviews/fishbrain-mobile-app/gear-ratings-and-reviews.webp
+    path: /assets/img/reviews/fishbrain-mobile-app/gear-ratings-and-reviews.webp
     title: Gear Ratings and Reviews
     alt: Gear ratings and reviews in the Fishbrain app
     width: 945
     height: 2048
   in-app-shop:
-    path: /reviews/fishbrain-mobile-app/in-app-shop.webp
+    path: /assets/img/reviews/fishbrain-mobile-app/in-app-shop.webp
     title: In-app Fishbrain Shop
     alt: Screenshot of categories of baits and lures in the in-app Fishbrain shop
     width: 945
     height: 2048
   pro-membership-plans:
-    path: /reviews/fishbrain-mobile-app/pro-membership-plans.webp
+    path: /assets/img/reviews/fishbrain-mobile-app/pro-membership-plans.webp
     title: Pro Membership Plans
     alt: Pro membership plans for the Fishbrain app as of December 27, 2020
     width: 536

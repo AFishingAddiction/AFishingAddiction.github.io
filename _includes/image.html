@@ -1,6 +1,7 @@
 <figure {%- if include.className %} class="{{ include.className }}"{% endif %}>
-    <a href="/{{ site.static.image.path }}{{ include.img.path }}">
-        <img src="/{{ site.static.image.path }}{{ include.img.path }}" alt="{{ include.img.alt }}"
+{%- assign image_path = include.img.path %}
+    <a href="{{ image_path }}">
+        <img src="{{ image_path }}" alt="{{ include.img.alt }}"
             {%- if include.img.title %} title="{{ include.img.title }}" {%- endif %}
             {%- if include.img.width %} width="{{ include.img.width }}" {%- endif %}
             {%- if include.img.height %} height="{{ include.img.height }}" {%- endif %} />

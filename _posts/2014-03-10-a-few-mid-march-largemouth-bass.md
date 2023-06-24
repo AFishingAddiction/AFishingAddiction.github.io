@@ -8,7 +8,7 @@ date: 2014-03-10T00:00:00+00:00
 last_modified_at: 2023-06-21T08:05:00-04:00
 
 image:
-  path: /posts/a-few-mid-march-largemouth-bass/a-mid-march-largemouth-bass-1456x2592.jpg
+  path: /assets/img/posts/a-few-mid-march-largemouth-bass/a-mid-march-largemouth-bass-1456x2592.jpg
   height: 2592
   width: 1456
   alt: My right hand holding a largemough bass over a pond with a reflection of trees and the sunset
@@ -16,7 +16,7 @@ image:
   render: false
 images:
   another-lmb:
-    path: /posts/a-few-mid-march-largemouth-bass/another-mid-march-largemouth-bass-1456x2592.jpg
+    path: /assets/img/posts/a-few-mid-march-largemouth-bass/another-mid-march-largemouth-bass-1456x2592.jpg
     height: 2592
     width: 1456
     alt: My left hand holding a largemough bass over a pond with a reflection of trees

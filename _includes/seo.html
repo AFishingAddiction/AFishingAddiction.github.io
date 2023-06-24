@@ -27,7 +27,7 @@
 {% endif -%}
 {% if page.image -%}
   {% assign page_image = page.image %}
-  {% assign page_image_path = page.image.path | prepend: site.static.image.path %}
+  {% assign page_image_path = page.image.path %}
 {% endif -%}
 {% assign site_logo = site.logo | absolute_url -%}
 {% if page.seo.og.type -%}

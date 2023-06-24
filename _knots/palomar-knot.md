@@ -5,7 +5,7 @@ redirect_from: /knots/how-to-tie-a-palomar-knot/
 date: "2021-11-01"
 last_modified_at: 2023-03-06T13:47:00-04:00
 image:
-  path: /knots/palomar-knot/palomar-knot.webp
+  path: /assets/img/knots/palomar-knot/palomar-knot.webp
   height: 6000
   width: 6000
   alt: How to Tie a Palomar Knot

@@ -17,7 +17,7 @@ seo:
     reviewBody: ""
 related: []
 image:
-  path: /reviews/mystery-tackle-box-bass-review/mystery-tackle-box-logo.webp
+  path: /assets/img/reviews/mystery-tackle-box-bass-review/mystery-tackle-box-logo.webp
   height: 4500
   width: 4500
   alt: Mystery Tackle Box logo

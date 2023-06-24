@@ -8,7 +8,7 @@ date: 2014-03-07T07:12:02+00:00
 last_modified_at: 2023-06-21T08:05:00-04:00
 
 image:
-  path: /posts/my-tackle-bag/my-first-tackle-bag-1456x2592.webp
+  path: /assets/img/posts/my-tackle-bag/my-first-tackle-bag-1456x2592.webp
   height: 2592
   width: 1456
   alt: Olive green canvas fishing tackle bag with 3 snap close tackle organizers inside
@@ -16,7 +16,7 @@ image:
   render: false
 images:
   tackle-bag-filled:
-    path: /posts/my-tackle-bag/my-first-tackle-bag-filled-2592x1456.webp
+    path: /assets/img/posts/my-tackle-bag/my-first-tackle-bag-filled-2592x1456.webp
     height: 1456
     width: 2592
     alt: Olive green canvas fishing tackle bag with 2 snap close tackle organizers filled with baits and lures in front

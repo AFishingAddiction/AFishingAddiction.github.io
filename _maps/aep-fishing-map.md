@@ -5,7 +5,7 @@ excerpt: This map of the AEP area highlights ponds, campsites, and some fishing 
 permalink: /aep-fishing-map/
 map_source: https://www.google.com/maps/d/embed?mid=13pP_fw4Hssk4gAmd3zHfpQmWFrA
 image:
-  path: /maps/aep-fishing-map.png
+  path: /assets/img/maps/aep-fishing-map.png
   render: false
 seo:
   type: Map

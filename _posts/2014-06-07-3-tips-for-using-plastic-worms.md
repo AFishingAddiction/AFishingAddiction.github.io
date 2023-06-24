@@ -8,7 +8,7 @@ date: 2014-06-07T12:00:57+00:00
 last_modified_at: 2023-06-21T08:05:00-04:00
 
 image:
-  path: /posts/3-tips-for-using-plastic-worms/weedless-worm.jpg
+  path: /assets/img/posts/3-tips-for-using-plastic-worms/weedless-worm.jpg
   width: 1024
   height: 550
   alt: 9 inch Zoom Magnum II ribbon tail artifical worm on a fishing hook with point and barb of the hook buried into the body of the worm

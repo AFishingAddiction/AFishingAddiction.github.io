@@ -15,7 +15,7 @@ seo:
   type: Article
 related: [/5-bank-fishing-tips/,/best-time-to-go-bass-fishing,/reviews/fishbrain-mobile-app,]
 image:
-  path: /posts/6-things-to-do-in-the-fishing-off-season/snow-covered-dock-and-lake-in-the-fishing-off-season.jpg
+  path: /assets/img/posts/6-things-to-do-in-the-fishing-off-season/snow-covered-dock-and-lake-in-the-fishing-off-season.jpg
   width: 2593
   height: 2593
   alt: "Snow Covered Dock and Lake in the Fishing Off-season"

@@ -9,13 +9,13 @@ last_modified_at: 2023-06-21T08:05:00-04:00
 
 catch_ids: [9]
 image:
-  path: /posts/this-is-when-it-all-began/my-first-largemouth-bass-1456x2592.jpg
+  path: /assets/img/posts/this-is-when-it-all-began/my-first-largemouth-bass-1456x2592.jpg
   height: 2592
   width: 1456
   alt: My first Largemouth Bass and probably my personal best
 images:
   holding_my_first_lmb:
-    path: /posts/this-is-when-it-all-began/holding-my-first-largemouth-bass-1456x2592.jpg
+    path: /assets/img/posts/this-is-when-it-all-began/holding-my-first-largemouth-bass-1456x2592.jpg
     height: 2592
     width: 1456
     alt: Holding my first Largemouth Bass

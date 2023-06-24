@@ -8,7 +8,7 @@ date: 2014-03-11T00:00:00+00:00
 last_modified_at: 2023-06-21T08:05:00-04:00
 
 image:
-  path: /posts/my-first-muskie/the-head-of-my-first-muskie-1456x2592.webp
+  path: /assets/img/posts/my-first-muskie/the-head-of-my-first-muskie-1456x2592.webp
   height: 2592
   width: 1456
   alt: My hand holding up a adolescent muskie with a small hook and tube in its mouth with just the front half of the fish showing
@@ -16,7 +16,7 @@ image:
   render: false
 images:
   first-muskie:
-    path: /posts/my-first-muskie/my-first-muskie-1456x2592.webp
+    path: /assets/img/posts/my-first-muskie/my-first-muskie-1456x2592.webp
     height: 2592
     width: 1456
     alt: My hand holding up a adolescent muskie with a small hook and tube in its mouth with the full body of the fish showing

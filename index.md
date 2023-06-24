@@ -5,7 +5,7 @@ excerpt: "Recent blog posts about my fishing adventures in Ohio and some tips fo
 permalink: /
 author: false
 image:
-  path: /logo/A-Fishing-Addiction-logo.png
+  path: /assets/img/logo/A-Fishing-Addiction-logo.png
 seo:
   type: Website
 ---

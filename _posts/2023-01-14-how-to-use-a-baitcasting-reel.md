@@ -16,7 +16,7 @@ seo:
 
 images:
   baitcasting-reel-birds-nest:
-    path: /posts/how-to-use-a-baitcasting-reel/baitcasting-reel-birds-nest.png
+    path: /assets/img/posts/how-to-use-a-baitcasting-reel/baitcasting-reel-birds-nest.png
     title: A bird's nest on a baitcasting reels
     alt: A minor case of bird's nest on a baitcasting reel
     width: 675

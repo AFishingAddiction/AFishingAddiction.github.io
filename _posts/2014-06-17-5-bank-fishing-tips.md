@@ -8,7 +8,7 @@ date: 2014-06-17T15:38:37+00:00
 last_modified_at: 2023-06-21T08:05:00-04:00
 
 image:
-  path: /posts/5-bank-fishing-tips/robson-hatsukami-morgan-335701-unsplash.jpg
+  path: /assets/img/posts/5-bank-fishing-tips/robson-hatsukami-morgan-335701-unsplash.jpg
   width: 3743
   height: 5614
   alt: A man sitting on an elevated bank of a river with his fishing pole out in front of him

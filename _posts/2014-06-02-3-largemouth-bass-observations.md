@@ -8,26 +8,26 @@ date: 2014-06-02T00:00:00+00:00
 last_modified_at: 2023-06-21T08:05:00-04:00
 
 image:
-  path: /posts/3-largemouth-bass-observations/a-canal-bass-2448x3264.jpg
+  path: /assets/img/posts/3-largemouth-bass-observations/a-canal-bass-2448x3264.jpg
   width: 2448
   height: 3264
   alt: A largemouth bass caught in the Ohio Erie Canal
   caption: A largemouth bass caught in the Ohio Erie Canal
 images:
   small-bass:
-    path: /posts/3-largemouth-bass-observations/a-small-bass-on-a-scum-frog-2448x3264.jpg
+    path: /assets/img/posts/3-largemouth-bass-observations/a-small-bass-on-a-scum-frog-2448x3264.jpg
     width: 2448
     height: 3264
     alt: A small bass on a Scum Frog®
     caption: A small bass I caught on a Scum Frog®
   mouth-canal-bass:
-    path: /posts/3-largemouth-bass-observations/mouth-of-a-canal-bass-2448x3264.jpg
+    path: /assets/img/posts/3-largemouth-bass-observations/mouth-of-a-canal-bass-2448x3264.jpg
     width: 2448
     height: 3264
     alt: The mouth of a largemouth bass caught in the Ohio Erie Canal
     caption: The mouth of a largemouth bass caught in the Ohio Erie Canal
   shaky-head-lure:
-    path: /posts/3-largemouth-bass-observations/shaky-head-used-on-a-canal-bass-2448x3264.jpg
+    path: /assets/img/posts/3-largemouth-bass-observations/shaky-head-used-on-a-canal-bass-2448x3264.jpg
     width: 2448
     height: 3264
     alt: The shaky head lure I used to catch the bass

@@ -8,7 +8,7 @@ date: 2014-03-17T00:00:00+00:00
 last_modified_at: 2023-06-21T08:05:00-04:00
 
 image:
-  path: /posts/my-first-smallmouth-bass/a-red-eyed-smallmouth-bass-1456x2592.webp
+  path: /assets/img/posts/my-first-smallmouth-bass/a-red-eyed-smallmouth-bass-1456x2592.webp
   height: 2592
   width: 1456
   alt: My hand holding up a smallmouth bass with red eyes along the bank of the Cuyahoga River
@@ -16,19 +16,19 @@ image:
   render: false
 images:
   the-overlook-deck:
-    path: /posts/my-first-smallmouth-bass/the-overlook-deck-2592x1456.webp
+    path: /assets/img/posts/my-first-smallmouth-bass/the-overlook-deck-2592x1456.webp
     height: 1456
     width: 2592
     alt: The overlook deck where you can look onto the Cuyahoga River
     caption: The overlook deck
   a-bend-in-the-river:
-    path: /posts/my-first-smallmouth-bass/a-bend-in-the-Cuyahoga-River-2592x1456.webp
+    path: /assets/img/posts/my-first-smallmouth-bass/a-bend-in-the-Cuyahoga-River-2592x1456.webp
     height: 1456
     width: 2592
     alt: A view from an overlook deck where you can see a nice bend in the Cuyahoga River
     caption: A nice bend in the Cuyahoga River
   a-smallmouth-bass:
-    path: /posts/my-first-smallmouth-bass/a-smallmouth-bass-1456x2592.webp
+    path: /assets/img/posts/my-first-smallmouth-bass/a-smallmouth-bass-1456x2592.webp
     height: 2592
     width: 1456
     alt: My hand holding up another smallmouth bass along the bank of the Cuyahoga River

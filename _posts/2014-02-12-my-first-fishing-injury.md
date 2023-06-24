@@ -9,7 +9,7 @@ last_modified_at: 2023-06-21T08:05:00-04:00
 
 catch_ids: [8]
 image:
-  path: /posts/my-first-fishing-injury/hook-slice-1456x2592.jpg
+  path: /assets/img/posts/my-first-fishing-injury/hook-slice-1456x2592.jpg
   height: 2592
   width: 1456
   alt: My finger that I sliced with a hook while unhooked a bass

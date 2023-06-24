@@ -8,7 +8,7 @@ date: 2014-03-03T00:00:00+04:00
 last_modified_at: 2023-06-21T08:05:00-04:00
 
 image:
-  path: /posts/my-first-aep-adventure/AEP-ReCreation-Land-large-paper-map-1456x2592.webp
+  path: /assets/img/posts/my-first-aep-adventure/AEP-ReCreation-Land-large-paper-map-1456x2592.webp
   height: 2592
   width: 1456
   alt: AEP ReCreation Land paper map
@@ -16,19 +16,19 @@ image:
   render: false
 images:
   dirty-aep-bass:
-    path: /posts/my-first-aep-adventure/a-dirty-AEP-bass-1456x2592.webp
+    path: /assets/img/posts/my-first-aep-adventure/a-dirty-AEP-bass-1456x2592.webp
     height: 2592
     width: 1456
     alt: A hand holding a dirty largemouth bass by its mouth
     caption: I'm holding a largemouth bass after I caught it and dropped it on the ground
   dirty-aep-bass-trees:
-    path: /posts/my-first-aep-adventure/a-dirty-AEP-bass-trees-1456x2592.webp
+    path: /assets/img/posts/my-first-aep-adventure/a-dirty-AEP-bass-trees-1456x2592.webp
     height: 2592
     width: 1456
     alt: A cluster of dead trees jutting out of the water
     caption: A cluster of dead trees jutting out of the water where I caught the bass
   start-of-aep-adventure:
-    path: /posts/my-first-aep-adventure/start-of-my-first-AEP-adventure-2592x1456.webp
+    path: /assets/img/posts/my-first-aep-adventure/start-of-my-first-AEP-adventure-2592x1456.webp
     height: 2592
     width: 1456
     alt: A gravel road leading down into a large pond where you can launch a boat

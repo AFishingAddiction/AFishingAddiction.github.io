@@ -8,7 +8,7 @@ date: 2017-07-30T12:30:00+05:00
 last_modified_at: 2023-06-21T08:05:00-04:00
 
 image:
-  path: /posts/5-tips-for-the-wacky-rig/wacky-rigs.jpg
+  path: /assets/img/posts/5-tips-for-the-wacky-rig/wacky-rigs.jpg
   width: 1071
   height: 685
   alt: Two wacky worm rigs; one with a weedless hook and a worm with ribs around it and the other is a senko type worm rigged up through a black rubber o-ring on a different type of weedless hook

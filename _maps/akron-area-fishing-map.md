@@ -7,7 +7,7 @@ layout: map
 permalink: /akron-area-fishing-map/
 map_source: https://www.google.com/maps/d/embed?mid=1TxFxzv7ZZRIoCN6EImdFsKsdnjQ
 image:
-  path: /maps/akron-area-fishing-map.png
+  path: /assets/img/maps/akron-area-fishing-map.png
   render: false
 seo:
   type: Map

@@ -8,7 +8,7 @@ date: 2017-07-08T07:30:00+05:00
 last_modified_at: 2023-06-21T08:05:00-04:00
 
 image:
-  path: /posts/6-tips-for-exploring-fishing-spots/map-on-phone.jpg
+  path: /assets/img/posts/6-tips-for-exploring-fishing-spots/map-on-phone.jpg
   width: 5354
   height: 3574
   alt: A cell phone turned to landscape mode with a map application on the screen and someone pointing to the phone
