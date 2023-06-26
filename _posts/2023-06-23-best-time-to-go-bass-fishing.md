@@ -8,11 +8,12 @@ date: 2023-06-23T07:50:00-04:00
 last_modified_at: 2023-06-23T07:50:00-04:00
 
 image:
-  path: /assets/img/posts/best-time-to-go-bass-fishing/silhouette-of-man-holding-fishing-rod-during-sunset-12069878.jpg
-  height: 599
+  path: /assets/img/posts/best-time-to-go-bass-fishing/silhouette-of-man-holding-fishing-rod-during-sunset-12069878-800x599.webp
   width: 800
-  actual_height: 2984
-  actual_width: 3984
+  height: 599
+  original_path: /assets/img/posts/best-time-to-go-bass-fishing/silhouette-of-man-holding-fishing-rod-during-sunset-12069878.jpg
+  original_width: 3984
+  original_height: 2984
   alt: "A silhouette of a man on a river bank holding a fishing rod during sunset"
   credit: "Photo by Ihsan Adityawarman on <a href='https://www.pexels.com/photo/silhouette-of-man-holding-fishing-rod-during-sunset-12069878/'>Pexels.com</a>"
   render: true
