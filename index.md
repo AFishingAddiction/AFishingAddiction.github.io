@@ -35,7 +35,8 @@ seo:
     </div>
   </div>
   {% include ads/inline-content.html %}
-  {% for post in site.posts %}
+  {% assign pages_to_display = site.posts | concat: site.knots | concat: site.maps | sort: 'date' | reverse %}
+  {% for post in pages_to_display %}
     {% if post.canonical_url == nil %}
     <article class="post">
       <h2><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
