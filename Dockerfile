@@ -12,7 +12,7 @@ VOLUME [ "/srv/jekyll" ]
 COPY . /srv/jekyll
 CMD jekyll serve \
   --host 0.0.0.0 \
-  --destination ./_site \
+  --destination /tmp/_site \
   --strict_front_matter \
   --watch \
   --force_polling \
