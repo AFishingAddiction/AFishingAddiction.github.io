@@ -50,11 +50,10 @@ h6 {
 
   a {
     color: inherit;
-  }
-
-  a:hover {
-    color: inherit;
     text-decoration: underline;
+    &:hover {
+      color: $copperRed;
+    }
   }
 }
 
@@ -89,7 +88,8 @@ a {
   cursor: pointer;
   &:hover,
   &:active {
-    color: $blue;
+    color: $copperRed;
+    text-decoration: underline;
   }
   .fas {
     color: $primaryColorLight;
@@ -882,7 +882,8 @@ figure {
       }
 
       a:hover {
-        text-decoration: none;
+        text-decoration: underline;
+        color: $copperRed;
       }
     }
   }
@@ -924,6 +925,10 @@ figure {
     text-transform: uppercase;
     text-decoration: underline;
     color: $secondaryFontColor;
+
+    &:hover {
+      color: $copperRed;
+    }
   }
 
   .gallery {
