@@ -4,7 +4,7 @@
   <span class="banner {{ lure.banner_class }}">{{ lure.banner }}</span>
   {% endif %}
   <div class="row">
-    <div class="head">Photo</div>
+    <div class="head">Image</div>
     <div class="data">{{ lure.image_link }}</div>
   </div>
   <div class="row">
@@ -15,16 +15,16 @@
     <div class="head">Brand</div>
     <div class="data">{{ lure.brand }}</div>
   </div>
-  {% if lure.hooks %}
-  <div class="row">
-    <div class="head">Hook Type</div>
-    <div class="data">{{ lure.hooks }}</div>
-  </div>
-  {% endif %}
   {% if lure.type %}
   <div class="row">
     <div class="head">Lure Type</div>
     <div class="data">{{ lure.type }}</div>
+  </div>
+  {% endif %}
+  {% if lure.hooks %}
+  <div class="row">
+    <div class="head">Hook Type</div>
+    <div class="data">{{ lure.hooks }}</div>
   </div>
   {% endif %}
   {% if lure.blade_type %}
@@ -45,6 +45,18 @@
     <div class="data">{{ lure.length }}</div>
   </div>
   {% endif %}
+  {% if lure.features %}
+  <div class="row">
+    <div class="head">Features</div>
+    <div class="data">
+      <ul>
+        {% for feature in lure.features %}
+        <li>{{ feature }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+  {% endif %}
   <div class="row">
     <div class="head">Pieces</div>
     <div class="data">{{ lure.pieces }}</div>
@@ -53,10 +65,12 @@
     <div class="head">Rating</div>
     <div class="data">{{ lure.rating }} {{ lure.rating_stars }}</div>
   </div>
+  {% if lure.prime %}
   <div class="row">
     <div class="head">Prime</div>
-    <div class="data">{% if lure.prime %}Yes{% else %}No{% endif %}</div>
+    <div class="data">Yes</div>
   </div>
+  {% endif %}
   {% if lure.summarized_reviews %}
   <div class="row">
     <div class="head">Summary of Reviews</div>
@@ -95,6 +109,12 @@
   {% endif %}
   <div class="row">
     <div class="head">Buy</div>
-    <div class="data"><iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="{{ lure.iframe_link }}"></iframe></div>
+    <div class="data">
+    {% if lure.iframe_link -%}
+      <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="{{ lure.iframe_link }}"></iframe>
+    {%- else if lure.buy_url -%}
+      <a class="btn btn-secondary" href="{{ lure.buy_url }}" role="button">Check Price »</a>
+    {%- endif %}
+    </div>
   </div>
 </div>
