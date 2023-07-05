@@ -3,6 +3,8 @@ layout: map
 title: AEP Fishing Map
 excerpt: This map of the AEP area highlights ponds, campsites, and some fishing notes. It may also contain some of my recorded catches.
 permalink: /aep-fishing-map/
+date: 2016-08-23T00:00:00-04:00
+last_modified_at: 2022-07-09T17:54:05-04:00
 map_source: https://www.google.com/maps/d/embed?mid=13pP_fw4Hssk4gAmd3zHfpQmWFrA
 image:
   path: /assets/img/maps/aep-fishing-map.png
