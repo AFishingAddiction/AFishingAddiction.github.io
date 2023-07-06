@@ -31,7 +31,7 @@ lures:
     # Best Senko Worm
     # https://www.cabelas.com/shop/en/gary-yamamoto-5-senko
     - lure: Yamamoto Baits 5" Senko
-      image_link: <a id="3712631" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=3712631&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fgary-yamamoto-5-senko&intsrc=PUI2_895" target="_top"><img src="http://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/3712631.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="3712631" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=3712631&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fgary-yamamoto-5-senko&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/3712631.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
       brand: Yamamoto Baits
       type: Senko
       length: 5 inch
@@ -60,7 +60,7 @@ lures:
     # Best Ribbon Tail
     # https://www.cabelas.com/shop/en/zoom-magnum-ii-9
     - lure: Zoom Magnum II Worm
-      image_link: <a id="390050" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=390050&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-magnum-ii-9&intsrc=PUI2_895" target="_top"><img src="http://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/390050.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="390050" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=390050&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-magnum-ii-9&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/390050.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
       brand: Zoom
       type: Ribbon Tail
       length: 9 inch
@@ -85,7 +85,7 @@ lures:
     # Best Finesse Worm
     # https://www.cabelas.com/shop/en/zoom-finesse-4-3-4-worm
     - lure: Zoom Finesse Worm
-      image_link: <a id="446604" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=446604&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-finesse-4-3-4-worm&intsrc=PUI2_895" target="_top"><img src="http://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/446604.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="446604" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=446604&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-finesse-4-3-4-worm&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/446604.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
       brand: Zoom
       type: Finesse
       length: 4 1/2 inch
