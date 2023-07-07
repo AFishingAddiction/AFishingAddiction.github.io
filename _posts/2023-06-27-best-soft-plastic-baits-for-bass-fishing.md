@@ -243,14 +243,129 @@ lures:
         - May slide on offset hooks, requiring adjustments
         - Price may not be justified for some anglers, considering the durability and cost per bait
   craws:
-  # Most realistic
-  # https://www.cabelas.com/shop/en/yum-crawbug
-  # Most Versatile
-  # https://www.cabelas.com/shop/en/zoom-magnum-ultra-vibe-speed-craw
-  # Best Craw Chunk
-  # https://www.cabelas.com/shop/en/strike-king-rage-tail-chunk
-  # Best Off-Brand
-  # https://www.cabelas.com/shop/en/culprit-incredi-craw
+    # Most realistic
+    # https://www.cabelas.com/shop/en/yum-crawbug
+    - banner: Most Realistic
+      banner_class: primary
+      lure: YUM CrawBug
+      brand: YUM
+      image_link: <a id="2146456" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2146456&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fyum-crawbug&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2146456.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      length: 3 1/4 inch
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2146456&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fyum-crawbug&intsrc=PUI2_895
+      rating: 4.8
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+      type: Craw
+      features:
+        - Emulates a fleeing crawfish
+        - Amazingly realistic detail
+        - Hollow body
+        - Proven scent attractant
+      pieces: 8 pack
+      pros:
+        - Effective for both shallow and deep water fishing with a jig head.
+        - Provides good action and has a realistic appearance that attracts bass.
+        - Versatile bait that can be used with different rigging techniques like Texas, Carolina, and tube rigs.
+        - Durable design with claws that stay intact even after multiple uses.
+        - Works well as a trailer on jigs, especially around rocks and wood.
+        - Comes in various colors that appeal to different fish species.
+        - Can be used for fishing smallmouth, walleye, redfish, snapper, and more.
+        - Stands straight up when rigged, allowing for a bouncing action off the bottom.
+      cons:
+        - Some users prefer larger sizes for more versatility in rigging options.
+        - May not have as much movement compared to other craw baits.
+        - Upside-down rolling tendency when Texas rigged.
+    # Most Versatile
+    # https://www.cabelas.com/shop/en/zoom-magnum-ultra-vibe-speed-craw
+    - banner: Most Versatile
+      banner_class: secondary
+      lure: Zoom Magnum Ultra-Vibe Speed Craw
+      brand: Zoom
+      image_link: <a id="2921983" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2921983&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-magnum-ultra-vibe-speed-craw&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2921983.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      length: 4 1/4 inch
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2921983&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-magnum-ultra-vibe-speed-craw&intsrc=PUI2_895
+      rating: 4.8
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+      type: Craw
+      features:
+        - Incredibly versatile
+        - Can be fished alone or on a rig
+        - High-action tentacles
+      pieces: 10 pack
+      pros:
+        - Works well in bass spawn and post-spawn situations
+        - Versatile bait that catches fish when fished slow or fast
+        - Good action and fluttering motion that attracts bass
+        - Suitable for various rigging options, such as Texas rig, Carolina rig, and jig trailer
+        - Durable and can withstand multiple uses
+        - Effective in both freshwater and brackish water environments
+        - Excellent bait for flipping mats, fishing in heavy cover, and pitching into grass
+        - Attracts both largemouth bass and smallmouth bass
+        - Available in a wide range of colors to match local baitfish
+      cons:
+        - Some anglers have reported durability issues, but this is common with similar baits
+        - New stock colors may differ slightly from the original, which could affect fish response
+        - May not be as effective for trout fishing
+        - Works best when fished slowly along the bottom, not ideal for fast retrieval techniques
+    # Best Craw Chunk
+    # https://www.cabelas.com/shop/en/strike-king-rage-tail-chunk
+    - banner: Best Craw Chunk
+      banner_class: tertiary
+      lure: Strike King Rage Tail Chunk
+      brand: Strike King
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1941145&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-rage-tail-chunk&intsrc=PUI2_895
+      image_link: <a id="1941145" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1941145&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-rage-tail-chunk&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1941145.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      length: 3 inch
+      rating: 4.7
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
+      type: Chunk
+      features:
+        - Short, fat body
+        - Extra-large pincers
+        - Eye-catching action
+      pieces: 7 pack
+      pros:
+        - Lots of action
+        - Effective as a trailer for jigs, great for swim jigs, performs well on football jigs, and suitable for flippin', pitchin', and topwater fishing
+        - Attracts bass and triggers strikes
+        - Good color assortment
+        - Durable for multiple uses
+        - Works well in rivers, lakes, and ponds
+        - Excellent for smallmouth bass
+        - Easy to rig and use
+        - Impressive claw action
+        - Lifelike appearance and movement
+        - Good scent that attracts bass
+      cons:
+        - Limited color options
+        - Durability issues with plastic between pincers
+        - Claws can get torn off by panfish or short strikes
+    # Best Off-Brand
+    # https://www.cabelas.com/shop/en/culprit-incredi-craw
+    - banner: Best Off-Brand
+      banner_class: quaternary
+      lure: Culprit Incredi-Craw
+      brand: Culprit
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2042845&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fculprit-incredi-craw&intsrc=PUI2_895
+      image_link: <a id="2042845" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2042845&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fculprit-incredi-craw&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2042845.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      length: 4 inch
+      rating: 4.7
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
+      type: Craw
+      features:
+        - Assumes a classic defensive position upon contact with the bottom
+        - Realistic legs
+        - Punches through vegetation
+      pieces: 6 pack
+      pros:
+        - Versatile bait that can be used for flipping, pitching, Carolina rigging, and as a jig trailer
+        - Lots of action in the water, enticing hungry bass
+        - Comes in a variety of great colors
+        - Slim and compact design allows it to slide through thick cover
+        - Long tentacles add extra flare to the bait
+        - Molded body resembles the shell of a crawdad
+      cons:
+        - The smallest size may appear too big and not lifelike
+        - Requires sturdy equipment as it is not a small fish bait
   jerkbaits:
   # Most Versatile
   # https://www.cabelas.com/shop/en/strike-king-kvd-perfect-plastics-blade-minnow
@@ -281,6 +396,7 @@ So, grab your rod, buckle up, and let's explore the exciting world of these fant
 
 - [Worms](#worms)
 - [Creatures](#creatures)
+- [Craws](#craws)
 
 ## <a href="https://cabelas.xhuc.net/VmbEk6">Worms</a>
 
@@ -300,6 +416,17 @@ Now, let's talk about one of the most versatile and enticing categories of soft 
 Whether you're flipping heavy cover, punching through vegetation, or working submerged structure, creature baits excel at triggering aggressive strikes. Their tantalizing action and realistic profiles make them irresistible to bass, giving you a shot at reeling in the big ones. So, get ready to unleash the beast and see how creature baits can elevate your bass fishing game to a whole new level.
 
 {% for lure in page.lures.creatures %}
+  {% include product-table.md product=lure %}
+{% endfor %}
+<hr/>
+
+## <a href="https://cabelas.xhuc.net/JzmOK7">Craws</a>
+
+Get ready to crank up the bass action with the mighty crawfish baits! These little crustacean-inspired lures are a staple in any angler's tackle box. With their lifelike pinchers, wavy legs, and textured bodies, crawfish baits perfectly mimic the natural movements of these underwater delicacies.
+
+Whether you're targeting bass in rocky areas, weed beds, or around submerged structures, crawfish baits excel at drawing strikes. Just drag them along the bottom or hop them gently, and watch as bass pounce on these irresistible snacks. So, gear up and let's dive into the world of crawfish baits, where big bass can't resist the temptation to feast!
+
+{% for lure in page.lures.craws %}
   {% include product-table.md product=lure %}
 {% endfor %}
 <hr/>
