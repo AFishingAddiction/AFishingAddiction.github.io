@@ -113,7 +113,7 @@
     {% if lure.iframe_link -%}
       <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="{{ lure.iframe_link }}"></iframe>
     {%- else if lure.buy_url -%}
-      <a class="btn btn-secondary" href="{{ lure.buy_url }}" role="button">Check Price »</a>
+      <a class="btn btn-accent" href="{{ lure.buy_url }}" role="button">Check Price »</a>
     {%- endif %}
     </div>
   </div>
