@@ -25,7 +25,7 @@ tags:
   - topwater
 seo:
   type: Article
-related: [/best-time-to-go-bass-fishing,/cracking-the-code-effective-fishing-lures-for-heavily-pressured-bass,/bass-fishing-in-spring/,]
+related: [/best-soft-plastic-baits-for-bass-fishing,/best-time-to-go-bass-fishing,/cracking-the-code-effective-fishing-lures-for-heavily-pressured-bass,]
 
 lures:
   frogs:

@@ -5,7 +5,7 @@ permalink: /best-soft-plastic-baits-for-bass-fishing
 excerpt: "In this article, we'll dive into the world of soft plastics and discover the best rated plastic baits for bass fishing, highlighting some of their characteristics, strengths and weaknesses."
 author: dan
 date: 2023-07-05T08:00:00-04:00
-last_modified_at: 2023-07-05T08:00:00-04:00
+last_modified_at: 2023-07-06T09:07:00-04:00
 
 image:
   path: /assets/img/posts/best-soft-plastic-baits-for-bass-fishing/a-pile-of-plastic-fishing-bait-800x534.webp
@@ -22,11 +22,30 @@ tags:
   - bass
   - best
   - baits
+  - soft plastics
 seo:
   type: Article
-related: []
+related: [/best-time-to-go-bass-fishing,/cracking-the-code-effective-fishing-lures-for-heavily-pressured-bass,/bass-fishing-in-spring/,]
 
 lures:
+  _template:
+    - banner:
+      banner_class:
+      lure:
+      brand:
+      image_link:
+      length:
+      buy_url:
+      rating:
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
+      type:
+      features:
+        -
+      pieces:
+      pros:
+        -
+      cons:
+        -
   worms:
     # Best Senko Worm
     # https://www.cabelas.com/shop/en/gary-yamamoto-5-senko
@@ -108,18 +127,160 @@ lures:
         - Some anglers mentioned that the worms tear up easily, reducing their durability
         - Availability of certain colors, such as Cotton Candy, may be inconsistent or discontinued
 
-  beavers:
   creatures:
+    # Best Beaver
+    # https://www.cabelas.com/shop/en/berkley-powerbait-pit-boss
+    - lure: Berkley PowerBait Pit Boss
+      brand: Berkley
+      image_link: <a id="2360312" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2360312&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fberkley-powerbait-pit-boss&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2360312.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      type: Beaver
+      length: 4 inch
+      features:
+        - Cooked-in flavor holds the bite 18 times longer
+        - Great tail-waving action
+      pieces: 8 pack
+      rating: 4.9
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2360312&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fberkley-powerbait-pit-boss&intsrc=PUI2_895
+      banner: Best Beaver
+      banner_class: primary
+      pros:
+        - Versatile and can be rigged in various ways
+        - Impressive action, motion, and appearance in the water
+        - Suitable for techniques like punching, flipping, skipping, and swimming
+        - Good durability with potential for multiple catches
+        - Reasonable price
+      cons:
+        - Occasional durability issues with tail flaps getting ripped off
+        - Limited availability in certain sizes and colors
+    # Best Creature Hybrid
+    # https://www.cabelas.com/shop/en/zoom-baby-brush-hog
+    - banner: Best Creature Hybrid
+      banner_class: secondary
+      lure: Zoom Baby Brush Hog
+      brand: Zoom
+      image_link: <a id="585612" href="https://cabelas.xhuc.net/c/4236519/1443703/2623?prodsku=585612&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-baby-brush-hog&intsrc=PUI2_10636" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/585612.json?$BPSMkt_ProductFeeds$&extend=380,380,380,380" border="0" alt=""/></a>
+      length: 4 inch
+      buy_url: https://cabelas.xhuc.net/c/4236519/1443703/2623?prodsku=585612&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-baby-brush-hog&intsrc=PUI2_10636
+      rating: 4.9
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
+      type: Creature Hybrid
+      features:
+        - Crawfish/lizard/worm hybrid
+        - Slender body with high-action appendages
+        - Wholly realistic, super-soft to the touch
+        - Salt-impregnated
+        - Great for pitching, flipping or swimming
+      pieces: 12 pack
+      pros:
+        - Effective in various conditions, including during spawn and in tough fishing situations
+        - Versatile and can be used with different rigging methods (Texas rig, Carolina rig, shaky head, etc.)
+        - Good action and appearance in the water, attracting bites
+        - Durable, lasting through multiple catches
+        - Wide range of colors available
+        - Affordable price
+      cons:
+        - Limited success in winter fishing
+        - Some concerns about initial quality control (falling apart in the bag) and may tear easily in certain situations
+        - Not as effective in heavily fished areas with fishing pressure
+    # Best Action
+    # https://www.cabelas.com/shop/en/strike-king-rage-tail-space-monkey-soft-baits
+    - banner: Best Action
+      banner_class: tertiary
+      lure: Strike King Rage Tail Space Monkey Soft Baits
+      brand: Strike King
+      image_link: <a id="1530474" href="https://cabelas.xhuc.net/c/4236519/1443703/2623?prodsku=1530474&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-rage-tail-space-monkey-soft-baits&intsrc=PUI2_10636" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1530474.json?$BPSMkt_ProductFeeds$&extend=380,380,380,380" border="0" alt=""/></a>
+      length: 4 inch
+      buy_url: https://cabelas.xhuc.net/c/4236519/1443703/2623?prodsku=1530474&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-rage-tail-space-monkey-soft-baits&intsrc=PUI2_10636
+      rating: 4.9
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+      type: Creature
+      features:
+        - Scalloped Rage Tail design
+        - Elongated legs
+        - Extra bumps
+        - Backslit for better hooksets
+      pieces: 6 pack
+      pros:
+        - Excellent action in the water, attracting fish
+        - Versatile and can be used in various fishing techniques (flipping, swimming, pitching, Texas rig, etc.)
+        - Durable and can withstand multiple catches
+        - Wide range of colors available
+        - Effective in different water conditions and locations, especially in heavy cover and around structure
+        - Has produced consistent results for many anglers
+        - Can attract bites from both bass and other species
+      cons:
+        - Some concerns about the durability of the appendages, which can be easily torn off by panfish
+        - Scent may not be appealing to all anglers
+        - Some anglers have experienced difficulty with fish grabbing only the tail, resulting in quick tearing
+        - May require frequent replacement due to wear and tear
+    # Best Tail
+    # https://www.cabelas.com/shop/en/gary-yamamoto-kreature
+    - banner: Best Tail
+      banner_class: quaternary
+      lure: Yamamoto Baits Kreature
+      brand: Yamamoto Baits
+      image_link: <a id="1061414" href="https://cabelas.xhuc.net/c/4236519/1443703/2623?prodsku=1061414&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fgary-yamamoto-kreature&intsrc=PUI2_10636" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1061414.json?$BPSMkt_ProductFeeds$&extend=380,380,380,380" border="0" alt=""/></a>
+      length: 4 inch
+      buy_url: https://cabelas.xhuc.net/c/4236519/1443703/2623?prodsku=1061414&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fgary-yamamoto-kreature&intsrc=PUI2_10636
+      rating: 4.7
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
+      type: Creature
+      features:
+        - Rear paddle spring back and forth
+        - Tantalizing floating tail
+      pieces: 7 pack
+      pros:
+        - Versatile and can be used in various fishing techniques (Texas rigged, Carolina rigged, weighted swimbait hook, etc.)
+        - Good action in the water, mimicking natural prey
+        - Can be fished in different depths and structures
+        - Available in a variety of colors to suit different conditions
+        - Effective in catching big fish
+        - Can be used for both largemouth and smallmouth bass
+      cons:
+        - Relatively expensive compared to other baits
+        - Soft plastic material tears easily, requiring frequent bait replacement
+        - May slide on offset hooks, requiring adjustments
+        - Price may not be justified for some anglers, considering the durability and cost per bait
   craws:
+  # Most realistic
+  # https://www.cabelas.com/shop/en/yum-crawbug
+  # Most Versatile
+  # https://www.cabelas.com/shop/en/zoom-magnum-ultra-vibe-speed-craw
+  # Best Craw Chunk
+  # https://www.cabelas.com/shop/en/strike-king-rage-tail-chunk
+  # Best Off-Brand
+  # https://www.cabelas.com/shop/en/culprit-incredi-craw
   jerkbaits:
+  # Most Versatile
+  # https://www.cabelas.com/shop/en/strike-king-kvd-perfect-plastics-blade-minnow
+  # Best Up-and-Coming Brand
+  # https://www.cabelas.com/shop/en/lunker-city-slug-go
+  # Best Split-Tail
+  # https://www.cabelas.com/shop/en/berkley-powerbait-minnow
+  # Best Larger Minnow
+  # https://www.cabelas.com/shop/en/zoom-magnum-super-fluke-7
   swimbaits:
+  # Most Popular
+  # https://www.cabelas.com/shop/en/yum-money-minnow
+  # Best Ribbed Body
+  # https://www.cabelas.com/shop/en/berkley-powerbait-power-swimmer
+  # Best Off-Brand
+  # https://www.cabelas.com/shop/en/creme-reel-scremer-swimbait
+  # Best Hinged Tail
+  # https://www.cabelas.com/shop/en/gary-yamamoto-zako-swimbait
 ---
 
 Hey there, angling enthusiasts! If you're as hooked on bass fishing as I am, then you know the importance of having the right lures in your tackle box. When it comes to enticing those elusive bass, soft plastic lures are an angler's best friend.
 
 In this article, we'll dive into the world of soft plastics and discover the best rated worms, beavers, creatures, craws, jerkbaits, and swimbaits. For each type, I have personally chosen a the best rated <a href="https://cabelas.xhuc.net/DKbPob">plastic worms from Cabela's</a> and highlighting some of their characteristics, strengths and weaknesses.
 
-So, grab your rod, buckle up, and let's explore the exciting world of these fantastic lures. We'll even mention a couple of popular brands like Zoom and Yamamoto that have anglers raving. Get ready to level up your bass fishing game!
+So, grab your rod, buckle up, and let's explore the exciting world of these fantastic lures. We'll even mention a couple of popular brands like Berkley, Strike King, Yamamoto, and Zoom that have anglers raving. Get ready to level up your bass fishing game!
+
+<h2>Table of Contents</h2>
+
+- [Worms](#worms)
+- [Creatures](#creatures)
 
 ## <a href="https://cabelas.xhuc.net/VmbEk6">Worms</a>
 
@@ -128,6 +289,17 @@ In this section, let's explore one of bass fishing's all-time classics&mdash;the
 Whether you're a seasoned pro or just starting out, get ready to discover the top plastic worms available today. We'll break down their unique features, highlight the advantages, and hey, we'll even spill the beans on a few potential drawbacks. So, let's get ready to choose the best rated plastic worm that'll help you reel in those monster bass on your next fishing adventure!
 
 {% for lure in page.lures.worms %}
+  {% include product-table.md product=lure %}
+{% endfor %}
+<hr/>
+
+## <a href="https://cabelas.xhuc.net/MmNB03">Creatures</a>
+
+Now, let's talk about one of the most versatile and enticing categories of soft plastic lures in bass fishing: creature baits. These little monsters are designed to imitate a wide range of creatures that bass love to prey upon. With their unique shapes, multiple appendages, and lifelike details, creature baits are a go-to choice for enticing strikes from even the most finicky bass.
+
+Whether you're flipping heavy cover, punching through vegetation, or working submerged structure, creature baits excel at triggering aggressive strikes. Their tantalizing action and realistic profiles make them irresistible to bass, giving you a shot at reeling in the big ones. So, get ready to unleash the beast and see how creature baits can elevate your bass fishing game to a whole new level.
+
+{% for lure in page.lures.creatures %}
   {% include product-table.md product=lure %}
 {% endfor %}
 <hr/>

@@ -21,7 +21,7 @@ images:
     width: 2592
     alt: Olive green canvas fishing tackle bag with 2 snap close tackle organizers filled with baits and lures in front
 
-related: [/5-bank-fishing-tips/,/my-first-fishing-injury/,/6-things-to-do-in-the-fishing-off-season,]
+related: [/5-bank-fishing-tips/,/best-soft-plastic-baits-for-bass-fishing,/my-first-fishing-injury/,]
 seo:
   type: BlogPosting
 tags: [equipment, tackle]

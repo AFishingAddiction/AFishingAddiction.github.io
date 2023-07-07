@@ -18,7 +18,7 @@ seo:
 tags:
   - plastic worm
   - tips
-related: [/5-tips-for-the-wacky-rig/,/6-things-to-do-in-the-fishing-off-season,/5-bank-fishing-tips/,]
+related: [/5-tips-for-the-wacky-rig/,/best-soft-plastic-baits-for-bass-fishing,/6-things-to-do-in-the-fishing-off-season,]
 ---
 There are many things that you can do to improve your fishing game. Here are a few tips for using plastic worms to help you achieve that goal of catching those lunkers.
 
