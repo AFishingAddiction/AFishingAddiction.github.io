@@ -5,7 +5,7 @@ permalink: /best-soft-plastic-baits-for-bass-fishing
 excerpt: "In this article, we'll dive into the world of soft plastics and discover the best rated plastic baits for bass fishing, highlighting some of their characteristics, strengths and weaknesses."
 author: dan
 date: 2023-07-05T08:00:00-04:00
-last_modified_at: 2023-07-08T10:36:00-04:00
+last_modified_at: 2023-07-08T10:40:00-04:00
 
 image:
   path: /assets/img/posts/best-soft-plastic-baits-for-bass-fishing/a-pile-of-plastic-fishing-bait-800x534.webp
@@ -23,6 +23,7 @@ tags:
   - best
   - baits
   - soft plastics
+  - worms
 seo:
   type: Article
 related: [/best-time-to-go-bass-fishing,/cracking-the-code-effective-fishing-lures-for-heavily-pressured-bass,/bass-fishing-in-spring/,]
@@ -521,6 +522,8 @@ So, grab your rod, buckle up, and let's explore the exciting world of these fant
 In this section, let's explore one of bass fishing's all-time classics&mdash;the mighty plastic worm. Now, if there's one lure that has truly stood the test of time and consistently hooked those elusive bass, it's the trusty plastic worm. It's got this uncanny lifelike action that bass just can't resist!
 
 Whether you're a seasoned pro or just starting out, get ready to discover the top plastic worms available today. We'll break down their unique features, highlight the advantages, and hey, we'll even spill the beans on a few potential drawbacks. So, let's get ready to choose the best rated plastic worm that'll help you reel in those monster bass on your next fishing adventure!
+
+The category of plastic worms was a difficult one for me. There are lots of companies, shapes, sizes, colors, and other features that challenged me to find the best of each type of plastic worm. However, the list that I chose were chosend for a specific reason and I think you'll agree with my picks.
 
 {% for lure in page.lures.worms %}
   {% include product-table.md product=lure %}
