@@ -33,11 +33,11 @@ lures:
       banner_class:
       lure:
       brand:
-      image_link:
-      length:
-      buy_url:
       rating:
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
+      buy_url:
+      image_link:
+      length:
       type:
       features:
         -
@@ -271,7 +271,7 @@ lures:
         - Can be used for fishing smallmouth, walleye, redfish, snapper, and more.
         - Stands straight up when rigged, allowing for a bouncing action off the bottom.
       cons:
-        - Some users prefer larger sizes for more versatility in rigging options.
+        - Some anglers prefer larger sizes for more versatility in rigging options.
         - May not have as much movement compared to other craw baits.
         - Upside-down rolling tendency when Texas rigged.
     # Most Versatile
@@ -367,14 +367,131 @@ lures:
         - The smallest size may appear too big and not lifelike
         - Requires sturdy equipment as it is not a small fish bait
   jerkbaits:
-  # Most Versatile
-  # https://www.cabelas.com/shop/en/strike-king-kvd-perfect-plastics-blade-minnow
-  # Best Up-and-Coming Brand
-  # https://www.cabelas.com/shop/en/lunker-city-slug-go
-  # Best Split-Tail
-  # https://www.cabelas.com/shop/en/berkley-powerbait-minnow
-  # Best Larger Minnow
-  # https://www.cabelas.com/shop/en/zoom-magnum-super-fluke-7
+    # Most Versatile
+    # https://www.cabelas.com/shop/en/strike-king-kvd-perfect-plastics-blade-minnow
+    - banner: Most Versatile
+      banner_class: primary
+      lure: Strike King KVD Perfect Plastics Blade Minnow
+      brand: Strike King
+      rating: 5.0
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2146677&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-kvd-perfect-plastics-blade-minnow&intsrc=PUI2_895
+      image_link: <a id="2146677" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2146677&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-kvd-perfect-plastics-blade-minnow&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2146677.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      length: 4 1/2 inch
+      type: minnow
+      features:
+        - Segmented body
+        - Slender profile
+        - Natural lifelike swimming action
+      pieces: 8 pack
+      pros:
+        - Great action as a jig trailer or weightless soft bait
+        - Provides excellent bladed jig trailer action for mid water clarity
+        - Can be used effectively with underspin and naked swim jig
+        - Tails have nice subtle action and are durable
+        - Available in different colors, such as bluegill, for attracting fish
+        - Recommended by professional angler Kevin VanDam
+      cons:
+        - Item is not flat despite its name
+        - Tails may rip off easily
+    # Best Off-Brand
+    # https://www.cabelas.com/shop/en/lunker-city-slug-go
+    - banner: Best Off-Brand
+      banner_class: secondary
+      lure: Lunker City Slug-Go
+      brand: Lunker City
+      rating: 4.9
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=177884&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Flunker-city-slug-go&intsrc=PUI2_895
+      image_link: <a id="177884" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=177884&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Flunker-city-slug-go&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/177884.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      length: 6 inch
+      type: SLug
+      features:
+        - Erratic injured baitfish action
+        - Effective in freshwater or saltwater
+      pieces: 8 pack
+      pros:
+        - Versatile and effective for various fish species, including largemouth bass, smallmouth bass, stripers, trout, pike, perch, crappie, and more
+        - Great action and natural dying baitfish look
+        - "Can be rigged in multiple ways: weightless, texas rig, wacky rig, jig head, or with a split-shot or belly-weight"
+        - Excellent for finesse fishing and attracting big strikes
+        - Random and erratic action that entices fish
+        - Works well in various conditions, depths, and water clarity
+        - Casts well and covers different areas, including lily pads, weedbeds, rocks, and heavy cover
+        - Durable construction (except for the top of the bait where the hook is inserted)
+        - Comes in a variety of colors, allowing for customization and preference
+      cons:
+        - May not cast far when used weightless
+        - Tails and body can tear easily with use
+        - Limited availability of certain colors in stores
+        - Rigging can be tricky for some anglers
+        - Some anglers reported difficulty in keeping the hooks in after a few good hits
+    # Best Split-Tail
+    # https://www.cabelas.com/shop/en/berkley-powerbait-minnow
+    - banner: Best Split-Tail
+      banner_class: tertiary
+      lure: Berkley PowerBait Minnow
+      brand: Berkley
+      rating: 4.8
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2038449&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fberkley-powerbait-minnow&intsrc=PUI2_895
+      image_link: <a id="2038449" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2038449&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fberkley-powerbait-minnow&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2038449.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      length: 3 inch
+      type: Minnow
+      features:
+        - Great for jig trailers, spinner rigs, drop-shots
+        - Split tail design provides subtle finesse presentation
+        - All sizes are ideal for bass, walleye and trout
+        - PowerBait advantage—fish bite and won't let go!
+      pieces: 15 pack
+      pros:
+        - Effective for crappie, bass, trout, walleye, bluegill, and panfish.
+        - Mimics a minnow well, attracting various fish species.
+        - Works as a search bait and catches fish in different water conditions.
+        - Can be used with different jig head sizes.
+        - Durable and lasts through multiple fish catches.
+        - Versatile bait for various fishing techniques (jigging, drop shot, spinnerbait, etc.).
+        - Suitable for both freshwater and saltwater fishing.
+        - Good alternative to live bait, with comparable or better results.
+        - Comes in different sizes and colors to match the bait fish in different environments.
+      cons:
+        - Some anglers have found the current versions to be fragile.
+        - Not as soft as other brands like Gulp Alive.
+        - Doesn't have the same scent as Gulp Alive.
+        - Durability is not as good as previous products from Berkley.
+    # Best Larger Minnow
+    # https://www.cabelas.com/shop/en/zoom-magnum-super-fluke-7
+    - banner: Best Larger Minnow
+      banner_class: quaternary
+      lure: Zoom Magnum Super Fluke
+      brand: Zoom
+      rating: 4.9
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1510725&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-magnum-super-fluke-7&intsrc=PUI2_895
+      image_link: <a id="1510725" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1510725&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-magnum-super-fluke-7&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1510725.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      length: 7 inch
+      type: Baitfish
+      features:
+        - Realistic baitfish profile with split-tail action
+        - Plumper and heavier than its smaller cousins
+        - Casts longer, sinks faster
+        - Super-soft, yet durable
+        - Salt-impregnated to hold the bite
+        - 7" size is great for trophy hunting
+      pieces: 5 pack
+      pros:
+        - Has a lot of action and attracts striped bass
+        - Works well with a slow retrieve, especially for bass
+        - Considered better than other tested gear
+        - Effective for catching big bass and larger fish
+        - Versatile lure for surface fishing and deeper presentations
+        - Weedless design makes it safe and easy to use
+        - Can be effective for young anglers and in various fishing environments
+        - Durable material allows for multiple catches on one bait
+      cons:
+        - Lure may get torn up easily and require frequent replacement
+        - Limited color selection, some anglers desired more options
+        - Fall rate may be slower than desired for certain fishing situations
   swimbaits:
   # Most Popular
   # https://www.cabelas.com/shop/en/yum-money-minnow
@@ -397,6 +514,7 @@ So, grab your rod, buckle up, and let's explore the exciting world of these fant
 - [Worms](#worms)
 - [Creatures](#creatures)
 - [Craws](#craws)
+- [Jerkbaits](#jerkbaits)
 
 ## <a href="https://cabelas.xhuc.net/VmbEk6">Worms</a>
 
@@ -415,6 +533,8 @@ Now, let's talk about one of the most versatile and enticing categories of soft 
 
 Whether you're flipping heavy cover, punching through vegetation, or working submerged structure, creature baits excel at triggering aggressive strikes. Their tantalizing action and realistic profiles make them irresistible to bass, giving you a shot at reeling in the big ones. So, get ready to unleash the beast and see how creature baits can elevate your bass fishing game to a whole new level.
 
+This was a tough category of soft baits for me. There are lots of companies that make all kinds of creatures. I found it very difficult to choose the best baits of their kind, but I feel that this is a solid list of creature baits with great reviews.
+
 {% for lure in page.lures.creatures %}
   {% include product-table.md product=lure %}
 {% endfor %}
@@ -427,6 +547,19 @@ Get ready to crank up the bass action with the mighty crawfish baits! These litt
 Whether you're targeting bass in rocky areas, weed beds, or around submerged structures, crawfish baits excel at drawing strikes. Just drag them along the bottom or hop them gently, and watch as bass pounce on these irresistible snacks. So, gear up and let's dive into the world of crawfish baits, where big bass can't resist the temptation to feast!
 
 {% for lure in page.lures.craws %}
+  {% include product-table.md product=lure %}
+{% endfor %}
+<hr/>
+
+## Jerkbaits
+
+Are you ready to add some extra finesse and excitement to your bass fishing arsenal? Look no further than soft plastics jerkbaits! These versatile lures are designed to mimic injured baitfish, creating irresistible darting and erratic movements in the water.
+
+Whether you're fishing in freshwater lakes, rivers, or even saltwater estuaries, soft plastics jerkbaits can be the secret weapon you need to entice aggressive strikes from hungry bass. With their soft, lifelike bodies and realistic finishes, these baits are sure to grab the attention of even the most finicky bass. So, get ready to twitch, pause, and reel in some impressive catches with the help of soft plastics jerkbaits!
+
+The jerkbaits category was a little easier for me to choose the right baits. These are all highly rated and best in their own ways.
+
+{% for lure in page.lures.jerkbaits %}
   {% include product-table.md product=lure %}
 {% endfor %}
 <hr/>
