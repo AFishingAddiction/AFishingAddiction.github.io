@@ -5,7 +5,7 @@ permalink: /best-soft-plastic-baits-for-bass-fishing
 excerpt: "In this article, we'll dive into the world of soft plastics and discover the best rated plastic baits for bass fishing, highlighting some of their characteristics, strengths and weaknesses."
 author: dan
 date: 2023-07-05T08:00:00-04:00
-last_modified_at: 2023-07-08T10:40:00-04:00
+last_modified_at: 2023-07-10T08:43:00-04:00
 
 image:
   path: /assets/img/posts/best-soft-plastic-baits-for-bass-fishing/a-pile-of-plastic-fishing-bait-800x534.webp
@@ -29,24 +29,6 @@ seo:
 related: [/best-time-to-go-bass-fishing,/cracking-the-code-effective-fishing-lures-for-heavily-pressured-bass,/bass-fishing-in-spring/,]
 
 lures:
-  _template:
-    - banner:
-      banner_class:
-      lure:
-      brand:
-      rating:
-      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
-      buy_url:
-      image_link:
-      length:
-      type:
-      features:
-        -
-      pieces:
-      pros:
-        -
-      cons:
-        -
   worms:
     # Best Senko Worm
     # https://www.cabelas.com/shop/en/gary-yamamoto-5-senko
@@ -494,19 +476,125 @@ lures:
         - Limited color selection, some anglers desired more options
         - Fall rate may be slower than desired for certain fishing situations
   swimbaits:
-  # Most Popular
-  # https://www.cabelas.com/shop/en/yum-money-minnow
-  # Best Ribbed Body
-  # https://www.cabelas.com/shop/en/berkley-powerbait-power-swimmer
-  # Best Off-Brand
-  # https://www.cabelas.com/shop/en/creme-reel-scremer-swimbait
-  # Best Hinged Tail
-  # https://www.cabelas.com/shop/en/gary-yamamoto-zako-swimbait
+    # Most Popular
+    # https://www.cabelas.com/shop/en/yum-money-minnow
+    - banner: Most Popular
+      banner_class: primary
+      lure: YUM Money Minnow
+      brand: YUM
+      rating: 4.4
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1499018&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fyum-money-minnow&intsrc=PUI2_895
+      image_link: <a id="1499018" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1499018&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fyum-money-minnow&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1499018.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      length: 3 1/2 inch
+      type: Paddle Tail
+      features:
+        - Lifelike finish
+        - Proven swimming action
+        - Rigging-friendly design
+        - Hook-hiding belly slot
+        - Enables strong hooksets
+      pieces: 5 pack
+      summarized_reviews:
+      pros:
+        - Versatile bait for various fishing techniques such as rigging on a jig head, trailer for a spinnerbait, chatterbait, or buzzbaits, and swim jigs.
+        - Effective for catching bass, walleye, crappie, pike, tigers, catfish, bowfin, pickeral, drum, and other species.
+        - Realistic and lifelike action that attracts schooling bass and other fish
+        - Successful in both freshwater and saltwater fishing.
+        - Some anglers have reported catching large bass, including those over ten pounds, using this bait.
+        - The slit in the belly helps with hooksets and increases the chances of setting the hook.
+        - Effective for fishing in various conditions, such as during the shad spawn.
+      cons:
+        - Some anglers find the price of the bait relatively high, especially considering its durability.
+        - The durability of the bait is a concern for many, with reports of it getting torn or ripped easily thus may not last for more than a few fish.
+        - The swimbait may not swim straight consistently and may turn on its side occasionally without proper rigging or weight.
+        - Limited color pattern options, and some desired colors may not be available in certain sizes.
+        - Some anglers have experienced issues with the quality, such as the eyes coming off or the swim action not being as expected.
+        - Not scented like some competing products.
+    # Best Ribbed Body
+    # https://www.cabelas.com/shop/en/berkley-powerbait-power-swimmer
+    - banner: Best Ribbed Body
+      banner_class: secondary
+      lure: Berkley PowerBait Power Swimmer
+      brand: Berkley
+      rating: 5.0
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2782342&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fberkley-powerbait-power-swimmer&intsrc=PUI2_895
+      image_link: <a id="2782342" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2782342&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fberkley-powerbait-power-swimmer&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2782342.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      length: 2.8 inch
+      type: Ribbed Paddle Tail
+      features:
+        - Extremely versatile, deadly bait
+        - Realistic minnow profile
+        - High-action paddle tail
+        - Cooked-in PowerBait scent and flavor
+        - Deeply ribbed for more scent attraction
+      pieces: 8 pack
+      pros:
+        - Highly effective for bass fishing, with many anglers reporting successful catches.
+        - Versatile bait that can be used as a spinnerbait trailer, underspin lure, or standalone swimbait.
+        - Durable construction that holds up well even after multiple casts and encounters with weed beds.
+        - Excellent choice for walleye fishing, producing successful catches of large walleye.
+        - PowerBait scent adds an attractive element that entices fish to bite.
+      cons:
+        - Some anglers found the bait to be a bit stiff and preferred to stretch and soften it for a wider wobble.
+        - Limited feedback from anglers who have not yet used the product, making it difficult to assess its performance in those scenarios.
+    # Best Off-Brand
+    # https://www.cabelas.com/shop/en/creme-reel-scremer-swimbait
+    - banner: Best Off-Brand
+      banner_class: tertiary
+      lure: Creme Reel Scremer Swimbait
+      brand: Creme
+      rating: 4.9
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2182292&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fcreme-reel-scremer-swimbait&intsrc=PUI2_895
+      image_link: <a id="2182292" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2182292&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fcreme-reel-scremer-swimbait&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2182292.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      length: 5 inch
+      type: Realistic Paddle Tail
+      features:
+        - Sleek, oscillating body
+        - Stabilizing lateral fins
+        - Creates an underwater sound that's attractive to fish
+      pieces: 5 pack
+      pros:
+        - Excellent action and gliding motion in clear water, making it highly effective for bass fishing.
+        - Durable construction with lateral fins that enhance the bait's action and vibration in the water.
+        - Versatile swimbait suitable for various fishing applications, including Texas rigging, umbrella rig fishing, swim jigs, and jig heads.
+        - Can be reeled at faster speeds while remaining stable and running true.
+        - Recommended by experienced anglers who have caught a wide range of fish species, including smallmouth bass, largemouth bass, crappie, and musky.
+      cons:
+        - Some anglers reported issues with durability, with largemouth bass easily damaging the baits.
+    # Best Hinged Tail
+    # https://www.cabelas.com/shop/en/gary-yamamoto-zako-swimbait
+    - banner: Best Hinged Tail
+      banner_class: quaternary
+      lure: Yamamoto Baits Zako Swimbait
+      brand: Yamamoto Baits
+      rating: 4.5
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2576995&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fgary-yamamoto-zako-swimbait&intsrc=PUI2_895
+      image_link: <a id="2576995" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2576995&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fgary-yamamoto-zako-swimbait&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2576995.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      length: 4 inch
+      type: Hinged Split Tail Minnow
+      features:
+        - Shad-like deep belly design
+        - Flanged fins
+        - Accordion-style cut tail
+        - Molded-in belly slit and back groove
+      pieces: 6 pack
+      pros:
+        - Natural baitfish profile that works well as a trailer for chatterbait trailer, Texas rigging, and jigs.
+        - Good swimming action and movement when finesse fished, providing an enticing presentation.
+        - Effective for catching big bass on main lake points and has produced successful results for some anglers.
+      cons:
+        - Some anglers have experienced limited movement on the tails, particularly at slower speeds or when used with Alabama rigs.
+        - Mixed opinions on the effectiveness as a swim jig trailer, with some suggesting alternative options.
+        - Limited size options, with a desire for larger sizes such as 5 or 6 inches.
 ---
 
 Hey there, angling enthusiasts! If you're as hooked on bass fishing as I am, then you know the importance of having the right lures in your tackle box. When it comes to enticing those elusive bass, soft plastic lures are an angler's best friend.
 
-In this article, we'll dive into the world of soft plastics and discover the best rated worms, beavers, creatures, craws, jerkbaits, and swimbaits. For each type, I have personally chosen a the best rated <a href="https://cabelas.xhuc.net/DKbPob">plastic worms from Cabela's</a> and highlighting some of their characteristics, strengths and weaknesses.
+In this article, we'll dive into the world of soft plastics and discover the best rated worms, beavers, creatures, craws, jerkbaits, and swimbaits. For each type, I have personally chosen a the best rated <a href="https://cabelas.xhuc.net/DKbPob">soft plastic baits from Cabela's</a> and highlighted some of their characteristics, strengths and weaknesses.
 
 So, grab your rod, buckle up, and let's explore the exciting world of these fantastic lures. We'll even mention a couple of popular brands like Berkley, Strike King, Yamamoto, and Zoom that have anglers raving. Get ready to level up your bass fishing game!
 
@@ -516,10 +604,12 @@ So, grab your rod, buckle up, and let's explore the exciting world of these fant
 - [Creatures](#creatures)
 - [Craws](#craws)
 - [Jerkbaits](#jerkbaits)
+- [Swimbaits](#swimbaits)
+- [Conclusion](#conclusion)
 
 ## <a href="https://cabelas.xhuc.net/VmbEk6">Worms</a>
 
-In this section, let's explore one of bass fishing's all-time classics&mdash;the mighty plastic worm. Now, if there's one lure that has truly stood the test of time and consistently hooked those elusive bass, it's the trusty plastic worm. It's got this uncanny lifelike action that bass just can't resist!
+In this section, let's explore one of bass fishing's all-time classics&mdash;the mighty <a href="https://cabelas.xhuc.net/VmbEk6">plastic worm</a>. Now, if there's one lure that has truly stood the test of time and consistently hooked those elusive bass, it's the trusty plastic worm. It's got this uncanny lifelike action that bass just can't resist!
 
 Whether you're a seasoned pro or just starting out, get ready to discover the top plastic worms available today. We'll break down their unique features, highlight the advantages, and hey, we'll even spill the beans on a few potential drawbacks. So, let's get ready to choose the best rated plastic worm that'll help you reel in those monster bass on your next fishing adventure!
 
@@ -532,7 +622,7 @@ The category of plastic worms was a difficult one for me. There are lots of comp
 
 ## <a href="https://cabelas.xhuc.net/MmNB03">Creatures</a>
 
-Now, let's talk about one of the most versatile and enticing categories of soft plastic lures in bass fishing: creature baits. These little monsters are designed to imitate a wide range of creatures that bass love to prey upon. With their unique shapes, multiple appendages, and lifelike details, creature baits are a go-to choice for enticing strikes from even the most finicky bass.
+Now, let's talk about one of the most versatile and enticing categories of soft plastic lures in bass fishing: <a href="https://cabelas.xhuc.net/MmNB03">creatures baits</a>. These little monsters are designed to imitate a wide range of creatures that bass love to prey upon. With their unique shapes, multiple appendages, and lifelike details, creature baits are a go-to choice for enticing strikes from even the most finicky bass.
 
 Whether you're flipping heavy cover, punching through vegetation, or working submerged structure, creature baits excel at triggering aggressive strikes. Their tantalizing action and realistic profiles make them irresistible to bass, giving you a shot at reeling in the big ones. So, get ready to unleash the beast and see how creature baits can elevate your bass fishing game to a whole new level.
 
@@ -545,7 +635,7 @@ This was a tough category of soft baits for me. There are lots of companies that
 
 ## <a href="https://cabelas.xhuc.net/JzmOK7">Craws</a>
 
-Get ready to crank up the bass action with the mighty crawfish baits! These little crustacean-inspired lures are a staple in any angler's tackle box. With their lifelike pinchers, wavy legs, and textured bodies, crawfish baits perfectly mimic the natural movements of these underwater delicacies.
+Get ready to crank up the bass action with the mighty <a href="https://cabelas.xhuc.net/JzmOK7">crawfish baits</a>! These little crustacean-inspired lures are a staple in any angler's tackle box. With their lifelike pinchers, wavy legs, and textured bodies, crawfish baits perfectly mimic the natural movements of these underwater delicacies.
 
 Whether you're targeting bass in rocky areas, weed beds, or around submerged structures, crawfish baits excel at drawing strikes. Just drag them along the bottom or hop them gently, and watch as bass pounce on these irresistible snacks. So, gear up and let's dive into the world of crawfish baits, where big bass can't resist the temptation to feast!
 
@@ -554,9 +644,9 @@ Whether you're targeting bass in rocky areas, weed beds, or around submerged str
 {% endfor %}
 <hr/>
 
-## Jerkbaits
+## <a href="https://cabelas.xhuc.net/y2mojy">Jerkbaits</a>
 
-Are you ready to add some extra finesse and excitement to your bass fishing arsenal? Look no further than soft plastics jerkbaits! These versatile lures are designed to mimic injured baitfish, creating irresistible darting and erratic movements in the water.
+Are you ready to add some extra finesse and excitement to your bass fishing arsenal? Look no further than soft plastics <a href="https://cabelas.xhuc.net/y2mojy">jerkbaits</a>! These versatile lures are designed to mimic injured baitfish, creating irresistible darting and erratic movements in the water.
 
 Whether you're fishing in freshwater lakes, rivers, or even saltwater estuaries, soft plastics jerkbaits can be the secret weapon you need to entice aggressive strikes from hungry bass. With their soft, lifelike bodies and realistic finishes, these baits are sure to grab the attention of even the most finicky bass. So, get ready to twitch, pause, and reel in some impressive catches with the help of soft plastics jerkbaits!
 
@@ -566,3 +656,18 @@ The jerkbaits category was a little easier for me to choose the right baits. The
   {% include product-table.md product=lure %}
 {% endfor %}
 <hr/>
+
+## <a href="https://cabelas.xhuc.net/Qy6EAz">Swimbaits</a>
+
+Get ready to make a big splash with your bass fishing game! Soft plastics <a href="https://cabelas.xhuc.net/Qy6EAz">swimbaits</a> are here to take your angling experience to the next level. These lifelike lures are designed to mimic the natural swimming action of baitfish, drawing the attention of hungry bass and triggering aggressive strikes.
+
+Whether you're targeting trophy largemouth in freshwater lakes or testing your skills against hard-fighting stripers in saltwater, soft plastics swimbaits are the go-to choice for avid bass anglers. With their realistic detailing, vibrant colors, and enticing movement, these baits are sure to lure in the biggest and most elusive bass.
+
+{% for lure in page.lures.swimbaits %}
+  {% include product-table.md product=lure %}
+{% endfor %}
+<hr/>
+
+## Conclusion
+
+There are a lot of good <a href="https://cabelas.xhuc.net/DKbPob">soft plastic baits</a> out there and different companies make them with their own characteristics that stand out from the rest. We've explored plastic worms, creature baits, craws, jerkbaits, and swimbaits, comparing the highlighting the pros and cons for several baits in each category. I hope this article has helped you narrow the search and you have found the right bait for you.

@@ -20,7 +20,7 @@ images:
     width: 1456
     alt: Holding my first Largemouth Bass
 
-related: [/6-things-to-do-in-the-fishing-off-season,/a-few-mid-march-largemouth-bass/,/my-first-fishing-injury/,]
+related: [/a-few-mid-march-largemouth-bass/,/6-things-to-do-in-the-fishing-off-season,/my-first-fishing-injury/,]
 seo:
   type: BlogPosting
 tags: [bass, catch, coordinates, pond, Wingfoot Lake]

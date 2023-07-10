@@ -107,6 +107,12 @@
     </div>
   </div>
   {% endif %}
+  {% if lure.personal_review %}
+  <div class="row">
+    <div class="head">Personal Review</div>
+    <div class="data">{{ lure.personal_review }}</div>
+  </div>
+  {% endif %}
   <div class="row">
     <div class="head">Buy</div>
     <div class="data">

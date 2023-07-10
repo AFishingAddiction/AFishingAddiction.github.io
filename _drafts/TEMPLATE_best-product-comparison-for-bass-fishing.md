@@ -46,6 +46,31 @@ lures:
       # A list of aggregated pros and cons directly from the review
       pros:
       cons:
+    - banner:
+      banner_class:
+      lure:
+      brand:
+      rating:
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
+      iframe_link:
+      # OR
+      buy_url:
+      image_link:
+      prime:
+      length:
+      weight:
+      type:
+      hooks:
+      blade_type:
+      features:
+        -
+      pieces:
+      summarized_reviews:
+      pros:
+        -
+      cons:
+        -
+      personal_review:
 ---
 
 INTRO PARAGRAPH TO ARTICLE
