@@ -1,0 +1,10 @@
+# exported from backlink tool
+# domains
+domain:windowssearch-exp.com
+domain:www.windowssearch-exp.com
+domain:caligapelle.com
+domain:www.caligapelle.com
+domain:thanhphoxanheco.com
+domain:suncontainerhouse.com
+
+# urls
