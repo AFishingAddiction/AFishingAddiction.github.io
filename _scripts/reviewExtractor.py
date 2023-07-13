@@ -19,14 +19,15 @@ class ReviewExtractor:
 
     def setup_driver(self):
         # Set up Selenium options
-        browser_options = Options()
+        options = Options()
+        options.add_argument("--guest")
 
         # Set up the Edge driver (replace with the path to your msedgedriver)
         edgedriver_path = "msedgedriver.exe"
         service = Service(edgedriver_path)
 
         # Create a new instance of the Chrome driver
-        self.driver = webdriver.Edge(service=service, options=browser_options)
+        self.driver = webdriver.Edge(service=service, options=options)
 
 class CabelasReviewExtractor(ReviewExtractor):
     REVIEWS_BUTTON_XPATH = '//*[@id="BPS_rating_summary"]/div/button/div[3]/div'
@@ -70,7 +71,7 @@ class CabelasReviewExtractor(ReviewExtractor):
                 WebDriverWait(self.driver, 10).until(EC.staleness_of(load_more_button))
 
                 # Wait for a short interval to ensure all reviews are loaded
-                time.sleep(2)
+                time.sleep(5)
 
             else:
                 # No more reviews to load, break the loop
