@@ -21,8 +21,8 @@ class ReviewExtractor:
         # Set up Selenium options
         browser_options = Options()
 
-        # Set up the Edge driver (replace with the path to your chromedriver)
-        edgedriver_path = "C:\\Users\\dansc\\Downloads\\edgedriver_win64\\msedgedriver.exe"
+        # Set up the Edge driver (replace with the path to your msedgedriver)
+        edgedriver_path = "msedgedriver.exe"
         service = Service(edgedriver_path)
 
         # Create a new instance of the Chrome driver
