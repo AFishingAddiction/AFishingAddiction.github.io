@@ -9,17 +9,15 @@ from selenium.webdriver.edge.service import Service
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
-
 class ReviewExtractor:
-    REVIEWS_BUTTON_XPATH = '//*[@id="BPS_rating_summary"]/div/button/div[3]/div'
-    REVIEWS_SELECTOR = '#BVRRContainer > div > div > div > div > ol > li > div > div.bv-content-container > div > div.bv-content-details-offset-off > div > div > div.bv-content-summary-body-text > p'
-    LOAD_MORE_BUTTON_SELECTOR = "#BVRRContainer > div > div > div > div > div.bv-content-pagination > div > ul > li.bv-content-pagination-buttons-item.bv-content-pagination-buttons-item-next > a"
+    def __init__(self):
+        self.clear_reviews()
+        self.setup_driver()
 
-    def __init__(self, url):
-        self.url = url
+    def clear_reviews(self):
         self.reviews = []
 
-    def extract_reviews(self, min_reviews):
+    def setup_driver(self):
         # Set up Selenium options
         browser_options = Options()
 
@@ -28,14 +26,21 @@ class ReviewExtractor:
         service = Service(edgedriver_path)
 
         # Create a new instance of the Chrome driver
-        driver = webdriver.Edge(service=service, options=browser_options)
+        self.driver = webdriver.Edge(service=service, options=browser_options)
 
+class CabelasReviewExtractor(ReviewExtractor):
+    REVIEWS_BUTTON_XPATH = '//*[@id="BPS_rating_summary"]/div/button/div[3]/div'
+    REVIEWS_SELECTOR = '#BVRRContainer > div > div > div > div > ol > li > div > div.bv-content-container > div > div.bv-content-details-offset-off > div > div > div.bv-content-summary-body-text > p'
+    LOAD_MORE_BUTTON_SELECTOR = "#BVRRContainer > div > div > div > div > div.bv-content-pagination > div > ul > li.bv-content-pagination-buttons-item.bv-content-pagination-buttons-item-next > a"
+
+
+    def extract_reviews(self, url, min_reviews):
         # Visit the URL
-        driver.get(self.url)
-        reviews_button = driver.find_element(
+        self.driver.get(url)
+        reviews_button = self.driver.find_element(
             By.XPATH, self.REVIEWS_BUTTON_XPATH
         )
-        WebDriverWait(driver, 10).until(EC.visibility_of(reviews_button))
+        WebDriverWait(self.driver, 10).until(EC.visibility_of(reviews_button))
         if reviews_button.is_displayed():
             reviews_button.click()
             print("Review button clicked")
@@ -43,7 +48,7 @@ class ReviewExtractor:
         # Extract the reviews
         while len(self.reviews) < min_reviews:
 
-            review_elements = driver.find_elements(By.CSS_SELECTOR, self.REVIEWS_SELECTOR)
+            review_elements = self.driver.find_elements(By.CSS_SELECTOR, self.REVIEWS_SELECTOR)
             # print(review_elements)
             self.reviews.extend(
                 [
@@ -54,7 +59,7 @@ class ReviewExtractor:
             )
             print(f"Reviews length: {len(self.reviews)}")
             # Check if there is a "Load More" button
-            load_more_button = driver.find_element(
+            load_more_button = self.driver.find_element(
                 By.CSS_SELECTOR, self.LOAD_MORE_BUTTON_SELECTOR
             )
             if load_more_button.is_displayed():
@@ -62,7 +67,7 @@ class ReviewExtractor:
                 load_more_button.click()
 
                 # Wait for the new reviews to load
-                WebDriverWait(driver, 10).until(EC.staleness_of(load_more_button))
+                WebDriverWait(self.driver, 10).until(EC.staleness_of(load_more_button))
 
                 # Wait for a short interval to ensure all reviews are loaded
                 time.sleep(2)
@@ -73,14 +78,14 @@ class ReviewExtractor:
 
         time.sleep(60)
         # Close the Chrome driver
-        driver.quit()
+        self.driver.quit()
 
     def create_yaml_list(self, min_reviews):
         # Format reviews as a YAML bullet list
         return yaml.dump(self.reviews, allow_unicode=True, width=1024)
 
-    def run(self, min_reviews):
-        self.extract_reviews(min_reviews)
+    def run(self, url, min_reviews):
+        self.extract_reviews(url, min_reviews)
         reviews_yaml = self.create_yaml_list(min_reviews)
         print(reviews_yaml)
 
@@ -96,5 +101,5 @@ if __name__ == "__main__":
     # Extract and print the reviews
     min_reviews = 50  # Minimum number of reviews to retrieve
 
-    extractor = ReviewExtractor(url)
-    extractor.run(min_reviews)
+    extractor = CabelasReviewExtractor()
+    extractor.run(url, min_reviews)
