@@ -43,11 +43,11 @@ Ready to take your bass fishing skills to the next level? Get ready to dive into
 
 The wacky rig or wacky worm rig is a finesse technique that involves rigging a soft plastic worm in a unique way. Unlike traditional rigging methods, the wacky rig suspends the worm in the water, creating a tantalizing action that drives bass wild. Instead of using a traditional Texas or Carolina rig, the wacky rig involves hooking the worm through the middle, creating a more natural and enticing presentation.
 
-The hook is typically exposed, allowing for better hook sets, and the worm has a free-floating, wiggling action as it falls through the water. The rig can also be rigged up with a weedless hook which I'l talk about below.
+The hook is typically exposed, allowing for better hook sets, and the worm has a free-floating, wiggling action as it falls through the water. The rig can also be rigged up with {% include affiliate-link.md content="a weedless hook" link=site.data.aff_links.weedless-hook %} which I'l talk about below.
 
 ## Understanding the Wacky Rig
 
-The wacky rig technique is all about simplicity and finesse. It involves rigging a soft plastic worm in a way that allows it to exhibit a unique and enticing action in the water.
+The wacky rig technique is all about simplicity and finesse. It involves rigging <a href="/best-soft-plastic-baits-for-bass-fishing#worms">a soft plastic worm</a> in a way that allows it to exhibit a unique and enticing action in the water.
 
 ### Placement of the Hook
 The key component of the wacky rig is the placement of the hook, which is inserted through the middle of the worm, suspending it horizontally. This presentation gives the worm a natural and vulnerable appearance, making it irresistible to bass.
@@ -62,13 +62,13 @@ When employing the wacky rig, it's crucial to focus on the fall of the worm. Man
 
 ## Setting up a Wacky Rig
 
-Setting up a wacky rig is a straightforward process that requires minimal tackle. To begin, you'll need an o-ring or a rigging tube to secure the hook onto the worm. This helps prolong the lifespan of the worm and provides a consistent presentation. Using a rigging tool or pliers, slide the o-ring onto the worms, ensuring it is positioned in the middle. Once the o-ring is in place, slide your hook or wacky jighead under the o-ring, penetrating the plastic slightly for better stability.
+Setting up a wacky rig is a straightforward process that requires minimal tackle. To begin, you'll need {% include affiliate-link.md content="an o-ring tool" link=site.data.aff_links.o-ring-tool %}  or a rigging tube to secure the hook onto the worm. This helps prolong the lifespan of the worm and provides a consistent presentation. Using a rigging tool or pliers, slide the o-ring onto the worms, ensuring it is positioned in the middle. Once the o-ring is in place, slide your hook or wacky jighead under the o-ring, penetrating the plastic slightly for better stability.
 
-Choosing the appropriate hooks is crucial for successful wacky rigging. While various hook styles can be used, trout-style hooks with an offset bend or finesse wide-gap hooks are popular choices. These hooks provide good hooksets and help prevent the worm from rotating and potentially missing bites.
+Choosing the appropriate hooks is crucial for successful wacky rigging. While various hook styles can be used, {% include affiliate-link.md content="octopus hooks with an offset bend" link=site.data.aff_links.octopus-hooks-offset-bend %} or {% include affiliate-link.md content="finesse wide-gap hooks" link=site.data.aff_links.finesse-wide-gap-hooks %} are popular choices. These hooks provide good hooksets and help prevent the worm from rotating and potentially missing bites.
 
-Consider using hooks with built-in weed guards to navigate around cover. Additionally, adding small weights like pencil weights, cylinder or teardrop weights can allow you to fish the wacky rig deeper and enhance the bait's action during the fall. Alternatively, weighted wacky jigheads are convenient options for fishing the wacky rig at greater depths.
+Consider using {% include affiliate-link.md content="hooks with built-in weed guards" link=site.data.aff_links.weedless-hook-cabelas %} to navigate around cover. Additionally, adding small weights like {% include affiliate-link.md content="tungsten nail weights" link=site.data.aff_links.tungsten-nail-weights %}, cylinder or teardrop weights can allow you to fish the wacky rig deeper and enhance the bait's action during the fall. Alternatively, {% include affiliate-link.md content="weighted wacky jigheads" link=site.data.aff_links.wacky-jig-head %} are convenient options for fishing the wacky rig at greater depths.
 
-When it comes to selecting the right gear for wacky rig fishing, consider using a lighter medium-action rod, preferably around 6 feet, 10 inches to 7 feet, paired with lighter line, such as 12-pound fluorocarbon. This setup allows for a natural fall and provides sensitivity for detecting bites.
+When it comes to selecting the right gear for wacky rig fishing, consider using a lighter {% include affiliate-link.md content="medium-action rod" link=site.data.aff_links.light-medium-action-spinning-combo %}, preferably around 6 feet, 10 inches to 7 feet, paired with lighter line, such as {% include affiliate-link.md content="12-pound fluorocarbon" link=site.data.aff_links.flourocarbon-line-12lb %}. This setup allows for a natural fall and provides sensitivity for detecting bites.
 
 Alternatively, some anglers prefer a spinning rod and reel combo with a medium-action rod and braided line paired with a fluorocarbon leader. This setup enables precise casting, skipping the bait under structures, and covering water efficiently.
 
@@ -100,13 +100,16 @@ Remember, experimenting with different techniques, retrieves, and presentations 
 To make the most of your wacky rig fishing experience, it's important to have the right gear. Here are some recommendations to enhance your success on the water.
 
 ### Rod and Reel
-Opt for a medium to medium-light spinning rod in the range of 6 to 7 ½ feet. This length provides good casting distance and control while still maintaining sensitivity for detecting subtle bites. Pair your rod with a quality spinning reel that has a smooth drag system to handle the fight once you hook a fish.
+Opt for a {% include affiliate-link.md content="medium to medium-light spinning rod" link=site.data.aff_links.light-medium-action-spinning-combo %} in the range of 6 to 7 ½ feet. This length provides good casting distance and control while still maintaining sensitivity for detecting subtle bites. Pair your rod with a quality spinning reel that has a smooth drag system to handle the fight once you hook a fish.
 
 ### Fishing Line
-Choose a lightweight line in the range of 8 to 12-pound test. Fluorocarbon line is a popular choice due to its low visibility and sinking properties, which help maintain a natural presentation. Alternatively, some anglers prefer using braided line as their mainline with a fluorocarbon leader for added stealth.
+Choose a lightweight line in the range of 8 to 12-pound test. {% include affiliate-link.md content="Fluorocarbon line" link=site.data.aff_links.flourocarbon-line-12lb %} is a popular choice due to its low visibility and sinking properties, which help maintain a natural presentation. Alternatively, some anglers prefer using braided line as their mainline with a fluorocarbon leader for added stealth.
 
-### Hooks and Soft Plastics
-For wacky rigging, opt for finesse wide-gap hooks or octopus hooks in sizes 1, 1/0, or 2/0, depending on the size of your soft plastic worm. Hooks with weed guards can be beneficial when fishing around cover. As for soft plastics, choose straight-tail worms in the 4 to 5-inch range. Popular options include Yamamoto Senkos, NetBait's Salt Lick, Bass Pro Stik-O Worms, Strike King's Ochos, and Berkley's Heavy Sinkworms.
+### Hooks
+For wacky rigging, opt for finesse wide-gap hooks or octopus hooks in sizes 1, 1/0, or 2/0, depending on the size of your soft plastic worm. {% include affiliate-link.md content="Hooks with weed guards" link=site.data.aff_links.weedless-hook-cabelas %} can be beneficial when fishing around cover.
+
+### Soft Plastics
+As for soft plastics, choose straight-tail worms in the 4 to 5-inch range. Popular options include {% include affiliate-link.md content="Yamamoto Senkos" link=site.data.aff_links.yamamoto-senkos %}, NetBait's Salt Lick, {% include affiliate-link.md content="Bass Pro Stik-O Worms" link=site.data.aff_links.bass-pro-stick-o-worms %}, {% include affiliate-link.md content="Strike King's Ochos" link=site.data.aff_links.strike-king-ochos %}, Berkley's Heavy Sinkworms, and the {% include affiliate-link.md content="YUM Dinger" link=site.data.aff_links.yum-dinger %}.
 
 <br/>
 
@@ -138,14 +141,14 @@ Under normal casting and retrieving, this wire guard protects the barb and point
 With this additional tip for rigging the wacky worm rig weedless, you'll have an extra technique in your arsenal to fish in challenging environments without sacrificing the effectiveness of the wacky rig presentation. Be sure to adjust your retrieve and target areas with vegetation or structure where bass are likely to seek shelter.
 
 ### Experiment with Weights
-Try experimenting with different weights when using the wacky rig. Adding a small weight, such as a tungsten nail weight or nail sinker, can alter the fall rate and action of the bait. It allows you to adapt to different water conditions and depths, giving you more control over the presentation and potentially enticing more strikes from the fish.
+Try experimenting with different weights when using the wacky rig. Adding a small weight, such as {% include affiliate-link.md content="a tungsten nail weight" link=site.data.aff_links.tungsten-nail-weights %} or nail sinker, can alter the fall rate and action of the bait. It allows you to adapt to different water conditions and depths, giving you more control over the presentation and potentially enticing more strikes from the fish.
 
 There are many types of wacky rig weights that can be used, but I'm only going to recommend two of them. The first type I use is a tungsten nail weight or nail sinker. These are typically inserted into the center or end of the worm and the hook is then inserted around the backside of the weight. However, if you are using a wacky rig, inserting it into the center of the worm is going to be more effective since the weight is going to be distributed better.
 
 The second type of wacky rig weight I recommend is actually a weight system specifically made for wacky rigs. It operates the same way as the rubber band would in that you slide the worm all the way to the center of the weight and you insert the hook into the slits in the weight. This type of weight also protects the worm by preventing the hook from breaking down the worm's strength. I would recommend this weight system over the tungsten nail weights, since I've had more success using it.
 
 ### Use O-rings and an O-ring Tool
-Using o-rings on your wacky rings allows you to use the same worm for more casts ands more bites. It helps by preventing the hook from tearing into the worm. However, it can be very difficult to add o-rings by hand to any stick worm. The size of the o-rings are just large enough to fit the worm through. With the help of an o-ring tool, sliding o-rings on is a breeze.
+Using {% include affiliate-link.md content="o-rings on your wacky rigs" link=site.data.aff_links.bass-pro-o-rings %} allows you to use the same worm for more casts ands more bites. It helps by preventing the hook from tearing into the worm. However, it can be very difficult to add o-rings by hand to any stick worm. The size of the o-rings are just large enough to fit the worm through. With the help of {% include affiliate-link.md content="an o-ring tool" link=site.data.aff_links.o-ring-tool %}, sliding o-rings on is a breeze.
 
 ### Use Fresh Bait
 The last couple of times I've gone fishing using a wacky rig, I've been skunked. After contemplating what I had done wrong, it finally dawned on me that I had been using the same plastic worm those last few times. The last time I was successful was the last time I had changed my worm.
@@ -169,11 +172,11 @@ If you're new to wacky rig fishing or seeking clarification on certain aspects o
 
 ### How do I choose the right worm for wacky rig fishing?
 
-When selecting a worm for wacky rig fishing, opt for straight, non-descript worms without tails. Worms that are manufactured with additives like salt for added weight and a slow sink rate are highly recommended. Popular choices include the Yamamoto Senko, NetBait's Salt Lick, Bass Pro Stik-O Worm, Strike King's Ocho, Berkley's Heavy Sinkworm, and the YUM Dinger.
+When selecting a worm for wacky rig fishing, opt for straight, non-descript worms without tails. Worms that are manufactured with additives like salt for added weight and a slow sink rate are highly recommended. Popular choices include {% include affiliate-link.md content="Yamamoto Senkos" link=site.data.aff_links.yamamoto-senkos %}, NetBait's Salt Lick, {% include affiliate-link.md content="Bass Pro Stik-O Worms" link=site.data.aff_links.bass-pro-stick-o-worms %}, {% include affiliate-link.md content="Strike King's Ochos" link=site.data.aff_links.strike-king-ochos %}, Berkley's Heavy Sinkworms, and the {% include affiliate-link.md content="YUM Dinger" link=site.data.aff_links.yum-dinger %}.
 
 ### What hook should I use for wacky rig fishing?
 
-For wacky rig fishing, various hook styles can be used, including finesse wide gap hooks, shiner hooks, octopus hooks, straight shank hooks, split shot hooks, skip gap hooks, and even weighted hooks when using a jig or adding weight nails. Most often, an open hook is used for better hook sets, but weedless hooks with guards are available for fishing around vegetation and cover.
+For wacky rig fishing, various hook styles can be used, including finesse wide gap hooks, shiner hooks, octopus hooks, straight shank hooks, split shot hooks, skip gap hooks, and even weighted hooks when using a jig or adding weight nails. Most often, an open hook is used for better hook sets, but {% include affiliate-link.md content="weedless hooks with guards" link=site.data.aff_links.weedless-hook-cabelas %} are available for fishing around vegetation and cover.
 
 ### How should I rig the worm for wacky rig fishing?
 

@@ -799,6 +799,32 @@ figure {
       margin-top: 20px;
     }
   }
+
+
+  .aff-link {
+    display: inline;
+    position: relative;
+
+    .hover-content {
+      display: none;
+      position: absolute;
+
+      &:hover {
+        display: inline;
+      }
+
+      iframe, a, img {
+        z-index: 2;
+        position: relative;
+        left: 4px;
+        max-height: 300px
+      }
+    }
+
+    a:hover + .hover-content {
+      display: inline;
+    }
+}
 }
 
 #LurePicker {
