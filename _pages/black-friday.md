@@ -1,9 +1,12 @@
 ---
 layout: page
-permalink: /black-friday
 title: Bass Fishing Black Friday Deals 2023
-author: false
+permalink: /black-friday
 excerpt: "Black Friday is on! Check out the fishing deals I've found across the web."
+author: false
+date: 2023-07-27T09:19:00-04:00
+last_modified_at: 2023-07-27T09:19:00-04:00
+
 image:
   path: /assets/img/pages/black-friday/black-friday-deals-horizontal.png
   height: 1200
@@ -11,8 +14,14 @@ image:
   alt: A light blue background with the words Black Friday Deals in the foreground
   caption: Keep this page bookmarked and check back for great Black Friday deals this holiday season.
   render: true
+
+tags:
+  - deals
+  - best
 seo:
   type: WebPage
+related: [/best-soft-plastic-baits-for-bass-fishing,/best-topwater-lures-for-bass-fishing,/best-time-to-go-bass-fishing,]
+
 is_inline_ads_enabled: false
 has_inline_signup_form: true
 ---
