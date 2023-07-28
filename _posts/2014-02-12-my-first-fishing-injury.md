@@ -13,7 +13,7 @@ image:
   height: 2592
   width: 1456
   alt: My finger that I sliced with a hook while unhooked a bass
-related: [/3-largemouth-bass-observations/,/5-bank-fishing-tips/,/mosquito-lake-2012/,]
+related: [/black-friday,/3-largemouth-bass-observations/,/5-bank-fishing-tips/,]
 seo:
   type: BlogPosting
 tags: [bass, Boettler Park, Southgate Park, injury]

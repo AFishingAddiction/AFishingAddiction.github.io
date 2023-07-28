@@ -149,7 +149,8 @@ input[type="email"] {
 
 input[type="submit"],
 .btn.btn-primary,
-.btn.btn-accent {
+.btn.btn-accent,
+#mc_embed_signup input#mc-embedded-subscribe {
   background: $primaryColorDark;
   color: $white;
   font-weight: bold;
@@ -167,6 +168,18 @@ input[type="submit"],
   background: $accentColor;
   &:hover {
     color: $white;
+  }
+}
+
+#mc_embed_shell {
+  border: 3px solid $accentColor;
+  background-color: $secondaryLightBgColor;
+  width: 75%;
+  margin: auto;
+
+  #mc_embed_signup {
+    background: unset;
+    width: auto;
   }
 }
 
@@ -824,7 +837,7 @@ figure {
     a:hover + .hover-content {
       display: inline;
     }
-}
+  }
 }
 
 #LurePicker {
