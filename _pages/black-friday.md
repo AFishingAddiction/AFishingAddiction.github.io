@@ -81,3 +81,14 @@ By subscribing to our email list, you gain the upper hand in accessing these jaw
 </form>
 </div>
 <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]=EMAIL;ftypes[0]=merge;,fnames[1]=FNAME;ftypes[1]=merge;,fnames[2]=LNAME;ftypes[2]=merge;,fnames[3]=SIGNUP_LOC;ftypes[3]=merge;,fnames[undefined]=interests_222697;ftypes[undefined]=group;false}(jQuery));var $mcj = jQuery.noConflict(true);</script></div>
+
+## Other Bass Fishing Sales
+
+Just because it's not the shopping or Black Friday season, doesn't mean you can't find great sales throughout the year. Here is a list of ongoing sales where you can find a variety of fishing gear and tackle.
+
+- [Cabela's Bargain Cave](https://cabelas.xhuc.net/Y9N7Zq) where you can find sales on all sorts of fishing tackle
+- [BassDash Flash Deals](https://shrsl.com/461en) usually has great deals on fishing apparel
+- [MONSTERBASS Gift Cards](https://shrsl.com/461es) are great any time of year
+- [Sportsman Guide Fishing Sales](https://www.dpbolvw.net/click-100863578-12513140?sid=black-friday-deals-other-deals-sportsman-guide&url=https%3A%2F%2Fwww.sportsmansguide.com%2Fproductlist%2Ffishing%3Fd%3D173%26sn%3D6196) typically has a wide variety of apparel, tools, gear
+- [Rapala](https://www.dpbolvw.net/click-100863578-12591902?sid=black-friday-deals-other-deals-rapala&url=https%3A%2F%2Fwww.rapala.com%2Fus_en%2Frapala%2Flures%2Flures-by-species%2Fbass-lures) offers a 15% off coupon for signing up for their newsletter
+- [Piscifun's 30% OFF clearance sale!](https://shareasale.com/u.cfm?d=986602&m=68150&u=3296816&afftrack=black-friday-other-deals-piscifun) Use code AGC30 at checkout.
