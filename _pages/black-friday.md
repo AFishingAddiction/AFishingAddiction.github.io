@@ -5,7 +5,7 @@ permalink: /black-friday
 excerpt: "Black Friday is on the horizon! Signup for my newsletter to receive curated Black Friday deals for bass fishing products and stores."
 author: false
 date: 2023-07-27T09:19:00-04:00
-last_modified_at: 2023-07-27T09:19:00-04:00
+last_modified_at: 2023-07-29T07:27:00-04:00
 
 image:
   path: /assets/img/pages/black-friday/black-friday-deals-horizontal.png
