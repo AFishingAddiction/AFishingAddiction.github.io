@@ -13,7 +13,7 @@ image:
 is_inline_ads_enabled: false
 author: dan
 layout: post
-excerpt: "Spooling your fishing line has never been easier! Learn to tie the versatile arbor knot and use it on your spinning, baitcasting, or fly fishing reels. This easy knot is perfect for amateur anglers of all levels and works with any type of fishing line."
+excerpt: Learn to tie the versatile and easy arbor knot and use it on your spinning, baitcasting, or fly fishing reels with any type of fishing line.
 tags:
   - knots
   - tips
