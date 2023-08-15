@@ -7,3 +7,6 @@
 <!-- FlexOffers.com Site Verification --->
 <meta name="fo-verify" content="0e0b0d80-f5ea-4f9f-98af-127918725e65" />
 <!-- END FlexOffers.com Site Verification --->
+<!-- Pinterest.com Site Verification --->
+<meta name="p:domain_verify" content="4fc7345132b4bf39d156cc274e52c0a4"/>
+<!-- END Pinterest.com Site Verification --->
