@@ -495,7 +495,7 @@ lures:
         - Hook-hiding belly slot
         - Enables strong hooksets
       pieces: 5 pack
-      summarized_reviews:
+      # summarized_reviews:
       pros:
         - Versatile bait for various fishing techniques such as rigging on a jig head, trailer for a spinnerbait, chatterbait, or buzzbaits, and swim jigs.
         - Effective for catching bass, walleye, crappie, pike, tigers, catfish, bowfin, pickeral, drum, and other species.

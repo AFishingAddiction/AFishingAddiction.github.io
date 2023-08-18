@@ -1056,6 +1056,11 @@ div.comparison-table {
       &.data {
         flex-basis: 70%;
         border-bottom: solid $silver 1px;
+
+        &.left {
+          text-align: left;
+          display: block;
+        }
         ul {
           text-align: left;
         }

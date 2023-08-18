@@ -84,13 +84,7 @@
   {% if lure.summarized_reviews %}
   <div class="row">
     <div class="head">Summary of Reviews</div>
-    <div class="data">
-      <ul>
-        {% for summary in lure.summarized_reviews %}
-        <li>{{ summary }}</li>
-        {% endfor %}
-      </ul>
-    </div>
+    <div class="data left">{{ lure.summarized_reviews | markdownify }}</div>
   </div>
   {% endif %}
   {% if lure.pros %}
@@ -120,7 +114,7 @@
   {% if lure.personal_review %}
   <div class="row">
     <div class="head">Personal Review</div>
-    <div class="data">{{ lure.personal_review }}</div>
+    <div class="data left">{{ lure.personal_review | markdownify }}</div>
   </div>
   {% endif %}
   <div class="row">
