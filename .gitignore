@@ -1,9 +1,10 @@
 .DS_Store
-.bundle/
+.browser_profile
+.bundle
 .jekyll
-.jekyll-cache/
+.jekyll-cache
 .jekyll-metadata
-.sass-cache/
+.sass-cache
 .venv
 venv
 Gemfile.lock
