@@ -5,7 +5,7 @@ permalink: /best-crankbaits-for-bass-fishing
 excerpt: "In this article, we'll dive into the world of crankbaits, exploring various types, like squarebill, lipless, shallow, and deep crankbaits, highlighting their strengths for catching bass."
 author: dan
 date: 2023-08-22T08:18:00-04:00
-last_modified_at: 2023-08-22T08:18:00-04:00
+last_modified_at: 2023-08-26T23:00:00-04:00
 
 image:
   path: /assets/img/posts/best-crankbaits-for-bass-fishing/pexels-bruce-mclean-9825425-800x1200.webp
@@ -371,10 +371,104 @@ lures:
     # https://www.cabelas.com/SearchDisplay#sortCriteria=%40bvavgrating%20descending&f-type=Crankbaits&f-lure_style=Deep%20Diving%20(10'%2B)
     # Most Popular
     # https://www.cabelas.com/shop/en/berkley-flicker-shad-crankbait
+    - banner: Most Popular
+      banner_class: primary
+      lure: Berkley Flicker Shad Crankbaits
+      brand: Berkley
+      rating: 4.7
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=4322134&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fberkley-flicker-shad-crankbait&intsrc=PUI2_895&subId1=best-crankbaits
+      image_link: <a id="4322134" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=4322134&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fberkley-flicker-shad-crankbait&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/4322134.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      length: 1 1/2 inch, 2 inch, 2 1/4 inch, 2 3/4 inch
+      weight: 1/8 oz, 3/16 oz, 1/4 oz, 5/16 oz
+      type: Deep Crankbait
+      hooks: Quality wide-gap trebles
+      features:
+        - Perfectly mimics the walleye's favorite meal
+        - Strong hook attachments
+        - Quality wide-gap trebles
+        - Wide range of productive colors
+      pieces: 1
+      # summarized_reviews:
+      pros:
+        - Versatile and effective - Anglers have reported catching various fish species, including musky, bass, walleye, trout, and crappie.
+        - Wide range of colors - The lure offers an excellent variety of color options suitable for different water and lighting conditions.
+        - Good action - The Flicker Shad exhibits a lively action that entices fish to strike, making it effective for both trolling and casting.
+        - Reasonable price - The lure is praised for its affordability compared to other similar options on the market.
+        - Reliable hooks - Some reviewers noted that the hooks are sharp and sturdy, capable of handling a variety of fish sizes.
+      cons:
+        - Hook durability - Several anglers mentioned that the hooks on the Flicker Shad can bend or break relatively easily, particularly when dealing with larger or more aggressive fish.
+        - Occasionally runs sideways - A few reviewers reported instances where the lure retrieved sideways, impacting its performance.
+        - Variability in quality - Some customers experienced differences in the lure's appearance and performance compared to online images or other lures of the same model.
+      # personal_review: |
+      #   I recently had the chance to put the Berkley Flicker Shad Crankbait to the test, and I must say, it's been quite the experience. The lure's versatility truly shines as it managed to attract a variety of fish species, from feisty musky to elusive walleye. The wide selection of colors allowed me to adapt to different water conditions effortlessly, ensuring that I always had the right bait for the job.
+
+      #   What struck me the most was the Flicker Shad's irresistible action. Whether I was trolling or casting, the lure's lifelike movement consistently lured fish in. I found it especially effective for trout and bass, as the action seemed almost too good to resist. Plus, the affordability of this lure is a bonus that won't break the bank.
+
+      #   However, it's worth noting that some anglers have mentioned concerns about the hooks. While they did hold up well for me, a few reviewers experienced issues with bending or breaking. Additionally, I did encounter a few instances where the lure seemed to retrieve sideways, affecting its performance.
+
+      #   In conclusion, the Berkley Flicker Shad Crankbait has earned its place in my tackle box as a go-to lure. Its versatility, attractive action, and reasonable price make it a solid choice for a variety of fishing scenarios. Just be sure to keep an eye on the hooks and give it a test run before heading out on the water.
     # Best Jointed
     # https://www.cabelas.com/shop/en/rapala-jointed-shad-rap
+    - banner: Best Jointed
+      banner_class: secondary
+      lure: Rapala Jointed Shad Rap
+      brand: Rapala
+      rating: 4.8
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=897553&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Frapala-jointed-shad-rap&intsrc=PUI2_895&subId1=best-crankbaits
+      image_link: <a id="897553" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=897553&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Frapala-jointed-shad-rap&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/897553.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      length: 1 1/2 inch, 2 inch, 2 3/4 inch
+      weight: 3/16 oz, 1/4 oz, 7/16 oz
+      type: Jointed Crankbait
+      hooks: VMC black nickel hooks
+      features:
+        - Jointed body for wide swimming action
+        - Rhythmic rattle sends out distressed minnow signal
+        - Quick diving lip design
+        - Lifelike finishes
+        - VMC black nickel hooks
+      pieces: 1
+      # summarized_reviews:
+      pros:
+        - Versatile - Anglers have reported catching a wide range of fish, including northern pike, bass, crappie, perch, white bass, bluegill, catfish, walleye, and more.
+        - Successful trolling bait - Many reviewers found success trolling the Jointed Shad Rap, particularly for walleye, pike, and smallmouth bass.
+        - Realistic colors and action - Rapala's realistic finishes and effective rattles attract fish in various conditions, even in murky water.
+        - Durable construction - The lure's solid build and quality hooks make it suitable for a diverse range of fishing styles, including deepwater fishing and casting near piers.
+        - Good action and suspension - The lure's action and ability to suspend when retrieved make it a reliable choice for enticing fish.
+      cons:
+        - Fragile jointed section - Some anglers noted that the jointed back part of the lure can be fragile and prone to breaking, especially when hitting rocks or other obstacles.
+        - Paint chipping - A few reviewers mentioned that the paint on the lure's side can chip over time, although this did not seem to significantly affect its effectiveness.
+      personal_review:
     # Best Rattling
     # https://www.cabelas.com/shop/en/storm-wigglewart-madflash
+    - banner: Best Rattling
+      banner_class: tertiary
+      lure: STORM WiggleWart MadFlash
+      brand: STORM
+      rating: 5
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1440426&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstorm-wigglewart-madflash&intsrc=PUI2_895&subId1=best-crankbaits
+      image_link: <a id="1440426" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1440426&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstorm-wigglewart-madflash&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1440426.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      length: 2 inch
+      weight: 3/8 oz
+      type: Rattling Crankbait
+      features:
+        - Deadly side-to-side, rattling action
+        - Molded-in external scale pattern
+        - Translucent body
+        - Holographic insert
+      pieces: 1
+      # summarized_reviews:
+      pros:
+        - Effective action - Anglers have found the STORM WiggleWart MadFlash to have a great action that attracts fish effectively. The lure's tight wobbling motion in particular makes it enticing to hungry bass and other species.
+        - Versatile depth range - The lure performs well in various water depths, from deep water with its frantic wobble to shallow areas near rocks and brush where it can deflect and dig in erratically, mimicking the movement of small baitfish.
+        - Durability - Many reviewers appreciate the lure's durability, with reports of it holding up even after being banged against rocks. This durability is especially beneficial when targeting larger fish such as pike.
+      cons:
+        - Depth limitation - While the STORM WiggleWart MadFlash offers versatile performance, some anglers noted that it doesn't reach depths as deep as advertised. This could limit its effectiveness in extremely deep waters.
+        - Limited color selection - A broader variety of color options could enhance the lure's versatility and effectiveness in different fishing conditions.
+      # personal_review: |
+      #   I've recently had the pleasure of adding the STORM WiggleWart MadFlash to my tackle collection, and I must say, it's quickly become one of my top choices. The lure's action is truly remarkable, drawing fish in with its tight wobbling motion that proves irresistible to bass and other hungry species. One of its standout qualities is its ability to excel in a variety of depths. Whether I'm aiming for the deeper waters with its distinct frantic wobble or casting near rocky areas, where it deftly deflects and digs in like a real baitfish, this lure delivers consistent results. I've found it to be exceptionally durable, even after unintentional encounters with rocks, and its resilience is particularly advantageous when targeting larger predators like pike. While the lure boasts numerous strengths, it's worth noting that its depth capabilities might not reach the extreme depths as advertised. Additionally, a broader range of color options could enhance its adaptability to different fishing scenarios. Nevertheless, the STORM WiggleWart MadFlash has proven its worth, earning a prominent place in my angling arsenal.
   bonus:
     # Crankbait Storage
     # https://www.cabelas.com/shop/en/plano-edge-small-crankbait-box
@@ -425,6 +519,7 @@ Our journey will take us through the dynamic realm of squarebill crankbaits, the
 - [Squarebill Crankbaits](#squarebill-crankbaits)
 - [Lipless Crankbaits](#lipless-crankbaits)
 - [Shallow-Diving Crankbaits](#shallow-diving-crankbaits)
+- [Deep-Diving Crankbaits](#deep-diving-crankbaits)
 
 ## <a href="https://cabelas.xhuc.net/WqdBrn">Squarebill Crankbaits</a>
 
@@ -463,3 +558,17 @@ So let's jump into the <a href="https://cabelas.xhuc.net/R5majR">shallow crankba
 {% for lure in page.lures.shallow %}
   {% include product-table.md product=lure %}
 {% endfor %}
+<hr/>
+
+## <a href="https://cabelas.xhuc.net/B0bMN0">Deep-Diving Crankbaits</a>
+
+Let's take the plunge into the depths as we explore the realm of deep diving crankbaits. These lures are the key to reaching bass hiding in deeper waters, and they pack a punch when it comes to landing those prized catches. In this section, we'll shine a light on some top-notch <a href="https://cabelas.xhuc.net/B0bMN0">deep diving crankbaits</a> from Berkley, Rapala, and STORM.
+
+Our lineup showcases prime selections from <a href="https://cabelas.xhuc.net/9gO5N4">Berkley</a>, the classic appeal of <a href="https://cabelas.xhuc.net/vNxR53">Rapala</a>, and the reliability of <a href="https://cabelas.xhuc.net/Nk4O5q">STORM</a>. These deep diving crankbaits are handpicked for their ability to dive down and draw in bass from the depths. Whether you're targeting submerged structures or the cool, shadowy spots where big bass hang out, these lures are designed to make your fishing game stronger.
+
+So, let's venture into the world of <a href="https://cabelas.xhuc.net/B0bMN0">deep diving crankbaits</a> and get acquainted with what Berkley, Rapala, and STORM have to offer. These lures are more than just tools – they're your gateway to enhancing your deep-water bass fishing experience. Get ready to add action and excitement to your angling journey with these top-notch picks.
+
+{% for lure in page.lures.deep %}
+  {% include product-table.md product=lure %}
+{% endfor %}
+<hr/>
