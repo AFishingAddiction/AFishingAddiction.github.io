@@ -7,7 +7,7 @@ import yaml
 from typing import Tuple
 
 from selenium import webdriver
-from selenium.common.exceptions import TimeoutException
+from selenium.common.exceptions import ElementClickInterceptedException, TimeoutException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.edge.options import Options
 from selenium.webdriver.edge.service import Service
@@ -21,7 +21,7 @@ logger = logging.getLogger()
 
 class Product:
     url: str
-    name: str
+    __name: str
     reviews: list
 
     def __init__(self, url) -> None:
@@ -29,14 +29,14 @@ class Product:
         self.reviews = []
 
     @property
-    def name(self):
+    def name(self) -> str:
         return self.__name
 
     @name.setter
-    def name(self, name):
+    def name(self, name: str):
         self.__name = name
 
-    def add_reviews(self, reviews):
+    def add_reviews(self, reviews: list):
         self.reviews.extend(reviews)
 
 
@@ -102,19 +102,39 @@ class ReviewExtractor:
         except TimeoutException:
             logger.info(f"Timed out waiting for element to be clickable: {str(selector)}")
 
+
 class CabelasReviewExtractor(ReviewExtractor):
+    PRODUCT_NAME_SELECTOR = (By.CSS_SELECTOR, 'div.namePartPriceContainer div h1.main_header')
     REVIEWS_BUTTON_XPATH = '//*[@id="BPS_rating_summary"]/div/button/div[3]/div'
     REVIEWS_SELECTOR = "#BVRRContainer > div > div > div > div > ol > li > div > div.bv-content-container > div > div.bv-content-details-offset-off > div > div > div.bv-content-summary-body-text > p"
     LOAD_MORE_BUTTON_SELECTOR = "#BVRRContainer > div > div > div > div > div.bv-content-pagination > div > ul > li.bv-content-pagination-buttons-item.bv-content-pagination-buttons-item-next > a"
 
-    def extract_reviews(self, url, min_reviews):
-        reviews_button = self.driver.find_element(By.XPATH, self.REVIEWS_BUTTON_XPATH)
-        WebDriverWait(self.driver, 10).until(EC.visibility_of(reviews_button))
-        if reviews_button.is_displayed():
-            reviews_button.click()
-            logger.info("Review button clicked")
+    def find_product_name(self):
+        while True:
+            product_name_elem = self.gracefully_wait_for_element_on_page(self.PRODUCT_NAME_SELECTOR, 15)
+            if product_name_elem:
+                self.product.name = product_name_elem.text
+                logger.info(f"Found product name: '{self.product.name}'")
+                break
+            else:
+                self.check_and_clear_popup()
 
-        self.popup_closed = False
+    def extract_reviews(self, min_reviews):
+        while (True):
+            try:
+                WebDriverWait(self.driver, 5).until(
+                    EC.presence_of_element_located((By.XPATH, self.REVIEWS_BUTTON_XPATH))
+                )
+                reviews_button = self.wait_for_element_to_be_clickable(
+                    (By.XPATH, self.REVIEWS_BUTTON_XPATH), 5
+                )
+                # Click the "Load More" button
+                reviews_button.click()
+                logger.info("Review button clicked")
+                self.check_and_clear_popup()
+                break
+            except:
+                continue
 
         # Extract the reviews
         while len(self.product.reviews) < min_reviews:
@@ -122,7 +142,6 @@ class CabelasReviewExtractor(ReviewExtractor):
             review_elements = self.driver.find_elements(
                 By.CSS_SELECTOR, self.REVIEWS_SELECTOR
             )
-            # print(review_elements)
             self.product.add_reviews(
                 [
                     review.text.replace("\n", " ").strip()
@@ -134,21 +153,31 @@ class CabelasReviewExtractor(ReviewExtractor):
 
             self.check_and_clear_popup()
 
+            # WebDriverWait(self.driver, 5).until(
+            #     EC.presence_of_element_located((By.CSS_SELECTOR, self.LOAD_MORE_BUTTON_SELECTOR))
+            # )
             # Check if there is a "Load More" button
-            load_more_button = self.wait_for_element_to_be_clickable(
-                (By.CSS_SELECTOR, self.LOAD_MORE_BUTTON_SELECTOR), 15
+            load_more_button = self.gracefully_wait_for_element_to_be_clickable(
+                (By.CSS_SELECTOR, self.LOAD_MORE_BUTTON_SELECTOR), 5
             )
             if not load_more_button:
                 break
             self.check_and_clear_popup()
-            load_more_button = self.wait_for_element_to_be_clickable(
-                (By.CSS_SELECTOR, self.LOAD_MORE_BUTTON_SELECTOR), 15
+            # WebDriverWait(self.driver, 5).until(
+            #     EC.presence_of_element_located((By.CSS_SELECTOR, self.LOAD_MORE_BUTTON_SELECTOR))
+            # )
+            load_more_button = self.gracefully_wait_for_element_to_be_clickable(
+                (By.CSS_SELECTOR, self.LOAD_MORE_BUTTON_SELECTOR), 5
             )
             # Click the "Load More" button
-            load_more_button.click()
+            if load_more_button:
+                try:
+                    load_more_button.click()
 
-            # Wait for the new reviews to load
-            self.wait_for_element_to_be_stale(load_more_button, 10)
+                    # Wait for the new reviews to load
+                    self.wait_for_element_to_be_stale(load_more_button, 10)
+                except ElementClickInterceptedException:
+                    continue
 
             # Wait for a short interval to ensure all reviews are loaded
             time.sleep(5)
@@ -163,7 +192,7 @@ class CabelasReviewExtractor(ReviewExtractor):
                 "#bluecoreActionScreen > div.close_button-152678-position.close_button-152678-position-d0.bcTextShadow > button",
             )
             popup_close_button = self.gracefully_wait_for_element_to_be_clickable(
-                popup_close_button_selector, 5
+                popup_close_button_selector, 15
             )
             if popup_close_button:
                 popup_close_button.click()
@@ -173,8 +202,11 @@ class CabelasReviewExtractor(ReviewExtractor):
     def run(self, min_reviews):
         # Visit the URL
         self.driver.get(url)
+        self.popup_closed = False
+        self.find_product_name()
+        self.check_and_clear_popup()
 
-        self.extract_reviews(self.product.url, min_reviews)
+        self.extract_reviews(min_reviews)
 
 
 class YAMLHelper:
@@ -200,14 +232,16 @@ if __name__ == "__main__":
     extractor = CabelasReviewExtractor(product)
     extractor.run(min_reviews)
 
+    print("=" * 80)
+
     prompt = """I want you to act like a fishing expert. I will provide you with a list of reviews for a single fishing product. It is your job to create a summary of the reviews to provide to your bass angler followers. I want you to take only the product reviews I provide in this prompt and not consider any reviews from any previous prompts. You will aggregate the reviews and highlight the product's distinct strengths and weaknesses in 2 bullet lists. Each bullet in the list will contain a title, followed by a hyphen, followed by a brief description of that point. The bullet list will be formatted as a markdown list.
 For example:
 "- Title - Description
 - Title 2 - Description 2"
 
-I also want you to write a summarized review as if it were my own personalized review with personal experience. The summary should be 2 paragraphs with 3 sentences each. In the summary, do not introduce me or address the audience. Only focus on the product. When referring to the people that have provided the reviews, refer to them as "anglers" and not "users".
+I also want you to write a summarized review as if it were my own personalized review with personal experience. The summary should be 2 paragraphs with 3 sentences each. In the summary, do not introduce me or address the audience. Only focus on the product. When referring to the people that have provided the reviews, refer to them as "anglers" and not "users" or "reviewers".
 
 Here are the reviews for the "{product_name}":
 """
-    print(prompt)
+    print(prompt.format(product_name=product.name))
     YAMLHelper.print(product.reviews)
