@@ -25,6 +25,7 @@ logger = logging.getLogger()
 class Product:
     url: str
     __name: str
+    __brand: str
     __rating: str
     reviews: list
 
@@ -39,6 +40,14 @@ class Product:
     @name.setter
     def name(self, name: str):
         self.__name = name
+
+    @property
+    def brand(self) -> str:
+        return self.__brand
+
+    @brand.setter
+    def brand(self, brand: str):
+        self.__brand = brand
 
     @property
     def rating(self) -> float:
@@ -124,6 +133,10 @@ class CabelasReviewExtractor(ReviewExtractor):
         By.CSS_SELECTOR,
         "div.namePartPriceContainer div h1.main_header",
     )
+    PRODUCT_BRAND_SELECTOR = (
+        By.CSS_SELECTOR,
+        "input[name='tm_Prod_Brnd']",
+    )
     PRODUCT_AVG_REVIEW_SELECTOR = (
         By.CSS_SELECTOR,
         "div.bv_avgRating_component_container",
@@ -140,6 +153,16 @@ class CabelasReviewExtractor(ReviewExtractor):
             if product_name_elem:
                 self.product.name = product_name_elem.text
                 logger.info(f"Found product name: '{self.product.name}'")
+                break
+            else:
+                self.check_and_clear_popup()
+
+    def find_product_brand(self):
+        while True:
+            brand = self.driver.execute_script(f"return document.querySelector(\"{self.PRODUCT_BRAND_SELECTOR[1]}\").value")
+            if brand:
+                self.product.brand = brand
+                logger.info(f"Found product brand: '{self.product.brand}'")
                 break
             else:
                 self.check_and_clear_popup()
@@ -243,32 +266,56 @@ class CabelasReviewExtractor(ReviewExtractor):
         self.driver.get(url)
         self.popup_closed = False
         self.find_product_name()
+        self.find_product_brand()
         self.find_product_rating()
 
         # self.check_and_clear_popup()
         # self.extract_reviews(min_reviews)
 
 
-class YAMLHelper:
+class YAMLProductHelper:
+    CHAT_GPT_REVIEW_SUMMARY_PROMPT = """I want you to act like a fishing expert. I will provide you with a list of reviews for a single fishing product. It is your job to create a summary of the reviews to provide to your bass angler followers. I want you to take only the product reviews I provide in this prompt and not consider any reviews from any previous prompts. You will aggregate the reviews and highlight the product's distinct strengths and weaknesses in 2 bullet lists. Each bullet in the list will contain a title, followed by a hyphen, followed by a brief description of that point. The bullet list will be formatted as a markdown list.
+For example:
+"- Title - Description
+- Title 2 - Description 2"
+
+I also want you to write a summarized review as if it were my own personalized review with personal experience. The summary should be 2 paragraphs with 3 sentences each. In the summary, do not introduce me or address the audience. Only focus on the product. When referring to the people that have provided the reviews, refer to them as "anglers" and not "users" or "reviewers".
+
+Here are the reviews for the "{product_name}":"""
+
     @staticmethod
     def print(var):
-        logger.info("Printing a var formatted as YAML")
         print(yaml.dump(var, allow_unicode=True, width=1024))
 
     @staticmethod
-    def print_product_markdown(product):
+    def print_product_markdown(product: Product):
         print(
             yaml.dump(
                 {
                     "products": {
                         "category": [
-                            {"" "product": product.name, "rating": product.rating}
+                            {
+                                "banner": "",
+                                "banner_class": "",
+                                "product": product.name,
+                                "brand": product.brand,
+                                "rating": product.rating,
+                            }
                         ]
                     }
                 },
                 allow_unicode=True,
             )
         )
+
+    @staticmethod
+    def print_product_review_prompt(product: Product):
+        print(
+            YAMLProductHelper.CHAT_GPT_REVIEW_SUMMARY_PROMPT.format(
+                product_name=product.name
+            )
+        )
+        YAMLProductHelper.print(product.reviews)
 
 
 if __name__ == "__main__":
@@ -287,18 +334,5 @@ if __name__ == "__main__":
     extractor = CabelasReviewExtractor(product)
     extractor.run(min_reviews)
 
-    YAMLHelper.print_product_markdown(product.toYAML)
-
-    print("=" * 80)
-
-    prompt = """I want you to act like a fishing expert. I will provide you with a list of reviews for a single fishing product. It is your job to create a summary of the reviews to provide to your bass angler followers. I want you to take only the product reviews I provide in this prompt and not consider any reviews from any previous prompts. You will aggregate the reviews and highlight the product's distinct strengths and weaknesses in 2 bullet lists. Each bullet in the list will contain a title, followed by a hyphen, followed by a brief description of that point. The bullet list will be formatted as a markdown list.
-For example:
-"- Title - Description
-- Title 2 - Description 2"
-
-I also want you to write a summarized review as if it were my own personalized review with personal experience. The summary should be 2 paragraphs with 3 sentences each. In the summary, do not introduce me or address the audience. Only focus on the product. When referring to the people that have provided the reviews, refer to them as "anglers" and not "users" or "reviewers".
-
-Here are the reviews for the "{product_name}":
-"""
-    print(prompt.format(product_name=product.name))
-    YAMLHelper.print(product.reviews)
+    YAMLProductHelper.print_product_markdown(product)
+    YAMLProductHelper.print_product_review_prompt(product)
