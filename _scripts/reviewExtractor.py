@@ -7,7 +7,10 @@ import yaml
 from typing import Tuple
 
 from selenium import webdriver
-from selenium.common.exceptions import ElementClickInterceptedException, TimeoutException
+from selenium.common.exceptions import (
+    ElementClickInterceptedException,
+    TimeoutException,
+)
 from selenium.webdriver.common.by import By
 from selenium.webdriver.edge.options import Options
 from selenium.webdriver.edge.service import Service
@@ -22,6 +25,7 @@ logger = logging.getLogger()
 class Product:
     url: str
     __name: str
+    __rating: str
     reviews: list
 
     def __init__(self, url) -> None:
@@ -35,6 +39,14 @@ class Product:
     @name.setter
     def name(self, name: str):
         self.__name = name
+
+    @property
+    def rating(self) -> float:
+        return float(self.__rating)
+
+    @rating.setter
+    def rating(self, rating: str):
+        self.__rating = rating
 
     def add_reviews(self, reviews: list):
         self.reviews.extend(reviews)
@@ -52,7 +64,9 @@ class ReviewExtractor:
         options = Options()
         options.add_argument("--guest")
         options.add_experimental_option("excludeSwitches", ["enable-logging"])
-        options.add_argument("user-data-dir={}".format(os.path.join(os.getcwd(), ".browser_profile")))
+        options.add_argument(
+            "user-data-dir={}".format(os.path.join(os.getcwd(), ".browser_profile"))
+        )
 
         # Set up the Edge driver (replace with the path to your msedgedriver)
         edgedriver_path = "msedgedriver.exe"
@@ -100,18 +114,29 @@ class ReviewExtractor:
         try:
             return self.wait_for_element_to_be_clickable(selector, max_time)
         except TimeoutException:
-            logger.info(f"Timed out waiting for element to be clickable: {str(selector)}")
+            logger.info(
+                f"Timed out waiting for element to be clickable: {str(selector)}"
+            )
 
 
 class CabelasReviewExtractor(ReviewExtractor):
-    PRODUCT_NAME_SELECTOR = (By.CSS_SELECTOR, 'div.namePartPriceContainer div h1.main_header')
+    PRODUCT_NAME_SELECTOR = (
+        By.CSS_SELECTOR,
+        "div.namePartPriceContainer div h1.main_header",
+    )
+    PRODUCT_AVG_REVIEW_SELECTOR = (
+        By.CSS_SELECTOR,
+        "div.bv_avgRating_component_container",
+    )
     REVIEWS_BUTTON_XPATH = '//*[@id="BPS_rating_summary"]/div/button/div[3]/div'
     REVIEWS_SELECTOR = "#BVRRContainer > div > div > div > div > ol > li > div > div.bv-content-container > div > div.bv-content-details-offset-off > div > div > div.bv-content-summary-body-text > p"
     LOAD_MORE_BUTTON_SELECTOR = "#BVRRContainer > div > div > div > div > div.bv-content-pagination > div > ul > li.bv-content-pagination-buttons-item.bv-content-pagination-buttons-item-next > a"
 
     def find_product_name(self):
         while True:
-            product_name_elem = self.gracefully_wait_for_element_on_page(self.PRODUCT_NAME_SELECTOR, 15)
+            product_name_elem = self.gracefully_wait_for_element_on_page(
+                self.PRODUCT_NAME_SELECTOR, 15
+            )
             if product_name_elem:
                 self.product.name = product_name_elem.text
                 logger.info(f"Found product name: '{self.product.name}'")
@@ -119,11 +144,25 @@ class CabelasReviewExtractor(ReviewExtractor):
             else:
                 self.check_and_clear_popup()
 
+    def find_product_rating(self):
+        while True:
+            product_rating_elem = self.gracefully_wait_for_element_on_page(
+                self.PRODUCT_AVG_REVIEW_SELECTOR, 15
+            )
+            if product_rating_elem:
+                self.product.rating = product_rating_elem.text
+                logger.info(f"Found product rating: '{self.product.rating}'")
+                break
+            else:
+                self.check_and_clear_popup()
+
     def extract_reviews(self, min_reviews):
-        while (True):
+        while True:
             try:
                 WebDriverWait(self.driver, 5).until(
-                    EC.presence_of_element_located((By.XPATH, self.REVIEWS_BUTTON_XPATH))
+                    EC.presence_of_element_located(
+                        (By.XPATH, self.REVIEWS_BUTTON_XPATH)
+                    )
                 )
                 reviews_button = self.wait_for_element_to_be_clickable(
                     (By.XPATH, self.REVIEWS_BUTTON_XPATH), 5
@@ -204,9 +243,10 @@ class CabelasReviewExtractor(ReviewExtractor):
         self.driver.get(url)
         self.popup_closed = False
         self.find_product_name()
-        self.check_and_clear_popup()
+        self.find_product_rating()
 
-        self.extract_reviews(min_reviews)
+        # self.check_and_clear_popup()
+        # self.extract_reviews(min_reviews)
 
 
 class YAMLHelper:
@@ -214,6 +254,21 @@ class YAMLHelper:
     def print(var):
         logger.info("Printing a var formatted as YAML")
         print(yaml.dump(var, allow_unicode=True, width=1024))
+
+    @staticmethod
+    def print_product_markdown(product):
+        print(
+            yaml.dump(
+                {
+                    "products": {
+                        "category": [
+                            {"" "product": product.name, "rating": product.rating}
+                        ]
+                    }
+                },
+                allow_unicode=True,
+            )
+        )
 
 
 if __name__ == "__main__":
@@ -231,6 +286,8 @@ if __name__ == "__main__":
 
     extractor = CabelasReviewExtractor(product)
     extractor.run(min_reviews)
+
+    YAMLHelper.print_product_markdown(product.toYAML)
 
     print("=" * 80)
 
