@@ -302,6 +302,17 @@ class CabelasReviewExtractor(ReviewExtractor):
         self.extract_reviews(min_reviews)
 
 
+class MyDumper(yaml.SafeDumper):
+    def __init__(self, *args, **kwargs) -> None:
+        super().__init__(*args, **kwargs)
+        self.add_representer(
+            type(None),
+            lambda dumper, value: dumper.represent_scalar("tag:yaml.org,2002:null", ""),
+        )
+
+    def increase_indent(self, flow=False, indentless=False):
+        return super(MyDumper, self).increase_indent(flow, False)
+
 
 class YAMLProductHelper:
     CHAT_GPT_REVIEW_SUMMARY_PROMPT = """I want you to act like a fishing expert. I will provide you with a list of reviews for a single fishing product. It is your job to create a summary of the reviews to provide to your bass angler followers. I want you to take only the product reviews I provide in this prompt and not consider any reviews from any previous prompts. You will aggregate the reviews and highlight the product's distinct strengths and weaknesses in 2 bullet lists. Each bullet in the list will contain a title, followed by a hyphen, followed by a brief description of that point. The bullet list will be formatted as a markdown list.
@@ -338,17 +349,14 @@ Here are the reviews for the "{product_name}":"""
     @staticmethod
     def print_product_markdown(product: Product):
 
-        yaml.SafeDumper.add_representer(
-            type(None),
-            lambda dumper, value: dumper.represent_scalar("tag:yaml.org,2002:null", ""),
-        )
         print(
-            yaml.safe_dump(
+            yaml.dump(
                 {
                     "products": {
                         "category": [YAMLProductHelper.markdown_mapper(product)]
                     }
                 },
+                Dumper=MyDumper,
                 allow_unicode=True,
                 sort_keys=False,
                 width=inf,
