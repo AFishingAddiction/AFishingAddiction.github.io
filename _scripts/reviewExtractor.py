@@ -392,6 +392,8 @@ Here are the reviews for the "{product_name}":"""
 
     @staticmethod
     def print_product_review_prompt(product: Product):
+        if not product.reviews:
+            return
         print(
             YAMLProductHelper.CHAT_GPT_REVIEW_SUMMARY_PROMPT.format(
                 product_name=product.name
