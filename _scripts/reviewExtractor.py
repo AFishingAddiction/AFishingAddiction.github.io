@@ -4,6 +4,7 @@ import sys
 import time
 import yaml
 
+from math import floor, inf
 from typing import Tuple
 
 from selenium import webdriver
@@ -39,7 +40,7 @@ class Product:
 
     @name.setter
     def name(self, name: str):
-        self.__name = name
+        self.__name = name.strip()
 
     @property
     def brand(self) -> str:
@@ -47,15 +48,15 @@ class Product:
 
     @brand.setter
     def brand(self, brand: str):
-        self.__brand = brand
+        self.__brand = brand.strip()
 
     @property
     def rating(self) -> float:
-        return float(self.__rating)
+        return float(self.__rating) if self.__rating else ""
 
     @rating.setter
     def rating(self, rating: str):
-        self.__rating = rating
+        self.__rating = float(rating.strip()) if rating else None
 
     def add_reviews(self, reviews: list):
         self.reviews.extend(reviews)
@@ -159,7 +160,9 @@ class CabelasReviewExtractor(ReviewExtractor):
 
     def find_product_brand(self):
         while True:
-            brand = self.driver.execute_script(f"return document.querySelector(\"{self.PRODUCT_BRAND_SELECTOR[1]}\").value")
+            brand = self.driver.execute_script(
+                f'return document.querySelector("{self.PRODUCT_BRAND_SELECTOR[1]}").value'
+            )
             if brand:
                 self.product.brand = brand
                 logger.info(f"Found product brand: '{self.product.brand}'")
