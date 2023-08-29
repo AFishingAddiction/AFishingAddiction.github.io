@@ -310,8 +310,13 @@ Here are the reviews for the "{product_name}":"""
 
     @staticmethod
     def print_product_markdown(product: Product):
+
+        yaml.SafeDumper.add_representer(
+            type(None),
+            lambda dumper, value: dumper.represent_scalar("tag:yaml.org,2002:null", ""),
+        )
         print(
-            yaml.dump(
+            yaml.safe_dump(
                 {
                     "products": {
                         "category": [YAMLProductHelper.markdown_mapper(product)]
