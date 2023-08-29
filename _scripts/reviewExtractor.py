@@ -291,25 +291,62 @@ Here are the reviews for the "{product_name}":"""
         print(yaml.dump(var, allow_unicode=True, width=1024))
 
     @staticmethod
+    def star_rating(rating):
+        empty_stars = half_stars = 0
+        full_stars = floor(rating)
+        remaining_stars = rating - full_stars
+        if remaining_stars <= 0.32:
+            empty_stars += 1
+        elif remaining_stars >= 0.78:
+            full_stars += 1
+        else:
+            half_stars += 1
+        empty_stars += 5 - full_stars - empty_stars - half_stars
+        return (
+            ('<i class="fas fa-star">' * full_stars)
+            + ('<i class="fas fa-star-half-o">' * half_stars)
+            + ('<i class="fas fa-star-o">' * empty_stars)
+        )
+
+    @staticmethod
     def print_product_markdown(product: Product):
         print(
             yaml.dump(
                 {
                     "products": {
-                        "category": [
-                            {
-                                "banner": "",
-                                "banner_class": "",
-                                "product": product.name,
-                                "brand": product.brand,
-                                "rating": product.rating,
-                            }
-                        ]
+                        "category": [YAMLProductHelper.markdown_mapper(product)]
                     }
                 },
                 allow_unicode=True,
+                sort_keys=False,
+                width=inf,
             )
         )
+
+    @staticmethod
+    def markdown_mapper(product):
+        return {
+            "banner": None,
+            "banner_class": "primary|secondary|tertiary|quaternary",
+            "product": product.name,
+            "brand": product.brand,
+            "rating": product.rating,
+            "rating_stars": YAMLProductHelper.star_rating(product.rating),
+            "buy_url": None,
+            "image_link": None,
+            # "prime": None,
+            "length": None,
+            "weight": None,
+            "type": None,
+            "hooks": None,
+            "blade_type": None,
+            "features": [None],
+            "pieces": 1,
+            "summarized_reviews": None,
+            "pros": [None],
+            "cons": [None],
+            "personal_review": None,
+        }
 
     @staticmethod
     def print_product_review_prompt(product: Product):
