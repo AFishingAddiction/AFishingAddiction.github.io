@@ -28,6 +28,7 @@ class Product:
     __name: str
     __brand: str
     __rating: str
+    __sku: str
     reviews: list
 
     def __init__(self, url) -> None:
@@ -57,6 +58,14 @@ class Product:
     @rating.setter
     def rating(self, rating: str):
         self.__rating = float(rating.strip()) if rating else None
+
+    @property
+    def sku(self) -> str:
+        return self.__sku
+
+    @sku.setter
+    def sku(self, sku: str):
+        self.__sku = sku.strip()
 
     def add_reviews(self, reviews: list):
         self.reviews.extend(reviews)
@@ -138,6 +147,10 @@ class CabelasReviewExtractor(ReviewExtractor):
         By.CSS_SELECTOR,
         "input[name='tm_Prod_Brnd']",
     )
+    PRODUCT_SKU_SELECTOR = (
+        By.CSS_SELECTOR,
+        "input[name='tm_Sku_Id']",
+    )
     PRODUCT_AVG_REVIEW_SELECTOR = (
         By.CSS_SELECTOR,
         "div.bv_avgRating_component_container",
@@ -166,6 +179,18 @@ class CabelasReviewExtractor(ReviewExtractor):
             if brand:
                 self.product.brand = brand
                 logger.info(f"Found product brand: '{self.product.brand}'")
+                break
+            else:
+                self.check_and_clear_popup()
+
+    def find_product_sku(self):
+        while True:
+            sku = self.driver.execute_script(
+                f'return document.querySelector("{self.PRODUCT_SKU_SELECTOR[1]}").value'
+            )
+            if sku:
+                self.product.sku = sku
+                logger.info(f"Found product sku: '{self.product.sku}'")
                 break
             else:
                 self.check_and_clear_popup()
@@ -271,9 +296,11 @@ class CabelasReviewExtractor(ReviewExtractor):
         self.find_product_name()
         self.find_product_brand()
         self.find_product_rating()
+        self.find_product_sku()
 
-        # self.check_and_clear_popup()
-        # self.extract_reviews(min_reviews)
+        self.check_and_clear_popup()
+        self.extract_reviews(min_reviews)
+
 
 
 class YAMLProductHelper:
@@ -334,6 +361,8 @@ Here are the reviews for the "{product_name}":"""
             "banner": None,
             "banner_class": "primary|secondary|tertiary|quaternary",
             "product": product.name,
+            "url": product.url,
+            "sku": product.sku,
             "brand": product.brand,
             "rating": product.rating,
             "rating_stars": YAMLProductHelper.star_rating(product.rating),
