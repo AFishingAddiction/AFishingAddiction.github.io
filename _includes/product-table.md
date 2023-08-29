@@ -17,10 +17,18 @@
     {%- endif %}
     </div>
   </div>
+  {% if lure.lure -%}
   <div class="row">
     <div class="head">Lure</div>
     <div class="data">{{ lure.lure }}</div>
   </div>
+  {%- endif %}
+  {% if lure.product -%}
+  <div class="row">
+    <div class="head">Product</div>
+    <div class="data">{{ lure.product }}</div>
+  </div>
+  {%- endif %}
   <div class="row">
     <div class="head">Brand</div>
     <div class="data">{{ lure.brand }}</div>
@@ -53,6 +61,12 @@
   <div class="row">
     <div class="head">Length</div>
     <div class="data">{{ lure.length }}</div>
+  </div>
+  {% endif %}
+  {% if lure.size %}
+  <div class="row">
+    <div class="head">Size</div>
+    <div class="data">{{ lure.size }}</div>
   </div>
   {% endif %}
   {% if lure.features %}
