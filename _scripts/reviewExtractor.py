@@ -243,24 +243,20 @@ class CabelasReviewExtractor(ReviewExtractor):
 
             self.check_and_clear_popup()
 
-            # WebDriverWait(self.driver, 5).until(
-            #     EC.presence_of_element_located((By.CSS_SELECTOR, self.LOAD_MORE_BUTTON_SELECTOR))
-            # )
             # Check if there is a "Load More" button
             load_more_button = self.gracefully_wait_for_element_to_be_clickable(
                 (By.CSS_SELECTOR, self.LOAD_MORE_BUTTON_SELECTOR), 5
             )
             if not load_more_button:
                 break
+            logger.info("Found load_more_button")
             self.check_and_clear_popup()
-            # WebDriverWait(self.driver, 5).until(
-            #     EC.presence_of_element_located((By.CSS_SELECTOR, self.LOAD_MORE_BUTTON_SELECTOR))
-            # )
             load_more_button = self.gracefully_wait_for_element_to_be_clickable(
                 (By.CSS_SELECTOR, self.LOAD_MORE_BUTTON_SELECTOR), 5
             )
             # Click the "Load More" button
             if load_more_button:
+                logger.info("Getting ready to click load_more_button")
                 try:
                     load_more_button.click()
 
@@ -268,6 +264,8 @@ class CabelasReviewExtractor(ReviewExtractor):
                     self.wait_for_element_to_be_stale(load_more_button, 10)
                 except ElementClickInterceptedException:
                     continue
+            else:
+                break
 
             # Wait for a short interval to ensure all reviews are loaded
             time.sleep(5)
