@@ -2,6 +2,7 @@ import logging
 import os
 import sys
 import time
+import urllib.parse
 import yaml
 
 from math import floor, inf
@@ -22,11 +23,18 @@ from selenium.webdriver.support.ui import WebDriverWait
 logging.basicConfig(level=os.environ.get("LOGLEVEL", "INFO").upper())
 logger = logging.getLogger()
 
+IMPACT_AFA_ACCOUNT_ID = 4236519
+IMPACT_AFA_MEDIA_PROPERTY_ID = 4301075
+IMPACT_AFA_SECONDARY_ID = 132065
+IMPACT_CABELAS_CAMPAIGN_ID = 2623
+IMPACT_URL_INTEGRATION_SOURCE = "PUI2_895"
+
 
 class Product:
     url: str
     __name: str
     __brand: str
+    __buy_url: str
     __rating: str
     __sku: str
     reviews: set
@@ -50,6 +58,14 @@ class Product:
     @brand.setter
     def brand(self, brand: str):
         self.__brand = brand.strip()
+
+    @property
+    def buy_url(self) -> str:
+        return self.__buy_url
+
+    @buy_url.setter
+    def buy_url(self, buy_url: str):
+        self.__buy_url = buy_url.strip()
 
     @property
     def rating(self) -> float:
@@ -287,6 +303,17 @@ class CabelasReviewExtractor(ReviewExtractor):
                 self.wait_for_element_to_disappear(popup_close_button_selector, 5)
                 self.popup_closed = True
 
+    def find_product_buy_url(self):
+        encoded_url_params = urllib.parse.urlencode(
+            {
+                "prodsku": self.product.sku,
+                "u": self.product.url,
+                "intsrc": IMPACT_URL_INTEGRATION_SOURCE,
+                "subId1": "SHORTENED_PAGE_ID",
+            }
+        )
+        self.product.buy_url = f"https://cabelas.xhuc.net/c/{IMPACT_AFA_ACCOUNT_ID}/{IMPACT_AFA_SECONDARY_ID}/{IMPACT_CABELAS_CAMPAIGN_ID}?{encoded_url_params}"
+
     def run(self, min_reviews):
         # Visit the URL
         self.driver.get(url)
@@ -295,6 +322,7 @@ class CabelasReviewExtractor(ReviewExtractor):
         self.find_product_brand()
         self.find_product_rating()
         self.find_product_sku()
+        self.find_product_buy_url()
 
         self.check_and_clear_popup()
         self.extract_reviews(min_reviews)
@@ -372,7 +400,7 @@ Here are the reviews for the "{product_name}":"""
             "brand": product.brand,
             "rating": product.rating,
             "rating_stars": YAMLProductHelper.star_rating(product.rating),
-            "buy_url": None,
+            "buy_url": product.buy_url,
             "image_link": None,
             # "prime": None,
             "length": None,
