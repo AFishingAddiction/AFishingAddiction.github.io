@@ -29,11 +29,11 @@ class Product:
     __brand: str
     __rating: str
     __sku: str
-    reviews: list
+    reviews: set
 
     def __init__(self, url) -> None:
         self.url = url
-        self.reviews = []
+        self.reviews = set()
 
     @property
     def name(self) -> str:
@@ -68,7 +68,7 @@ class Product:
         self.__sku = sku.strip()
 
     def add_reviews(self, reviews: list):
-        self.reviews.extend(reviews)
+        self.reviews.update(set(reviews))
 
 
 class ReviewExtractor:
@@ -397,7 +397,7 @@ Here are the reviews for the "{product_name}":"""
                 product_name=product.name
             )
         )
-        YAMLProductHelper.print(product.reviews)
+        YAMLProductHelper.print(list(product.reviews))
 
 
 if __name__ == "__main__":
