@@ -371,13 +371,12 @@ After you give me the list of the pros and cons, I also want you to write a summ
         empty_stars += 5 - full_stars - empty_stars - half_stars
         return (
             ('<i class="fas fa-star">' * full_stars)
-            + ('<i class="fas fa-star-half-o">' * half_stars)
-            + ('<i class="fas fa-star-o">' * empty_stars)
+            + ('<i class="fas fa-star-half"></i>' * half_stars)
+            # + ('<i class="fas fa-star-o">' * empty_stars)
         )
 
     @staticmethod
     def print_product_markdown(product: Product):
-
         print(
             yaml.dump(
                 {
