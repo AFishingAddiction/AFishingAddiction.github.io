@@ -472,38 +472,122 @@ lures:
   bonus:
     # Crankbait Storage
     # https://www.cabelas.com/shop/en/plano-edge-small-crankbait-box
+    - banner: Crankbait Storage
+      banner_class: primary
+      product: Plano EDGE Crankbait Box
+      url: https://www.cabelas.com/shop/en/plano-edge-small-crankbait-box
+      sku: '2794477'
+      brand: Plano
+      rating: 3.8
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2794477&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fplano-edge-small-crankbait-box&intsrc=PUI2_895&subId1=best-crankbaits
+      image_link: <a id="2794477" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2794477&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fplano-edge-small-crankbait-box&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2794477.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      size: 14 inch x 9 inch x 3-1/4 inch
+      type: Crankbait Storage
+      features:
+        - Hundreds of silicon fingers keep crankbaits in place
+        - Duraview – Crystal-clear lid with a 1-handed latch
+        - Lid's water-tight Dri-Loc seal keeps gear dry
+        - Water Wick – Water-absorbing, rechargeable divider
+        - Rustictor – Base keeps metal tackle from rusting
+      pieces: 1
+      # summarized_reviews:
+      pros:
+        - Suitable for certain lure types - Anglers have found success using the Plano EDGE Crankbait Box for storing jerkbaits and smaller lures, such as lipless crankbaits like Rippin Raps. The design seems to accommodate these types of baits effectively.
+        - Positive storage experience - Some anglers find that the box works well after getting used to it, becoming a favored storage solution over time.
+      cons:
+        - Lure displacement - Multiple reviewers have expressed concern about crankbaits, particularly medium-sized ones, tending to pop out of the designated positions in the box. This issue can be frustrating when trying to keep lures securely in place.
+        - Execution and design flaws - Many anglers are disappointed with the execution of the box's concept. Hooks can get caught in the upright pins, and the rubber pegs meant to hold the lures in place don't always prevent them from moving around, especially for larger lures. Additionally, the gasket seal's inefficiency in keeping water out raises concerns about the box's durability.
+      # personal_review:
     # Lure Wrap
     # https://www.cabelas.com/shop/en/Bass-Pro-Shops-Ultimate-Lure-Wrap
+    - banner: Lure Wrap
+      banner_class: secondary
+      product: Bass Pro Shops Ultimate Lure Wrap
+      url: https://www.cabelas.com/shop/en/Bass-Pro-Shops-Ultimate-Lure-Wrap
+      sku: '2496525'
+      brand: Bass Pro Shops
+      rating: 4.7
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2496525&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2FBass-Pro-Shops-Ultimate-Lure-Wrap&intsrc=PUI2_895&subId1=best-crankbaits
+      image_link: <a id="2496525" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2496525&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2FBass-Pro-Shops-Ultimate-Lure-Wrap&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2496525.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      size: Medium - 5-3/4"L x 4"W; Large - 7"L x 4-1/2"W
+      color: Red or Black
+      features:
+        - Helps keep rods tangle-free
+        - Built-in scent pad liner
+        - Hook 'n' loop closure with easy-opening pull tabs
+      pieces: 1
+      # summarized_reviews:
+      pros:
+        - Reliable protection - Anglers appreciate that the lure wrap effectively keeps lures secured to the rod, preventing tangles and ensuring safe transport.
+        - Versatility and convenience - Reviewers highlight the wrap's usefulness in various situations, from protecting hands and bodies from hook accidents to providing a solution for secure and hassle-free lure storage.
+      cons:
+        - Size limitations - Some anglers wish the lure wraps were larger to accommodate bigger lures, indicating that they sometimes need to use multiple wraps to cover larger baits effectively.
+        - Potential for treble hook entanglement - A few reviewers mention issues with treble hooks getting stuck inside the wrap, which can make it difficult to remove them, suggesting that a different material for the interior could address this concern.
+      # personal_review:
     # Hook Covers
     # https://www.cabelas.com/shop/en/als-goldfish-hook-cover-bonnet
+    - banner: Hook Covers
+      banner_class: tertiary
+      product: Al's Goldfish Hook Cover/Bonnet
+      url: https://www.cabelas.com/shop/en/als-goldfish-hook-cover-bonnet
+      sku: '425112'
+      brand: Al's Goldfish
+      rating: 4.6
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=425112&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fals-goldfish-hook-cover-bonnet&intsrc=PUI2_895&subId1=best-crankbaits
+      image_link: <a id="425112" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=425112&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fals-goldfish-hook-cover-bonnet&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/425112.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      color: Assorted
+      features:
+        - Multiple sizes
+        - Easy-to-see fluorescent colors
+      pieces: 90
+      # summarized_reviews:
+      pros:
+        - Effective Organization - Anglers praised the hook bonnets for preventing tangled lures and keeping their tackle boxes well-organized.
+        - Safety - Users emphasized that the bonnets are great for protecting fingers and body parts from accidental hook pricks, making them particularly valuable for fishing with kids.
+        - Variety of Sizes - The assortment of sizes in the pack was appreciated, allowing for compatibility with various treble hook sizes found in different lures.
+        - Easy Application - Reviewers mentioned that the bonnets are simple to install and remove, providing a hassle-free experience when swapping lures.
+      cons:
+        - Sizing Challenge - A few reviewers noted that the bonnets might have difficulty fitting larger treble hooks, suggesting that the product might benefit from offering a broader range of sizes.
+        - Stiffness - Some users found the bonnets a bit stiff, which made putting them on and taking them off hooks slightly challenging and occasionally resulted in pricks.
+      # personal_review:
     # Dehooker
     # https://www.cabelas.com/shop/en/cuda-titanium-bonded-dehooker
-  EXAMPLE:
-    - banner:
-      banner_class:
-      lure:
-      brand:
-      rating:
+    - banner: Dehooker
+      banner_class: quaternary
+      product: Cuda Titanium Bonded Dehooker
+      url: https://www.cabelas.com/shop/en/cuda-titanium-bonded-dehooker
+      sku: '2320757'
+      brand: Cuda
+      rating: 4.6
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
-      iframe_link:
-      # OR
-      buy_url:
-      image_link:
-      prime:
-      length:
-      weight:
-      type:
-      hooks:
-      blade_type:
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2320757&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fcuda-titanium-bonded-dehooker&intsrc=PUI2_895&subId1=best-crankbaits
+      image_link: <a id="2320757" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2320757&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fcuda-titanium-bonded-dehooker&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2320757.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      length: 8 1/2 inch; 18 inch
       features:
-        -
-      pieces:
-      summarized_reviews:
+        - Lightweight, corrosion-resistant aluminum-alloy construction
+        - Titanium bonded dehooking mechanism
+        - Spring-loaded with non-slip scale-pattern grips
+      pieces: 1
+      # summarized_reviews:
       pros:
-        -
+        - Quality Design - Well-built and durable construction.
+        - Tooth-Friendly - Excellent for handling toothy critters.
+        - Non-Slip Grip - Firm hold even in choppy conditions.
+        - Easy to Use - Smooth movement for hassle-free dehooking.
+        - Corrosion Resistance - Titanium Bonded mechanism for durability.
+        - Versatile - Suitable for saltwater and mid-sized fish.
+        - Comfortable Handling - Comfortable grips for ease of use.
+        - Compact Size - Fits well in tackle bags.
+        - Safe Catch and Release - Aids in removing deep-hooked fish gently.
+        - Lightweight - Strong hook-holding capability with rubberized handles.
       cons:
-        -
-      personal_review:
+        - Limited Freshwater Use - Too large for most freshwater hooks.
+        - Oversized - Some users find it to be quite big.
+      personal_review: |
+        This Cuda Titanium Bonded Dehooker has been an absolute game-changer in my fishing endeavors. Whether I'm tackling toothy critters or gently releasing a deep-hooked fish, this dehooker's quality design and non-slip grip make it a reliable companion. Its durability and corrosion resistance give me confidence that it'll last for years, a sentiment shared by fellow experienced anglers. The easy handling and smooth movement ensure a stress-free process, and the compact size fits perfectly in my tackle bag. As a tip, I've learned to glue a net float on the shaft to prevent any unfortunate drops. Overall, this dehooker has become an indispensable tool in my fishing arsenal, making catch and release smoother and safer than ever before.
 ---
 
 When it comes to reeling in those elusive bass, the choice of crankbait can make all the difference. As seasoned anglers, you understand that each fishing trip presents its unique challenges. That's where the right crankbait comes into play. In this article, we'll dive into the world of crankbaits, exploring various types and highlighting their strengths for catching bass.
@@ -520,6 +604,8 @@ Our journey will take us through the dynamic realm of squarebill crankbaits, the
 - [Lipless Crankbaits](#lipless-crankbaits)
 - [Shallow-Diving Crankbaits](#shallow-diving-crankbaits)
 - [Deep-Diving Crankbaits](#deep-diving-crankbaits)
+- [Crankbait Storage and Accessories (Bonus Section)](#crankbait-storage-and-accessories-bonus-section)
+- [Conclusion](#conclusion)
 
 ## <a href="https://cabelas.xhuc.net/WqdBrn">Squarebill Crankbaits</a>
 
@@ -572,3 +658,22 @@ So, let's venture into the world of <a href="https://cabelas.xhuc.net/B0bMN0">de
   {% include product-table.md product=lure %}
 {% endfor %}
 <hr/>
+
+## Crankbait Storage and Accessories (Bonus Section)
+
+Now, let's turn our attention to the often overlooked yet essential side of successful bass fishing: crankbait storage and accessories. Having the right tools to store your prized lures and make your fishing experience smoother is like having an ace up your sleeve. In this bonus section, we're shining a spotlight on some of the finest storage solutions, accessories, and tools that can make a real difference in your angling game.
+
+Our lineup features top choices for storage from well-known brands that understand the needs of anglers like you. From convenient tackle boxes to clever hook guard solutions, we've got you covered. And let's not forget about the accessories that can make unhooking a crankbait from a fish's mouth less challenging. With these tools in your arsenal, you'll be equipped to tackle every fishing scenario with confidence.
+
+So, let's dive into the world of crankbait storage and accessories and discover the picks that can take your fishing experience to the next level. These storage solutions and tools are more than just add-ons – they're your way to enhance your angling journey. Get ready to make your fishing trips more efficient and enjoyable with these essential selections.
+
+{% for lure in page.lures.bonus %}
+  {% include product-table.md product=lure %}
+{% endfor %}
+<hr/>
+
+## Conclusion
+
+As we wrap up our journey through the world of crankbaits, we've explored a diverse range of options that cater to the needs of seasoned anglers like you. From the relentless action of squarebill crankbaits to the pulse-inducing rhythm of rattlebaits, each lure serves a purpose that can turn an ordinary fishing day into an extraordinary one. We've unveiled the brands that have earned their stripes in the angling community – names like Rapala, Berkley, STORM, Strike King, Bomber, Bass Pro Shops, Mann's, Rebel, and more.
+
+Through shallow waters and deep dives, we've discovered the tools that can make your bass fishing adventures truly rewarding. These crankbaits are more than just pieces of gear; they're your companions in the quest for that elusive catch. So, whether you're casting into murky waters, exploring open lakes, or diving deep into the heart of angling challenges, remember the wisdom of choosing the right crankbait for the right moment. It's a journey that brings together technique, knowledge, and the thrill of the catch, all while you enjoy the camaraderie of the great outdoors.
