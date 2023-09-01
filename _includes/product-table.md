@@ -63,6 +63,12 @@
     <div class="data">{{ lure.length }}</div>
   </div>
   {% endif %}
+  {% if lure.color %}
+  <div class="row">
+    <div class="head">Color</div>
+    <div class="data">{{ lure.color }}</div>
+  </div>
+  {% endif %}
   {% if lure.size %}
   <div class="row">
     <div class="head">Size</div>
