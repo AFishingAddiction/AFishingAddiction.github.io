@@ -407,6 +407,8 @@ After you give me the list of the pros and cons, I also want you to write a summ
             # "prime": None,
             "length": None,
             "weight": None,
+            "size": None,
+            "color": None,
             "type": None,
             "hooks": None,
             "blade_type": None,
