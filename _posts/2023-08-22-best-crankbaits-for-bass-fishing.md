@@ -311,7 +311,7 @@ lures:
       #   What truly sets this lure apart is its ability to consistently entice bites even on challenging days. Its wobble and vibration are spot-on, making it a reliable choice when other lures might be struggling. While it might attract some smaller fish, the trade-off is well worth it for the exciting action it provides. The Rebel Crawfish has secured its place as a must-have in my arsenal, and I can't recommend it enough to fellow anglers looking for a versatile and effective lure.
     # Best Off-Brand
     # https://www.cabelas.com/shop/en/manns-baby-1-minus-crankbaits
-    - banner: Best Off-Branch
+    - banner: Best Off-Brand
       banner_class: tertiary
       lure: Mann's Baby 1-Minus Crankbaits
       brand: Mann's Bait Company
