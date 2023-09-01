@@ -348,8 +348,8 @@ lures:
       brand: Bass Pro Shops
       rating: 4.4
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
-      buy_url: https://cabelas.xhuc.net/c/4236519/1443703/2623?prodsku=1005447&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbass-pro-shops-xts-mini-dad-crank-baits&intsrc=PUI2_10636&subId1=best-crankbaits
-      image_link: <a id="1005447" href="https://cabelas.xhuc.net/c/4236519/1443703/2623?prodsku=1005447&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbass-pro-shops-xts-mini-dad-crank-baits&intsrc=PUI2_10636&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1005447.json?$BPSMkt_ProductFeeds$&extend=380,380,380,380" border="0" alt=""/></a>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1005447&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbass-pro-shops-xts-mini-dad-crank-baits&intsrc=PUI2_895&subId1=best-crankbaits
+      image_link: <a id="1005447" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1005447&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbass-pro-shops-xts-mini-dad-crank-baits&intsrc=PUI2_10636&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1005447.json?$BPSMkt_ProductFeeds$&extend=380,380,380,380" border="0" alt=""/></a>
       length: 1 1/2 inch
       weight: 1/9 oz
       type: Mini Crankbait
