@@ -26,7 +26,7 @@ tags:
   - worms
 seo:
   type: Article
-related: [/best-time-to-go-bass-fishing,/cracking-the-code-effective-fishing-lures-for-heavily-pressured-bass,/bass-fishing-in-spring/,]
+related: [/best-time-to-go-bass-fishing,/cracking-the-code-effective-fishing-lures-for-heavily-pressured-bass,/best-crankbaits-for-bass-fishing,]
 
 lures:
   worms:

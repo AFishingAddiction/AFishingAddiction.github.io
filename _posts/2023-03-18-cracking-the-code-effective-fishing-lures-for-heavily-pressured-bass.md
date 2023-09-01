@@ -20,7 +20,7 @@ image:
   alt: A photo of a river bank with several people fishing
   render: true
 
-related: [/best-time-to-go-bass-fishing,/best-soft-plastic-baits-for-bass-fishing,/best-topwater-lures-for-bass-fishing,]
+related: [/best-soft-plastic-baits-for-bass-fishing,/best-topwater-lures-for-bass-fishing,/best-crankbaits-for-bass-fishing,]
 ---
 
 Bass fishing can be challenging due to heavily pressured waters. Bass become wary of lures that they have seen before, and anglers must use creative techniques to entice these elusive fish. This article will explore effective fishing lures for heavily pressured bass.

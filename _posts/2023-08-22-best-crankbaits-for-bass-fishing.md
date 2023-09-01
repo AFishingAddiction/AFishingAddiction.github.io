@@ -5,7 +5,7 @@ permalink: /best-crankbaits-for-bass-fishing
 excerpt: "In this article, we'll dive into the world of crankbaits, exploring various types, like squarebill, lipless, shallow, and deep crankbaits, highlighting their strengths for catching bass."
 author: dan
 date: 2023-08-22T08:18:00-04:00
-last_modified_at: 2023-08-26T23:00:00-04:00
+last_modified_at: 2023-08-31T21:54:00-04:00
 
 image:
   path: /assets/img/posts/best-crankbaits-for-bass-fishing/pexels-bruce-mclean-9825425-800x1200.webp
@@ -24,7 +24,7 @@ tags:
   - crankbaits
 seo:
   type: Article
-related: []
+related: [/cracking-the-code-effective-fishing-lures-for-heavily-pressured-bass,/best-soft-plastic-baits-for-bass-fishing,/best-time-to-go-bass-fishing,]
 
 lures:
   squarebill:
