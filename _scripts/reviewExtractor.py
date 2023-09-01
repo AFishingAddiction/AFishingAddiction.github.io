@@ -341,14 +341,17 @@ class MyDumper(yaml.SafeDumper):
 
 
 class YAMLProductHelper:
-    CHAT_GPT_REVIEW_SUMMARY_PROMPT = """I want you to act like a fishing expert. I will provide you with a list of reviews for a single fishing product. It is your job to create a summary of the reviews to provide to your bass angler followers. I want you to take only the product reviews I provide in this prompt and not consider any reviews from any previous prompts. You will aggregate the reviews and highlight the product's distinct strengths and weaknesses in 2 bullet lists. Each bullet in the list will contain a title, followed by a hyphen, followed by a brief description of that point. The bullet list will be formatted as a markdown list.
-For example:
-"- Title - Description
-- Title 2 - Description 2"
+    CHAT_GPT_REVIEW_SUMMARY_PROMPT = """PROMPT:
+I want you to act like a fishing expert. I will provide you with a list of reviews for a single fishing product. It is your job to create a summary of the reviews to provide to your bass angler followers. I want you to take only the product reviews I provide in this prompt and not consider any reviews from any previous prompts. When referring to the people that have provided the reviews, refer to them as "anglers" and not "users" or "reviewers".
 
-I also want you to write a summarized review as if it were my own personalized review with personal experience. The summary should be 2 paragraphs with 3 sentences each. In the summary, do not introduce me or address the audience. Only focus on the product. When referring to the people that have provided the reviews, refer to them as "anglers" and not "users" or "reviewers".
+You will aggregate the reviews and highlight the product's distinct "pros" and "cons" in 2 lists. Please format the pros and cons in a YAML list so that I can copy and paste into my YAML file. The keys for the lists should be "pros" and "cons". For each of the items in the list, don't include a colon. Instead, replace the colon with a hyphen. Each of the items in the list should contain a short title, a hyphen, and a description of the pro or con.
 
-Here are the reviews for the "{product_name}":"""
+Here are the reviews for the "{product_name}":
+{yaml_reviews}
+
+Don't forget about the formatting!
+
+After you give me the list of the pros and cons, I also want you to write a summarized review as if it were my own personalized review with personal experience. The summary should be 2 paragraphs with 3 sentences each. Do not format the review in YAML. In the summary, do not introduce me or address the audience. Only focus on the product."""
 
     @staticmethod
     def print(var):
@@ -422,10 +425,10 @@ Here are the reviews for the "{product_name}":"""
             return
         print(
             YAMLProductHelper.CHAT_GPT_REVIEW_SUMMARY_PROMPT.format(
-                product_name=product.name
+                product_name=product.name,
+                yaml_reviews=yaml.dump(list(product.reviews), allow_unicode=True, width=4096)
             )
         )
-        YAMLProductHelper.print(list(product.reviews))
 
 
 if __name__ == "__main__":
