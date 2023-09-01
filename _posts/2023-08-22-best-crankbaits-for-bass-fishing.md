@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Best Crackbaits for Bass Fishing at Cabela's in 2023"
+title: "Best Crankbaits for Bass Fishing at Cabela's in 2023"
 permalink: /best-crankbaits-for-bass-fishing
 excerpt: "In this article, we'll dive into the world of crankbaits, exploring various types, like squarebill, lipless, shallow, and deep crankbaits, highlighting their strengths for catching bass."
 author: dan
