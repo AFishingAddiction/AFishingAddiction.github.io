@@ -1,86 +1,86 @@
-{% assign lure = include.product %}
+{% assign product = include.product %}
 <div class="comparison-table">
-  {% if lure.banner %}
-  <span class="banner {{ lure.banner_class }}">{{ lure.banner }}</span>
+  {% if product.banner %}
+  <span class="banner {{ product.banner_class }}">{{ product.banner }}</span>
   {% endif %}
   <div class="row">
     <div class="head">Image</div>
-    <div class="data">{{ lure.image_link }}</div>
+    <div class="data">{{ product.image_link }}</div>
   </div>
   <div class="row">
     <div class="head">Buy</div>
     <div class="data">
-    {% if lure.iframe_link -%}
-      <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="{{ lure.iframe_link }}"></iframe>
-    {%- else if lure.buy_url -%}
-      <a class="btn btn-accent" href="{{ lure.buy_url }}" role="button">Check Price »</a>
+    {% if product.iframe_link -%}
+      <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="{{ product.iframe_link }}"></iframe>
+    {%- else if product.buy_url -%}
+      <a class="btn btn-accent" href="{{ product.buy_url }}" role="button">Check Price »</a>
     {%- endif %}
     </div>
   </div>
-  {% if lure.lure -%}
+  {% if product.lure -%}
   <div class="row">
     <div class="head">Lure</div>
-    <div class="data">{{ lure.lure }}</div>
+    <div class="data">{{ product.lure }}</div>
   </div>
   {%- endif %}
-  {% if lure.product -%}
+  {% if product.product -%}
   <div class="row">
     <div class="head">Product</div>
-    <div class="data">{{ lure.product }}</div>
+    <div class="data">{{ product.product }}</div>
   </div>
   {%- endif %}
   <div class="row">
     <div class="head">Brand</div>
-    <div class="data">{{ lure.brand }}</div>
+    <div class="data">{{ product.brand }}</div>
   </div>
-  {% if lure.type %}
+  {% if product.type %}
   <div class="row">
     <div class="head">Lure Type</div>
-    <div class="data">{{ lure.type }}</div>
+    <div class="data">{{ product.type }}</div>
   </div>
   {% endif %}
-  {% if lure.hooks %}
+  {% if product.hooks %}
   <div class="row">
     <div class="head">Hook Type</div>
-    <div class="data">{{ lure.hooks }}</div>
+    <div class="data">{{ product.hooks }}</div>
   </div>
   {% endif %}
-  {% if lure.blade_type %}
+  {% if product.blade_type %}
   <div class="row">
     <div class="head">Blade Type</div>
-    <div class="data">{{ lure.blade_type }}</div>
+    <div class="data">{{ product.blade_type }}</div>
   </div>
   {% endif %}
-  {% if lure.weight %}
+  {% if product.weight %}
   <div class="row">
     <div class="head">Weight</div>
-    <div class="data">{{ lure.weight }}</div>
+    <div class="data">{{ product.weight }}</div>
   </div>
   {% endif %}
-  {% if lure.length %}
+  {% if product.length %}
   <div class="row">
     <div class="head">Length</div>
-    <div class="data">{{ lure.length }}</div>
+    <div class="data">{{ product.length }}</div>
   </div>
   {% endif %}
-  {% if lure.color %}
+  {% if product.color %}
   <div class="row">
     <div class="head">Color</div>
-    <div class="data">{{ lure.color }}</div>
+    <div class="data">{{ product.color }}</div>
   </div>
   {% endif %}
-  {% if lure.size %}
+  {% if product.size %}
   <div class="row">
     <div class="head">Size</div>
-    <div class="data">{{ lure.size }}</div>
+    <div class="data">{{ product.size }}</div>
   </div>
   {% endif %}
-  {% if lure.features %}
+  {% if product.features %}
   <div class="row">
     <div class="head">Features</div>
     <div class="data">
       <ul>
-        {% for feature in lure.features %}
+        {% for feature in product.features %}
         <li>{{ feature }}</li>
         {% endfor %}
       </ul>
@@ -89,61 +89,61 @@
   {% endif %}
   <div class="row">
     <div class="head">Pieces</div>
-    <div class="data">{{ lure.pieces }}</div>
+    <div class="data">{{ product.pieces }}</div>
   </div>
   <div class="row">
     <div class="head">Rating</div>
-    <div class="data">{{ lure.rating }} {{ lure.rating_stars }}</div>
+    <div class="data">{{ product.rating }} {{ product.rating_stars }}</div>
   </div>
-  {% if lure.prime %}
+  {% if product.prime %}
   <div class="row">
     <div class="head">Prime</div>
     <div class="data">Yes</div>
   </div>
   {% endif %}
-  {% if lure.summarized_reviews %}
+  {% if product.summarized_reviews %}
   <div class="row">
     <div class="head">Summary of Reviews</div>
-    <div class="data left">{{ lure.summarized_reviews | markdownify }}</div>
+    <div class="data left">{{ product.summarized_reviews | markdownify }}</div>
   </div>
   {% endif %}
-  {% if lure.pros %}
+  {% if product.pros %}
   <div class="row">
     <div class="head">Pros</div>
     <div class="data">
       <ul>
-        {% for pro in lure.pros %}
+        {% for pro in product.pros %}
         <li>{{ pro }}</li>
         {% endfor %}
       </ul>
     </div>
   </div>
   {% endif %}
-  {% if lure.cons %}
+  {% if product.cons %}
   <div class="row">
     <div class="head">Cons</div>
     <div class="data">
       <ul>
-        {% for con in lure.cons %}
+        {% for con in product.cons %}
         <li>{{ con }}</li>
         {% endfor %}
       </ul>
     </div>
   </div>
   {% endif %}
-  {% if lure.personal_review %}
+  {% if product.personal_review %}
   <div class="row">
     <div class="head">Personal Review</div>
-    <div class="data left">{{ lure.personal_review | markdownify }}</div>
+    <div class="data left">{{ product.personal_review | markdownify }}</div>
   </div>
   {% endif %}
   <div class="row">
     <div class="head">Buy</div>
     <div class="data">
-    {% if lure.iframe_link -%}
-      <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="{{ lure.iframe_link }}"></iframe>
-    {%- else if lure.buy_url -%}
-      <a class="btn btn-accent" href="{{ lure.buy_url }}" role="button">Check Price »</a>
+    {% if product.iframe_link -%}
+      <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="{{ product.iframe_link }}"></iframe>
+    {%- else if product.buy_url -%}
+      <a class="btn btn-accent" href="{{ product.buy_url }}" role="button">Check Price »</a>
     {%- endif %}
     </div>
   </div>
