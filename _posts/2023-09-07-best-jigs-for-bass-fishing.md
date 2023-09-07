@@ -14,7 +14,7 @@ tags:
   - lures
 seo:
   type: Article
-related: []
+related: [/best-time-to-go-bass-fishing,/best-soft-plastic-baits-for-bass-fishing,/best-crankbaits-for-bass-fishing,]
 
 lures:
   flipping:
