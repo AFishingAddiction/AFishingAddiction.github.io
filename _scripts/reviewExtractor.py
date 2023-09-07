@@ -13,6 +13,7 @@ from selenium.common.exceptions import (
     ElementClickInterceptedException,
     TimeoutException,
 )
+from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.by import By
 from selenium.webdriver.edge.options import Options
 from selenium.webdriver.edge.service import Service
@@ -266,9 +267,11 @@ class CabelasReviewExtractor(ReviewExtractor):
             if not load_more_button:
                 break
             logger.info("Found load_more_button")
+            ActionChains(self.driver).move_to_element(load_more_button).perform()
+            self.driver.execute_script("window.scrollBy(0,250);")
             self.check_and_clear_popup()
             load_more_button = self.gracefully_wait_for_element_to_be_clickable(
-                (By.CSS_SELECTOR, self.LOAD_MORE_BUTTON_SELECTOR), 5
+                (By.CSS_SELECTOR, self.LOAD_MORE_BUTTON_SELECTOR), 10
             )
             # Click the "Load More" button
             if load_more_button:
