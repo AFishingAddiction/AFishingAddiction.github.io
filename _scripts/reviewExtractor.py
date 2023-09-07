@@ -36,6 +36,7 @@ class Product:
     __name: str
     __brand: str
     __buy_url: str
+    __image_link: str
     __rating: str
     __sku: str
     reviews: set
@@ -67,6 +68,14 @@ class Product:
     @buy_url.setter
     def buy_url(self, buy_url: str):
         self.__buy_url = buy_url.strip()
+
+    @property
+    def image_link(self) -> str:
+        return self.__image_link
+
+    @image_link.setter
+    def image_link(self, image_link: str):
+        self.__image_link = image_link.strip()
 
     @property
     def rating(self) -> float:
@@ -316,6 +325,7 @@ class CabelasReviewExtractor(ReviewExtractor):
             }
         )
         self.product.buy_url = f"https://cabelas.xhuc.net/c/{IMPACT_AFA_ACCOUNT_ID}/{IMPACT_AFA_SECONDARY_ID}/{IMPACT_CABELAS_CAMPAIGN_ID}?{encoded_url_params}"
+        self.product.image_link = f'<a id="{self.product.sku}" href="{self.product.buy_url}" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/{self.product.sku}.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>'
 
     def run(self, min_reviews):
         # Visit the URL
@@ -395,7 +405,7 @@ After you give me the list of the pros and cons, I also want you to write a summ
         )
 
     @staticmethod
-    def markdown_mapper(product):
+    def markdown_mapper(product: Product):
         return {
             "banner": None,
             "banner_class": "primary|secondary|tertiary|quaternary",
@@ -406,7 +416,7 @@ After you give me the list of the pros and cons, I also want you to write a summ
             "rating": product.rating,
             "rating_stars": YAMLProductHelper.star_rating(product.rating),
             "buy_url": product.buy_url,
-            "image_link": None,
+            "image_link": product.image_link,
             # "prime": None,
             "length": None,
             "weight": None,
