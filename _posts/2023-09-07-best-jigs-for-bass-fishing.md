@@ -64,8 +64,8 @@ lures:
       brand: Strike King
       rating: 4.7
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
-      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=688530&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-bitsy-bug-mini-jig&intsrc=PUI2_895&subId1=SHORTENED_PAGE_ID
-      image_link: <a id="688530" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=688530&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-bitsy-bug-mini-jig&intsrc=PUI2_895&subId1=SHORTENED_PAGE_ID" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/688530.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=688530&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-bitsy-bug-mini-jig&intsrc=PUI2_895&subId1=best-jigs
+      image_link: <a id="688530" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=688530&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-bitsy-bug-mini-jig&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/688530.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
       weight: 1/16 oz, 1/8 oz, 3/16 oz, 1/4 oz
       type: Mini jig
       features:
@@ -96,8 +96,8 @@ lures:
       brand: Strike King
       rating: 4.5
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
-      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=449994&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-rattling-pro-model-jigs&intsrc=PUI2_895&subId1=SHORTENED_PAGE_ID
-      image_link: <a id="449994" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=449994&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-rattling-pro-model-jigs&intsrc=PUI2_895&subId1=SHORTENED_PAGE_ID" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/449994.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=449994&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-rattling-pro-model-jigs&intsrc=PUI2_895&subId1=best-jigs
+      image_link: <a id="449994" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=449994&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-rattling-pro-model-jigs&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/449994.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
       weight: 1/4 oz, 3/8 oz, 1/2 oz
       type: Rattling Flipping
       hooks: Ultra-sharp black nickel hooks
