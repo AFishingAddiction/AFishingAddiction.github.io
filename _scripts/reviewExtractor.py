@@ -305,7 +305,7 @@ class CabelasReviewExtractor(ReviewExtractor):
         if not self.popup_closed:
             popup_close_button_selector = (
                 By.CSS_SELECTOR,
-                "#bluecoreActionScreen > div.close_button-152678-position.close_button-152678-position-d0.bcTextShadow > button",
+                "button[name=bluecoreCloseButton].bluecoreCloseButton",
             )
             popup_close_button = self.gracefully_wait_for_element_to_be_clickable(
                 popup_close_button_selector, 15
