@@ -1,3 +1,4 @@
+{% if page.related and page.related != empty %}
 <div class="related-pages-container">
 <h4>You May Also Like</h4>
 
@@ -49,3 +50,4 @@
   {%- endfor %}
 </div>
 </div>
+{%- endif -%}
