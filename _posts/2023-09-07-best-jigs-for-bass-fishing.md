@@ -169,8 +169,8 @@ lures:
       brand: Buckeye Lures
       rating: 4.2
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2450897&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbuckeye-lures-g-man-ballin-out-jig&intsrc=PUI2_895&subId1=SHORTENED_PAGE_ID
-      image_link: <a id="2450897" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2450897&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbuckeye-lures-g-man-ballin-out-jig&intsrc=PUI2_895&subId1=SHORTENED_PAGE_ID" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2450897.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2450897&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbuckeye-lures-g-man-ballin-out-jig&intsrc=PUI2_895&subId1=best-jigs
+      image_link: <a id="2450897" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2450897&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbuckeye-lures-g-man-ballin-out-jig&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2450897.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
       weight: 3/8 oz, 1/2 oz
       type: Round-head jig
       hooks: Heavy-duty Gamakatsu hook
@@ -202,8 +202,8 @@ lures:
       brand: Berkley
       rating: 4.6
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
-      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=3233669&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fberkley-f19-skipping-jig&intsrc=PUI2_895&subId1=SHORTENED_PAGE_ID
-      image_link: <a id="3233669" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=3233669&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fberkley-f19-skipping-jig&intsrc=PUI2_895&subId1=SHORTENED_PAGE_ID" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/3233669.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=3233669&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fberkley-f19-skipping-jig&intsrc=PUI2_895&subId1=best-jigs
+      image_link: <a id="3233669" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=3233669&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fberkley-f19-skipping-jig&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/3233669.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
       weight: 3/8 oz, 1/2oz
       type: Skipping jig
       hooks: Stout needle-point Fusion19 hook
