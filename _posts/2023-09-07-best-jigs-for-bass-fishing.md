@@ -5,7 +5,7 @@ permalink: /best-jigs-for-bass-fishing
 excerpt: "Discover the ultimate guide to bass fishing jigs! From flipping and skipping to swimming and trailers, explore top-notch jigs hand-picked from popular brands."
 author: dan
 date: 2023-09-07T08:03:00-04:00
-last_modified_at: 2023-09-12T07:57:00-04:00
+last_modified_at: 2023-09-12T08:16:00-04:00
 
 tags:
   - bass
@@ -271,11 +271,15 @@ Remember that flipping jigs are your ace in the hole when you need to get down a
 
 ## Skipping Jigs
 
-Now that we've seen teh flipping jigs, we're setting our sights on a fishing technique that's been making recent waves in the bass fishing community - skipping jigs. If you're not already familiar with this technique, you're in for a treat. Skipping jigs are a relatively new addition to the angler's toolkit, and they're changing the game when it comes to reaching those elusive bass in hiding.
+Now that we've seen the flipping jigs, we're setting our sights on a fishing technique that's been making recent waves in the bass fishing community - skipping jigs. If you're not already familiar with this technique, you're in for a treat. Skipping jigs are a relatively new addition to the angler's toolkit, and they're changing the game when it comes to reaching those elusive bass in hiding.
 
+### What are Skipping Jigs?
 So, what are skipping jigs, and what makes them stand out? Picture this: you're on the water, and you spot bass hiding under docks, overhanging branches, or any hard-to-reach spot where other lures just can't venture. This is where skipping jigs come into play. They're specially designed to skip across the water's surface, allowing you to cast your bait far under these obstacles and present it right where the bass are lurking.
 
-Now, here's the exciting part. We've hand-picked some of the best skipping jigs from trusted brands like Strike King, Buckeye Lures, and Berkley. These jigs have proven their worth in the hands of seasoned and professional anglers, offering exceptional performance and versatility. Whether you're fishing around docks, under low-hanging vegetation, or in tight spots, these jigs will be your go-to companions. So, if you're looking to up your bass-catching game and explore the world of skipping jigs, stay tuned as we delve deeper into this exciting technique and the jigs that make it all possible.
+### Best Skipping Jigs
+Now, here's the exciting part. We've hand-picked some of the best skipping jigs from trusted brands like Strike King, Buckeye Lures, and Berkley. These jigs have proven their worth in the hands of seasoned and professional anglers, offering exceptional performance and versatility. Whether you're fishing around docks, under low-hanging vegetation, or in tight spots, these jigs will be your go-to companions.
+
+So, if you're looking to up your bass-catching game and explore the world of skipping jigs, stay tuned as we delve deeper into this exciting technique and the jigs that make it all possible.
 
 {% for lure in page.lures.skipping %}
   {% include product-table.md product=lure %}
