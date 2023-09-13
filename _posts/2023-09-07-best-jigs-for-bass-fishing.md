@@ -5,7 +5,15 @@ permalink: /best-jigs-for-bass-fishing
 excerpt: "Discover the ultimate guide to bass fishing jigs! From flipping and skipping to swimming and trailers, explore top-notch jigs hand-picked from popular brands."
 author: dan
 date: 2023-09-07T08:03:00-04:00
-last_modified_at: 2023-09-12T08:16:00-04:00
+last_modified_at: 2023-09-12T21:36:00-04:00
+
+image:
+  path: https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2334116.json?$BPSMkt_ProductFeeds$
+  link: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2334116&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-tour-grade-skipping-jig&intsrc=PUI2_895&subId1=best-jigs
+  width: 600
+  height: 600
+  alt: "Strike King Tour Grade Skipping Jig"
+  render: true
 
 tags:
   - bass
