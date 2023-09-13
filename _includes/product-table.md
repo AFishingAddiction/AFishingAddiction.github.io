@@ -1,4 +1,5 @@
 {% assign product = include.product %}
+### {{ product.lure | default: product.product }}
 <div class="comparison-table">
   {% if product.banner %}
   <span class="banner {{ product.banner_class }}">{{ product.banner }}</span>
@@ -101,12 +102,6 @@
     <div class="data">Yes</div>
   </div>
   {% endif %}
-  {% if product.summarized_reviews %}
-  <div class="row">
-    <div class="head">Summary of Reviews</div>
-    <div class="data left">{{ product.summarized_reviews | markdownify }}</div>
-  </div>
-  {% endif %}
   {% if product.pros %}
   <div class="row">
     <div class="head">Pros</div>
@@ -131,12 +126,6 @@
     </div>
   </div>
   {% endif %}
-  {% if product.personal_review %}
-  <div class="row">
-    <div class="head">Personal Review</div>
-    <div class="data left">{{ product.personal_review | markdownify }}</div>
-  </div>
-  {% endif %}
   <div class="row">
     <div class="head">Buy</div>
     <div class="data">
@@ -148,3 +137,12 @@
     </div>
   </div>
 </div>
+{% if product.summarized_reviews %}
+#### Summary of the Reviews
+  {{ product.summarized_reviews | markdownify }}
+{% endif %}
+{% if product.personal_review %}
+#### Personal Review
+  {{ product.personal_review | markdownify }}
+{% endif %}
+<hr/>
