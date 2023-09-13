@@ -2,10 +2,10 @@
 layout: post
 title: Fishbrain Mobile App Review
 permalink: /reviews/fishbrain-mobile-app
-excerpt: Fishbrain is your personal fishing log, map, and forecasting tool. I have reviewed the Fishbrain mobile app, comparing both Basic (free) and Pro features.
+excerpt: Fishbrain is a personal fishing log, map, and forecasting tool. I will be reviewing the app, comparing both Basic (free) and Pro features.
 author: dan
 date: 2020-12-29T00:00:00+00:00
-last_modified_at: 2023-06-21T08:05:00-04:00
+last_modified_at: 2023-09-13T07:22:00-04:00
 
 tags:
   - review
@@ -205,6 +205,9 @@ images:
 
 *Full disclosure: Fishbrain graciously activated the Pro membership on my Basic account in order for me to give a more comprehensive review of the app and its features. I am also an affiliate of Fishbrain and I receive a portion of sales if you use my affiliate links.*
 
+## Is it Fishbrain or Fish Brain?
+According to <a href="{{ site.affiliates.fishbrain.text_link }}">Fishbrain's official website</a>, the brand is Fishbrain, not Fish brain or FishBrain.
+
 ## Fishbrain Feature Comparison
 Let's first look at all the features and whether or not they are included in the Basic and Pro memberships. In general, the Basic membership provides an extensive list of valuable features. However, when I only had the Basic membership, I had found myself wishing I had some of the Pro membership features. Some of these features are **only** available with the Pro membership and some features are **limited** with the Basic membership. We will go over those features and limitations in each section.
 
@@ -308,7 +311,7 @@ Each water also has its own feed that allows you to browse all catches recorded 
 {% include image.html className="mobile-screenshot" img=page.images.recent-catches-for-Summit-Lake %}
 
 ## Exact Catch Positions
-With the Pro membership using the interactive map, you will be able to see the exact position on the map where others have caught their fish. This can be very helpful in determining hot spots you should target. In addition to seeing the exact location, you can also click on the map marker to see the details of the logged catch. The exact positions are indicated by the green markers.
+With the Pro membership using the interactive map, you will be able to see the exact position on the map where others have caught their fish. This can be very helpful in determining fishing spot predictions. In addition to seeing the exact location, you can also click on the map marker to see the details of the logged catch. The exact positions are indicated by the green markers.
 
 {% include image.html className="mobile-screenshot" img=page.images.exact-catch-positions-for-Summit-Lake %}
 
