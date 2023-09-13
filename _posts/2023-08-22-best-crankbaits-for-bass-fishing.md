@@ -24,7 +24,7 @@ tags:
   - crankbaits
 seo:
   type: Article
-related: [/cracking-the-code-effective-fishing-lures-for-heavily-pressured-bass,/best-soft-plastic-baits-for-bass-fishing,/best-time-to-go-bass-fishing,]
+related: [/cracking-the-code-effective-fishing-lures-for-heavily-pressured-bass,/best-soft-plastic-baits-for-bass-fishing,/best-jigs-for-bass-fishing,]
 
 lures:
   squarebill:

@@ -5,7 +5,7 @@ permalink: /best-jigs-for-bass-fishing
 excerpt: "Discover the ultimate guide to bass fishing jigs! From flipping and skipping to swimming and trailers, explore top-notch jigs hand-picked from popular brands."
 author: dan
 date: 2023-09-07T08:03:00-04:00
-last_modified_at: 2023-09-12T21:36:00-04:00
+last_modified_at: 2023-09-13T08:12:00-04:00
 
 image:
   path: https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2334116.json?$BPSMkt_ProductFeeds$
@@ -239,12 +239,114 @@ lures:
       - Limited availability of testing for some anglers.
       # personal_review:
   swim:
+  # Most Popular: https://www.cabelas.com/shop/en/strike-king-kvd-swim-jig
+    - banner: Most Pppular
+      banner_class: primary
+      product: Strike King KVD Swim Jig
+      url: https://www.cabelas.com/shop/en/strike-king-kvd-swim-jig
+      sku: '1207933'
+      brand: Strike King
+      rating: 4.7
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1207933&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-kvd-swim-jig&intsrc=PUI2_895&subId1=best-jigs
+      image_link: <a id="1207933" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1207933&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-kvd-swim-jig&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1207933.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      weight: 1/4 oz, 3/8 oz, 1/2 oz
+      type: Swim Jig
+      hooks: medium wire hook and extra-long shank
+      features:
+        - Perfect Skirt
+        - unique head design
+        - true-tracking, natural profile
+        - medium wire hook and extra-long shank
+      pieces: 1
+      # summarized_reviews:
+      pros:
+        - Effective Design - Anglers appreciate the well-designed product with features like a reliable weed guard and sharp hooks, making it easy to use right out of the package.
+        - Versatile - The jig performs well in various conditions, whether it's used for aggressive pre-spawn bass or around grass beds and weed lines.
+        - Color Variety - The jig offers a wide range of attractive colors, such as bluegill and black/blue, allowing anglers to choose the right one for different scenarios.
+        - Swimming Action - Many anglers highlight the excellent swimming action, making it effective for enticing strikes from bass and pike.
+        - Durable - The jig holds up well to use, with anglers noting its longevity and ability to withstand heavy fishing sessions.
+      cons:
+        - Weed Guard Issues - Some anglers reported weed guard problems, such as breakage after a few uses, which can reduce its weedless performance.
+        - Rattle Placement - A few anglers mentioned that the positioning of the rattles could affect the jig's swimming action and trailer placement.
+        - Hook Size - There were comments about the hook size being insufficient for a 1/2 oz bait, which could be improved.
+      personal_review: |
+        I recently had the chance to try out the Strike King KVD Swim Jig, and I must say, it lived up to the hype. The versatility of this jig stood out for me. Whether I was fishing around grass beds or trying to mimic bluegill in open water, it consistently delivered results. The variety of colors allowed me to match the hatch effectively, and the swimming action was spot-on, attracting both bass and pike. Would recommend.
+  # Best with Rattles: https://www.cabelas.com/shop/en/booyah-swimn-jig
+    - banner: Best with Rattles
+      banner_class: secondary
+      product: BOOYAH Swim'n Jig
+      url: https://www.cabelas.com/shop/en/booyah-swimn-jig
+      sku: '1220704'
+      brand: BOOYAH
+      rating: 3.8
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1220704&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbooyah-swimn-jig&intsrc=PUI2_895&subId1=best-jigs
+      image_link: <a id="1220704" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1220704&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbooyah-swimn-jig&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1220704.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      weight: 3/8 oz, 1/2 oz
+      type: Swim Jig w/ Rattles
+      hooks: 4/0 XCalibur™ Tx3 point hook
+      features:
+        - Arrowhead-style jig
+        - In-line line tie
+        - Two exclusive red rattles
+        - Plasti-Keeper™ spike behind the skirt collar
+        - XCalibur™ Tx3 point hook
+      pieces: 1
+      # summarized_reviews:
+      pros:
+        - Keel-shaped head design for improved swimming action.
+        - Strong hook and flexible weed guard.
+        - Suitable for bass in thick, mossy undergrowth.
+        - Effective when paired with a plastic worm trailer.
+      cons:
+        - Not entirely weedless, may pick up debris in heavy cover.
+        - Arrow-shaped jig head can be less weed-resistant.
+        - Weed guard may require trimming for optimal performance.
+      personal_review: |
+        As for my personalized review, I must say that the BOOYAH Swim'n Jig has its strengths and weaknesses. One of the standout features is the keel-shaped head design, which enhances its swimming action and makes it appealing to bass. The strong hook and flexible weed guard are also notable, offering a good balance between hooking power and weed resistance. I found it particularly effective when used in thick, mossy undergrowth, especially when paired with a 6" plastic worm trailer.
+
+        However, it's important to note that this jig isn't entirely weedless and can pick up debris in heavy cover. The arrow-shaped jig head, while aiding in swimming, may not be as weed-resistant as some other options on the market. Additionally, the weed guard may require some trimming to optimize its performance. Overall, the BOOYAH Swim'n Jig is a solid choice for bass fishing, especially in specific conditions, but it may not be the best option for heavy cover situations.
+  # Highest Rated: https://www.cabelas.com/shop/en/6th-sense-fishing-divine-swim-jig
+    - banner: Highest Rated
+      banner_class: tertiary
+      product: 6th Sense Fishing Divine Swim Jig
+      url: https://www.cabelas.com/shop/en/6th-sense-fishing-divine-swim-jig
+      sku: '2982620'
+      brand: 6th Sense Fishing
+      rating: 5.0
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2982620&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2F6th-sense-fishing-divine-swim-jig&intsrc=PUI2_895&subId1=best-jigs
+      image_link: <a id="2982620" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2982620&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2F6th-sense-fishing-divine-swim-jig&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2982620.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      weight: 3/8 oz, 1/2 oz
+      type: Swim Jig
+      hooks: 5/0 black-nickel hook
+      features:
+        - Semi-flat, keel-weighted head belly navigates gnarly cover
+        - Easy to skip under docks and overhanging vegetation
+        - Head's wide tapered points lie flat on the bottom
+        - ScrewLock attachment keeps plastic trailers locked in place
+        - Detailed eye sockets, gill plates, and realistic 3-D eyes
+        - 5/0 black-nickel hook
+      pieces: 1
+      # summarized_reviews:
+      pros:
+        - Effective in various fishing environments, including grass and pads.
+        - Durable construction, with a lifelike skirt and a strong hook.
+        - Unique screwlock bait keeper for extended trailer life.
+        - Excellent skipping ability, outperforming dedicated skipping jigs.
+        - Great hookup ratio and versatility in clear water conditions.
+      cons:
+        - Some reports of paint chipping easily.
+        - Occasional issues with the skirt band slipping.
+        - Hook point may roll after extended use.
+      # personal_review:
   football:
   trailers:
   # Gerald Swindle Recommends: Zoom Z Hog
 ---
 
-Hey there, fellow anglers! Today, we're diving into the exciting world of bass fishing jigs, and I'm thrilled to be your guide. If you've been chasing those elusive bass for a while, you probably already know that jigs are some of the most versatile and effective lures in your tackle box. Whether you're a seasoned pro or just starting out, jigs can make a world of difference in your bass-catching adventures.
+Hey there, anglers! Today, we're diving into the exciting world of bass fishing jigs, and I'm thrilled to be your guide. If you've been chasing those elusive bass for a while, you probably already know that jigs are some of the most versatile and effective lures in your tackle box. Whether you're a seasoned pro or just starting out, jigs can make a world of difference in your bass-catching adventures.
 
 Now, why are jigs such game-changers? Well, it's simple. Bass love 'em! These lures mimic the natural prey of bass, making them irresistible targets. But here's the kicker: not all jigs are created equal. There's a whole world of jig types out there, each with its own unique characteristics and tricks up its sleeve. That's why, in this article, we're going to break down the top jigs you need to know about.
 
@@ -254,6 +356,7 @@ So, if you've ever wondered which jigs are best for different situations, water 
 
 - [Flipping Jigs](#flipping-jigs)
 - [Skipping Jigs](#skipping-jigs)
+- [Swim Jigs](#swim-jigs)
 
 ## Flipping Jigs
 
@@ -290,6 +393,24 @@ Now, here's the exciting part. We've hand-picked some of the best skipping jigs 
 So, if you're looking to up your bass-catching game and explore the world of skipping jigs, stay tuned as we delve deeper into this exciting technique and the jigs that make it all possible.
 
 {% for lure in page.lures.skipping %}
+  {% include product-table.md product=lure %}
+{% endfor %}
+<hr/>
+
+## Swim Jigs
+
+Swim jigs, a versatile and highly effective bait in the world of bass fishing, have gained immense popularity among anglers seeking to reel in their next big catch. These specialized lures are designed to mimic the movement of baitfish or other prey, making them an enticing option for bass. Swim jigs are typically characterized by their streamlined design, featuring a weighted head, a skirt made of silicone or rubber, and a hook with a bait keeper.
+
+### What are Swim Jigs Used for?
+One of the primary purposes of swim jigs is to imitate the natural swimming action of small fish or insects, making them a top choice for bass anglers. These lures can be retrieved at various speeds, allowing you to adjust your presentation to match the bass's feeding preferences. Swim jigs excel in covering a broad range of water depths, from shallow flats to deeper drop-offs, making them incredibly versatile in different fishing scenarios.
+
+### Where Can I Use Swim Jigs?
+When it comes to where to use swim jigs, the possibilities are nearly endless. They are particularly effective in areas with submerged vegetation, grass, lily pads, and other types of cover. Bass often seek refuge in these environments, making swim jigs an ideal choice for enticing strikes. Whether you're fishing in freshwater ponds, lakes, rivers, or reservoirs, swim jigs can be a game-changer in your pursuit of bass.
+
+### Our Swim Jig Picks
+In our quest to provide you with the best angling experience, we've hand-picked swim jigs from renowned brands like Strike King, 6th Sense Fishing, and BOOYAH. These selections represent the pinnacle of swim jig design and performance, ensuring that you have access to top-tier gear for your bass fishing adventures. Whether you're a seasoned angler or just getting started, these swim jigs are essential tools to have in your tackle box, ready to tempt even the wariest bass in your favorite fishing spots.
+
+{% for lure in page.lures.swim %}
   {% include product-table.md product=lure %}
 {% endfor %}
 <hr/>

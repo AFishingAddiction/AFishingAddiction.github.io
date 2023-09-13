@@ -22,7 +22,7 @@ tags:
   - plastic worm
   - wacky rig
   - top
-related: [/3-tips-for-using-plastic-worms/,/3-largemouth-bass-observations/,/5-bank-fishing-tips/,]
+related: [/3-tips-for-using-plastic-worms/,/best-soft-plastic-baits-for-bass-fishing,/5-bank-fishing-tips/,]
 ---
 
 Ready to take your bass fishing skills to the next level? Get ready to dive into the exciting world of wacky rig fishing! Whether you're a seasoned angler or a beginner, the wacky rig technique is a must-have in your fishing arsenal. Known for its simplicity and effectiveness, the wacky rig is a go-to presentation for enticing bass, especially in clear water and during the spawn/post-spawn seasons.
