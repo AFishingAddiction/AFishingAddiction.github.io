@@ -5,7 +5,7 @@ permalink: /best-jigs-for-bass-fishing
 excerpt: "Discover the ultimate guide to bass fishing jigs! From flipping and skipping to swimming and trailers, explore top-notch jigs hand-picked from popular brands."
 author: dan
 date: 2023-09-07T08:03:00-04:00
-last_modified_at: 2023-09-13T08:12:00-04:00
+last_modified_at: 2023-09-14T07:50:00-04:00
 
 image:
   path: https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2334116.json?$BPSMkt_ProductFeeds$
@@ -342,6 +342,123 @@ lures:
         - Hook point may roll after extended use.
       # personal_review:
   football:
+    # Best In-Class: https://www.cabelas.com/shop/en/strike-king-tour-grade-football-jigs
+    - banner: Best In-Class
+      banner_class: primary
+      product: Strike King Tour Grade Football Jigs
+      url: https://www.cabelas.com/shop/en/strike-king-tour-grade-football-jigs
+      sku: '1534649'
+      brand: Strike King
+      rating: 4.7
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1534649&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-tour-grade-football-jigs&intsrc=PUI2_895&subId1=SHORTENED_PAGE_ID
+      image_link: <a id="1534649" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1534649&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-tour-grade-football-jigs&intsrc=PUI2_895&subId1=SHORTENED_PAGE_ID" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1534649.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      weight: 3/8 oz, 1/2 oz, 3/4 oz
+      type: Football Jig
+      hooks: Gamakatsu® 60 round bend hook
+      features:
+        - Wide football shaped head
+        - Flat eye line tie
+        - Extra-sharp Gamakatsu® 60 round bend hook
+        - Durable powder-coated paint
+        - Color coordinated weedguards
+        - Premium skirts
+      pieces: 1
+      summarized_reviews: |
+        In summary, the Strike King Tour Grade Football Jigs offer durability and quality in their design, with strong points such as a durable paint job, effective Gamakatsu hooks, and a versatile skirt. They have demonstrated success in various fishing conditions, especially during the summer. However, some anglers mentioned minor drawbacks like the hook size and skirt wear. Overall, these jigs are a solid choice for bass anglers looking to add a reliable and effective bait to their tackle box.
+      pros:
+        - Durable paint on the football heads that withstands season-long use.
+        - High-quality Gamakatsu hooks that are unmatched in performance.
+        - The skirt is well-manufactured, smooth, and durable, lasting through multiple outings.
+        - Trailer keeper on the hook shaft holds trailers securely in place.
+        - Versatile color selection that caters to various fishing conditions.
+        - Effective in attracting and catching both largemouth and smallmouth bass.
+        - Allows for maintaining contact with the bottom while fishing.
+        - Proven success in various conditions, including hot summer days.
+      cons:
+        - Some anglers experienced issues with the size of the hook, finding it relatively small.
+        - The skirt may become thin and lose its action after extended use.
+        - Complaints about the paint chipping off the jig head after rugged use.
+        - Limited success in hooking larger fish due to the hook size.
+        - Suggestions to trim the weed guard for improved hooksets.
+        - Some anglers noted that the rubber band or plastic rings used for skirt attachment can wear out quickly.
+      # personal_review:
+    # Fan-Favorite: https://www.cabelas.com/shop/en/jewel-bait-heavy-cover-finesse-football-jigs
+    - banner: Fan-Favorite
+      banner_class: secondary
+      product: Jewel Bait Heavy Cover Finesse Football Jigs
+      url: https://www.cabelas.com/shop/en/jewel-bait-heavy-cover-finesse-football-jigs
+      sku: '1319286'
+      brand: Jewel Bait
+      rating: 4.7
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1319286&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fjewel-bait-heavy-cover-finesse-football-jigs&intsrc=PUI2_895&subId1=SHORTENED_PAGE_ID
+      image_link: <a id="1319286" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1319286&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fjewel-bait-heavy-cover-finesse-football-jigs&intsrc=PUI2_895&subId1=SHORTENED_PAGE_ID" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1319286.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      weight: 1/2 oz
+      type: Football Jig
+      hooks: Custom-bend Mustad Ultra Point Black Nickel Hook
+      features:
+        - Concave face to rock and roll over cover
+        - Flat underside lets jig stand at 45 degree angle
+        - Hyperflare™ skirt
+        - Durable fiber weedguard
+        - Custom-bend Mustad Ultra Point Black Nickel Hook
+      pieces: 1
+      # summarized_reviews:
+      pros:
+        - Versatile and durable jig suitable for various fishing techniques.
+        - Effective for both smallmouth and largemouth bass in different cover conditions.
+        - Durable finish on the jig head and sharp hooks.
+        - Great success triggering strikes, even in tough fishing situations.
+        - Wide color selection, including popular choices like peanut butter and jelly.
+        - Excellent for fishing in cover, especially fallen trees and heavy vegetation.
+        - Works well with craw trailers and offers easy hooksets even in deep water.
+      cons:
+        - Some anglers mentioned a preference for a different hook brand, such as Gamakatsu.
+        - While the jig is effective, it may not be the absolute best for every angler's preference.
+        - A minor drawback was noted with the hook's thickness, but it still provided solid hookups.
+        - Availability of certain color options, like watermelon purple flash, could be improved.
+      # personal_review:
+    # Best Off-Brand: https://www.cabelas.com/shop/en/chompers-skirted-football-jigs
+    - banner: Best Off-Brand
+      banner_class: tertiary
+      product: Chompers Skirted Football Jigs
+      url: https://www.cabelas.com/shop/en/chompers-skirted-football-jigs
+      sku: '1205346'
+      brand: Chompers
+      rating: 4.5
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1205346&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fchompers-skirted-football-jigs&intsrc=PUI2_895&subId1=SHORTENED_PAGE_ID
+      image_link: <a id="1205346" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1205346&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fchompers-skirted-football-jigs&intsrc=PUI2_895&subId1=SHORTENED_PAGE_ID" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1205346.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      weight: 3/8 oz, 1/2 oz, 5/8 oz, 3/4 oz
+      type: Football Jig
+      hooks: Sharp VMC® Hook
+      features:
+        - Chip-resistant paint
+        - Sharp VMC® Hook
+        - Finely detailed skirts
+      pieces: 1
+      # summarized_reviews:
+      pros:
+        - Heavy-duty construction
+        - Quality skirts and sharp hooks
+        - Effective for catching big bass
+        - Versatile and durable
+        - Good casting jigs
+        - Comes in various proven patterns
+        - Works well in rocky areas
+        - Easy to set the hook
+        - Available in different colors
+      cons:
+        - Skirt may need additional threads for durability
+        - Paint chips relatively easily
+        - Hook may bend with heavy line and aggressive hooksets
+        - Limited color options compared to the advertised variety
+        - Skirt can come off after extended use
+        - Weedguards may require additional securing
+        - Hook not as strong as desired for some anglers
+        - Heavier models may get hung up on obstacles
+      # personal_review:
   trailers:
   # Gerald Swindle Recommends: Zoom Z Hog
 ---
@@ -357,6 +474,7 @@ So, if you've ever wondered which jigs are best for different situations, water 
 - [Flipping Jigs](#flipping-jigs)
 - [Skipping Jigs](#skipping-jigs)
 - [Swim Jigs](#swim-jigs)
+- [Football Jigs](#football-jigs)
 
 ## Flipping Jigs
 
@@ -411,6 +529,23 @@ When it comes to where to use swim jigs, the possibilities are nearly endless. T
 In our quest to provide you with the best angling experience, we've hand-picked swim jigs from renowned brands like Strike King, 6th Sense Fishing, and BOOYAH. These selections represent the pinnacle of swim jig design and performance, ensuring that you have access to top-tier gear for your bass fishing adventures. Whether you're a seasoned angler or just getting started, these swim jigs are essential tools to have in your tackle box, ready to tempt even the wariest bass in your favorite fishing spots.
 
 {% for lure in page.lures.swim %}
+  {% include product-table.md product=lure %}
+{% endfor %}
+<hr/>
+
+## Football Jigs
+
+Football jigs are a staple in the arsenal of every serious bass angler, and for good reason. These specialized jigs are designed to mimic a crawfish or baitfish, making them a versatile and effective tool for enticing bass in a variety of conditions. They are particularly renowned for their ability to get down to the bottom quickly and remain in constant contact with it, making them a top choice for anglers looking to explore rocky structures and hard-bottom areas.
+
+Football jigs are aptly named due to their unique head shape, which resembles an American football. This design not only aids in their stability on the bottom but also imparts a natural, lifelike action to the skirt and trailer, making them irresistible to bass.
+
+### Where to Use a Football Jig
+One of the primary purposes of football jigs is to target bass in areas with hard cover, such as rocks, gravel, and ledges. The flattened, football-shaped head allows these jigs to crawl over and through rocky structures with ease, mimicking the movement of crayfish or baitfish that often seek refuge in these environments. This makes them a go-to choice when fishing deepwater, rocky points, and drop-offs. Additionally, football jigs excel in colder water conditions when bass tend to hunker down near the bottom.
+
+### Our Football Jig Choices
+We've hand-picked some of the best football jigs from renowned brands like Strike King and off-brands like Jewel Bait and Chompers. Whether you're a seasoned pro or a beginner looking to up your game, these football jigs are essential tools for your tackle box, ensuring you're equipped to tackle the toughest bass fishing scenarios with confidence.
+
+{% for lure in page.lures.football %}
   {% include product-table.md product=lure %}
 {% endfor %}
 <hr/>
