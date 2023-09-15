@@ -5,7 +5,7 @@ permalink: /best-jigs-for-bass-fishing
 excerpt: "Discover the ultimate guide to bass fishing jigs! From flipping and skipping to swimming and trailers, explore top-notch jigs hand-picked from popular brands."
 author: dan
 date: 2023-09-07T08:03:00-04:00
-last_modified_at: 2023-09-14T07:50:00-04:00
+last_modified_at: 2023-09-15T07:28:00-04:00
 
 image:
   path: https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2334116.json?$BPSMkt_ProductFeeds$
@@ -351,8 +351,8 @@ lures:
       brand: Strike King
       rating: 4.7
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
-      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1534649&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-tour-grade-football-jigs&intsrc=PUI2_895&subId1=SHORTENED_PAGE_ID
-      image_link: <a id="1534649" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1534649&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-tour-grade-football-jigs&intsrc=PUI2_895&subId1=SHORTENED_PAGE_ID" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1534649.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1534649&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-tour-grade-football-jigs&intsrc=PUI2_895&subId1=best-jigs
+      image_link: <a id="1534649" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1534649&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-tour-grade-football-jigs&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1534649.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
       weight: 3/8 oz, 1/2 oz, 3/4 oz
       type: Football Jig
       hooks: Gamakatsu® 60 round bend hook
@@ -392,8 +392,8 @@ lures:
       brand: Jewel Bait
       rating: 4.7
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
-      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1319286&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fjewel-bait-heavy-cover-finesse-football-jigs&intsrc=PUI2_895&subId1=SHORTENED_PAGE_ID
-      image_link: <a id="1319286" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1319286&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fjewel-bait-heavy-cover-finesse-football-jigs&intsrc=PUI2_895&subId1=SHORTENED_PAGE_ID" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1319286.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1319286&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fjewel-bait-heavy-cover-finesse-football-jigs&intsrc=PUI2_895&subId1=best-jigs
+      image_link: <a id="1319286" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1319286&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fjewel-bait-heavy-cover-finesse-football-jigs&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1319286.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
       weight: 1/2 oz
       type: Football Jig
       hooks: Custom-bend Mustad Ultra Point Black Nickel Hook
@@ -428,8 +428,8 @@ lures:
       brand: Chompers
       rating: 4.5
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
-      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1205346&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fchompers-skirted-football-jigs&intsrc=PUI2_895&subId1=SHORTENED_PAGE_ID
-      image_link: <a id="1205346" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1205346&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fchompers-skirted-football-jigs&intsrc=PUI2_895&subId1=SHORTENED_PAGE_ID" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1205346.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1205346&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fchompers-skirted-football-jigs&intsrc=PUI2_895&subId1=best-jigs
+      image_link: <a id="1205346" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1205346&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fchompers-skirted-football-jigs&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1205346.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
       weight: 3/8 oz, 1/2 oz, 5/8 oz, 3/4 oz
       type: Football Jig
       hooks: Sharp VMC® Hook
