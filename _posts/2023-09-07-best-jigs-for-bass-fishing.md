@@ -2,10 +2,10 @@
 layout: post
 title: "Best Jigs for Bass Fishing in 2023"
 permalink: /best-jigs-for-bass-fishing
-excerpt: "Discover the ultimate guide to bass fishing jigs! From flipping and skipping to swimming and trailers, explore top-notch jigs hand-picked from popular brands."
+excerpt: "Discover the ultimate guide to bass fishing jigs! From flipping and skipping to swimming and trailers, explore top-notch jigs and trailers hand-picked from popular brands."
 author: dan
 date: 2023-09-07T08:03:00-04:00
-last_modified_at: 2023-09-15T07:28:00-04:00
+last_modified_at: 2023-09-18T08:16:00-04:00
 
 image:
   path: https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2334116.json?$BPSMkt_ProductFeeds$
@@ -22,7 +22,7 @@ tags:
   - lures
 seo:
   type: Article
-related: [/best-time-to-go-bass-fishing,/best-crankbaits-for-bass-fishing,/best-soft-plastic-baits-for-bass-fishing,]
+related: [/best-time-to-go-bass-fishing,/best-soft-plastic-baits-for-bass-fishing,/best-crankbaits-for-bass-fishing,]
 
 lures:
   flipping:
@@ -460,7 +460,106 @@ lures:
         - Heavier models may get hung up on obstacles
       # personal_review:
   trailers:
-  # Gerald Swindle Recommends: Zoom Z Hog
+  # Gerald Swindle Recommends: https://www.cabelas.com/shop/en/zoom-z-hog-or-z-hog-jr-soft-baits
+    - banner: Gerald Swindle Recommends
+      banner_class: primary
+      product: Zoom Z-Hog or Z-Hog Jr. Soft Baits
+      url: https://www.cabelas.com/shop/en/zoom-z-hog-or-z-hog-jr-soft-baits
+      sku: '1853943'
+      brand: Zoom
+      rating: 4.9
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1853943&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-z-hog-or-z-hog-jr-soft-baits&intsrc=PUI2_895&subId1=best-jigs
+      image_link: <a id="1853943" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1853943&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-z-hog-or-z-hog-jr-soft-baits&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1853943.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      length: 3 1/2 inch, 4 inch
+      type: Creature Trailer
+      features:
+        - Compact body with a "rabbit ear" tail
+        - Two small flappers on each side
+        - A deep groove in the body highlights the weedless characteristics
+        - Trademark softness of Zoom plastics
+      pieces: 8, 10
+      # summarized_reviews:
+      pros:
+        - Stays in place well, even after multiple casts, allowing for better hook sets.
+        - Effective in various situations, including grass, wood, and bottom dragging.
+        - Versatile for both finesse flipping and slower, more natural presentations.
+        - Suitable for bass, trout, and pike fishing.
+        - Durable compared to many other creature baits.
+        - Ideal for flipping, pitching, and punching through heavy cover.
+      cons:
+        - Can get torn up after catching a few fish.
+        - Some anglers mentioned it could be slightly firmer for better durability.
+        - The top of the bait where it's hooked may rip more easily.
+      personal_review:
+  # Best Craw Trailer: https://www.cabelas.com/shop/en/zoom-super-chunk-or-super-chunk-jr
+    - banner: Best Chunk Trailer
+      banner_class: secondary
+      product: Zoom Super Chunk or Super Chunk Jr.
+      url: https://www.cabelas.com/shop/en/zoom-super-chunk-or-super-chunk-jr
+      sku: '577334'
+      brand: Zoom
+      rating: 4.7
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=577334&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-super-chunk-or-super-chunk-jr&intsrc=PUI2_895&subId1=best-jigs
+      image_link: <a id="577334" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=577334&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-super-chunk-or-super-chunk-jr&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/577334.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      length: 2 inch, 3 1/2 inch
+      type: Craw Trailer
+      features:
+        - Loaded up with salt scent
+        - Super-soft, but thick, durable plastic
+        - High-flappin' claws
+      pieces: 5, 6
+      # summarized_reviews:
+      pros:
+        - Excellent alternative to pork trailers - Anglers praise the Zoom Super Chunk for being a convenient and versatile substitute for traditional pork trailers.
+        - Wide color variety - Many anglers appreciate the extensive color options available, allowing them to match the trailer with various jigs and conditions.
+        - Durability - These trailers are known for their resilience. They can endure multiple catches before needing replacement, making them a cost-effective choice.
+        - Realistic action - Anglers frequently mention the lifelike action of the Super Chunk, attracting fish effectively.
+      cons:
+        - Slightly fragile - Some anglers note that the Super Chunk can be a bit fragile, especially after a few fish catches. However, this seems to be a minor concern compared to its overall performance.
+        - Tail can get caught - There have been instances of the trailer's tail getting caught on the hook, which some anglers resolve with a touch of super glue.
+        - Limited sizes - The Super Chunk Jr. is considered suitable for finesse jigs in clear water but may not be ideal for all situations.
+      # personal_review:
+  # Best Fluke Trailer: https://www.cabelas.com/shop/en/zoom-swimmin-super-fluke-4-12
+    - banner: Best Fluke Trailer
+      banner_class: tertiary
+      product: Zoom Swimmin' Super Fluke 5"
+      url: https://www.cabelas.com/shop/en/zoom-swimmin-super-fluke-4-12
+      sku: '2099165'
+      brand: Zoom
+      rating: 4.5
+      rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
+      buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2099165&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-swimmin-super-fluke-4-12&intsrc=PUI2_895&subId1=best-jigs
+      image_link: <a id="2099165" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2099165&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-swimmin-super-fluke-4-12&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2099165.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      length: 5 inch
+      type: Fluke Trailer
+      features:
+        - High-action paddle tail
+        - Can be worked quickly
+        - Outstanding for schooling bass
+        - Also great as a search lure
+        - Super-soft, yet durable
+        - Salt-impregnated to hold the bite
+      pieces: 5
+      # summarized_reviews:
+      pros:
+        - Excellent for fishing in vegetation and areas with baitfish cover.
+        - Versatile bait that can be used weightless or with various rigging methods.
+        - Attracts a variety of fish species, including largemouth bass, smallmouth bass, and striped bass.
+        - Effective for both freshwater and saltwater fishing.
+        - Realistic and attractive color options available.
+        - Versatile for both shallow and deeper water fishing.
+        - Effective for imitating injured or fleeing baitfish.
+        - Proven success in triggering strikes from bass, even in tough conditions.
+        - Suitable for various retrieval techniques, including slow retrieves and jerking motions.
+        - Easily attracts aggressive feeders and works well during spawning seasons.
+      cons:
+        - Some anglers found it to be less durable and needed frequent replacements.
+        - The swimming action might not be as effective in certain conditions or with specific hooks.
+        - A few users reported issues with the bait being bent or kinked in the package.
+        - Limited quantity per pack could be a downside for some anglers.
+      # personal_review:
 ---
 
 Hey there, anglers! Today, we're diving into the exciting world of bass fishing jigs, and I'm thrilled to be your guide. If you've been chasing those elusive bass for a while, you probably already know that jigs are some of the most versatile and effective lures in your tackle box. Whether you're a seasoned pro or just starting out, jigs can make a world of difference in your bass-catching adventures.
@@ -475,6 +574,8 @@ So, if you've ever wondered which jigs are best for different situations, water 
 - [Skipping Jigs](#skipping-jigs)
 - [Swim Jigs](#swim-jigs)
 - [Football Jigs](#football-jigs)
+- [Jig Trailers](#jig-trailers)
+- [Conclusion](#conclusion)
 
 ## Flipping Jigs
 
@@ -496,7 +597,6 @@ Remember that flipping jigs are your ace in the hole when you need to get down a
 {% for lure in page.lures.flipping %}
   {% include product-table.md product=lure %}
 {% endfor %}
-<hr/>
 
 ## Skipping Jigs
 
@@ -513,7 +613,6 @@ So, if you're looking to up your bass-catching game and explore the world of ski
 {% for lure in page.lures.skipping %}
   {% include product-table.md product=lure %}
 {% endfor %}
-<hr/>
 
 ## Swim Jigs
 
@@ -531,7 +630,6 @@ In our quest to provide you with the best angling experience, we've hand-picked 
 {% for lure in page.lures.swim %}
   {% include product-table.md product=lure %}
 {% endfor %}
-<hr/>
 
 ## Football Jigs
 
@@ -548,4 +646,47 @@ We've hand-picked some of the best football jigs from renowned brands like Strik
 {% for lure in page.lures.football %}
   {% include product-table.md product=lure %}
 {% endfor %}
-<hr/>
+
+## Jig Trailers
+
+When it comes to bass fishing, having the right lures in your tackle box can make all the difference between a successful day on the water and a frustrating one. Jig trailers are a category of soft plastic baits designed to be paired with jigheads, offering anglers a versatile and effective way to entice bass into striking.
+
+These versatile trailers are a must-have for any angler, and in this guide, we'll delve into what jig trailers are used for, the different types available, and why we've hand-picked Zoom as the clear winner for producing the best jig trailers on the market.
+
+### What Are Jig Trailers and What Are They Used For?
+Jig trailers are soft plastic baits specifically designed to be used as trailers on jigheads. They serve several essential functions in bass fishing. First and foremost, they add a lifelike, enticing action to your jig, mimicking the movements of prey and triggering the predatory instincts of bass. This action can be especially effective when bass are in a less active or finicky mood, as it often entices strikes even when other lures fail.
+
+### Types of Jig Trailers: Craws, Chunks, Flukes, and More
+Jig trailers come in various shapes and styles, each with its unique attributes and applications.
+
+**Craw-style trailers**, with their claw-like appendages, imitate crayfish, a staple in the bass diet, making them ideal for flipping and pitching in areas with abundant crustaceans.
+
+**Chunks**, on the other hand, offer a bulkier profile, often resembling baitfish or injured prey. They're perfect for situations where you want to create a larger, more visible target for bass to attack.
+
+**Flukes**, with their slender, tapered bodies and forked tails, replicate shad or minnows and excel in finesse presentations or when imitating fleeing baitfish.
+
+### A Rainbow of Colors for Versatility
+One of the significant advantages of jig trailers is the wide range of colors they come in. This diversity allows you to match the hatch or experiment with different hues to see what the bass are most responsive to on any given day.
+
+Natural colors like green pumpkin or watermelon work well in clear water, while bolder options like black and blue or chartreuse can be excellent choices in stained or murky conditions. Mixing and matching colors with your jig and trailer can often yield exciting results.
+
+### Why Zoom Stands Out
+In the world of jig trailers, Zoom has consistently proven itself as a top contender, and it's no surprise that we've hand-picked their offerings as the best in the business. Zoom jig trailers boast exceptional realism, action, and durability, making them a reliable choice for both novice and seasoned anglers.
+
+With a wide selection of styles and colors, Zoom jig trailers cover all your bass fishing needs, whether you're targeting largemouth in heavy cover or chasing smallmouth in open water. Their attention to detail and commitment to quality make them the go-to option for anglers looking to up their jig fishing game.
+
+In conclusion, jig trailers are an essential tool in any bass angler's arsenal, offering versatility, lifelike action, and a range of options to match the conditions. With Zoom's selection of top-notch jig trailers, you'll be well-equipped to tackle various fishing scenarios and increase your chances of landing that prized bass. So, next time you're gearing up for a day on the water, don't forget to include these dynamic lures in your tackle box.
+
+{% for lure in page.lures.trailers %}
+  {% include product-table.md product=lure %}
+{% endfor %}
+
+## Conclusion
+
+In the world of bass fishing, adaptability is often the key to success, and having the right lures at your disposal can be a game-changer. We've explored the dynamic realm of jig fishing, and it's clear that this technique offers unparalleled versatility and effectiveness when it comes to enticing bass.
+
+From the finesse of flipping jigs to the precision of skipping jigs under cover, the enticing action of swim jigs, the tactical prowess of football jigs, and the allure of jig trailers, each type of jig serves a unique purpose. Flipping jigs excel in dense cover, swim jigs entice bass with their lifelike movement, football jigs navigate rocky terrain, and skipping jigs allow you to reach hidden lairs. When paired with the right jig trailer, these lures become even more formidable, replicating the appearance and behavior of prey with remarkable precision.
+
+In this pursuit of excellence, we've highlighted Zoom as the go-to brand for jig trailers, recognized for their exceptional quality and extensive range of options. Their commitment to realism, action, and durability ensures that anglers of all levels can enjoy success on the water.
+
+So, whether you're targeting largemouth in heavy cover, smallmouth in clear waters, or anything in between, make sure to include a selection of flipping, skipping, swim, football jigs, and Zoom jig trailers in your tackle box. By mastering the art of jig fishing and experimenting with these diverse lures, you'll be poised to elevate your bass fishing game to new heights, leading to more thrilling and successful days on the water. Happy fishing, and may your next catch be the one you've been dreaming of.

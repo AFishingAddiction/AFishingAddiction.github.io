@@ -22,7 +22,7 @@ images:
     width: 675
     height: 937
 
-related: [/knots/arbor-knot/,/knots/palomar-knot/,/6-things-to-do-in-the-fishing-off-season,]
+related: [/knots/arbor-knot/,/knots/palomar-knot/,/best-jigs-for-bass-fishing,]
 ---
 
 ## What is a baitcasting reel?
