@@ -8,8 +8,7 @@ date: 2023-09-07T08:03:00-04:00
 last_modified_at: 2023-09-18T08:16:00-04:00
 
 image:
-  path: https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2334116.json?$BPSMkt_ProductFeeds$
-  link: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2334116&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-tour-grade-skipping-jig&intsrc=PUI2_895&subId1=best-jigs
+  path: /assets/img/posts/best-jigs-for-bass-fishing/skipping-jig.webp
   width: 600
   height: 600
   alt: "Strike King Tour Grade Skipping Jig"
