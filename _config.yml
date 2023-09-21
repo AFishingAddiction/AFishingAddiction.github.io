@@ -142,9 +142,9 @@ navlinks:
     url: https://afishingaddiction.square.site/
     target: _blank
     # className: highlight
-  - text: Lure Wizard
-    url: /tools/lure-wizard/
-    className: highlight
+  # - text: Lure Wizard
+  #   url: /tools/lure-wizard/
+  #   className: highlight
 
 feed:
   disable_in_development: false

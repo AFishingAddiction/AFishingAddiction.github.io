@@ -11,6 +11,7 @@ seo:
 ---
 <div class="posts">
   <h1>{{ page.title }}</h1>
+  {% if false %}
   <div class="lure-wizard-promo">
     <h2><a href="/tools/lure-wizard/">Try the New Lure Wizard</a></h2>
     <p>
@@ -20,6 +21,7 @@ seo:
     <p><a href="/tools/lure-wizard/"><img src="/{{ '/tools/Lure-Wizard-screenshot.png' | prepend: site.static.image.path }}" alt="A Fishing Addiction's Lure Wizard" /></a></p>
     <p><a class="btn btn-accent" href="/tools/lure-wizard/" role="button">Try Lure Wizard now »</a></p>
   </div>
+  {% endif %}
   <div class="popular-pages-container">
     <h2>Popular Pages</h2>
     <div class="popular-pages">
