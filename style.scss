@@ -74,6 +74,11 @@ h4 {
   color: $gray;
 }
 
+h5 {
+  font-size: 1em;
+  margin-bottom: -1em;
+}
+
 .anchor {
   scroll-margin-top: $mainNavHeight;
 }
@@ -327,6 +332,10 @@ figure {
 
 .fa-star, .fa-star-half {
   color: $copperRed;
+}
+
+.width-50 {
+  width: 50%;
 }
 
 .post {
@@ -688,6 +697,29 @@ figure {
   }
 }
 
+.color-box {
+  width: 16px;
+  height: 16px;
+  border: 1px solid black;
+  display: inline-block;
+
+  &.cb-white {
+    background-color: white;
+  }
+
+  &.cb-chartreuse {
+    background-color: chartreuse;
+  }
+
+  &.cb-watermelon {
+    background-color: darkolivegreen;
+  }
+
+  &.cb-dark-blue {
+    background-color: darkblue;
+  }
+}
+
 //
 // .main
 //
@@ -899,6 +931,10 @@ figure {
         line-height: normal;
       }
 
+      h5 {
+        margin-bottom: 0.5em;
+      }
+
       p {
         line-height: $lineHeight;
       }
@@ -1076,7 +1112,8 @@ table {
   color: $primaryFontColor;
 
   &.feature-comparison-table,
-  &.lure-list {
+  &.lure-list,
+  &.chart {
     width: 67%;
     @include mobile {
       width: 100%;

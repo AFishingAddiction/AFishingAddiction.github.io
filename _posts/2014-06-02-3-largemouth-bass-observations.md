@@ -43,7 +43,7 @@ tags:
   - plastic worm
 catch_ids:
   - 1
-related: [/best-time-to-go-bass-fishing,/bass-fishing-in-spring/,/mosquito-lake-2012/,]
+related: [/best-time-to-go-bass-fishing,/bass-fishing-in-spring/,/lure-color-selection-tips-for-successful-bass-fishing,]
 ---
 It was gorgeous weather on the last day of May and a great day to go fishing. I wish I would have started a bit earlier in the day to take full advantage. During the little fishing time I had that day, I made a few largemouth bass observations from the ones I caught and the ones I was attempting to catch.
 
