@@ -1,11 +1,21 @@
 ---
 layout: post
 title: "Lure Color Selection Tips for Successful Bass Fishing"
-permalink: "/lure-color-selection-tips-for-successful-bass-fishing"
+permalink: /lure-color-selection-tips-for-successful-bass-fishing
 excerpt: "Unlock the secrets of bass fishing success with our guide on choosing the perfect lure colors. Learn how different hues attract bass in various conditions and take your fishing game to the next level."
 author: dan
 date: 2023-09-26T19:01:00-04:00
-last_modified_at: 2023-09-26T19:01:00-04:00
+last_modified_at: 2023-09-27T08:10:00-04:00
+
+image:
+  path: /assets/img/posts/lure-color-selection-tips-for-successful-bass-fishing/hard-plastic-lures-of-different-colors-800x800.jpg
+  width: 800
+  height: 800
+  original_path: /assets/img/posts/lure-color-selection-tips-for-successful-bass-fishing/hard-plastic-lures-of-different-colors.jpg
+  original_width: 1024
+  original_height: 1024
+  alt: "A close up of a bunch of different colored fishing lures"
+  render: true
 
 tags:
   - bass-fishing
