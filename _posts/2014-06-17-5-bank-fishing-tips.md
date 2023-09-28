@@ -68,6 +68,7 @@ amzn_assoc_default_browse_node = "3375251";
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 <p style="clear: left;"></p>
+
 ## Tip #4: Keep Your Ears Opened
 
 This may be an obvious tip for any angler, but especially when it comes to bank fishing. The idea is to listen to the activity in the water. If you are fishing for bass, you want to listen for little &#8220;smacks&#8221; on the water. This usually means there are bluegill in those areas. Bluegill and bass share the same type of habitat, since bluegill are a great food source for bass.
