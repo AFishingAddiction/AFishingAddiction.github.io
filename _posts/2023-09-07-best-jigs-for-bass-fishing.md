@@ -5,7 +5,7 @@ permalink: /best-jigs-for-bass-fishing
 excerpt: "Discover the ultimate guide to bass fishing jigs! From flipping and skipping to swimming and trailers, explore top-notch jigs and trailers hand-picked from popular brands."
 author: dan
 date: 2023-09-07T08:03:00-04:00
-last_modified_at: 2023-09-18T08:16:00-04:00
+last_modified_at: 2023-09-29T07:56:00-04:00
 
 image:
   path: /assets/img/posts/best-jigs-for-bass-fishing/skipping-jig.webp
@@ -35,7 +35,7 @@ lures:
       rating: 4.5
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1009782&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbooyah-boo-jig&intsrc=PUI2_895&subId1=best-jigs
-      image_link: <a id="1009782" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1009782&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbooyah-boo-jig&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1009782.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="1009782" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1009782&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbooyah-boo-jig&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1009782.json?$BPSMkt_ProductFeeds$" border="0" alt="BOOYAH Boo Jig"/></a>
       weight: 1/4 oz, 3/8 oz, 1/2 oz, 3/4 oz
       type: rattling
       hooks: Mustad® Ultra Point™ black nickel hook
@@ -72,7 +72,7 @@ lures:
       rating: 4.7
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=688530&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-bitsy-bug-mini-jig&intsrc=PUI2_895&subId1=best-jigs
-      image_link: <a id="688530" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=688530&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-bitsy-bug-mini-jig&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/688530.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="688530" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=688530&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-bitsy-bug-mini-jig&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/688530.json?$BPSMkt_ProductFeeds$" border="0" alt="Strike King Bitsy Bug Mini Jig"/></a>
       weight: 1/16 oz, 1/8 oz, 3/16 oz, 1/4 oz
       type: Mini jig
       features:
@@ -104,7 +104,7 @@ lures:
       rating: 4.5
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=449994&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-rattling-pro-model-jigs&intsrc=PUI2_895&subId1=best-jigs
-      image_link: <a id="449994" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=449994&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-rattling-pro-model-jigs&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/449994.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="449994" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=449994&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-rattling-pro-model-jigs&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/449994.json?$BPSMkt_ProductFeeds$" border="0" alt="Strike King Rattling Pro Model Jigs"/></a>
       weight: 1/4 oz, 3/8 oz, 1/2 oz
       type: Rattling Flipping
       hooks: Ultra-sharp black nickel hooks
@@ -146,7 +146,7 @@ lures:
       rating: 5.0
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2334116&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-tour-grade-skipping-jig&intsrc=PUI2_895&subId1=best-jigs
-      image_link: <a id="2334116" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2334116&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-tour-grade-skipping-jig&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2334116.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="2334116" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2334116&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-tour-grade-skipping-jig&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2334116.json?$BPSMkt_ProductFeeds$" border="0" alt="Strike King Tour Grade Skipping Jig"/></a>
       weight: 3/8pz, 1/2 oz
       type: Skipping Jig
       hooks: 5/0
@@ -177,7 +177,7 @@ lures:
       rating: 4.2
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2450897&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbuckeye-lures-g-man-ballin-out-jig&intsrc=PUI2_895&subId1=best-jigs
-      image_link: <a id="2450897" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2450897&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbuckeye-lures-g-man-ballin-out-jig&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2450897.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="2450897" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2450897&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbuckeye-lures-g-man-ballin-out-jig&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2450897.json?$BPSMkt_ProductFeeds$" border="0" alt="Buckeye Lures G-Man Ballin' Out Jig"/></a>
       weight: 3/8 oz, 1/2 oz
       type: Round-head jig
       hooks: Heavy-duty Gamakatsu hook
@@ -210,7 +210,7 @@ lures:
       rating: 4.6
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=3233669&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fberkley-f19-skipping-jig&intsrc=PUI2_895&subId1=best-jigs
-      image_link: <a id="3233669" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=3233669&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fberkley-f19-skipping-jig&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/3233669.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="3233669" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=3233669&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fberkley-f19-skipping-jig&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/3233669.json?$BPSMkt_ProductFeeds$" border="0" alt="Berkley F19 Skipping Jig"/></a>
       weight: 3/8 oz, 1/2oz
       type: Skipping jig
       hooks: Stout needle-point Fusion19 hook
@@ -239,7 +239,7 @@ lures:
       # personal_review:
   swim:
   # Most Popular: https://www.cabelas.com/shop/en/strike-king-kvd-swim-jig
-    - banner: Most Pppular
+    - banner: Most Popular
       banner_class: primary
       product: Strike King KVD Swim Jig
       url: https://www.cabelas.com/shop/en/strike-king-kvd-swim-jig
@@ -248,7 +248,7 @@ lures:
       rating: 4.7
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1207933&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-kvd-swim-jig&intsrc=PUI2_895&subId1=best-jigs
-      image_link: <a id="1207933" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1207933&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-kvd-swim-jig&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1207933.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="1207933" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1207933&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-kvd-swim-jig&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1207933.json?$BPSMkt_ProductFeeds$" border="0" alt="Strike King KVD Swim Jig"/></a>
       weight: 1/4 oz, 3/8 oz, 1/2 oz
       type: Swim Jig
       hooks: medium wire hook and extra-long shank
@@ -281,7 +281,7 @@ lures:
       rating: 3.8
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1220704&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbooyah-swimn-jig&intsrc=PUI2_895&subId1=best-jigs
-      image_link: <a id="1220704" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1220704&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbooyah-swimn-jig&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1220704.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="1220704" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1220704&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbooyah-swimn-jig&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1220704.json?$BPSMkt_ProductFeeds$" border="0" alt="BOOYAH Swim'n Jig"/></a>
       weight: 3/8 oz, 1/2 oz
       type: Swim Jig w/ Rattles
       hooks: 4/0 XCalibur™ Tx3 point hook
@@ -316,7 +316,7 @@ lures:
       rating: 5.0
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2982620&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2F6th-sense-fishing-divine-swim-jig&intsrc=PUI2_895&subId1=best-jigs
-      image_link: <a id="2982620" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2982620&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2F6th-sense-fishing-divine-swim-jig&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2982620.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="2982620" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2982620&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2F6th-sense-fishing-divine-swim-jig&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2982620.json?$BPSMkt_ProductFeeds$" border="0" alt="6th Sense Fishing Divine Swim Jig"/></a>
       weight: 3/8 oz, 1/2 oz
       type: Swim Jig
       hooks: 5/0 black-nickel hook
@@ -351,7 +351,7 @@ lures:
       rating: 4.7
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1534649&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-tour-grade-football-jigs&intsrc=PUI2_895&subId1=best-jigs
-      image_link: <a id="1534649" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1534649&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-tour-grade-football-jigs&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1534649.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="1534649" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1534649&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-tour-grade-football-jigs&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1534649.json?$BPSMkt_ProductFeeds$" border="0" alt="Strike King Tour Grade Football Jigs"/></a>
       weight: 3/8 oz, 1/2 oz, 3/4 oz
       type: Football Jig
       hooks: Gamakatsu® 60 round bend hook
@@ -392,7 +392,7 @@ lures:
       rating: 4.7
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1319286&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fjewel-bait-heavy-cover-finesse-football-jigs&intsrc=PUI2_895&subId1=best-jigs
-      image_link: <a id="1319286" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1319286&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fjewel-bait-heavy-cover-finesse-football-jigs&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1319286.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="1319286" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1319286&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fjewel-bait-heavy-cover-finesse-football-jigs&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1319286.json?$BPSMkt_ProductFeeds$" border="0" alt="Jewel Bait Heavy Cover Finesse Football Jigs"/></a>
       weight: 1/2 oz
       type: Football Jig
       hooks: Custom-bend Mustad Ultra Point Black Nickel Hook
@@ -428,7 +428,7 @@ lures:
       rating: 4.5
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1205346&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fchompers-skirted-football-jigs&intsrc=PUI2_895&subId1=best-jigs
-      image_link: <a id="1205346" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1205346&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fchompers-skirted-football-jigs&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1205346.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="1205346" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1205346&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fchompers-skirted-football-jigs&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1205346.json?$BPSMkt_ProductFeeds$" border="0" alt="Chompers Skirted Football Jig"/></a>
       weight: 3/8 oz, 1/2 oz, 5/8 oz, 3/4 oz
       type: Football Jig
       hooks: Sharp VMC® Hook
@@ -469,7 +469,7 @@ lures:
       rating: 4.9
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1853943&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-z-hog-or-z-hog-jr-soft-baits&intsrc=PUI2_895&subId1=best-jigs
-      image_link: <a id="1853943" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1853943&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-z-hog-or-z-hog-jr-soft-baits&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1853943.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="1853943" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1853943&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-z-hog-or-z-hog-jr-soft-baits&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1853943.json?$BPSMkt_ProductFeeds$" border="0" alt="Zoom Z-Hog or Z-Hog Jr. Soft Baits"/></a>
       length: 3 1/2 inch, 4 inch
       type: Creature Trailer
       features:
@@ -501,7 +501,7 @@ lures:
       rating: 4.7
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=577334&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-super-chunk-or-super-chunk-jr&intsrc=PUI2_895&subId1=best-jigs
-      image_link: <a id="577334" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=577334&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-super-chunk-or-super-chunk-jr&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/577334.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="577334" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=577334&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-super-chunk-or-super-chunk-jr&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/577334.json?$BPSMkt_ProductFeeds$" border="0" alt="Zoom Super Chunk or Super Chunk Jr."/></a>
       length: 2 inch, 3 1/2 inch
       type: Craw Trailer
       features:
@@ -530,7 +530,7 @@ lures:
       rating: 4.5
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2099165&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-swimmin-super-fluke-4-12&intsrc=PUI2_895&subId1=best-jigs
-      image_link: <a id="2099165" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2099165&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-swimmin-super-fluke-4-12&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2099165.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="2099165" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2099165&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-swimmin-super-fluke-4-12&intsrc=PUI2_895&subId1=best-jigs" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2099165.json?$BPSMkt_ProductFeeds$" border="0" alt="Zoom Swimmin' Super Fluke 5 inch"/></a>
       length: 5 inch
       type: Fluke Trailer
       features:

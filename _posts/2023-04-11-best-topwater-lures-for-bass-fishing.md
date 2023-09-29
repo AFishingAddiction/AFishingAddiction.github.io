@@ -5,7 +5,7 @@ permalink: /best-topwater-lures-for-bass-fishing
 excerpt: Get ready to reel in the big one with our guide to the top-rated bass fishing lures on Amazon. From topwater frogs to buzzbaits to jerkbaits, we've got you covered with pros and cons and easy affiliate links.
 author: dan
 date: 2023-05-18T20:51:00-04:00
-last_modified_at: 2023-06-26T08:10:00-04:00
+last_modified_at: 2023-09-29T16:20:00-04:00
 
 image:
   path: /assets/img/posts/best-topwater-lures-for-bass-fishing/pexels-michal-dziekonski-4343735-800x533.webp
@@ -30,7 +30,7 @@ related: [/best-soft-plastic-baits-for-bass-fishing,/best-time-to-go-bass-fishin
 lures:
   frogs:
     - lure: BOOYAH Pad Crasher
-      image_link: <a href="https://www.amazon.com/Booyah-Bait-Company-Crasher-Fishing/dp/B00631HOFY?crid=10QE4CJGRA28C&keywords=topwater%2Bhollow%2Bbody%2Bfor%2Bbass%2Bfishing&qid=1681253957&sprefix=topwater%2Bhollow%2Bbody%2Bfor%2Bbass%2Bfishing%2Caps%2C107&sr=8-9&th=1&linkCode=li2&tag=afishingaddict-20&linkId=7771b78c59eb08324b4020bc094fc1f0&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00631HOFY&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=afishingaddict-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=afishingaddict-20&language=en_US&l=li2&o=1&a=B00631HOFY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+      image_link: <a href="https://www.amazon.com/Booyah-Bait-Company-Crasher-Fishing/dp/B00631HOFY?crid=10QE4CJGRA28C&keywords=topwater%2Bhollow%2Bbody%2Bfor%2Bbass%2Bfishing&qid=1681253957&sprefix=topwater%2Bhollow%2Bbody%2Bfor%2Bbass%2Bfishing%2Caps%2C107&sr=8-9&th=1&linkCode=li2&tag=afishingaddict-20&linkId=7771b78c59eb08324b4020bc094fc1f0&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00631HOFY&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=afishingaddict-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=afishingaddict-20&language=en_US&l=li2&o=1&a=B00631HOFY" width="1" height="1" border="0" alt="BOOYAH Pad Crasher" style="border:none !important; margin:0px !important;" />
       brand: BOOYAH
       hooks: Super-strong double hook
       type: Hollow Body
@@ -65,7 +65,7 @@ lures:
         - Some anglers experienced issues with the lure snagging on weeds or water plants
 
     - lure: Spro Bronzeye Pop Bait
-      image_link: <a href="https://www.amazon.com/Spro-Bronzeye-Bait-Pack-Natural-Green/dp/B003GYAL5G?crid=10QE4CJGRA28C&keywords=topwater%2Bhollow%2Bbody%2Bfor%2Bbass%2Bfishing&qid=1681253957&sprefix=topwater%2Bhollow%2Bbody%2Bfor%2Bbass%2Bfishing%2Caps%2C107&sr=8-7&th=1&linkCode=li2&tag=afishingaddict-20&linkId=4450d3b8190021d5eac163b3ac470177&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003GYAL5G&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=afishingaddict-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=afishingaddict-20&language=en_US&l=li2&o=1&a=B003GYAL5G" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+      image_link: <a href="https://www.amazon.com/Spro-Bronzeye-Bait-Pack-Natural-Green/dp/B003GYAL5G?crid=10QE4CJGRA28C&keywords=topwater%2Bhollow%2Bbody%2Bfor%2Bbass%2Bfishing&qid=1681253957&sprefix=topwater%2Bhollow%2Bbody%2Bfor%2Bbass%2Bfishing%2Caps%2C107&sr=8-7&th=1&linkCode=li2&tag=afishingaddict-20&linkId=4450d3b8190021d5eac163b3ac470177&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003GYAL5G&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=afishingaddict-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=afishingaddict-20&language=en_US&l=li2&o=1&a=B003GYAL5G" width="1" height="1" border="0" alt="Spro Bronzeye Pop Bait" style="border:none !important; margin:0px !important;" />
       brand: SPRO Fishing
       hooks: 3/0 Gamakatsu Hooks
       type: Hollow Bodied Popper
@@ -93,7 +93,7 @@ lures:
         - Pricey
 
     - lure: Croch Hollow Body Frog Lure Kit
-      image_link: <a href="https://www.amazon.com/Croch-Hollow-Body-Weedless-Topwater/dp/B073PW4FMT?crid=10QE4CJGRA28C&keywords=topwater+hollow+body+for+bass+fishing&qid=1681253957&sprefix=topwater+hollow+body+for+bass+fishing%2Caps%2C107&sr=8-25&linkCode=li2&tag=afishingaddict-20&linkId=747a30387e441ef47669ddd07e02e38d&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B073PW4FMT&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=afishingaddict-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=afishingaddict-20&language=en_US&l=li2&o=1&a=B073PW4FMT" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+      image_link: <a href="https://www.amazon.com/Croch-Hollow-Body-Weedless-Topwater/dp/B073PW4FMT?crid=10QE4CJGRA28C&keywords=topwater+hollow+body+for+bass+fishing&qid=1681253957&sprefix=topwater+hollow+body+for+bass+fishing%2Caps%2C107&sr=8-25&linkCode=li2&tag=afishingaddict-20&linkId=747a30387e441ef47669ddd07e02e38d&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B073PW4FMT&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=afishingaddict-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=afishingaddict-20&language=en_US&l=li2&o=1&a=B073PW4FMT" width="1" height="1" border="0" alt="Croch Hollow Body Frog Lure Kit" style="border:none !important; margin:0px !important;" />
       brand: Croch
       hooks: Tough double-hook design
       type: Kit
@@ -118,7 +118,7 @@ lures:
         - Strong plastic smell
 
     - lure: SOUTHERN LURE Scum Frog Pro Series
-      image_link: <a href="https://www.amazon.com/Scum-Frog-2212-Fishing-Equipment/dp/B01M0K16P5?crid=V14WU8OOUIIK&keywords=scum%2Bfrog&qid=1681310332&sprefix=scum%2Bfrog%2Caps%2C133&sr=8-8&th=1&linkCode=li2&tag=afishingaddict-20&linkId=f7057721c9ca6da3befb6361d0d5769b&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01M0K16P5&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=afishingaddict-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=afishingaddict-20&language=en_US&l=li2&o=1&a=B01M0K16P5" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+      image_link: <a href="https://www.amazon.com/Scum-Frog-2212-Fishing-Equipment/dp/B01M0K16P5?crid=V14WU8OOUIIK&keywords=scum%2Bfrog&qid=1681310332&sprefix=scum%2Bfrog%2Caps%2C133&sr=8-8&th=1&linkCode=li2&tag=afishingaddict-20&linkId=f7057721c9ca6da3befb6361d0d5769b&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01M0K16P5&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=afishingaddict-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=afishingaddict-20&language=en_US&l=li2&o=1&a=B01M0K16P5" width="1" height="1" border="0" alt="SOUTHERN LURE Scum Frog Pro Series" style="border:none !important; margin:0px !important;" />
       brand: Southern Lure
       hooks: Premium, super sharp 4/0 Owner frog hook
       type: Hollow bodied with rattle
@@ -142,7 +142,7 @@ lures:
 
   buzzbaits:
     - lure: Strike King Tri-Wing Buzz King Bait
-      image_link: <a href="https://www.amazon.com/Strike-King-Tri-Wing-White-0-3125-Ounce/dp/B003ZZBJ3Y?crid=3ECHDVXXH8MGH&keywords=buzz%2Bbaits&qid=1681951647&sprefix=buzz%2Bbaits%2Caps%2C123&sr=8-56&th=1&psc=1&linkCode=li2&tag=afishingaddict-20&linkId=4e1944272b9dfa7841bb6943618e004d&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003ZZBJ3Y&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=afishingaddict-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=afishingaddict-20&language=en_US&l=li2&o=1&a=B003ZZBJ3Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+      image_link: <a href="https://www.amazon.com/Strike-King-Tri-Wing-White-0-3125-Ounce/dp/B003ZZBJ3Y?crid=3ECHDVXXH8MGH&keywords=buzz%2Bbaits&qid=1681951647&sprefix=buzz%2Bbaits%2Caps%2C123&sr=8-56&th=1&psc=1&linkCode=li2&tag=afishingaddict-20&linkId=4e1944272b9dfa7841bb6943618e004d&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003ZZBJ3Y&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=afishingaddict-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=afishingaddict-20&language=en_US&l=li2&o=1&a=B003ZZBJ3Y" width="1" height="1" border="0" alt="Strike King Tri-Wing Buzz King Bait" style="border:none !important; margin:0px !important;" />
       brand: Strike King
       blade_type: tri-blade
       weight: 3/16 oz
@@ -166,7 +166,7 @@ lures:
         - The reviews on Amazon did not have any negative feedback for this lure
 
     - lure: BOOYAH Counter Strike Buzz Buzzbait
-      image_link: <a href="https://www.amazon.com/BOOYAH-Counter-Strike-Buzz-Alpine/dp/B00144D2GA?crid=1NM9B18JA3KYT&keywords=buzzbaits&qid=1681951867&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sprefix=buzz%2Bbaits%2Caps%2C156&sr=8-63&th=1&psc=1&linkCode=li2&tag=afishingaddict-20&linkId=9baa3e29b809c3cd8f5c793d7a4227e2&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00144D2GA&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=afishingaddict-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=afishingaddict-20&language=en_US&l=li2&o=1&a=B00144D2GA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+      image_link: <a href="https://www.amazon.com/BOOYAH-Counter-Strike-Buzz-Alpine/dp/B00144D2GA?crid=1NM9B18JA3KYT&keywords=buzzbaits&qid=1681951867&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sprefix=buzz%2Bbaits%2Caps%2C156&sr=8-63&th=1&psc=1&linkCode=li2&tag=afishingaddict-20&linkId=9baa3e29b809c3cd8f5c793d7a4227e2&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00144D2GA&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=afishingaddict-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=afishingaddict-20&language=en_US&l=li2&o=1&a=B00144D2GA" width="1" height="1" border="0" alt="BOOYAH Counter Strike Buzz Buzzbait" style="border:none !important; margin:0px !important;" />
       brand: BOOYAH
       blade_type: Dual counter-rotating
       weight: 3/8 oz
@@ -187,7 +187,7 @@ lures:
         - Rubber skirt getting caught up in the buzz section
 
     - lure: Sougayilang Buzzbait Kit
-      image_link: <a href="https://www.amazon.com/Sougayilang-Fishing-Buzzbait-Spinnerbait-Topwater/dp/B076T55B5Y?crid=1NM9B18JA3KYT&keywords=buzzbaits&qid=1681951907&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sprefix=buzz%2Bbaits%2Caps%2C156&sr=8-128&th=1&linkCode=li2&tag=afishingaddict-20&linkId=d2ca4c9b0f1151260cf32cbee9066a80&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B076T55B5Y&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=afishingaddict-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=afishingaddict-20&language=en_US&l=li2&o=1&a=B076T55B5Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+      image_link: <a href="https://www.amazon.com/Sougayilang-Fishing-Buzzbait-Spinnerbait-Topwater/dp/B076T55B5Y?crid=1NM9B18JA3KYT&keywords=buzzbaits&qid=1681951907&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sprefix=buzz%2Bbaits%2Caps%2C156&sr=8-128&th=1&linkCode=li2&tag=afishingaddict-20&linkId=d2ca4c9b0f1151260cf32cbee9066a80&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B076T55B5Y&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=afishingaddict-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=afishingaddict-20&language=en_US&l=li2&o=1&a=B076T55B5Y" width="1" height="1" border="0" alt="Sougayilang Buzzbait Kit" style="border:none !important; margin:0px !important;" />
       brand: Sougayilang
       blade_type: Single blade with clacker
       weight: 9/16 oz
@@ -215,7 +215,7 @@ lures:
 
   jerkbaits:
     - lure: Strike King KVD Jerkbait 2 Hook
-      image_link: <a href="https://www.amazon.com/Strike-King-Lures-Jerkbaits-Package/dp/B009F7HTLW?crid=DG6J04QWEBMQ&keywords=jerkbaits&qid=1682118226&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sprefix=jerkbaits%2Caps%2C125&sr=8-1&th=1&linkCode=li2&tag=afishingaddict-20&linkId=79bb308df6b21988721747b055500617&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B009F7HTLW&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=afishingaddict-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=afishingaddict-20&language=en_US&l=li2&o=1&a=B009F7HTLW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+      image_link: <a href="https://www.amazon.com/Strike-King-Lures-Jerkbaits-Package/dp/B009F7HTLW?crid=DG6J04QWEBMQ&keywords=jerkbaits&qid=1682118226&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sprefix=jerkbaits%2Caps%2C125&sr=8-1&th=1&linkCode=li2&tag=afishingaddict-20&linkId=79bb308df6b21988721747b055500617&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B009F7HTLW&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=afishingaddict-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=afishingaddict-20&language=en_US&l=li2&o=1&a=B009F7HTLW" width="1" height="1" border="0" alt="Strike King KVD Jerkbait 2 Hook" style="border:none !important; margin:0px !important;" />
       brand: Strike King
       length: 4.5 in
       weight: 3/8 oz
@@ -237,7 +237,7 @@ lures:
         - Product information could be clearer regarding sizing and dive depth
 
     - lure: Rapala X-Rap Jerkbait XR10
-      image_link: <a href="https://www.amazon.com/Rapala-X-Rap-Jerkbait-Fishing-Glass/dp/B001NXCYM0?crid=2ATTZL7VFMUDY&keywords=freshwater%2Bjerkbaits&qid=1682118338&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sprefix=freshwater%2Bjerkbaits%2Caps%2C101&sr=8-5&th=1&linkCode=li2&tag=afishingaddict-20&linkId=b4c26e8ce1fb17e79b4f0530e0d1d7ab&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001NXCYM0&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=afishingaddict-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=afishingaddict-20&language=en_US&l=li2&o=1&a=B001NXCYM0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+      image_link: <a href="https://www.amazon.com/Rapala-X-Rap-Jerkbait-Fishing-Glass/dp/B001NXCYM0?crid=2ATTZL7VFMUDY&keywords=freshwater%2Bjerkbaits&qid=1682118338&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sprefix=freshwater%2Bjerkbaits%2Caps%2C101&sr=8-5&th=1&linkCode=li2&tag=afishingaddict-20&linkId=b4c26e8ce1fb17e79b4f0530e0d1d7ab&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001NXCYM0&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=afishingaddict-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=afishingaddict-20&language=en_US&l=li2&o=1&a=B001NXCYM0" width="1" height="1" border="0" alt="Rapala X-Rap Jerkbait XR10" style="border:none !important; margin:0px !important;" />
       brand: Rapala
       length: 4 in
       weight: 7/16 oz
@@ -258,7 +258,7 @@ lures:
         - Split ring separating from the bait
 
     - lure: Heddon Zara Spook
-      image_link: <a href="https://www.amazon.com/Heddon-Spook-Topwater-Fishing-Walk/dp/B000676P1A?crid=3SC7KYU9MFOUQ&keywords=freshwater%2Btopwater%2Bjerkbaits&qid=1682120727&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sprefix=freshwater%2Btopwater%2Bjerkbaits%2Caps%2C99&sr=8-26&th=1&linkCode=li2&tag=afishingaddict-20&linkId=f455d0cd8a16a91e12cd85a53df3aa20&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000676P1A&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=afishingaddict-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=afishingaddict-20&language=en_US&l=li2&o=1&a=B000676P1A" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+      image_link: <a href="https://www.amazon.com/Heddon-Spook-Topwater-Fishing-Walk/dp/B000676P1A?crid=3SC7KYU9MFOUQ&keywords=freshwater%2Btopwater%2Bjerkbaits&qid=1682120727&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sprefix=freshwater%2Btopwater%2Bjerkbaits%2Caps%2C99&sr=8-26&th=1&linkCode=li2&tag=afishingaddict-20&linkId=f455d0cd8a16a91e12cd85a53df3aa20&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000676P1A&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=afishingaddict-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=afishingaddict-20&language=en_US&l=li2&o=1&a=B000676P1A" width="1" height="1" border="0" alt="Heddon Zara Spook" style="border:none !important; margin:0px !important;" />
       brand: Heddon
       length: 3 in
       weight: 1/4 oz
@@ -281,7 +281,7 @@ lures:
         - Misleading pictures and descriptions can be frustrating for anglers
 
     - lure: Aorace Fishing Lures Kit
-      image_link: <a href="https://www.amazon.com/Aorace-Topwater-Crankbait-Saltwater-Freshwater/dp/B0992HKNCW?crid=2ATTZL7VFMUDY&keywords=freshwater%2Bjerkbaits&qid=1682118421&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sprefix=freshwater%2Bjerkbaits%2Caps%2C101&sr=8-82&th=1&linkCode=li2&tag=afishingaddict-20&linkId=82e7cc2142598ef6b18d90292917bf8f&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0992HKNCW&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=afishingaddict-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=afishingaddict-20&language=en_US&l=li2&o=1&a=B0992HKNCW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+      image_link: <a href="https://www.amazon.com/Aorace-Topwater-Crankbait-Saltwater-Freshwater/dp/B0992HKNCW?crid=2ATTZL7VFMUDY&keywords=freshwater%2Bjerkbaits&qid=1682118421&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sprefix=freshwater%2Bjerkbaits%2Caps%2C101&sr=8-82&th=1&linkCode=li2&tag=afishingaddict-20&linkId=82e7cc2142598ef6b18d90292917bf8f&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0992HKNCW&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=afishingaddict-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=afishingaddict-20&language=en_US&l=li2&o=1&a=B0992HKNCW" width="1" height="1" border="0" alt="Aorace Fishing Lures Kit" style="border:none !important; margin:0px !important;" />
       brand: Aorace
       length: Various
       weight: various

@@ -5,7 +5,7 @@ permalink: /best-crankbaits-for-bass-fishing
 excerpt: "In this article, we'll dive into the world of crankbaits, exploring various types, like squarebill, lipless, shallow, and deep crankbaits, highlighting their strengths for catching bass."
 author: dan
 date: 2023-08-22T08:18:00-04:00
-last_modified_at: 2023-08-31T21:54:00-04:00
+last_modified_at: 2023-09-29T09:14:00-04:00
 
 image:
   path: /assets/img/posts/best-crankbaits-for-bass-fishing/pexels-bruce-mclean-9825425-800x1200.webp
@@ -38,7 +38,7 @@ lures:
       rating: 4.7
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/1443703/2623?prodsku=1740927&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-kvd-rattling-square-bill-crankbaits&intsrc=PUI2_10636&subId1=best-crankbaits
-      image_link: <a id="1740927" href="https://cabelas.xhuc.net/c/4236519/1443703/2623?prodsku=1740927&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-kvd-rattling-square-bill-crankbaits&intsrc=PUI2_10636&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1740927.json?$BPSMkt_ProductFeeds$&extend=380,380,380,380" border="0" alt=""/></a>
+      image_link: <a id="1740927" href="https://cabelas.xhuc.net/c/4236519/1443703/2623?prodsku=1740927&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-kvd-rattling-square-bill-crankbaits&intsrc=PUI2_10636&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1740927.json?$BPSMkt_ProductFeeds$&extend=380,380,380,380" border="0" alt="Strike King KVD Rattling Square Bill Crankbait"/></a>
       length: 2 inch, 2 1/2 inch, 2 3/4 inch
       weight: 3/8 oz, 7/16 oz, 5/8 oz
       type: Squarebill
@@ -75,7 +75,7 @@ lures:
       rating: 4.6
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2585886&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-kvd-silent-deep-square-bill-crankbait&intsrc=PUI2_895&subId1=best-crankbaits
-      image_link: <a id="2585886" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2585886&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-kvd-silent-deep-square-bill-crankbait&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2585886.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="2585886" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2585886&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-kvd-silent-deep-square-bill-crankbait&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2585886.json?$BPSMkt_ProductFeeds$" border="0" alt="Strike King KVD Square Bill Silent Crankbait"/></a>
       length: 2 1/2 inch
       type: Squarebill
       features:
@@ -109,7 +109,7 @@ lures:
       rating: 4.4
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/1443703/2623?prodsku=2896716&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Frapala-otts-garage-series-slim-crankbait&intsrc=PUI2_10636&subId1=best-crank-baits
-      image_link: <a id="2896716" href="https://cabelas.xhuc.net/c/4236519/1443703/2623?prodsku=2896716&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Frapala-otts-garage-series-slim-crankbait&intsrc=PUI2_10636&subId1=best-crank-baits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2896716.json?$BPSMkt_ProductFeeds$&extend=380,380,380,380" border="0" alt=""/></a>
+      image_link: <a id="2896716" href="https://cabelas.xhuc.net/c/4236519/1443703/2623?prodsku=2896716&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Frapala-otts-garage-series-slim-crankbait&intsrc=PUI2_10636&subId1=best-crank-baits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2896716.json?$BPSMkt_ProductFeeds$&extend=380,380,380,380" border="0" alt="Rapala Ott's Garage Rocco Squarebill Crankbait"/></a>
       length: 2 1/2 inch
       weight: 3/8 oz
       type: Squarebill
@@ -141,7 +141,7 @@ lures:
       rating: 4.6
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1433001&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbass-pro-shops-xps-rattle-shad&intsrc=PUI2_895&subId1=best-crankbaits
-      image_link: <a id="1433001" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1433001&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbass-pro-shops-xps-rattle-shad&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1433001.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="1433001" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1433001&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbass-pro-shops-xps-rattle-shad&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1433001.json?$BPSMkt_ProductFeeds$" border="0" alt="Bass Pro Shops XPS Rattle Shad"/></a>
       length: 2 inch, 2 3/4 inch
       weight: 5/16 oz, 1/2 oz
       type: Lipless Rattle
@@ -176,7 +176,7 @@ lures:
       rating: 4.5
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=3301281&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Frapala-rippin-rap-rattling-lipless-crankbait&intsrc=PUI2_895&subId1=best-crankbaits
-      image_link: <a id="3301281" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=3301281&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Frapala-rippin-rap-rattling-lipless-crankbait&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/3301281.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="3301281" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=3301281&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Frapala-rippin-rap-rattling-lipless-crankbait&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/3301281.json?$BPSMkt_ProductFeeds$" border="0" alt="Rapala Rippin' Rap Rattling Lipless Crankbait"/></a>
       length: 2 inch, 2 1/2 inch, 2 3/4 inch
       weight: 5/16 oz, 1/2 oz, 7/8 oz
       type: Rattling Lipless
@@ -214,7 +214,7 @@ lures:
       rating: 4.8
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2795802&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbill-lewis-original-rat-l-trap&intsrc=PUI2_895&subId1=best-crankbaits
-      image_link: <a id="2795802" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2795802&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbill-lewis-original-rat-l-trap&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2795802.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="2795802" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2795802&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbill-lewis-original-rat-l-trap&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2795802.json?$BPSMkt_ProductFeeds$" border="0" alt="Bill Lewis Original Rat-L-Trap"/></a>
       length: 3 inch
       weight: 1/2 oz
       type: Finned Lipless
@@ -250,7 +250,7 @@ lures:
       rating: 4.8
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1005056&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbass-pro-shops-xps-lazer-eye-the-egg&intsrc=PUI2_895&subId1=best-crankbaits
-      image_link: <a id="1005056" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1005056&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbass-pro-shops-xps-lazer-eye-the-egg&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1005056.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="1005056" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1005056&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbass-pro-shops-xps-lazer-eye-the-egg&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1005056.json?$BPSMkt_ProductFeeds$" border="0" alt="Bass Pro Shops XPS Lazer Eye The Egg"/></a>
       length: 2 inch, 2 1/2 inch
       weight: 7/16 oz, 3/4 oz
       type: Shallow Crankbait
@@ -283,7 +283,7 @@ lures:
       rating: 4.8
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2329793&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Frebel-crawfish&intsrc=PUI2_895&subId1=best-crankbaits
-      image_link: <a id="2329793" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2329793&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Frebel-crawfish&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2329793.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="2329793" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2329793&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Frebel-crawfish&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2329793.json?$BPSMkt_ProductFeeds$" border="0" alt="Rebel Crawfish"/></a>
       length: 1 1/2 inch, 1 5/8 inch, 2 inch, 2 3/8 inch
       weight: 1/10 oz, 3/16 oz, 1/5 oz, 2/8 oz
       type: Shallow Crawfish Crankbait
@@ -318,7 +318,7 @@ lures:
       rating: 4.6
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=270701&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fmanns-baby-1-minus-crankbaits&intsrc=PUI2_895&subId1=best-crankbaits
-      image_link: <a id="270701" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=270701&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fmanns-baby-1-minus-crankbaits&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/270701.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="270701" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=270701&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fmanns-baby-1-minus-crankbaits&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/270701.json?$BPSMkt_ProductFeeds$" border="0" alt="Mann's Baby 1-Minus Crankbaits"/></a>
       length: 2 1/4 inch
       weight: 1/4 oz
       type: Shallow Crankbait
@@ -349,7 +349,7 @@ lures:
       rating: 4.4
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1005447&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbass-pro-shops-xts-mini-dad-crank-baits&intsrc=PUI2_895&subId1=best-crankbaits
-      image_link: <a id="1005447" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1005447&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbass-pro-shops-xts-mini-dad-crank-baits&intsrc=PUI2_10636&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1005447.json?$BPSMkt_ProductFeeds$&extend=380,380,380,380" border="0" alt=""/></a>
+      image_link: <a id="1005447" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1005447&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbass-pro-shops-xts-mini-dad-crank-baits&intsrc=PUI2_10636&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1005447.json?$BPSMkt_ProductFeeds$&extend=380,380,380,380" border="0" alt="Bass Pro Shops XTS Mini Dad Crank Bait"/></a>
       length: 1 1/2 inch
       weight: 1/9 oz
       type: Mini Crankbait
@@ -378,7 +378,7 @@ lures:
       rating: 4.7
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=4322134&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fberkley-flicker-shad-crankbait&intsrc=PUI2_895&subId1=best-crankbaits
-      image_link: <a id="4322134" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=4322134&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fberkley-flicker-shad-crankbait&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/4322134.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="4322134" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=4322134&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fberkley-flicker-shad-crankbait&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/4322134.json?$BPSMkt_ProductFeeds$" border="0" alt="Berkley Flicker Shad Crankbaits"/></a>
       length: 1 1/2 inch, 2 inch, 2 1/4 inch, 2 3/4 inch
       weight: 1/8 oz, 3/16 oz, 1/4 oz, 5/16 oz
       type: Deep Crankbait
@@ -417,7 +417,7 @@ lures:
       rating: 4.8
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=897553&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Frapala-jointed-shad-rap&intsrc=PUI2_895&subId1=best-crankbaits
-      image_link: <a id="897553" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=897553&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Frapala-jointed-shad-rap&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/897553.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="897553" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=897553&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Frapala-jointed-shad-rap&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/897553.json?$BPSMkt_ProductFeeds$" border="0" alt="Rapala Jointed Shad Rap"/></a>
       length: 1 1/2 inch, 2 inch, 2 3/4 inch
       weight: 3/16 oz, 1/4 oz, 7/16 oz
       type: Jointed Crankbait
@@ -449,7 +449,7 @@ lures:
       rating: 5
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1440426&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstorm-wigglewart-madflash&intsrc=PUI2_895&subId1=best-crankbaits
-      image_link: <a id="1440426" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1440426&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstorm-wigglewart-madflash&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1440426.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="1440426" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1440426&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstorm-wigglewart-madflash&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1440426.json?$BPSMkt_ProductFeeds$" border="0" alt="STORM WiggleWart MadFlash"/></a>
       length: 2 inch
       weight: 3/8 oz
       type: Rattling Crankbait
@@ -481,7 +481,7 @@ lures:
       rating: 3.8
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2794477&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fplano-edge-small-crankbait-box&intsrc=PUI2_895&subId1=best-crankbaits
-      image_link: <a id="2794477" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2794477&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fplano-edge-small-crankbait-box&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2794477.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="2794477" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2794477&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fplano-edge-small-crankbait-box&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2794477.json?$BPSMkt_ProductFeeds$" border="0" alt="Plano EDGE Crankbait Box"/></a>
       size: 14 inch x 9 inch x 3-1/4 inch
       type: Crankbait Storage
       features:
@@ -510,7 +510,7 @@ lures:
       rating: 4.7
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2496525&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2FBass-Pro-Shops-Ultimate-Lure-Wrap&intsrc=PUI2_895&subId1=best-crankbaits
-      image_link: <a id="2496525" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2496525&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2FBass-Pro-Shops-Ultimate-Lure-Wrap&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2496525.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="2496525" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2496525&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2FBass-Pro-Shops-Ultimate-Lure-Wrap&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2496525.json?$BPSMkt_ProductFeeds$" border="0" alt="Bass Pro Shops Ultimate Lure Wrap"/></a>
       size: Medium - 5-3/4"L x 4"W; Large - 7"L x 4-1/2"W
       color: Red or Black
       features:
@@ -537,7 +537,7 @@ lures:
       rating: 4.6
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=425112&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fals-goldfish-hook-cover-bonnet&intsrc=PUI2_895&subId1=best-crankbaits
-      image_link: <a id="425112" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=425112&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fals-goldfish-hook-cover-bonnet&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/425112.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="425112" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=425112&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fals-goldfish-hook-cover-bonnet&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/425112.json?$BPSMkt_ProductFeeds$" border="0" alt="Al's Goldfish Hook Cover/Bonnet"/></a>
       color: Assorted
       features:
         - Multiple sizes
@@ -564,7 +564,7 @@ lures:
       rating: 4.6
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2320757&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fcuda-titanium-bonded-dehooker&intsrc=PUI2_895&subId1=best-crankbaits
-      image_link: <a id="2320757" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2320757&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fcuda-titanium-bonded-dehooker&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2320757.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="2320757" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2320757&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fcuda-titanium-bonded-dehooker&intsrc=PUI2_895&subId1=best-crankbaits" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2320757.json?$BPSMkt_ProductFeeds$" border="0" alt="Cuda Titanium Bonded Dehooker"/></a>
       length: 8 1/2 inch; 18 inch
       features:
         - Lightweight, corrosion-resistant aluminum-alloy construction

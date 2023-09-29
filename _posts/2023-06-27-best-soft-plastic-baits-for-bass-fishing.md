@@ -5,7 +5,7 @@ permalink: /best-soft-plastic-baits-for-bass-fishing
 excerpt: "In this article, we'll dive into the world of soft plastics and discover the best rated plastic baits for bass fishing, highlighting some of their characteristics, strengths and weaknesses."
 author: dan
 date: 2023-07-05T08:00:00-04:00
-last_modified_at: 2023-07-10T08:43:00-04:00
+last_modified_at: 2023-09-29T16:17:00-04:00
 
 image:
   path: /assets/img/posts/best-soft-plastic-baits-for-bass-fishing/a-pile-of-plastic-fishing-bait-800x534.webp
@@ -33,7 +33,7 @@ lures:
     # Best Senko Worm
     # https://www.cabelas.com/shop/en/gary-yamamoto-5-senko
     - lure: Yamamoto Baits 5" Senko
-      image_link: <a id="3712631" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=3712631&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fgary-yamamoto-5-senko&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/3712631.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="3712631" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=3712631&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fgary-yamamoto-5-senko&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/3712631.json?$BPSMkt_ProductFeeds$" border="0" alt="Yamamoto Baits 5 inch Senko"/></a>
       brand: Yamamoto Baits
       type: Senko
       length: 5 inch
@@ -62,7 +62,7 @@ lures:
     # Best Ribbon Tail
     # https://www.cabelas.com/shop/en/zoom-magnum-ii-9
     - lure: Zoom Magnum II Worm
-      image_link: <a id="390050" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=390050&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-magnum-ii-9&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/390050.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="390050" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=390050&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-magnum-ii-9&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/390050.json?$BPSMkt_ProductFeeds$" border="0" alt="Zoom Magnum II Worm"/></a>
       brand: Zoom
       type: Ribbon Tail
       length: 9 inch
@@ -87,7 +87,7 @@ lures:
     # Best Finesse Worm
     # https://www.cabelas.com/shop/en/zoom-finesse-4-3-4-worm
     - lure: Zoom Finesse Worm
-      image_link: <a id="446604" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=446604&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-finesse-4-3-4-worm&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/446604.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="446604" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=446604&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-finesse-4-3-4-worm&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/446604.json?$BPSMkt_ProductFeeds$" border="0" alt="Zoom Finesse Worm"/></a>
       brand: Zoom
       type: Finesse
       length: 4 1/2 inch
@@ -115,7 +115,7 @@ lures:
     # https://www.cabelas.com/shop/en/berkley-powerbait-pit-boss
     - lure: Berkley PowerBait Pit Boss
       brand: Berkley
-      image_link: <a id="2360312" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2360312&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fberkley-powerbait-pit-boss&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2360312.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="2360312" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2360312&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fberkley-powerbait-pit-boss&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2360312.json?$BPSMkt_ProductFeeds$" border="0" alt="Berkley PowerBait Pit Boss"/></a>
       type: Beaver
       length: 4 inch
       features:
@@ -142,7 +142,7 @@ lures:
       banner_class: secondary
       lure: Zoom Baby Brush Hog
       brand: Zoom
-      image_link: <a id="585612" href="https://cabelas.xhuc.net/c/4236519/1443703/2623?prodsku=585612&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-baby-brush-hog&intsrc=PUI2_10636" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/585612.json?$BPSMkt_ProductFeeds$&extend=380,380,380,380" border="0" alt=""/></a>
+      image_link: <a id="585612" href="https://cabelas.xhuc.net/c/4236519/1443703/2623?prodsku=585612&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-baby-brush-hog&intsrc=PUI2_10636" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/585612.json?$BPSMkt_ProductFeeds$&extend=380,380,380,380" border="0" alt="Zoom Baby Brush Hog"/></a>
       length: 4 inch
       buy_url: https://cabelas.xhuc.net/c/4236519/1443703/2623?prodsku=585612&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-baby-brush-hog&intsrc=PUI2_10636
       rating: 4.9
@@ -172,7 +172,7 @@ lures:
       banner_class: tertiary
       lure: Strike King Rage Tail Space Monkey Soft Baits
       brand: Strike King
-      image_link: <a id="1530474" href="https://cabelas.xhuc.net/c/4236519/1443703/2623?prodsku=1530474&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-rage-tail-space-monkey-soft-baits&intsrc=PUI2_10636" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1530474.json?$BPSMkt_ProductFeeds$&extend=380,380,380,380" border="0" alt=""/></a>
+      image_link: <a id="1530474" href="https://cabelas.xhuc.net/c/4236519/1443703/2623?prodsku=1530474&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-rage-tail-space-monkey-soft-baits&intsrc=PUI2_10636" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1530474.json?$BPSMkt_ProductFeeds$&extend=380,380,380,380" border="0" alt="Strike King Rage Tail Space Monkey Soft Baits"/></a>
       length: 4 inch
       buy_url: https://cabelas.xhuc.net/c/4236519/1443703/2623?prodsku=1530474&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-rage-tail-space-monkey-soft-baits&intsrc=PUI2_10636
       rating: 4.9
@@ -203,7 +203,7 @@ lures:
       banner_class: quaternary
       lure: Yamamoto Baits Kreature
       brand: Yamamoto Baits
-      image_link: <a id="1061414" href="https://cabelas.xhuc.net/c/4236519/1443703/2623?prodsku=1061414&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fgary-yamamoto-kreature&intsrc=PUI2_10636" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1061414.json?$BPSMkt_ProductFeeds$&extend=380,380,380,380" border="0" alt=""/></a>
+      image_link: <a id="1061414" href="https://cabelas.xhuc.net/c/4236519/1443703/2623?prodsku=1061414&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fgary-yamamoto-kreature&intsrc=PUI2_10636" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1061414.json?$BPSMkt_ProductFeeds$&extend=380,380,380,380" border="0" alt="Yamamoto Baits Kreature"/></a>
       length: 4 inch
       buy_url: https://cabelas.xhuc.net/c/4236519/1443703/2623?prodsku=1061414&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fgary-yamamoto-kreature&intsrc=PUI2_10636
       rating: 4.7
@@ -232,7 +232,7 @@ lures:
       banner_class: primary
       lure: YUM CrawBug
       brand: YUM
-      image_link: <a id="2146456" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2146456&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fyum-crawbug&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2146456.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="2146456" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2146456&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fyum-crawbug&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2146456.json?$BPSMkt_ProductFeeds$" border="0" alt="YUM CrawBug"/></a>
       length: 3 1/4 inch
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2146456&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fyum-crawbug&intsrc=PUI2_895
       rating: 4.8
@@ -263,7 +263,7 @@ lures:
       banner_class: secondary
       lure: Zoom Magnum Ultra-Vibe Speed Craw
       brand: Zoom
-      image_link: <a id="2921983" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2921983&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-magnum-ultra-vibe-speed-craw&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2921983.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="2921983" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2921983&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-magnum-ultra-vibe-speed-craw&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2921983.json?$BPSMkt_ProductFeeds$" border="0" alt="Zoom Magnum Ultra-Vibe Speed Craw"/></a>
       length: 4 1/4 inch
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2921983&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-magnum-ultra-vibe-speed-craw&intsrc=PUI2_895
       rating: 4.8
@@ -296,7 +296,7 @@ lures:
       lure: Strike King Rage Tail Chunk
       brand: Strike King
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1941145&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-rage-tail-chunk&intsrc=PUI2_895
-      image_link: <a id="1941145" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1941145&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-rage-tail-chunk&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1941145.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="1941145" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1941145&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-rage-tail-chunk&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1941145.json?$BPSMkt_ProductFeeds$" border="0" alt="Strike King Rage Tail Chunk"/></a>
       length: 3 inch
       rating: 4.7
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
@@ -329,7 +329,7 @@ lures:
       lure: Culprit Incredi-Craw
       brand: Culprit
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2042845&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fculprit-incredi-craw&intsrc=PUI2_895
-      image_link: <a id="2042845" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2042845&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fculprit-incredi-craw&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2042845.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="2042845" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2042845&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fculprit-incredi-craw&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2042845.json?$BPSMkt_ProductFeeds$" border="0" alt="Culprit Incredi-Craw"/></a>
       length: 4 inch
       rating: 4.7
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
@@ -359,7 +359,7 @@ lures:
       rating: 5.0
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2146677&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-kvd-perfect-plastics-blade-minnow&intsrc=PUI2_895
-      image_link: <a id="2146677" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2146677&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-kvd-perfect-plastics-blade-minnow&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2146677.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="2146677" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2146677&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fstrike-king-kvd-perfect-plastics-blade-minnow&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2146677.json?$BPSMkt_ProductFeeds$" border="0" alt="Strike King KVD Perfect Plastics Blade Minnow"/></a>
       length: 4 1/2 inch
       type: minnow
       features:
@@ -386,7 +386,7 @@ lures:
       rating: 4.9
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=177884&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Flunker-city-slug-go&intsrc=PUI2_895
-      image_link: <a id="177884" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=177884&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Flunker-city-slug-go&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/177884.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="177884" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=177884&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Flunker-city-slug-go&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/177884.json?$BPSMkt_ProductFeeds$" border="0" alt="Lunker City Slug-Go"/></a>
       length: 6 inch
       type: SLug
       features:
@@ -418,7 +418,7 @@ lures:
       rating: 4.8
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2038449&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fberkley-powerbait-minnow&intsrc=PUI2_895
-      image_link: <a id="2038449" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2038449&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fberkley-powerbait-minnow&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2038449.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="2038449" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2038449&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fberkley-powerbait-minnow&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2038449.json?$BPSMkt_ProductFeeds$" border="0" alt="Berkley PowerBait Minnow"/></a>
       length: 3 inch
       type: Minnow
       features:
@@ -451,7 +451,7 @@ lures:
       rating: 4.9
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1510725&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-magnum-super-fluke-7&intsrc=PUI2_895
-      image_link: <a id="1510725" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1510725&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-magnum-super-fluke-7&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1510725.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="1510725" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1510725&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fzoom-magnum-super-fluke-7&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1510725.json?$BPSMkt_ProductFeeds$" border="0" alt="Zoom Magnum Super Fluke"/></a>
       length: 7 inch
       type: Baitfish
       features:
@@ -485,7 +485,7 @@ lures:
       rating: 4.4
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1499018&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fyum-money-minnow&intsrc=PUI2_895
-      image_link: <a id="1499018" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1499018&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fyum-money-minnow&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1499018.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="1499018" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=1499018&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fyum-money-minnow&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/1499018.json?$BPSMkt_ProductFeeds$" border="0" alt="YUM Money Minnow"/></a>
       length: 3 1/2 inch
       type: Paddle Tail
       features:
@@ -520,7 +520,7 @@ lures:
       rating: 5.0
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2782342&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fberkley-powerbait-power-swimmer&intsrc=PUI2_895
-      image_link: <a id="2782342" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2782342&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fberkley-powerbait-power-swimmer&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2782342.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="2782342" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2782342&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fberkley-powerbait-power-swimmer&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2782342.json?$BPSMkt_ProductFeeds$" border="0" alt="Berkley PowerBait Power Swimmer"/></a>
       length: 2.8 inch
       type: Ribbed Paddle Tail
       features:
@@ -548,7 +548,7 @@ lures:
       rating: 4.9
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2182292&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fcreme-reel-scremer-swimbait&intsrc=PUI2_895
-      image_link: <a id="2182292" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2182292&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fcreme-reel-scremer-swimbait&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2182292.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="2182292" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2182292&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fcreme-reel-scremer-swimbait&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2182292.json?$BPSMkt_ProductFeeds$" border="0" alt="Creme Reel Scremer Swimbait"/></a>
       length: 5 inch
       type: Realistic Paddle Tail
       features:
@@ -573,7 +573,7 @@ lures:
       rating: 4.5
       rating_stars: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half"></i>
       buy_url: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2576995&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fgary-yamamoto-zako-swimbait&intsrc=PUI2_895
-      image_link: <a id="2576995" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2576995&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fgary-yamamoto-zako-swimbait&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2576995.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
+      image_link: <a id="2576995" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2576995&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fgary-yamamoto-zako-swimbait&intsrc=PUI2_895" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2576995.json?$BPSMkt_ProductFeeds$" border="0" alt="Yamamoto Baits Zako Swimbait"/></a>
       length: 4 inch
       type: Hinged Split Tail Minnow
       features:

@@ -325,7 +325,7 @@ class CabelasReviewExtractor(ReviewExtractor):
             }
         )
         self.product.buy_url = f"https://cabelas.xhuc.net/c/{IMPACT_AFA_ACCOUNT_ID}/{IMPACT_AFA_SECONDARY_ID}/{IMPACT_CABELAS_CAMPAIGN_ID}?{encoded_url_params}"
-        self.product.image_link = f'<a id="{self.product.sku}" href="{self.product.buy_url}" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/{self.product.sku}.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>'
+        self.product.image_link = f'<a id="{self.product.sku}" href="{self.product.buy_url}" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/{self.product.sku}.json?$BPSMkt_ProductFeeds$" border="0" alt="{self.product.name}"/></a>'
 
     def run(self, min_reviews):
         # Visit the URL
