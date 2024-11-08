@@ -1214,6 +1214,17 @@ footer {
   .affiliate-disclaimer {
     font-size: small;
   }
+
+  ul.footer-nav {
+    li {
+      list-style: none;
+      a {
+        text-decoration: underline;
+        color: $primaryFontColor;
+      }
+    }
+
+  }
 }
 
 @import "svg-icons";
