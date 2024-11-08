@@ -73,12 +73,14 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <div id="main-content">
+      <div id="main-content" style="{% if page.is_sidebar_right_enabled == false %}max-width: none;{% endif %}">
       {{ content }}
       </div>
+      {% if page.is_sidebar_right_enabled != false %}
       <div id="sidebar-right">
       {% include ads/sidebar-right.html %}
       </div>
+      {% endif %}
       {% if page.tags.size > 0 %}
       {% include related-pages.md %}
       {% endif %}
