@@ -5,12 +5,13 @@ permalink: /privacy
 excerpt: "This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our blog, AFishingAddiction.com."
 author: false
 date: 2024-11-08T13:03:00-04:00
-last_modified_at: 2024-11-08T13:08:00-04:00
+last_modified_at: 2024-11-08T13:12:00-04:00
 
 seo:
   type: WebPage
 related: []
 
+is_inline_ads_enabled: false
 is_sidebar_right_enabled: false
 is_footer_enabled: false
 # This is to disable the form at the top of the page
