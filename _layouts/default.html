@@ -86,6 +86,7 @@
       {% endif %}
     </div>
 
+    {% if page.is_footer_enabled != false %}
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
@@ -94,6 +95,7 @@
         </footer>
       </div>
     </div>
+    {% endif %}
 
     {% include popup_signup_form.html %}
   </body>
