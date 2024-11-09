@@ -21,7 +21,6 @@ tags:
   - tips
 links:
   rod_carrier: 'https://www.amazon.com/Rod-Runner-Pro-Fishing-Rod-Rack/dp/B00JAHWQ10?th=1&linkCode=ll1&tag=afishingaddict-20&linkId=3f266c54463a7ba8b178f25a7148742d&language=en_US&ref_=as_li_ss_tl'
-  tackle_bag: 'https://www.amazon.com/Piscifun-Backpack-Capacity-Waterproof-Protective/dp/B07C7R9696?keywords=fishing%2Bbackpack&qid=1681819489&sr=8-8&th=1&linkCode=ll1&tag=afishingaddict-20&linkId=92aa5cf283c541bc116532444c65ce75&language=en_US&ref_=as_li_ss_tl'
 related: [/6-things-to-do-in-the-fishing-off-season,/best-time-to-go-bass-fishing,/6-tips-for-exploring-fishing-spots/,]
 ---
 Whether you are like me and walk along the banks, constantly trying to find good fishing spots or if you have that one special spot that you fish all day, follow these bank fishing tips for a much better experience.
@@ -38,11 +37,11 @@ It is also convenient when it comes to storage. In my garage, I have 2 bolts on 
 
 ## Tip #2: Carry a Tackle Bag
 
-<a href="{{ page.links.tackle_bag }}" target="_blank"><img class="float-left" src="/assets/img/posts/5-bank-fishing-tips/wild-river-NOMAD-lighted-tackle-backpack.jpg" alt="Wild River NOMAD Lighted Tackle Backpack" width="138" height="180" /></a>
-
-Along with carrying multiple rods, you will also want to carry <a href="{{ page.links.tackle_bag }}" target="_blank">a tackle bag</a>. Having one of these will allow you to carry a multitude of lures, hooks, weights, jigs, etc. Rather than having to trek back to your vehicle for needed tackle or even having to cut your trip short, all of the necessities will be available to you at your fishing spot.
+Along with carrying multiple rods, you will also want to carry <a href="{{ site.data.aff_links.piscifun-backpack-capacity-waterproof-protective.text-link }}" target="_blank">a tackle bag</a>. Having one of these will allow you to carry a multitude of lures, hooks, weights, jigs, etc. Rather than having to trek back to your vehicle for needed tackle or even having to cut your trip short, all of the necessities will be available to you at your fishing spot.
 
 The bag I carry can hold up to 3 containers in the large section. It also has 3 medium sized pockets on the sides and 2 smaller ones on the ends. This bag also has a single shoulder strap which helps in freeing up a hand. My bag has proven to be enough for a beginner. However, the more I fit into it, the heavier it is becoming. I would suggest buying a tackle backpack. The ones on the market today have more pockets, they have 2 straps to distribute the weight on your shoulders, and some even have an insulated compartment for keeping drinks or food cold or hot.
+
+{% include product-card.md product=site.data.aff_links.piscifun-backpack-capacity-waterproof-protective %}
 
 ## Tip #3: Use Polarized Sunglasses
 

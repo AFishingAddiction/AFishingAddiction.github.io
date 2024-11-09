@@ -1,7 +1,6 @@
 ---
 title: Test product-card Container
 permalink: /tests/product-card-container/
-date: "2024-11-09"
 image:
   path: /assets/img/knots/arbor-knot/arbor-knot.webp
   height: 4500
