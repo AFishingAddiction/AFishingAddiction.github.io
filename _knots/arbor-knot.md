@@ -104,21 +104,157 @@ Whether you are spooling new fishing line onto a spinning reel, a baitcasting re
 
 {% include howto.html steps=page.seo.json_ld.step %}
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "schaeferpro07-20";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Shop Related Products";
-amzn_assoc_default_search_phrase = "the complete book of fishing knots";
-amzn_assoc_default_category = "SportingGoods";
-amzn_assoc_linkid = "6a059d0e9441cd63e266c572bc21ba8e";
-amzn_assoc_default_browse_node = "3375251";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<style>
+        /* Container for the product card */
+        .product-card {
+            max-width: 250px;
+            border: 1px solid #e0e0e0;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            font-family: Arial, sans-serif;
+        }
+
+        /* Hover effect */
+        .product-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+        }
+
+        /* Product image styling */
+        .product-image {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+
+        /* Product content area */
+        .product-info {
+            padding: 16px;
+            text-align: center;
+        }
+
+        /* Title styling */
+        .product-title {
+            font-size: 18px;
+            font-weight: bold;
+            margin: 8px 0;
+            color: #333;
+        }
+
+        /* Price styling */
+        .product-price {
+            font-size: 16px;
+            color: #4caf50;
+            font-weight: bold;
+        }
+
+        /* Affiliate button */
+        .product-button {
+            display: inline-block;
+            margin-top: 12px;
+            padding: 8px 16px;
+            background-color: #007bff;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 4px;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+        }
+
+        /* Button hover effect */
+        .product-button:hover {
+            background-color: #0056b3;
+        }
+
+        /* Container for the horizontal product card */
+        .product-card-horizontal {
+            display: flex;
+            max-width: 66%;
+            border: 1px solid #e0e0e0;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            font-family: Arial, sans-serif;
+        }
+
+        /* Hover effect */
+        .product-card-horizontal:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+        }
+
+        /* Product image styling */
+        .product-image-horizontal {
+            width: 220px;
+            max-width: fit-content;
+            height: auto;
+        }
+
+        /* Product content area */
+        .product-info-horizontal {
+            padding: 16px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            text-align: left;
+        }
+
+        /* Title styling */
+        .product-title-horizontal {
+            font-size: 18px;
+            font-weight: bold;
+            margin: 0 0 8px;
+            color: #333;
+        }
+
+        /* Price styling */
+        .product-price-horizontal {
+            font-size: 16px;
+            color: #4caf50;
+            font-weight: bold;
+            align-self: center;
+        }
+
+        /* Affiliate button */
+        .product-button-horizontal {
+            display: inline-block;
+            margin-top: 12px;
+            padding: 8px 16px;
+            background-color: #007bff;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 4px;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+            align-self: center;
+        }
+
+        /* Button hover effect */
+        .product-button-horizontal:hover {
+            background-color: #0056b3;
+        }
+    </style>
+
+<div class="product-card">
+    <a href="https://www.amazon.com/Complete-Fishing-Knots-Leaders-Lines/dp/163220536X/ref=asc_df_163220536X/?tag=afishingaddict-20" target="_blank"><img src="https://m.media-amazon.com/images/I/715BY50MR9S._AC_UF894,1000_QL80_FMwebp_.jpg" alt="Complete Book of Fishing Knots, Leaders, and Lines" class="product-image"></a>
+    <div class="product-info">
+        <div class="product-title">Complete Book of Fishing Knots, Leaders, and Lines</div>
+        <div class="product-price">$12.99</div>
+        <a href="https://www.amazon.com/Complete-Fishing-Knots-Leaders-Lines/dp/163220536X/ref=asc_df_163220536X/?tag=afishingaddict-20" class="product-button" target="_blank">Buy Now</a>
+    </div>
+</div>
+
+<div class="product-card-horizontal">
+    <a href="https://www.amazon.com/Complete-Fishing-Knots-Leaders-Lines/dp/163220536X/ref=asc_df_163220536X/?tag=afishingaddict-20" target="_blank"><img src="https://m.media-amazon.com/images/I/715BY50MR9S._AC_UF894,1000_QL80_FMwebp_.jpg" alt="Complete Book of Fishing Knots, Leaders, and Lines" class="product-image-horizontal"></a>
+    <div class="product-info-horizontal">
+        <div class="product-title-horizontal">Complete Book of Fishing Knots, Leaders, and Lines</div>
+        <div class="product-price-horizontal">$12.99</div>
+        <a href="https://www.amazon.com/Complete-Fishing-Knots-Leaders-Lines/dp/163220536X/ref=asc_df_163220536X/?tag=afishingaddict-20" class="product-button-horizontal" target="_blank">Buy Now</a>
+    </div>
+</div>
 
 ## What is the best knot for tying fishing line to a reel?
 An Arbor Knot is the best knot to tie your fishing line to your reel-- any type of reel.
