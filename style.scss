@@ -984,6 +984,12 @@ figure {
     height: auto;
     display: block;
     margin-top: 32px;
+
+    &.pad {
+      padding-bottom: 12px;
+      padding-left: 12px;
+      padding-right: 12px;
+    }
   }
 
   /* Product content area */

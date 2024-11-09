@@ -35,9 +35,11 @@ Phasellus placerat magna natoque ultrices justo himenaeos. Finibus magna mattis 
 
 {% include product-card.md product=site.data.aff_links.complete-book-of-fishing-knots-leaders-and-lines orientation="responsive" debug=true %}
 
-{% include product-card.md product=site.data.aff_links.complete-book-of-fishing-knots-leaders-and-lines orientation="vertical" debug=true %}
+{% include product-card.md product=site.data.aff_links.storycoast-polarized-sunglasses-unbreakable-cycling orientation="responsive" debug=true %}
 
-{% include product-card.md product=site.data.aff_links.complete-book-of-fishing-knots-leaders-and-lines orientation="horizontal" debug=true %}
+{% include product-card.md product=site.data.aff_links.storycoast-polarized-sunglasses-unbreakable-cycling orientation="vertical" debug=true %}
+
+{% include product-card.md product=site.data.aff_links.complete-book-of-fishing-knots-leaders-and-lines orientation="vertical" debug=true %}
 
 {% include product-card.md product=site.data.aff_links.complete-book-of-fishing-knots-leaders-and-lines orientation="horizontal" banner-label=false debug=true %}
 
