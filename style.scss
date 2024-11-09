@@ -872,6 +872,96 @@ figure {
   }
 }
 
+/* Container for the product card */
+.product-card {
+  max-width: 250px;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  margin-top: 6px;
+
+  /* Hover effect */
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  }
+
+  /* Container for the horizontal product card */
+  &.horizontal {
+    display: flex;
+    max-width: 66%;
+
+    /* Product image styling for horizontal */
+    .product-image {
+      width: 220px;
+      max-width: fit-content;
+    }
+
+    /* Product content area for horizontal */
+    .product-info {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+
+      /* Title styling */
+      .product-title {
+        margin: 0 0 8px;
+      }
+      /* Affiliate button */
+      .product-button {
+        align-self: center;
+      }
+    }
+  }
+
+  /* Product image styling */
+  .product-image {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  /* Product content area */
+  .product-info {
+    padding: 16px;
+    text-align: center;
+
+    /* Title styling */
+    .product-title {
+      font-size: 18px;
+      font-weight: bold;
+      margin: 8px 0;
+    }
+
+    /* Price styling */
+    .product-price {
+      font-size: 16px;
+      color: #4caf50;
+      font-weight: bold;
+    }
+
+    /* Affiliate button */
+    .product-button {
+      display: inline-block;
+      margin-top: 12px;
+      padding: 8px 16px;
+      background-color: $carolinaBlue;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+      transition: background-color 0.3s ease;
+
+      /* Button hover effect */
+      &.product-button:hover {
+        background-color: $spaceCadet;
+      }
+    }
+  }
+}
+
 #LurePicker {
   @include gt-tablet {
     width: $maxContentWidth;
