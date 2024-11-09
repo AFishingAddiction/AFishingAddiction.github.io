@@ -882,6 +882,15 @@ figure {
   position: relative; /* Necessary to position the label */
   margin: 30px 0 30px 10px;
 
+  &.no-banner {
+    position: unset;
+    margin: 6px 0 0;
+
+    .product-image {
+      margin-top: 0;
+    }
+  }
+
   @include mobile {
     max-width: 320px;
     margin-left: 8px;
@@ -897,6 +906,10 @@ figure {
   @mixin product-card-horizontal {
     display: flex;
     max-width: 66%;
+
+    @include mobile {
+      max-width: 100%;
+    }
 
     /* Product image styling for horizontal */
     .product-image {

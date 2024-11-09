@@ -24,7 +24,14 @@ Phasellus placerat magna natoque ultrices justo himenaeos. Finibus magna mattis 
 
 {% include image.html img=page.image %}
 
+(Debug disabled)
+{% include product-card.md product=site.data.aff_links.complete-book-of-fishing-knots-leaders-and-lines %}
+
 {% include product-card.md product=site.data.aff_links.complete-book-of-fishing-knots-leaders-and-lines debug=true %}
+
+{% include product-card.md product=site.data.aff_links.complete-book-of-fishing-knots-leaders-and-lines orientation="responsive" banner-label="On Sale" debug=true %}
+
+{% include product-card.md product=site.data.aff_links.complete-book-of-fishing-knots-leaders-and-lines orientation="responsive" banner-label="" debug=true %}
 
 {% include product-card.md product=site.data.aff_links.complete-book-of-fishing-knots-leaders-and-lines orientation="responsive" debug=true %}
 
@@ -32,9 +39,10 @@ Phasellus placerat magna natoque ultrices justo himenaeos. Finibus magna mattis 
 
 {% include product-card.md product=site.data.aff_links.complete-book-of-fishing-knots-leaders-and-lines orientation="horizontal" debug=true %}
 
-{% include product-card.md product=site.data.aff_links.complete-book-of-fishing-knots-leaders-and-lines orientation="horizontal" card-label="" debug=true %}
+{% include product-card.md product=site.data.aff_links.complete-book-of-fishing-knots-leaders-and-lines orientation="horizontal" banner-label=false debug=true %}
 
-{% include product-card.md product=site.data.aff_links.complete-book-of-fishing-knots-leaders-and-lines orientation="vertical" card-label="" debug=true %}
+(Debug explicitly set to false)
+{% include product-card.md product=site.data.aff_links.complete-book-of-fishing-knots-leaders-and-lines debug=false %}
 
 ## H2 Heading 2
 Per proin habitasse orci class nec. Consequat sed curabitur ridiculus pulvinar taciti. Dolor diam class elementum vel fringilla iaculis vivamus. Curae diam suscipit mi imperdiet luctus litora. Duis dignissim hendrerit maecenas sed habitant, molestie ex inceptos. Magnis fringilla sollicitudin nulla placerat curabitur sit. Parturient nulla aliquam nascetur bibendum pellentesque tristique posuere. Taciti pretium natoque id aliquet non eu consequat. Congue euismod ornare himenaeos ante eleifend accumsan. Suscipit praesent posuere etiam pharetra vehicula morbi sed lacinia nec.
