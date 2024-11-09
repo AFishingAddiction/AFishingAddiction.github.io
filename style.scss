@@ -877,10 +877,16 @@ figure {
   max-width: 250px;
   border: 1px solid #e0e0e0;
   border-radius: 8px;
-  overflow: hidden;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-  margin-top: 6px;
+  position: relative; /* Necessary to position the label */
+  margin: 30px 0 30px 10px;
+
+  @include mobile {
+    max-width: 320px;
+    margin-left: 8px;
+    margin-right: 18px;
+  }
 
   /* Hover effect */
   &:hover {
@@ -932,11 +938,39 @@ figure {
     }
   }
 
+  /* Product label banner styling */
+  .product-label-banner {
+    position: absolute;
+    top: -18px;
+    left: -10px;
+    background-color: $spaceCadet;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 10px 15px;
+    text-align: center;
+    white-space: nowrap;
+    box-shadow: 2px 2px 2px 0 rgba(0,0,0,.20);
+
+    &:after {
+      content: " ";
+      display: block;
+      position: absolute;
+      left: -10px;
+      bottom: -7px;
+      border-color: transparent $carolinaBlue transparent transparent;
+      border-style: inset solid inset inset;
+      border-width: 0 10px 7px;
+      filter: brightness(50%);
+    }
+  }
+
   /* Product image styling */
   .product-image {
     width: 100%;
     height: auto;
     display: block;
+    margin-top: 32px;
   }
 
   /* Product content area */
