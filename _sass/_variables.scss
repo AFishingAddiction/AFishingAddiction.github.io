@@ -50,6 +50,11 @@ $georgia: Georgia, serif;
     @content;
   }
 }
+@mixin lt-laptop {
+  @media screen and (max-width: 1023px) {
+    @content;
+  }
+}
 
 @mixin touch-device {
   @media (hover: none) {
