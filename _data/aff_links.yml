@@ -13,6 +13,7 @@ bass-pro-stick-o-worms:
     - /5-tips-for-the-wacky-rig/
 
 complete-book-of-fishing-knots-leaders-and-lines:
+  amazon-asin: 163220536X
   text-link: https://www.amazon.com/dp/163220536X?tag=afishingaddict-20
   img-src: https://m.media-amazon.com/images/I/715BY50MR9S._AC_UF894,1000_QL80_FMwebp_.jpg
   title: Complete Book of Fishing Knots, Leaders, and Lines
@@ -30,6 +31,13 @@ flourocarbon-line-12lb:
   sub-id: 5-tips-for-the-wacky-rig
   on-pages:
     - /5-tips-for-the-wacky-rig/
+
+lake-erie-western-basin-map:
+  amazon-asin: B00NO13QPI
+  text-link: https://www.amazon.com/dp/B00NO13QPI?tag=afishingaddict-20
+  img-src: https://m.media-amazon.com/images/I/71wiMat2x3L._AC_SY355_.jpg
+  title: Lake Erie Western Basin Map, GPS Points, Waterproof Detailed Lake Map
+  price: $12.99
 
 light-medium-action-spinning-combo:
   text-link: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=3242250&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Flews-mach-pro-spinning-combo&intsrc=PUI2_895&subId1=5-tips-for-the-wacky-rig
