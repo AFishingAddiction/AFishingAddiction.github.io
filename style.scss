@@ -888,8 +888,7 @@ figure {
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
   }
 
-  /* Container for the horizontal product card */
-  &.horizontal {
+  @mixin product-card-horizontal {
     display: flex;
     max-width: 66%;
 
@@ -912,6 +911,23 @@ figure {
       /* Affiliate button */
       .product-button {
         align-self: center;
+      }
+    }
+  }
+
+  /* Container for the horizontal product card */
+  &.horizontal {
+    @include product-card-horizontal;
+  }
+
+  /* Container for the horizontal product card when responsive and larger than mobile device */
+  &.responsive {
+    @include gt-mobile {
+      @include product-card-horizontal;
+    }
+    @include gt-tablet {
+      @include lt-laptop {
+        max-width: 80%;
       }
     }
   }

@@ -1,10 +1,10 @@
-<!-- *BEGIN INCLUDE*
+{% assign orientationClassName = include.orientation | default: "responsive" %}
 
-*Orientation: {{ include.orientation }}* -->
+<!-- *BEGIN INCLUDE* -->
 
-{% unless include.orientation == "vertical" %}
-    {% assign orientationClassName = "horizontal" %}
-{% endunless %}
+<!-- *Orientation: {{ include.orientation | default: "undefined" }}* -->
+
+<!-- *Orientation Class: {{ orientationClassName }}* -->
 
 <div class="product-card {{ orientationClassName }}">
     <a href="{{ include.product.text-link }}" target="_blank"><img src="{{ include.product.img-src }}" alt="{{ include.product.title }}" class="product-image"></a>
