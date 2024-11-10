@@ -19,21 +19,19 @@ tags:
   - bank fishing
   - products
   - tips
-links:
-  rod_carrier: 'https://www.amazon.com/Rod-Runner-Pro-Fishing-Rod-Rack/dp/B00JAHWQ10?th=1&linkCode=ll1&tag=afishingaddict-20&linkId=3f266c54463a7ba8b178f25a7148742d&language=en_US&ref_=as_li_ss_tl'
 related: [/6-things-to-do-in-the-fishing-off-season,/best-time-to-go-bass-fishing,/6-tips-for-exploring-fishing-spots/,]
 ---
 Whether you are like me and walk along the banks, constantly trying to find good fishing spots or if you have that one special spot that you fish all day, follow these bank fishing tips for a much better experience.
 
 ## Tip #1: Use a Rod Carrier
 
-<a href="{{ page.links.rod_carrier }}"><img class="float-left" src="/assets/img/posts/5-bank-fishing-tips/rodmaster-fishing-rod-caddy.jpg" alt="RodMaster Rod & Reel Management System" width="180" height="180" /></a>
+I have been using <a href="{{ site.data.aff_links.rod-runner-pro-fishing-rod-rack.text-link }}" target="_blank">a rod carrier</a> for a few years now and it is not only convenient, but it also puts a lot less strain on your arm and wrist. Before I had this, I was carrying 3-4 rods at a time by bundling their handles together. Having a rod carrier helps eliminate wrist strain by moving the center of gravity more towards the front of the rods so that you are only carrying the weight, instead of also keeping the rod tips up.
 
-I have been using <a href="{{ page.links.rod_carrier }}" target="_blank">a rod carrier</a> for a few years now and it is not only convenient, but it also puts a lot less strain on your arm and wrist. Before I had this, I was carrying 3-4 rods at a time by bundling their handles together. Having a rod carrier helps eliminate wrist strain by moving the center of gravity more towards the front of the rods so that you are only carrying the weight, instead of also keeping the rod tips up.
-
-<a href="{{ page.links.rod_carrier }}" target="_blank">A fishing rod carrier</a> is very convenient in multiple ways. For one, you have up to 4 rods at your disposal. That means you can have a rod for 4 different methods, whether it be cranking, flipping, topwater, lite tackle, or something else. This can be a huge time saver when it comes to figuring out what the fish are biting that day.
+<a href="{{ site.data.aff_links.rod-runner-pro-fishing-rod-rack.text-link }}" target="_blank">A fishing rod carrier</a> is very convenient in multiple ways. For one, you have up to 4 rods at your disposal. That means you can have a rod for 4 different methods, whether it be cranking, flipping, topwater, lite tackle, or something else. This can be a huge time saver when it comes to figuring out what the fish are biting that day.
 
 It is also convenient when it comes to storage. In my garage, I have 2 bolts on the wall where I hang the rod carrier. When I am done fishing for the day, I just hang it up and it is there for me for my next trip.
+
+{% include product-card.md product=site.data.aff_links.rod-runner-pro-fishing-rod-rack %}
 
 ## Tip #2: Carry a Tackle Bag
 
