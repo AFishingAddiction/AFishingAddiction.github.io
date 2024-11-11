@@ -20,28 +20,18 @@ image:
   alt: A photo of a river bank with several people fishing
   render: true
 
-related: [/best-soft-plastic-baits-for-bass-fishing,/best-topwater-lures-for-bass-fishing,/best-crankbaits-for-bass-fishing,]
+related: [/lure-color-selection-tips-for-successful-bass-fishing,/best-time-to-go-bass-fishing,/bass-fishing-in-spring/,]
 ---
 
 Bass fishing can be challenging due to heavily pressured waters. Bass become wary of lures that they have seen before, and anglers must use creative techniques to entice these elusive fish. This article will explore effective fishing lures for heavily pressured bass.
 
 ## Finesse Techniques
-Finesse fishing involves using small, subtle lures that mimic the movement of natural baitfish. In heavily pressured waters, bass can become skittish and require a more delicate presentation. Effective finesse lures include [Ned rigs](https://www.amazon.com/dp/B08KYHL1GX?&linkCode=ll1&tag=afishingaddict-20&linkId=f8819f08afcd58a96b9c4ccba2d7f8a3&language=en_US&ref_=as_li_ss_tl), [drop shot rigs](https://www.amazon.com/dp/B0B465Y7SG?&linkCode=ll1&tag=afishingaddict-20&linkId=aeb3f161874e0d8e67c99b0b8fc276e4&language=en_US&ref_=as_li_ss_tl), and [shaky heads](https://www.amazon.com/dp/B01MV08BQ8?_encoding=UTF8&psc=1&linkCode=ll1&tag=afishingaddict-20&linkId=5fcd7fa98c63e4dc05c4c8a98f0ca084&language=en_US&ref_=as_li_ss_tl). These lures can be fished slowly and vertically, making them ideal for fishing in deeper waters. To maximize their effectiveness, use a light action rod with a spinning reel spooled with [6-10 lb test fluorocarbon line](https://www.amazon.com/dp/B08P77GJ5Q?_encoding=UTF8&psc=1&linkCode=ll1&tag=afishingaddict-20&linkId=6d95bc32c8640b12c282f26e8ac22a29&language=en_US&ref_=as_li_ss_tl).
+Finesse fishing involves using small, subtle lures that mimic the movement of natural baitfish. In heavily pressured waters, bass can become skittish and require a more delicate presentation. Effective finesse lures include [Ned rigs]({{ site.data.aff_links.z-man-kit-ned-gp-ned-rig-kit.text-link }}), [drop shot rigs]({{ site.data.aff_links.finesse-fishing-plastic-straight-watermelon.text-link }}), and [shaky heads]({{ site.data.aff_links.reaction-tackle-shaky-green-pumpkin.text-link }}). These lures can be fished slowly and vertically, making them ideal for fishing in deeper waters. To maximize their effectiveness, use a light action rod with a spinning reel spooled with [6-10 lb test fluorocarbon line]({{ site.data.aff_links.runcl-powerfluoro-fishing-fluorocarbon-coated.text-link }}).
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_tracking_id = "afishingaddict-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_linkid = "3b65c1d780ebeb47c8cfa5511ef02308";
-amzn_assoc_asins = "B0B465Y7SG,B08KYHL1GX,B06ZYTWW7D,B07MKMK6DN";
-amzn_assoc_design = "in_content";
-amzn_assoc_title = "My Amazon Picks";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
+{% include product-card.md product=site.data.aff_links.finesse-fishing-plastic-straight-watermelon %}
+{% include product-card.md product=site.data.aff_links.z-man-kit-ned-gp-ned-rig-kit %}
+{% include product-card.md product=site.data.aff_links.reaction-tackle-shaky-green-pumpkin %}
+{% include product-card.md product=site.data.aff_links.runcl-powerfluoro-fishing-fluorocarbon-coated %}
 
 ## Topwater Baits
 Topwater baits are great for fishing during low light conditions, such as dawn or dusk, or when bass are actively feeding on the surface. Effective topwater baits for heavily pressured bass include [buzzbaits](https://www.amazon.com/dp/B076T55B5Y?&linkCode=ll1&tag=afishingaddict-20&linkId=fe417ecca19f7f2b90f197f7229ae87a&language=en_US&ref_=as_li_ss_tl), [poppers](https://www.amazon.com/dp/B09QS635LS?_encoding=UTF8&psc=1&linkCode=ll1&tag=afishingaddict-20&linkId=d64389ec357242650f5448b81d79561c&language=en_US&ref_=as_li_ss_tl), [frogs](https://www.amazon.com/dp/B07C7WT6M7?&linkCode=ll1&tag=afishingaddict-20&linkId=91c60dad071a7223ef1fb7a0043193eb&language=en_US&ref_=as_li_ss_tl), and walking baits. These lures create a commotion on the surface of the water, mimicking the movement of prey, and can trigger aggressive strikes from wary bass. To use topwater baits effectively, use a [medium action rod with a baitcasting reel](https://www.amazon.com/dp/B07XPV6DB1?_encoding=UTF8&psc=1&linkCode=ll1&tag=afishingaddict-20&linkId=4d9af579231b53461cf19d0f0d3dc263&language=en_US&ref_=as_li_ss_tl) spooled with [15-20 lb test braided line](https://www.amazon.com/dp/B01A6UULO8?_encoding=UTF8&th=1&psc=1&linkCode=ll1&tag=afishingaddict-20&linkId=133523c2f050cf62c1093cc75477cc26&language=en_US&ref_=as_li_ss_tl).

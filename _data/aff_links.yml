@@ -19,6 +19,13 @@ complete-book-of-fishing-knots-leaders-and-lines:
   title: Complete Book of Fishing Knots, Leaders, and Lines
   price: $12.99
 
+finesse-fishing-plastic-straight-watermelon:
+  amazon-asin: B0B465B7Y8
+  text-link: https://www.amazon.com/dp/B0B465B7Y8?tag=afishingaddict-20
+  img-src: https://m.media-amazon.com/images/I/61ayLwHk5FL._AC_SX466_.jpg
+  title: 49-piece Drop Shot Rigs Kit for Bass Fishing
+  add-image-buffer: true
+
 finesse-wide-gap-hooks:
   text-link: https://www.amazon.com/Gamakatsu-Finesse-Wide-Hook-Pack-Black/dp/B003FRK2IU?crid=11VSJQ2792NPD&keywords=finesse%2Bwide-gap%2Bhooks&qid=1689783663&sprefix=finesse%2Bwide-gap%2Bhooks%2Caps%2C175&sr=8-2&th=1&psc=1&linkCode=ll1&tag=afishingaddict-20&linkId=5d7621272ad7dd265783066a9fa87f97&language=en_US&ref_=as_li_ss_tl
   hover-html: <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=afishingaddict-20&language=en_US&marketplace=amazon&region=US&placement=B003FRK2IU&asins=B003FRK2IU&linkId=1eec99f7e09f745b2ee2282f0c1b4940&show_border=true&link_opens_in_new_window=true"></iframe>
@@ -65,11 +72,25 @@ piscifun-backpack-capacity-waterproof-protective:
   title: Piscifun Fishing Tackle Backpack with 4 Trays, Large Outdoor Storage Tackle Bag with Protective Rain Cover
   add-image-buffer: true
 
+reaction-tackle-shaky-green-pumpkin:
+  amazon-asin: B08NZXXGQR
+  text-link: https://www.amazon.com/dp/B08NZXXGQR?tag=afishingaddict-20
+  img-src: https://m.media-amazon.com/images/I/61qLu4y6iIL._AC_SY450_.jpg
+  title: Reaction Tackle Tungsten Shaky Head Jigs for Bass Fishing (5-Pack)
+  add-image-buffer: true
+
 rod-runner-pro-fishing-rod-rack:
   amazon-asin: B00JAHWQ10
   text-link: https://www.amazon.com/dp/B00JAHWQ10?tag=afishingaddict-20
   img-src: https://m.media-amazon.com/images/I/81khKRSuJkL._AC_SY450_.jpg
   title: Rod-Runner Fishing Rod Carrier Pro 5 Portable Rod Rack
+  add-image-buffer: true
+
+runcl-powerfluoro-fishing-fluorocarbon-coated:
+  amazon-asin: B07PLW6ML8
+  text-link: https://www.amazon.com/dp/B07PLW6ML8?tag=afishingaddict-20
+  img-src: https://m.media-amazon.com/images/I/71NtsNmVmIL._AC_SY450_.jpg
+  title: RUNCL PowerFluoro Coated Fishing Line
   add-image-buffer: true
 
 strike-king-ochos:
@@ -122,3 +143,10 @@ yum-dinger:
   sub-id: 5-tips-for-the-wacky-rig
   on-pages:
     - /5-tips-for-the-wacky-rig/
+
+z-man-kit-ned-gp-ned-rig-kit:
+  amazon-asin: B08KYHL1GX
+  text-link: https://www.amazon.com/dp/B08KYHL1GX?tag=afishingaddict-20
+  img-src: https://m.media-amazon.com/images/I/61yl4glhGrS._AC_SX466_.jpg
+  title: Z-MAN KIT-NED-GP Ned Rig Kit - Green Pumpkin, Multi, one Size
+  add-image-buffer: true
