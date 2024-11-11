@@ -39,6 +39,20 @@ flourocarbon-line-12lb:
   on-pages:
     - /5-tips-for-the-wacky-rig/
 
+kastking-crixus-fishing-baitcasting-handed:
+  amazon-asin: B07XPV6DB1
+  text-link: https://www.amazon.com/dp/B07XPV6DB1?tag=afishingaddict-20
+  img-src: https://m.media-amazon.com/images/I/51ny51MIkML._AC_SY450_.jpg
+  title: KastKing Crixus Baitcasting Combo
+  add-image-buffer: true
+
+kastking-superpower-braided-fishing-0-14mm-547:
+  amazon-asin: B01A6UULO8
+  text-link: https://www.amazon.com/dp/B01A6UULO8?tag=afishingaddict-20
+  img-src: https://m.media-amazon.com/images/I/81-50IJWiiL._AC_UF350,350_QL80_FMwebp_.jpg
+  title: KastKing SuperPower Braided Fishing Line
+  add-image-buffer: true
+
 lake-erie-western-basin-map:
   amazon-asin: B00NO13QPI
   text-link: https://www.amazon.com/dp/B00NO13QPI?tag=afishingaddict-20
@@ -79,6 +93,13 @@ reaction-tackle-shaky-green-pumpkin:
   title: Reaction Tackle Tungsten Shaky Head Jigs for Bass Fishing (5-Pack)
   add-image-buffer: true
 
+rebel-pop-r-triple-threat:
+  amazon-asin: B004MP6NWI
+  text-link: https://www.amazon.com/dp/B004MP6NWI?tag=afishingaddict-20
+  img-src: https://m.media-amazon.com/images/I/81bS+mIJRCL._AC_SY450_.jpg
+  title: Rebel Pop-R Triple Threat 3-Pack
+  add-image-buffer: true
+
 rod-runner-pro-fishing-rod-rack:
   amazon-asin: B00JAHWQ10
   text-link: https://www.amazon.com/dp/B00JAHWQ10?tag=afishingaddict-20
@@ -91,6 +112,13 @@ runcl-powerfluoro-fishing-fluorocarbon-coated:
   text-link: https://www.amazon.com/dp/B07PLW6ML8?tag=afishingaddict-20
   img-src: https://m.media-amazon.com/images/I/71NtsNmVmIL._AC_SY450_.jpg
   title: RUNCL PowerFluoro Coated Fishing Line
+  add-image-buffer: true
+
+sougayilang-fishing-buzzbait-spinnerbait-topwater:
+  amazon-asin: B076T55B5Y
+  text-link: https://www.amazon.com/dp/B076T55B5Y?tag=afishingaddict-20
+  img-src: https://m.media-amazon.com/images/I/71zo5d9wruL._AC_UF350,350_QL80_FMwebp_.jpg
+  title: Sougayilang Buzzbait for Bass Fishing
   add-image-buffer: true
 
 strike-king-ochos:
@@ -136,6 +164,13 @@ yamamoto-senkos:
   sub-id: 5-tips-for-the-wacky-rig
   on-pages:
     - /5-tips-for-the-wacky-rig/
+
+yongzhi-topwater-snakehead-freshwater-saltwater:
+  amazon-asin: B07C7WT6M7
+  text-link: https://www.amazon.com/dp/B07C7WT6M7?tag=afishingaddict-20
+  img-src: https://m.media-amazon.com/images/I/71-av1mLWML._AC_UF350,350_QL80_FMwebp_.jpg
+  title: YONGZHI Topwater Fishing Lures
+  add-image-buffer: true
 
 yum-dinger:
   text-link: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2330193&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fyum-dinger&intsrc=PUI2_895&subId1=5-tips-for-the-wacky-rig

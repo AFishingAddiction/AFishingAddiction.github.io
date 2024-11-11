@@ -26,7 +26,12 @@ related: [/lure-color-selection-tips-for-successful-bass-fishing,/best-time-to-g
 Bass fishing can be challenging due to heavily pressured waters. Bass become wary of lures that they have seen before, and anglers must use creative techniques to entice these elusive fish. This article will explore effective fishing lures for heavily pressured bass.
 
 ## Finesse Techniques
-Finesse fishing involves using small, subtle lures that mimic the movement of natural baitfish. In heavily pressured waters, bass can become skittish and require a more delicate presentation. Effective finesse lures include [Ned rigs]({{ site.data.aff_links.z-man-kit-ned-gp-ned-rig-kit.text-link }}), [drop shot rigs]({{ site.data.aff_links.finesse-fishing-plastic-straight-watermelon.text-link }}), and [shaky heads]({{ site.data.aff_links.reaction-tackle-shaky-green-pumpkin.text-link }}). These lures can be fished slowly and vertically, making them ideal for fishing in deeper waters. To maximize their effectiveness, use a light action rod with a spinning reel spooled with [6-10 lb test fluorocarbon line]({{ site.data.aff_links.runcl-powerfluoro-fishing-fluorocarbon-coated.text-link }}).
+Finesse fishing involves using small, subtle lures that mimic the movement of natural baitfish. In heavily pressured waters, bass can become skittish and require a more delicate presentation. Effective finesse lures include
+<a href="{{ site.data.aff_links.z-man-kit-ned-gp-ned-rig-kit.text-link }}" target="_blank">Ned rigs</a>,
+<a href="{{ site.data.aff_links.finesse-fishing-plastic-straight-watermelon.text-link }}" target="_blank">drop shot rigs</a>,
+and <a href="{{ site.data.aff_links.reaction-tackle-shaky-green-pumpkin.text-link }}" target="_blank">shaky heads</a>. These lures can be fished slowly and vertically, making them ideal for fishing in deeper waters. To maximize their effectiveness, use a light action rod with a spinning reel spooled with
+<a href="{{ site.data.aff_links.runcl-powerfluoro-fishing-fluorocarbon-coated.text-link }}" target="_blank">6-10 lb test fluorocarbon line</a>.
+
 
 {% include product-card.md product=site.data.aff_links.finesse-fishing-plastic-straight-watermelon %}
 {% include product-card.md product=site.data.aff_links.z-man-kit-ned-gp-ned-rig-kit %}
@@ -34,21 +39,20 @@ Finesse fishing involves using small, subtle lures that mimic the movement of na
 {% include product-card.md product=site.data.aff_links.runcl-powerfluoro-fishing-fluorocarbon-coated %}
 
 ## Topwater Baits
-Topwater baits are great for fishing during low light conditions, such as dawn or dusk, or when bass are actively feeding on the surface. Effective topwater baits for heavily pressured bass include [buzzbaits](https://www.amazon.com/dp/B076T55B5Y?&linkCode=ll1&tag=afishingaddict-20&linkId=fe417ecca19f7f2b90f197f7229ae87a&language=en_US&ref_=as_li_ss_tl), [poppers](https://www.amazon.com/dp/B09QS635LS?_encoding=UTF8&psc=1&linkCode=ll1&tag=afishingaddict-20&linkId=d64389ec357242650f5448b81d79561c&language=en_US&ref_=as_li_ss_tl), [frogs](https://www.amazon.com/dp/B07C7WT6M7?&linkCode=ll1&tag=afishingaddict-20&linkId=91c60dad071a7223ef1fb7a0043193eb&language=en_US&ref_=as_li_ss_tl), and walking baits. These lures create a commotion on the surface of the water, mimicking the movement of prey, and can trigger aggressive strikes from wary bass. To use topwater baits effectively, use a [medium action rod with a baitcasting reel](https://www.amazon.com/dp/B07XPV6DB1?_encoding=UTF8&psc=1&linkCode=ll1&tag=afishingaddict-20&linkId=4d9af579231b53461cf19d0f0d3dc263&language=en_US&ref_=as_li_ss_tl) spooled with [15-20 lb test braided line](https://www.amazon.com/dp/B01A6UULO8?_encoding=UTF8&th=1&psc=1&linkCode=ll1&tag=afishingaddict-20&linkId=133523c2f050cf62c1093cc75477cc26&language=en_US&ref_=as_li_ss_tl).
+Topwater baits are great for fishing during low light conditions, such as dawn or dusk, or when bass are actively feeding on the surface. Effective topwater baits for heavily pressured bass include
+<a href="{{ site.data.aff_links.sougayilang-fishing-buzzbait-spinnerbait-topwater.text-link }}" target="_blank">buzzbaits</a>,
+<a href="{{ site.data.aff_links.rebel-pop-r-triple-threat.text-link }}" target="_blank">poppers</a>,
+<a href="{{ site.data.aff_links.yongzhi-topwater-snakehead-freshwater-saltwater.text-link }}" target="_blank">frogs</a>,
+and walking baits. These lures create a commotion on the surface of the water, mimicking the movement of prey, and can trigger aggressive strikes from wary bass. To use topwater baits effectively, use a
+<a href="{{ site.data.aff_links.kastking-crixus-fishing-baitcasting-handed.text-link }}" target="_blank">medium action rod with a baitcasting reel</a>
+spooled with <a href="{{ site.data.aff_links.kastking-superpower-braided-fishing-0-14mm-547.text-link }}" target="_blank">15-20 lb test braided line</a>.
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_tracking_id = "afishingaddict-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_linkid = "3b65c1d780ebeb47c8cfa5511ef02308";
-amzn_assoc_asins = "B07XPV6DB1,B01A6UULO8,B07C7WT6M7,B09QS635LS,B076T55B5Y";
-amzn_assoc_design = "in_content";
-amzn_assoc_title = "My Amazon Picks";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+{% include product-card.md product=site.data.aff_links.sougayilang-fishing-buzzbait-spinnerbait-topwater %}
+{% include product-card.md product=site.data.aff_links.rebel-pop-r-triple-threat %}
+{% include product-card.md product=site.data.aff_links.yongzhi-topwater-snakehead-freshwater-saltwater %}
+{% include product-card.md product=site.data.aff_links.kastking-crixus-fishing-baitcasting-handed %}
+{% include product-card.md product=site.data.aff_links.kastking-superpower-braided-fishing-0-14mm-547 %}
 
 ## Crankbaits and Spinnerbaits
 Crankbaits and spinnerbaits are effective lures for covering water quickly and locating schools of bass. In heavily pressured waters, use lures that have a unique action or color pattern to differentiate them from other lures that the bass have seen. Effective crankbaits include [squarebill](https://www.amazon.com/dp/B08X6BWH8V?_encoding=UTF8&psc=1&linkCode=ll1&tag=afishingaddict-20&linkId=805e41459807dedfb680e4fef9721f56&language=en_US&ref_=as_li_ss_tl) and [lipless crankbaits](https://www.amazon.com/dp/B095LNQ5NW?_encoding=UTF8&psc=1&linkCode=ll1&tag=afishingaddict-20&linkId=1a37aa92d697a426713d1108f8d3d541&language=en_US&ref_=as_li_ss_tl), while effective [spinnerbaits](https://www.amazon.com/dp/B08TG7BMDQ?&linkCode=ll1&tag=afishingaddict-20&linkId=f0ca0e1474409ffed689a3e01b6d9e11&language=en_US&ref_=as_li_ss_tl) include tandem and willow leaf blades. To use crankbaits and spinnerbaits effectively, use a [medium-heavy action rod with a baitcasting reel](https://www.amazon.com/dp/B07XPV6DB1?_encoding=UTF8&psc=1&linkCode=ll1&tag=afishingaddict-20&linkId=4d9af579231b53461cf19d0f0d3dc263&language=en_US&ref_=as_li_ss_tl) spooled with [12-17 lb test fluorocarbon line](https://www.amazon.com/dp/B003HAITNA?_encoding=UTF8&psc=1&linkCode=ll1&tag=afishingaddict-20&linkId=81330b9097ff80765970da2b4ff9434e&language=en_US&ref_=as_li_ss_tl).
