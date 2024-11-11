@@ -37,7 +37,7 @@
 
 <div class="product-card {{ cardClassName }}">
     {% if bannerLabel != false %}<div class="product-label-banner">{{ bannerLabel }}</div>{% endif %}
-    <a href="{{ include.product.text-link }}" target="_blank"><img src="{{ include.product.img-src }}" alt="{{ include.product.title }}" class="product-image {{ imageClassName }}"></a>
+    <a href="{{ include.product.text-link }}" target="_blank"><img src="{{ include.product.img-src }}" alt="{{ include.product.title | escape }}" class="product-image {{ imageClassName }}"></a>
     <div class="product-info">
         <div class="product-title">{{ include.product.title }}</div>
         <div class="product-price">{{ priceText }}</div>

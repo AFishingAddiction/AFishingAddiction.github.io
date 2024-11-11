@@ -1,4 +1,11 @@
 ---
+basskiller-crankbait-bass-lure-floating-lures-3d-water-freshwater-saltwater:
+  amazon-asin: B08X6BWH8V
+  text-link: https://www.amazon.com/dp/B08X6BWH8V?tag=afishingaddict-20
+  img-src: https://m.media-amazon.com/images/I/71KA9scm4GS._AC_SX466_.jpg
+  title: Basskiller 5pcs Square Bill Crankbait
+  add-image-buffer: true
+
 bass-pro-o-rings:
   text-link: https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2084989&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbass-pro-shops-xps-quick-rigger-replacement-rings&intsrc=PUI2_895&subId1=5-tips-for-the-wacky-rig
   hover-html: <a id="2084989" href="https://cabelas.xhuc.net/c/4236519/132065/2623?prodsku=2084989&u=https%3A%2F%2Fwww.cabelas.com%2Fshop%2Fen%2Fbass-pro-shops-xps-quick-rigger-replacement-rings&intsrc=PUI2_895&subId1=5-tips-for-the-wacky-rig" target="_top"><img src="https://assets.basspro.com/image/list/fn_select:jq:first(.%5B%5D%7Cselect(.public_id%20%7C%20endswith(%22main%22)))/2084989.json?$BPSMkt_ProductFeeds$" border="0" alt=""/></a>
@@ -39,11 +46,18 @@ flourocarbon-line-12lb:
   on-pages:
     - /5-tips-for-the-wacky-rig/
 
-kastking-crixus-fishing-baitcasting-handed:
+kastking-crixus-fishing-baitcasting-handed-6-0-medium:
+  amazon-asin: B07NRMWDWP
+  text-link: https://www.amazon.com/dp/B07NRMWDWP?tag=afishingaddict-20
+  img-src: https://m.media-amazon.com/images/I/51ny51MIkML._AC_SY450_.jpg
+  title: KastKing Crixus Baitcasting Combo, 6'0" Medium Action
+  add-image-buffer: true
+
+kastking-crixus-fishing-baitcasting-handed-7-0-medium-heavy:
   amazon-asin: B07XPV6DB1
   text-link: https://www.amazon.com/dp/B07XPV6DB1?tag=afishingaddict-20
   img-src: https://m.media-amazon.com/images/I/51ny51MIkML._AC_SY450_.jpg
-  title: KastKing Crixus Baitcasting Combo
+  title: KastKing Crixus Baitcasting Combo, 7'0" Medium-Heavy Action
   add-image-buffer: true
 
 kastking-superpower-braided-fishing-0-14mm-547:
@@ -114,11 +128,25 @@ runcl-powerfluoro-fishing-fluorocarbon-coated:
   title: RUNCL PowerFluoro Coated Fishing Line
   add-image-buffer: true
 
+seaguar-50-yards-fluorocarbon-leader-15-pounds:
+  amazon-asin: B003HAITNA
+  text-link: https://www.amazon.com/dp/B003HAITNA?tag=afishingaddict-20
+  img-src: https://m.media-amazon.com/images/I/71-sPAn2laL._AC_SX466_.jpg
+  title: Seaguar Blue Label 100% Fluorocarbon Fishing Line
+  add-image-buffer: true
+
 sougayilang-fishing-buzzbait-spinnerbait-topwater:
   amazon-asin: B076T55B5Y
   text-link: https://www.amazon.com/dp/B076T55B5Y?tag=afishingaddict-20
   img-src: https://m.media-amazon.com/images/I/71zo5d9wruL._AC_UF350,350_QL80_FMwebp_.jpg
   title: Sougayilang Buzzbait for Bass Fishing
+  add-image-buffer: true
+
+spinnerbait-fishing-swimbait-freshwater-saltwater:
+  amazon-asin: B08TG7BMDQ
+  text-link: https://www.amazon.com/dp/B08TG7BMDQ?tag=afishingaddict-20
+  img-src: https://m.media-amazon.com/images/I/71+FqTh29hL._AC_UF350,350_QL80_FMwebp_.jpg
+  title: BAIKALBASS Spinnerbait Fishing Lure
   add-image-buffer: true
 
 strike-king-ochos:
@@ -132,6 +160,13 @@ storycoast-polarized-sunglasses-unbreakable-cycling:
   text-link: https://www.amazon.com/dp/B098WYJ9FH?tag=afishingaddict-20
   img-src: https://m.media-amazon.com/images/I/81mnemoA-9S._AC_SX466_.jpg
   title: STORYCOAST Polarized Sports Sunglasses for Men Women Unbreakable Frame
+  add-image-buffer: true
+
+truscend-crankbait-suspending-floating-crankbaits:
+  amazon-asin: B095LNQ5NW
+  text-link: https://www.amazon.com/dp/B095LNQ5NW?tag=afishingaddict-20
+  img-src: https://m.media-amazon.com/images/I/81MWTlrF6KS._AC_UF350,350_QL80_FMwebp_.jpg
+  title: TRUSCEND Lipless Crankbait
   add-image-buffer: true
 
 tungsten-nail-weights:
