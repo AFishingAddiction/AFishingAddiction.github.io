@@ -193,7 +193,7 @@ sass:
 
 # Settings that cannot be changed for GitHub Pages
 lsi: false
-safe: true
+safe: false
 incremental: false
 highlighter: rouge
 gist:
