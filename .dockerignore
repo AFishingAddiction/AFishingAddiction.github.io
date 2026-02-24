@@ -11,4 +11,3 @@ docker-compose.yml
 requirements.txt
 _scripts
 venv
-netlify.toml
