@@ -42,10 +42,10 @@ seo:
 is_comments_enabled: true
 is_inline_ads_enabled: false
 ---
-{%- if site.github.pages_env == "production" -%}
+{%- if jekyll.environment == "production" -%}
   {% assign assets_version = site.time | date: '%s%N' %}
 {%- else -%}
-  {% assign assets_version = site.github.pages_env %}
+  {% assign assets_version = jekyll.environment %}
 {%- endif %}
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/lure-picker.min.css?{{ assets_version }}" />
 <script src="{{ site.baseurl }}/assets/js/lure-picker.min.js?{{ assets_version }}" async></script>
