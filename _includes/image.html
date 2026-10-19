@@ -3,6 +3,8 @@
 {%- assign image_link = include.img.link | default: include.img.path %}
     <a href="{{ image_link }}" title="{{ include.img.title | default: include.img.alt }}">
         <img src="{{ image_path }}" alt="{{ include.img.alt }}"
+            {%- if include.className == "hero" %} fetchpriority="high" decoding="async"
+            {%- else %} loading="lazy" decoding="async" {%- endif %}
             {%- if include.img.title %} title="{{ include.img.title }}" {%- endif %}
             {%- if include.img.width %} width="{{ include.img.width }}" {%- endif %}
             {%- if include.img.height %} height="{{ include.img.height }}" {%- endif %} />

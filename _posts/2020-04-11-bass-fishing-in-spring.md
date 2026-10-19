@@ -8,7 +8,7 @@ date: 2020-04-11T00:00:00+00:00
 last_modified_at: 2023-06-21T08:05:00-04:00
 
 image:
-  path: /assets/img/posts/bass-fishing-in-spring/bass-fishing-in-spring-jon-sailor-splash-640x960.jpg
+  path: /assets/img/posts/bass-fishing-in-spring/bass-fishing-in-spring-jon-sailor-splash-640x960.webp
   width: 640
   height: 960
   alt: "A man standing on a bank of a lake wearing warm clothes and a beany hat holding a fishing rod"

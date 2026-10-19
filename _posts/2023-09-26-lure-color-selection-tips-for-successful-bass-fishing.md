@@ -8,7 +8,7 @@ date: 2023-09-26T19:01:00-04:00
 last_modified_at: 2023-09-28T19:47:00-04:00
 
 image:
-  path: /assets/img/posts/lure-color-selection-tips-for-successful-bass-fishing/hard-plastic-lures-of-different-colors-800x800.jpg
+  path: /assets/img/posts/lure-color-selection-tips-for-successful-bass-fishing/hard-plastic-lures-of-different-colors-800x800.webp
   width: 800
   height: 800
   original_path: /assets/img/posts/lure-color-selection-tips-for-successful-bass-fishing/hard-plastic-lures-of-different-colors.jpg
