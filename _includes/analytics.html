@@ -7,14 +7,3 @@
           })(window,document,'script','dataLayer','{{ site.google_tag_manager }}');</script>
         <!-- End Google Tag Manager -->
 {% endif -%}
-{%- if site.google_analytics and jekyll.environment == "production" %}
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', '{{ site.google_analytics }}');
-        </script>
-        <!-- END Global site tag (gtag.js) - Google Analytics -->
-{% endif -%}
