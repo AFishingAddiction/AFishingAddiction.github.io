@@ -1,0 +1,17 @@
+<script>
+  /* Run third-party loaders after the first user interaction, or ~4 s after load.
+     Keeps ad and tag scripts off the critical path (blocking time, LCP). */
+  window.afaDefer = (function () {
+    var queue = [], fired = false, events = ['scroll', 'pointerdown', 'keydown', 'touchstart', 'mousemove'];
+    function fire() {
+      if (fired) return;
+      fired = true;
+      events.forEach(function (e) { removeEventListener(e, fire); });
+      queue.forEach(function (fn) { try { fn(); } catch (err) {} });
+      queue = [];
+    }
+    events.forEach(function (e) { addEventListener(e, fire, { once: true, passive: true }); });
+    addEventListener('load', function () { setTimeout(fire, 4000); });
+    return function (fn) { fired ? fn() : queue.push(fn); };
+  })();
+</script>
