@@ -25,6 +25,8 @@ images:
 related: [/knots/arbor-knot/,/knots/palomar-knot/,/best-jigs-for-bass-fishing,]
 ---
 
+Baitcasting reels give bass anglers more accuracy and distance, but they take practice. This guide covers how to set one up and avoid backlashes. If you need gear first, my pick for beginners is {% include affiliate-link.md content="the Abu Garcia Max SX baitcast combo" link=site.data.aff_links.abu-garcia-max-sx-baitcast-combo %}.
+
 ## What is a baitcasting reel?
 A baitcasting reel is a type of fishing reel that is mounted above the fishing rod handle. It is typically used for casting heavier lures or baits and for making longer casts. Baitcasting reels have a spool that is perpendicular to the rod shaft and it rotates as the fishing line is released.
 
