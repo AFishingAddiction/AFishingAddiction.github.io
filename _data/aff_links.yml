@@ -1,14 +1,4 @@
 ---
-spiderwire-stealth-braid-30lb:
-  amazon-asin: B011LV1KW8
-  text-link: https://www.amazon.com/dp/B011LV1KW8?tag=afishingaddict-20
-  title: SpiderWire Stealth Braided Fishing Line, 30lb, 200 yd
-
-penn-reel-oil-and-lube-angler-pack:
-  amazon-asin: B005F07P3K
-  text-link: https://www.amazon.com/dp/B005F07P3K?tag=afishingaddict-20
-  title: PENN Reel Oil and Lube Angler Pack
-
 abu-garcia-max-sx-baitcast-combo:
   amazon-asin: B0FL9J7ZBX
   text-link: https://www.amazon.com/dp/B0FL9J7ZBX?tag=afishingaddict-20
@@ -108,6 +98,11 @@ octopus-hooks-offset-bend:
   on-pages:
     - /5-tips-for-the-wacky-rig/
 
+penn-reel-oil-and-lube-angler-pack:
+  amazon-asin: B005F07P3K
+  text-link: https://www.amazon.com/dp/B005F07P3K?tag=afishingaddict-20
+  title: PENN Reel Oil and Lube Angler Pack
+
 piscifun-backpack-capacity-waterproof-protective:
   amazon-asin: B07C7R9696
   text-link: https://www.amazon.com/dp/B07C7R9696?tag=afishingaddict-20
@@ -156,6 +151,11 @@ sougayilang-fishing-buzzbait-spinnerbait-topwater:
   img-src: https://m.media-amazon.com/images/I/71zo5d9wruL._AC_UF350,350_QL80_FMwebp_.jpg
   title: Sougayilang Buzzbait for Bass Fishing
   add-image-buffer: true
+
+spiderwire-stealth-braid-30lb:
+  amazon-asin: B011LV1KW8
+  text-link: https://www.amazon.com/dp/B011LV1KW8?tag=afishingaddict-20
+  title: SpiderWire Stealth Braided Fishing Line, 30lb, 200 yd
 
 spinnerbait-fishing-swimbait-freshwater-saltwater:
   amazon-asin: B08TG7BMDQ
