@@ -49,7 +49,7 @@ It's also important to make sure that the balance of the rod and reel are in lin
 ### Spooling line onto the reel
 Spooling line onto a baitcasting reel is an important step in preparing the reel for fishing. Here are the general steps to follow when spooling line onto a baitcasting reel:
 
-1. First, you will need to select the appropriate line for the type of fishing you will be doing. It's important to use a line that is rated for the type of fish you will be targeting and the conditions of the water. If you want a braided line to practice with, {% include affiliate-link.md content="SpiderWire Stealth Braid" link=site.data.aff_links.spiderwire-stealth-braid-10lb %} is an easy, inexpensive option.
+1. First, you will need to select the appropriate line for the type of fishing you will be doing. It's important to use a line that is rated for the type of fish you will be targeting and the conditions of the water. If you want a braided line to practice with, {% include affiliate-link.md content="SpiderWire Stealth Braid" link=site.data.aff_links.spiderwire-stealth-braid-30lb %} is an easy, inexpensive option.
 2. Next, [mount the reel onto the fishing rod](#mounting-the-reel-on-the-fishing-rod). Those instructions can be followed above.
 3. Next, thread the end of the line from the new spool of line through the guides on the rod, starting with the last guide on the tip.
 4. Next, you will need to tie the line onto the spool of the reel. This can be done by using a double uni knot or [an arbor knot]({% link _knots/arbor-knot.md %}). Make sure the knot is secure and the tag end is trimmed.
