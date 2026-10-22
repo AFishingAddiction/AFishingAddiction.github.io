@@ -20,3 +20,11 @@ tags:
 
 {% include product-card.md product=site.data.aff_links.sportsman-connection-northern-ohio-fishing-map-guide %}
 {% include product-card.md product=site.data.aff_links.sportsman-connection-southern-ohio-fishing-map-guide %}
+
+### Gear for Fishing AEP
+
+AEP's reclaimed strip-mine lakes are known for clear water, so I go with natural colors and light, finesse presentations. These are the three soft plastics I'd start with. The [wacky rig guide](/5-tips-for-the-wacky-rig/) shows how to rig the Senko.
+
+{% include product-card.md product=site.data.aff_links.yamamoto-senkos banner-label="Natural Color Senko" %}
+{% include product-card.md product=site.data.aff_links.ned-rig-kit-finesse-baits-soft-plastic-worms-bass banner-label="Finesse Kit" %}
+{% include product-card.md product=site.data.aff_links.zoom-super-fluke banner-label="Jerkbait Plastic" %}

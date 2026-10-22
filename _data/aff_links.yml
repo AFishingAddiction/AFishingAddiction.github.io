@@ -86,6 +86,12 @@ light-medium-action-spinning-combo:
   on-pages:
     - /5-tips-for-the-wacky-rig/
 
+ned-rig-kit-finesse-baits-soft-plastic-worms-bass:
+  amazon-asin: B09M3F2PQZ
+  text-link: https://www.amazon.com/dp/B09M3F2PQZ?tag=afishingaddict-20
+  img-src: https://m.media-amazon.com/images/I/61-8w64crgS._AC_SX450_.jpg
+  title: Ned Rig Kit, Finesse Soft Plastic Worms and Jig Heads for Bass
+
 o-ring-tool:
   text-link: https://www.amazon.com/DOUBLED-UP-Special-Camouflage-Fishing/dp/B07XFFXHR7?crid=6OTVVG9607P2&keywords=o-ring%2Btool%2Bfishing&qid=1689767986&sprefix=o-ring%2Btool%2Bfishing%2Caps%2C93&sr=8-10&th=1&linkCode=ll1&tag=afishingaddict-20&linkId=931688a11f347ea833537130fe0af374&language=en_US&ref_=as_li_ss_tl
   hover-html: <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=afishingaddict-20&language=en_US&marketplace=amazon&region=US&placement=B07XFFXHR7&asins=B07XFFXHR7&linkId=b0f171b62f63a14c99930359443d56ea&show_border=true&link_opens_in_new_window=true"></iframe>
@@ -242,10 +248,10 @@ weedless-hook-cabelas:
     - /5-tips-for-the-wacky-rig/
 
 yamamoto-senkos:
-  text-link: https://cabelas.xhuc.net/9gEEJ3
-  sub-id: 5-tips-for-the-wacky-rig
-  on-pages:
-    - /5-tips-for-the-wacky-rig/
+  amazon-asin: B00144C25C
+  text-link: https://www.amazon.com/dp/B00144C25C?tag=afishingaddict-20
+  img-src: https://m.media-amazon.com/images/I/51CIirCWBBL._AC_SX450_.jpg
+  title: Yamamoto 5-inch Senko, Green Pumpkin with Large Black Flake (10 Pack)
 
 yongzhi-topwater-snakehead-freshwater-saltwater:
   amazon-asin: B07C7WT6M7
@@ -267,3 +273,9 @@ z-man-kit-ned-gp-ned-rig-kit:
   img-src: https://m.media-amazon.com/images/I/61yl4glhGrS._AC_SX466_.jpg
   title: Z-MAN KIT-NED-GP Ned Rig Kit - Green Pumpkin, Multi, one Size
   add-image-buffer: true
+
+zoom-super-fluke:
+  amazon-asin: B003CTTBG0
+  text-link: https://www.amazon.com/dp/B003CTTBG0?tag=afishingaddict-20
+  img-src: https://m.media-amazon.com/images/I/31KGfkg+B2L._AC_SL1000_.jpg
+  title: Zoom Super Fluke, Watermelon Candy (10 Pack)
