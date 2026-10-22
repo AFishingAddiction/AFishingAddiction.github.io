@@ -264,3 +264,11 @@ This Lake Erie fishing map contains markers for public and private boat launch r
 View <a href="http://www.google.com/maps/ms?msa=0&msid=204931278092854056383.0004dec21fbcc3616bb1f&hl=en&ie=UTF8&ll=41.607417,-82.63298&spn=0.451833,1.600705&t=h&output=embed" target="_blank">Lake Erie</a> in a larger map.
 
 {% include product-card.md product=site.data.aff_links.lake-erie-western-basin-map %}
+
+### Gear for Fishing Lake Erie
+
+Lake Erie is a big, cold, fast-changing lake, so a few things earn their space in the boat. These are the ones I'd start with. If you are still choosing lure colors, my [lure color selection guide](/lure-color-selection-tips-for-successful-bass-fishing/) covers how to match them to the water.
+
+{% include product-card.md product=site.data.aff_links.rapala-walleye-boom-box banner-label="Walleye Lures" %}
+{% include product-card.md product=site.data.aff_links.planer-boards-catfishing-walleye-reversible banner-label="Trolling" %}
+{% include product-card.md product=site.data.aff_links.onyx-am-24-inflatable-life-jacket banner-label="Boat Safety" %}

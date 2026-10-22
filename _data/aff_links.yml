@@ -98,6 +98,12 @@ octopus-hooks-offset-bend:
   on-pages:
     - /5-tips-for-the-wacky-rig/
 
+onyx-am-24-inflatable-life-jacket:
+  amazon-asin: B00NXVUM60
+  text-link: https://www.amazon.com/dp/B00NXVUM60?tag=afishingaddict-20
+  img-src: https://m.media-amazon.com/images/I/71I25Pt8HFL._AC_SY450_.jpg
+  title: Onyx A/M-24 Automatic/Manual Inflatable Life Jacket, USCG Approved
+
 penn-reel-oil-and-lube-angler-pack:
   amazon-asin: B005F07P3K
   text-link: https://www.amazon.com/dp/B005F07P3K?tag=afishingaddict-20
@@ -109,6 +115,18 @@ piscifun-backpack-capacity-waterproof-protective:
   img-src: https://m.media-amazon.com/images/I/810QriNjM9L._AC_SX679_.jpg
   title: Piscifun Fishing Tackle Backpack with 4 Trays, Large Outdoor Storage Tackle Bag with Protective Rain Cover
   add-image-buffer: true
+
+planer-boards-catfishing-walleye-reversible:
+  amazon-asin: B0DYH83B2L
+  text-link: https://www.amazon.com/dp/B0DYH83B2L?tag=afishingaddict-20
+  img-src: https://m.media-amazon.com/images/I/7143+Ike8PL._AC_SL1500_.jpg
+  title: Catfishing & Walleye Planer Boards, Reversible, Set of 2
+
+rapala-walleye-boom-box:
+  amazon-asin: B0DSJPMCBT
+  text-link: https://www.amazon.com/dp/B0DSJPMCBT?tag=afishingaddict-20
+  img-src: https://m.media-amazon.com/images/I/81Ctp-rYFbL._AC_SX466_.jpg
+  title: Rapala Walleye Boom Box Lure Kit, 7 Curated Baits + 1 Bonus
 
 reaction-tackle-shaky-green-pumpkin:
   amazon-asin: B08NZXXGQR
