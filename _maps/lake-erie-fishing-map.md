@@ -1,10 +1,10 @@
 ---
-title: Fishing Map of Lake Erie
+title: Lake Erie Fishing Map - Reefs, Dumping Grounds and Boat Ramps
 permalink: /lake-erie-fishing-map/
 author: dan
 date: 2014-06-22
-last_modified_at: 2023-03-06T13:47:00-04:00
-excerpt: This Lake Erie map highlights many public boat launch ramps, river mouths, notable docks, and underwater structure in the Cleveland, OH area. I've found these marks over the years and have added them to this map of Lake Erie.
+last_modified_at: 2026-10-27T09:00:00-04:00
+excerpt: This Lake Erie fishing map shows reef and dumping ground coordinates from Cleveland to Toledo, plus public boat ramps, river mouths and docks. I've collected these marks over the years and added them to the map.
 layout: map
 map_source: https://www.google.com/maps/d/embed?mid=1iL0xIY2iHHgUHleDfh0Sf0qxR8o&hl=en
 image:
@@ -264,6 +264,28 @@ This Lake Erie fishing map contains markers for public and private boat launch r
 View <a href="http://www.google.com/maps/ms?msa=0&msid=204931278092854056383.0004dec21fbcc3616bb1f&hl=en&ie=UTF8&ll=41.607417,-82.63298&spn=0.451833,1.600705&t=h&output=embed" target="_blank">Lake Erie</a> in a larger map.
 
 {% include product-card.md product=site.data.aff_links.lake-erie-western-basin-map %}
+
+## Lake Erie Reef Map and Coordinates
+
+The lists below the map give GPS coordinates (decimal degrees, with degrees-minutes-seconds where I have them) for Lake Erie reefs, the Lorain dumping ground, and a gravel pit. Each one links to Google Maps, so you can check it on satellite view and then punch the coordinates into your chartplotter or fishing app. The reefs are sorted west to east in the list, and they fall into four rough areas.
+
+### Cleveland Reefs
+
+Little Test Reef, Big Test Reef, Stadium East Reef, Stadium West 1 Reef, Stadium West 2 Reef and Cuyahoga County Commissioner's Reef sit off the Cleveland shoreline. The closest public launches are the E. 72 and Edgewater ramps in the boat ramp list.
+
+### Lorain Reefs and Dumping Ground
+
+Lorain Mountain Reef, the Artificial Reef and the Lorain Polish Fisherman's Club Reef are clustered within a few hundred yards of each other off Lorain. The Lorain dumping ground is about 7 miles west of them. Launch at the Black River Wharf, Hot Waters or Lorain boat ramps.
+
+### Sandusky and Marblehead Reefs
+
+Marblehead Reef, Lakeside Reef, West Harbor Reef, Clinton Reef, Starve Island Reef, Mouse Island Reef, Sugar Reef, West Reef, Buckeye Reef, Schoolhouse Reef, Northwest Reef, Niagara Reef and Round Reef make up the western basin reef complex around the islands. Mazurik, Dempsey and East Harbor are the nearest ramps from the list.
+
+### Toledo and Pickerel Reefs
+
+Little Pickerel Reef, Big Pickerel Reef, Crib Reef, Cone Reef, Turtle Reef, Crane Reef, Toussaint Reef, Flat Rock Reef, Locust Reef and the Gravel Pit are the westernmost marks. Cullen Park, Bayshore and Maple Street are the Toledo-side launches.
+
+These marks are informational only. Lake Erie weather changes fast, so check the marine forecast and wear a life jacket before you head out to any of them.
 
 ### Gear for Fishing Lake Erie
 
