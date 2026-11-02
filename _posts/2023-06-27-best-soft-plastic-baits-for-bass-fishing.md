@@ -5,7 +5,7 @@ permalink: /best-soft-plastic-baits-for-bass-fishing
 excerpt: "The best soft plastic baits for bass fishing, from worms and creature baits to craws, soft jerkbaits and swimbaits, with strengths and weaknesses of each."
 author: dan
 date: 2023-07-05T08:00:00-04:00
-last_modified_at: 2026-10-31T09:00:00-04:00
+last_modified_at: 2026-11-02T09:00:00-05:00
 
 image:
   path: /assets/img/posts/best-soft-plastic-baits-for-bass-fishing/a-pile-of-plastic-fishing-bait-800x534.webp

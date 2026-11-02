@@ -5,7 +5,7 @@ permalink: /best-jigs-for-bass-fishing
 excerpt: "The best bass jigs and trailers by type: flipping, skipping, swim and football jigs, with picks from popular brands."
 author: dan
 date: 2023-09-07T08:03:00-04:00
-last_modified_at: 2026-10-31T09:00:00-04:00
+last_modified_at: 2026-11-02T09:00:00-05:00
 
 image:
   path: /assets/img/posts/best-jigs-for-bass-fishing/skipping-jig.webp

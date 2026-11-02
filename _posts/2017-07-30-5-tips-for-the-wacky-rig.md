@@ -5,7 +5,7 @@ permalink: /5-tips-for-the-wacky-rig/
 excerpt: "How to set up and fish a wacky rig for bass: hook placement, best conditions, retrieves, gear and answers to common questions."
 author: dan
 date: 2017-07-30T12:30:00+05:00
-last_modified_at: 2026-10-31T09:00:00-04:00
+last_modified_at: 2026-11-02T09:00:00-05:00
 
 image:
   path: /assets/img/posts/5-tips-for-the-wacky-rig/wacky-rigs.jpg

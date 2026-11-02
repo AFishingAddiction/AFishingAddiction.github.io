@@ -5,7 +5,7 @@ permalink: /best-topwater-lures-for-bass-fishing
 excerpt: "Our picks for the best topwater lures for bass: frogs, buzzbaits and jerkbaits, with pros, cons and where to buy them."
 author: dan
 date: 2023-05-18T20:51:00-04:00
-last_modified_at: 2026-10-31T09:00:00-04:00
+last_modified_at: 2026-11-02T09:00:00-05:00
 
 image:
   path: /assets/img/posts/best-topwater-lures-for-bass-fishing/pexels-michal-dziekonski-4343735-800x533.webp
